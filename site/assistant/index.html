@@ -1,0 +1,627 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.2.3, mkdocs-material-7.3.6">
+    
+    
+      
+        <title>Watson Assistant - PFE IBM</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.a57b2b03.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.3f5d1f46.min.css">
+        
+      
+    
+    
+    
+      
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>:root{--md-text-font-family:"Roboto";--md-code-font-family:"Roboto Mono"}</style>
+      
+    
+    
+    
+    
+      
+
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="none" data-md-color-accent="none">
+  
+    
+    <script>function __prefix(e){return new URL("..",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#watson-assistant" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="PFE IBM" class="md-header__button md-logo" aria-label="PFE IBM" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            PFE IBM
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Watson Assistant
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="PFE IBM" class="md-nav__button md-logo" aria-label="PFE IBM" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    PFE IBM
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        Início
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../estrutura/" class="md-nav__link">
+        Estrutura
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../nlu/" class="md-nav__link">
+        Natural Language Understanding
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../modelo/" class="md-nav__link">
+        Treinamento do Modelo
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../enriquecimento/" class="md-nav__link">
+        Enriquecimento Dados
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cloudant/" class="md-nav__link">
+        Cloudant
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Watson Assistant
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Watson Assistant
+      </a>
+      
+        
+
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#o-que-e-o-watson-assistant" class="md-nav__link">
+    O que é o  Watson Assistant?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#criando-uma-instancia-do-watson-assistant" class="md-nav__link">
+    Criando uma instância do Watson Assistant
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#intents-entities-e-dialogs" class="md-nav__link">
+    Intents, entities e dialogs
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#criando-uma-integracao" class="md-nav__link">
+    Criando uma integração
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#configurando-webhooks" class="md-nav__link">
+    Configurando Webhooks
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cloudfoundry/" class="md-nav__link">
+        IBM Cloud Foundry
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../aplicacao/" class="md-nav__link">
+        Aplicação
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#o-que-e-o-watson-assistant" class="md-nav__link">
+    O que é o  Watson Assistant?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#criando-uma-instancia-do-watson-assistant" class="md-nav__link">
+    Criando uma instância do Watson Assistant
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#intents-entities-e-dialogs" class="md-nav__link">
+    Intents, entities e dialogs
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#criando-uma-integracao" class="md-nav__link">
+    Criando uma integração
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#configurando-webhooks" class="md-nav__link">
+    Configurando Webhooks
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <h1 id="watson-assistant">Watson Assistant</h1>
+<h2 id="o-que-e-o-watson-assistant">O que é o  <a href="https://www.ibm.com/br-pt/products/watson-assistant?utm_content=SRCWW&amp;p1=Search&amp;p4=43700056969895161&amp;p5=e&amp;gclid=CjwKCAiAnO2MBhApEiwA8q0HYQ-yPsWaYbURUvkdpin0LRJwzJTd9kM0hYYeZxeXYo04whO0-E37NBoCF1kQAvD_BwE&amp;gclsrc=aw.ds">Watson Assistant</a>?</h2>
+<p>Ferramenta de construção de chatbots que utiliza inteligência artificial para simular uma conversação humana com o usuário.
+A plataforma permite a criação de interfaces de conversação em diferentes dispositivos e aplicativos.
+Este toturial irá abordar construção de um chatbot transacional, ou seja, ele consulta informações dentro de uma base de dados para responder ao usuário.</p>
+<h2 id="criando-uma-instancia-do-watson-assistant">Criando uma instância do Watson Assistant</h2>
+<ul>
+<li>No Dashboard do IBM Cloud clique em <code>Create Resource</code></li>
+<li>Selecione o Watson Assistant</li>
+<li>Selecione uma localidade (ou deixe a padrão)  </li>
+<li>Selecione o plano de serviço Free  </li>
+<li>Service name: <code>Watson Assistant</code>  </li>
+<li>Aceite os termos de serviço</li>
+<li>Clique em <code>Create</code>
+<img alt="" src="../imagens/assistant_create0.png" /></li>
+<li>Clique em <code>Launch Watson Assistant</code>
+<img alt="" src="../imagens/assistant_create1.png" /></li>
+</ul>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Salve a <code>API key</code> e <code>URL</code> para uso posterior</p>
+</div>
+<ul>
+<li>Assistant name: <code>ProjetoPFE</code></li>
+<li>Assistant language: <code>Brazilian Portuguese</code></li>
+<li>Clique em <code>Create assistant</code></li>
+</ul>
+<p><img alt="" src="../imagens/assistant_create.png" /></p>
+<ul>
+<li>Vá na aba de Skills</li>
+<li>Clique em <code>Create Skill</code></li>
+<li>Selecione <code>Add an actions or dialog skill</code> </li>
+</ul>
+<p><img alt="" src="../imagens/assistant_dialog.png" /></p>
+<ul>
+<li>Clique na aba <code>Upload skill</code></li>
+<li>Adicione o arquivo <a href="https://github.com/Insper/pfe_ibm_2021_2/blob/main/scripts/skill-Assitant.json">skill-Assistant</a></li>
+<li>Clique em <code>Upload</code></li>
+</ul>
+<p><img alt="" src="../imagens/assistant_dialog1.png" /></p>
+<h2 id="intents-entities-e-dialogs">Intents, entities e dialogs</h2>
+<p>Para a construção do chatbot, é necessário definir intents, entidades e dialogs. Essa estruturação para a formação dos diálogos pode ser configurada de duas maneiras:  </p>
+<ul>
+<li>Manualmente pelo dashboard do Watson Assistant</li>
+<li>Por meio de um aquivo em formato JSON que contém as intents, entities e dialogs. </li>
+</ul>
+<p>Para este tutorial, as intent, entities e dialogs já foram disponibilizadas pelo arquivo <a href="https://github.com/Insper/pfe_ibm_2021_2/blob/main/scripts/skill-Assitant.json">skill-Assitant</a>.</p>
+<p>É imoprtante entender o que cada uma das partes representa:  </p>
+<ul>
+<li>Intent: Representa a intenção do usuário. Uma intent deve possuir no mínimo entre quinze a vinte exemplos de perguntas que podem ser feitas por um usuário quando quer descobrir uma determinada informação.  </li>
+<li>Entities:  Algum objeto ou termo relavante para fornecer contexto as intenções, como por exemplo dia, horário, local e pessoa.   </li>
+<li>Dialogs: conectam as intents e as entities com as possíveis respostas que o  chatbot deve dar para as mesmas, permitindo, como já diz o nome, a construção real do diálogo.  </li>
+</ul>
+<p>Fuzzy matching: true
+Funcionalidade que permite que o Watson Assistant identifique e compreenda palavras com pequenos erros.</p>
+<h2 id="criando-uma-integracao">Criando uma integração</h2>
+<p>Existem várias maneiras de integrar o chatbot criado na sua aplicação, como whatsap  telegram.
+N   este tutorial foi optado por utilizar a versão Embed.  </p>
+<ul>
+<li>Escolha o projeto criado na página do Assistant</li>
+<li>No menu lateral em <code>Integrations</code>, clique em <code>Add Integration</code></li>
+</ul>
+<p><img alt="" src="../imagens/assistant_integration_create.png" /></p>
+<ul>
+<li>
+<p>Escolha a opção <code>Web chat</code>
+<img alt="" src="../imagens/assistant_integration_create2.png" /></p>
+</li>
+<li>
+<p>Intregation name: Assistente de Notícias</p>
+</li>
+<li>Clique em <code>Create</code></li>
+</ul>
+<p><img alt="" src="../imagens/assistant_integration_create3.png" /></p>
+<ul>
+<li>Customize a interface da maneira que preferir. </li>
+<li>Salve o código disponível em Embed para usar posteriormente na aplicação. </li>
+</ul>
+<p><img alt="" src="../imagens/assistant_integration_create4.png" /></p>
+<ul>
+<li>Clique em <code>Save and exit</code></li>
+</ul>
+<h2 id="configurando-webhooks">Configurando Webhooks</h2>
+<p>Webhook é um mecanismo que permite realizar uma chamada externa, aqui será feito uma conexão com o servidor criado. </p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Após criar o servidor, é necessário colocar a URL para configurar o Webhook.</p>
+</div>
+<p><img alt="alt text" src="../imagens/assistant_webhooks.png" /></p>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>Ao copiar o endpoint do servidor, é necessário colocar <code>.json</code> no final.</p>
+</div>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+        
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
+      
+        
+        <a href="../cloudant/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Cloudant" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              Cloudant
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../cloudfoundry/" class="md-footer__link md-footer__link--next" aria-label="Next: IBM Cloud Foundry" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              IBM Cloud Foundry
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        
+          Made with
+          <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+            Material for MkDocs
+          </a>
+        
+        
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "..", "features": [], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../assets/javascripts/workers/search.fcfe8b6d.min.js", "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.b1047164.min.js"></script>
+      
+    
+  </body>
+</html>

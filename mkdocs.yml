@@ -1,0 +1,25 @@
+site_name: PFE IBM
+theme:
+  name: material
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.snippets
+  
+nav:
+    - Início: index.md
+    - Estrutura: estrutura.md
+    # - Watson Discovery: discovery.md
+    - Natural Language Understanding: nlu.md
+    - Treinamento do Modelo: modelo.md
+    - Enriquecimento Dados: enriquecimento.md
+    - Cloudant: cloudant.md
+    - Watson Assistant: assistant.md
+    - IBM Cloud Foundry: cloudfoundry.md
+    #- Integração: integracao.md
+    - Aplicação: aplicacao.md
