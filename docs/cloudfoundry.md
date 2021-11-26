@@ -17,19 +17,27 @@ O Cloud Foundry é o servidor do nosso projeto, ele possibilita uma interação 
 
 * No github criado automaticamente adicione o [github do projeto](https://us-south.git.cloud.ibm.com/gabrielmd/NodejsExpressAppHNTKU2021-09-17/-/tree/master).
 
-*  Como mencionado anteriormente, no webhooks criado no  Assistant, substitua o link pelo do seu servidor criado aqui.
+Para o proximo passo é necessario ter instalado as seguintes ferramentas:
 
-![alt text](imagens/assistant_webhooks.png)
-
-
-
-importante ter conta na ibm cloud , cli
-git
-node 
+* [IBM Cloud CLI](https://cloud.ibm.com/docs/cli?topic=cli-install-ibmcloud-cli)
+* [git](https://git-scm.com/downloads)
+* [node](https://nodejs.org/en/) 
 
 
-Passo 1: nosso git
-e segue os passos seguintes da documentação do IBM Cloud
+Passo 1: Clonar repositório
 
+`$ git clone https://github.com/PFE-INSPER/pfe-server.git`
 
-https://cloud.ibm.com/apps/da4869d3-5dc0-4a2f-b028-6149448708f2?ace_config=%7B%22region%22%3A%22us-south%22%2C%22crn%22%3A%22crn%3Av1%3Abluemix%3Apublic%3Acf%3Aus-south%3As%2Fe44cd71a-b8dc-41ed-a93a-bdbd27e03af0%3A%3Acf-application%3Ada4869d3-5dc0-4a2f-b028-6149448708f2%22%2C%22resource_id%22%3A%22da4869d3-5dc0-4a2f-b028-6149448708f2%22%2C%22orgGuid%22%3A%225496591a-8441-45e3-aafe-6f6832c4c0be%22%2C%22spaceGuid%22%3A%22e44cd71a-b8dc-41ed-a93a-bdbd27e03af0%22%2C%22redirect%22%3A%22https%3A%2F%2Fcloud.ibm.com%2Fresources%22%2C%22bluemixUIVersion%22%3A%22v6%22%7D&env_id=ibm%3Ayp%3Aus-south&paneId=startcoding
+Passo 2: Alterar credenciais do Cloudant
+
+No arquivo *pfe-controller.js* altere as credenciais para as suas como mostra a figura abaixo
+
+![](imagens/CloudFoundry-03.png)
+
+Passo 3: Deploy do App
+
+ `$ ibmcloud login`
+
+ `$ ibmcloud target --cf`
+
+ `$ ibmcloud cf push`

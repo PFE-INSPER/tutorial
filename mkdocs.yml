@@ -16,10 +16,9 @@ nav:
     - Estrutura: estrutura.md
     # - Watson Discovery: discovery.md
     - Natural Language Understanding: nlu.md
-    - Treinamento do Modelo: modelo.md
     - Enriquecimento Dados: enriquecimento.md
     - Cloudant: cloudant.md
-    - Watson Assistant: assistant.md
     - IBM Cloud Foundry: cloudfoundry.md
+    - Watson Assistant: assistant.md
     #- Integração: integracao.md
     - Aplicação: aplicacao.md

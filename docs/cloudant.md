@@ -1,9 +1,5 @@
 # Cloudant
 
----------------------------------------
-FALAR ONDE PEGA AS KEYS DA API
-----------------------------------------
-
 ## O que é o [Cloudant](https://www.ibm.com/br-pt/cloud/cloudant)
 IBM cloudant é um serviço de armazenamento de dados em formato JSON na nuvem que funciona de maneira escalável e distribuída. 
 
@@ -60,8 +56,8 @@ Neste tutorial está sendo uzado uma Search Index para encontrar os enrichments 
 - Dentro do database criado noticias-db clique na aba `Design Documents` > `New Search Index`
 
 ![](imagens/cloudant-06.png)
-- Selecione o seu documento e dê um nome para a sua seacrh index
-![](imagens/cloudant-0.png)
+- Selecione o seu documento e dê um nome para a sua search index
+![](imagens/cloudant-07.png)
 
 Na parte da function, coloque o que deseja retornar. No caso deste projeto, retornamos o texto, título, data, link, classificação, categoria e enriquecimentos.
 
@@ -96,3 +92,13 @@ Salve seu documento.
 
 !!! Tip
     Você pode testar o retorno da sua função na aba Search Indexes > AllData e entre com a sua query.
+
+Para a proxima etapa voce vai precisar da API key e da URL do Cloudant. Para obter essas credenciais vá para a aba Service credentials e clique em "New credential".
+
+![](imagens/cloudant-09.png)
+
+Em seguida selecione a opção "Auto-generated service credentials" e clique em "Add"
+
+![](imagens/cloudant-08.png)
+
+Por fim suas credencias estarão disponiveis para copiar ou fazer download. 
