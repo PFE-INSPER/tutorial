@@ -225,21 +225,6 @@
   
   
     <li class="md-nav__item">
-      <a href="../modelo/" class="md-nav__link">
-        Treinamento do Modelo
-      </a>
-    </li>
-  
-
-    
-      
-      
-      
-
-  
-  
-  
-    <li class="md-nav__item">
       <a href="../enriquecimento/" class="md-nav__link">
         Enriquecimento Dados
       </a>
@@ -290,13 +275,6 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#falar-onde-pega-as-keys-da-api" class="md-nav__link">
-    FALAR ONDE PEGA AS KEYS DA API
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#o-que-e-o-cloudant" class="md-nav__link">
     O que é o Cloudant
   </a>
@@ -347,8 +325,8 @@
   
   
     <li class="md-nav__item">
-      <a href="../assistant/" class="md-nav__link">
-        Watson Assistant
+      <a href="../cloudfoundry/" class="md-nav__link">
+        IBM Cloud Foundry
       </a>
     </li>
   
@@ -362,8 +340,8 @@
   
   
     <li class="md-nav__item">
-      <a href="../cloudfoundry/" class="md-nav__link">
-        IBM Cloud Foundry
+      <a href="../assistant/" class="md-nav__link">
+        Watson Assistant
       </a>
     </li>
   
@@ -410,13 +388,6 @@
       Table of contents
     </label>
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#falar-onde-pega-as-keys-da-api" class="md-nav__link">
-    FALAR ONDE PEGA AS KEYS DA API
-  </a>
-  
-</li>
       
         <li class="md-nav__item">
   <a href="#o-que-e-o-cloudant" class="md-nav__link">
@@ -467,8 +438,6 @@
                 
                 
                 <h1 id="cloudant">Cloudant</h1>
-<hr />
-<h2 id="falar-onde-pega-as-keys-da-api">FALAR ONDE PEGA AS KEYS DA API</h2>
 <h2 id="o-que-e-o-cloudant">O que é o <a href="https://www.ibm.com/br-pt/cloud/cloudant">Cloudant</a></h2>
 <p>IBM cloudant é um serviço de armazenamento de dados em formato JSON na nuvem que funciona de maneira escalável e distribuída. </p>
 <h2 id="criando-uma-instancia-do-cloudant">Criando uma instância do Cloudant</h2>
@@ -511,8 +480,8 @@ Elas utilizam um ou mais campos da sua base para:    </p>
 <li>Dentro do database criado noticias-db clique na aba <code>Design Documents</code> &gt; <code>New Search Index</code></li>
 </ul>
 <p><img alt="" src="../imagens/cloudant-06.png" />
-- Selecione o seu documento e dê um nome para a sua seacrh index
-<img alt="" src="imagens/cloudant-0.png" /></p>
+- Selecione o seu documento e dê um nome para a sua search index
+<img alt="" src="../imagens/cloudant-07.png" /></p>
 <p>Na parte da function, coloque o que deseja retornar. No caso deste projeto, retornamos o texto, título, data, link, classificação, categoria e enriquecimentos.</p>
 <div class="highlight"><pre><span></span><code><span class="kd">function</span> <span class="p">(</span><span class="nx">doc</span><span class="p">)</span> <span class="p">{</span>
   <span class="nx">index</span><span class="p">(</span><span class="s2">&quot;default&quot;</span><span class="p">,</span> <span class="nx">doc</span><span class="p">.</span><span class="nx">text</span> <span class="o">+</span> <span class="s1">&#39; &#39;</span> <span class="o">+</span> <span class="nx">doc</span><span class="p">.</span><span class="nx">title</span><span class="p">);</span>
@@ -544,6 +513,11 @@ Elas utilizam um ou mais campos da sua base para:    </p>
 <p class="admonition-title">Tip</p>
 <p>Você pode testar o retorno da sua função na aba Search Indexes &gt; AllData e entre com a sua query.</p>
 </div>
+<p>Para a proxima etapa voce vai precisar da API key e da URL do Cloudant. Para obter essas credenciais vá para a aba Service credentials e clique em "New credential".</p>
+<p><img alt="" src="../imagens/cloudant-09.png" /></p>
+<p>Em seguida selecione a opção "Auto-generated service credentials" e clique em "Add"</p>
+<p><img alt="" src="../imagens/cloudant-08.png" /></p>
+<p>Por fim suas credencias estarão disponiveis para copiar ou fazer download. </p>
                 
               
               
@@ -579,13 +553,13 @@ Elas utilizam um ou mais campos da sua base para:    </p>
       
       
         
-        <a href="../assistant/" class="md-footer__link md-footer__link--next" aria-label="Next: Watson Assistant" rel="next">
+        <a href="../cloudfoundry/" class="md-footer__link md-footer__link--next" aria-label="Next: IBM Cloud Foundry" rel="next">
           <div class="md-footer__title">
             <div class="md-ellipsis">
               <span class="md-footer__direction">
                 Next
               </span>
-              Watson Assistant
+              IBM Cloud Foundry
             </div>
           </div>
           <div class="md-footer__button md-icon">

@@ -223,21 +223,6 @@
 
   
   
-  
-    <li class="md-nav__item">
-      <a href="../modelo/" class="md-nav__link">
-        Treinamento do Modelo
-      </a>
-    </li>
-  
-
-    
-      
-      
-      
-
-  
-  
     
   
   
@@ -249,9 +234,76 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Enriquecimento Dados
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         Enriquecimento Dados
       </a>
+      
+        
+
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#treinamento-do-modelo-de-polaridade-politica" class="md-nav__link">
+    Treinamento do Modelo de Polaridade Política
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#coleta-de-dados" class="md-nav__link">
+    Coleta de dados
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1-filtragem-do-dataset" class="md-nav__link">
+    1. Filtragem do dataset
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-login-nlu" class="md-nav__link">
+    2. Login NLU
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-treinamento-do-modelo" class="md-nav__link">
+    3. Treinamento do Modelo
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-passando-os-dados-pelo-nlu" class="md-nav__link">
+    4. Passando os dados pelo NLU
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -280,8 +332,8 @@
   
   
     <li class="md-nav__item">
-      <a href="../assistant/" class="md-nav__link">
-        Watson Assistant
+      <a href="../cloudfoundry/" class="md-nav__link">
+        IBM Cloud Foundry
       </a>
     </li>
   
@@ -295,8 +347,8 @@
   
   
     <li class="md-nav__item">
-      <a href="../cloudfoundry/" class="md-nav__link">
-        IBM Cloud Foundry
+      <a href="../assistant/" class="md-nav__link">
+        Watson Assistant
       </a>
     </li>
   
@@ -338,6 +390,56 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#treinamento-do-modelo-de-polaridade-politica" class="md-nav__link">
+    Treinamento do Modelo de Polaridade Política
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#coleta-de-dados" class="md-nav__link">
+    Coleta de dados
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1-filtragem-do-dataset" class="md-nav__link">
+    1. Filtragem do dataset
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-login-nlu" class="md-nav__link">
+    2. Login NLU
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-treinamento-do-modelo" class="md-nav__link">
+    3. Treinamento do Modelo
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-passando-os-dados-pelo-nlu" class="md-nav__link">
+    4. Passando os dados pelo NLU
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -350,8 +452,33 @@
                 
                 
                 <h1 id="enriquecimento-dos-dados-via-nlu">Enriquecimento dos dados via NLU</h1>
-<p>Chegou a hora de rodar os dados do <a href="https://www.kaggle.com/marlesson/news-of-the-site-folhauol">dataset escolhido</a>  para aplicar o processo de enriquecimento via NLU agregado ao modelo criado anteriormente.</p>
-<p>BLALABLABALABLBAllalallllllllllllllllllllllllllsasdasdasdas</p>
+<p>Chegou a hora de rodar os dados do <a href="https://www.kaggle.com/marlesson/news-of-the-site-folhauol">dataset escolhido</a> para aplicar o processo de enriquecimento via NLU agregado ao modelo criado anteriormente. A primeira etapa é o treinamento do modelo.</p>
+<h2 id="treinamento-do-modelo-de-polaridade-politica">Treinamento do Modelo de Polaridade Política</h2>
+<p>A primeira parte deste tutorial consiste no treinamento de um modelo que analisa o quanto uma notícia tem polaridade política de Esquerda ou de Direita. 
+O modelo foi criado utilizando o ferramenta NLU e os dados utilizados para o treinamento foram notícias de jornais políticamente opostos.<br />
+A <a href="https://cartacapital.com.br">Carta Capital</a> se institula como tendo um viés progressista, sendo alinhada à esquerda política.<br />
+Já a <a href="https://jovempan.com.br">Jovem Pan</a> foi considerada como sendo alinhada à direita política. </p>
+<h2 id="coleta-de-dados">Coleta de dados</h2>
+<p>As notícias utilizadas foram coletadas por meio do script <a href="https://github.com/Insper/pfe_ibm_2021_2/blob/main/scripts/Treinamento.ipynb">Treinamento.ipynb</a>. A biblioteca <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">Beautiful Soup</a> da linguagem Python foi utilizada para fazer um <em>web crawl</em> do <em>website</em> de cada um dos jornais escolhidos.
+Esse script cria o arquivo <a href="https://github.com/Insper/pfe_ibm_2021_2/blob/main/scripts/training_data.json">training_data.json</a> que contém os dados de treinamento e será utilizado para a criação do modelo.</p>
+<div class="admonition nota">
+<p class="admonition-title">Nota</p>
+<p>Os passos seguintes podem ser encontrados no arquivo <a href="https://github.com/Insper/pfe_ibm_2021_2/blob/main/scripts/Enriquecimento%20dos%20Dados.ipynb">Enriquecimento dos Dados.ipynb</a> e devem ser replicados</p>
+</div>
+<h2 id="1-filtragem-do-dataset">1. Filtragem do dataset</h2>
+<p>O dataset é filtrado para remover dados desnecessários e textos muito curtos</p>
+<h2 id="2-login-nlu">2. Login NLU</h2>
+<p><img alt="" src="../imagens/modelo-01.png" /></p>
+<div class="admonition nota">
+<p class="admonition-title">Nota</p>
+<ul>
+<li>Coloque as chaves de acesso do seu NLU que foi salvada anteriormente nas variáveis de configuração do ambiente </li>
+</ul>
+</div>
+<h2 id="3-treinamento-do-modelo">3. Treinamento do Modelo</h2>
+<p>Para o treinamento e criação do modelo é necessário enviar para o NLU os dados que foram coletados. Ao criar um modelo é obtido o seu <code>model id</code> que será utilizado durante o envio dos dados.</p>
+<h2 id="4-passando-os-dados-pelo-nlu">4. Passando os dados pelo NLU</h2>
+<p>Nessa etapa é realizao o envio dos dados para o NLU via API. Cada notícia é dividida em partes menores que 1500 caracteres (o NLU tem limite de 2000) e cada parte é enriquecida pelo NLU. </p>
                 
               
               
@@ -371,7 +498,7 @@
     <nav class="md-footer__inner md-grid" aria-label="Footer">
       
         
-        <a href="../modelo/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Treinamento do Modelo" rel="prev">
+        <a href="../nlu/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Natural Language Understanding" rel="prev">
           <div class="md-footer__button md-icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
           </div>
@@ -380,7 +507,7 @@
               <span class="md-footer__direction">
                 Previous
               </span>
-              Treinamento do Modelo
+              Natural Language Understanding
             </div>
           </div>
         </a>

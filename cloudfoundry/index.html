@@ -225,21 +225,6 @@
   
   
     <li class="md-nav__item">
-      <a href="../modelo/" class="md-nav__link">
-        Treinamento do Modelo
-      </a>
-    </li>
-  
-
-    
-      
-      
-      
-
-  
-  
-  
-    <li class="md-nav__item">
       <a href="../enriquecimento/" class="md-nav__link">
         Enriquecimento Dados
       </a>
@@ -257,21 +242,6 @@
     <li class="md-nav__item">
       <a href="../cloudant/" class="md-nav__link">
         Cloudant
-      </a>
-    </li>
-  
-
-    
-      
-      
-      
-
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../assistant/" class="md-nav__link">
-        Watson Assistant
       </a>
     </li>
   
@@ -337,6 +307,21 @@
   
 </nav>
       
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../assistant/" class="md-nav__link">
+        Watson Assistant
+      </a>
     </li>
   
 
@@ -424,20 +409,23 @@
 </ul>
 <p><img alt="" src="../imagens/CloudFoundry-02.png" /></p>
 <ul>
-<li>
-<p>No github criado automaticamente adicione o <a href="https://us-south.git.cloud.ibm.com/gabrielmd/NodejsExpressAppHNTKU2021-09-17/-/tree/master">github do projeto</a>.</p>
-</li>
-<li>
-<p>Como mencionado anteriormente, no webhooks criado no  Assistant, substitua o link pelo do seu servidor criado aqui.</p>
-</li>
+<li>No github criado automaticamente adicione o <a href="https://us-south.git.cloud.ibm.com/gabrielmd/NodejsExpressAppHNTKU2021-09-17/-/tree/master">github do projeto</a>.</li>
 </ul>
-<p><img alt="alt text" src="../imagens/assistant_webhooks.png" /></p>
-<p>importante ter conta na ibm cloud , cli
-git
-node </p>
-<p>Passo 1: nosso git
-e segue os passos seguintes da documentação do IBM Cloud</p>
-<p>https://cloud.ibm.com/apps/da4869d3-5dc0-4a2f-b028-6149448708f2?ace_config=%7B%22region%22%3A%22us-south%22%2C%22crn%22%3A%22crn%3Av1%3Abluemix%3Apublic%3Acf%3Aus-south%3As%2Fe44cd71a-b8dc-41ed-a93a-bdbd27e03af0%3A%3Acf-application%3Ada4869d3-5dc0-4a2f-b028-6149448708f2%22%2C%22resource_id%22%3A%22da4869d3-5dc0-4a2f-b028-6149448708f2%22%2C%22orgGuid%22%3A%225496591a-8441-45e3-aafe-6f6832c4c0be%22%2C%22spaceGuid%22%3A%22e44cd71a-b8dc-41ed-a93a-bdbd27e03af0%22%2C%22redirect%22%3A%22https%3A%2F%2Fcloud.ibm.com%2Fresources%22%2C%22bluemixUIVersion%22%3A%22v6%22%7D&amp;env_id=ibm%3Ayp%3Aus-south&amp;paneId=startcoding</p>
+<p>Para o proximo passo é necessario ter instalado as seguintes ferramentas:</p>
+<ul>
+<li><a href="https://cloud.ibm.com/docs/cli?topic=cli-install-ibmcloud-cli">IBM Cloud CLI</a></li>
+<li><a href="https://git-scm.com/downloads">git</a></li>
+<li><a href="https://nodejs.org/en/">node</a> </li>
+</ul>
+<p>Passo 1: Clonar repositório</p>
+<p><code>$ git clone https://github.com/PFE-INSPER/pfe-server.git</code></p>
+<p>Passo 2: Alterar credenciais do Cloudant</p>
+<p>No arquivo <em>pfe-controller.js</em> altere as credenciais para as suas como mostra a figura abaixo</p>
+<p><img alt="" src="../imagens/CloudFoundry-03.png" /></p>
+<p>Passo 3: Deploy do App</p>
+<p><code>$ ibmcloud login</code></p>
+<p><code>$ ibmcloud target --cf</code></p>
+<p><code>$ ibmcloud cf push</code></p>
                 
               
               
@@ -457,7 +445,7 @@ e segue os passos seguintes da documentação do IBM Cloud</p>
     <nav class="md-footer__inner md-grid" aria-label="Footer">
       
         
-        <a href="../assistant/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Watson Assistant" rel="prev">
+        <a href="../cloudant/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Cloudant" rel="prev">
           <div class="md-footer__button md-icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
           </div>
@@ -466,20 +454,20 @@ e segue os passos seguintes da documentação do IBM Cloud</p>
               <span class="md-footer__direction">
                 Previous
               </span>
-              Watson Assistant
+              Cloudant
             </div>
           </div>
         </a>
       
       
         
-        <a href="../aplicacao/" class="md-footer__link md-footer__link--next" aria-label="Next: Aplicação" rel="next">
+        <a href="../assistant/" class="md-footer__link md-footer__link--next" aria-label="Next: Watson Assistant" rel="next">
           <div class="md-footer__title">
             <div class="md-ellipsis">
               <span class="md-footer__direction">
                 Next
               </span>
-              Aplicação
+              Watson Assistant
             </div>
           </div>
           <div class="md-footer__button md-icon">
