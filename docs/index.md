@@ -21,7 +21,7 @@ Para conhecer mais sobre o IBM Watson, acesse [a página da IBM](https://www.ibm
 * Deploy da aplicação utilizando a feramenta Cloud Foundry
 
 !!! Importante
-    Clone o repositório [https://github.com/Insper/pfe_ibm_2021_2.git](https://github.com/Insper/pfe_ibm_2021_2.git) 
+    Clone o repositório [https://github.com/PFE-INSPER/tutorial](https://github.com/PFE-INSPER/tutorial) 
 
 
 ## Arquitetura

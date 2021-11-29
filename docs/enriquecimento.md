@@ -3,10 +3,13 @@ Chegou a hora de rodar os dados do [dataset escolhido](https://www.kaggle.com/ma
 
 ## Treinamento do Modelo de Polaridade Política
 
-A primeira parte deste tutorial consiste no treinamento de um modelo que analisa o quanto uma notícia tem polaridade política de Esquerda ou de Direita. 
+A primeira parte deste tutorial consiste no treinamento de um modelo que analisa o quanto uma notícia tem polaridade política. 
 O modelo foi criado utilizando o ferramenta NLU e os dados utilizados para o treinamento foram notícias de jornais políticamente opostos.  
-A [Carta Capital](https://cartacapital.com.br) se institula como tendo um viés progressista, sendo alinhada à esquerda política.  
-Já a [Jovem Pan](https://jovempan.com.br) foi considerada como sendo alinhada à direita política. 
+
+A [Carta Capital](https://cartacapital.com.br) se institula como tendo um viés progressista, sendo caracterizada por ter medidas exageradas ao atacar a direita, deixando transparecer antipatia pela elite conservadora e neoliberal e mais alinhada ao pensamento de esquerda.   
+
+Já a [Jovem Pan](https://jovempan.com.br) é considerada como uma mídia de direita, sendo caracterizada pelo [The Intercept](https://theintercept.com/2021/11/13/jovem-pan-puxadinho-demitidos-cnn/) como “a TV oficial do bolsonarismo” e “aquela que mais divulga e apoia ideias do neofacismo bolsonarista”. 
+
 
 ## Coleta de dados
 As notícias utilizadas foram coletadas por meio do script [Treinamento.ipynb](https://github.com/Insper/pfe_ibm_2021_2/blob/main/scripts/Treinamento.ipynb). A biblioteca [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) da linguagem Python foi utilizada para fazer um *web crawl* do *website* de cada um dos jornais escolhidos.
