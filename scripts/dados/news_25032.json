@@ -1,0 +1,199 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 3387,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.298119,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "filhos de Deus",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.574428,
+                "count": 1
+            },
+            {
+                "text": "Oj",
+                "sentiment": {
+                    "score": -0.41811,
+                    "mixed": "1",
+                    "label": "negative"
+                },
+                "relevance": 0.564256,
+                "count": 13
+            },
+            {
+                "text": "cidade de São Paulo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.561146,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Organization",
+                "text": "Drogasil",
+                "sentiment": {
+                    "score": -0.73079,
+                    "label": "negative"
+                },
+                "relevance": 0.949788,
+                "count": 2,
+                "confidence": 0.898508
+            },
+            {
+                "type": "Person",
+                "text": "Satanás",
+                "sentiment": {
+                    "score": -0.73079,
+                    "label": "negative"
+                },
+                "relevance": 0.863418,
+                "count": 4,
+                "confidence": 0.999994
+            },
+            {
+                "type": "Location",
+                "text": "São Paulo",
+                "sentiment": {
+                    "score": -0.904743,
+                    "label": "negative"
+                },
+                "relevance": 0.75724,
+                "count": 2,
+                "confidence": 0.98708
+            },
+            {
+                "type": "Time",
+                "text": "meio da madrugada",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.663468,
+                "count": 1,
+                "confidence": 0.274939
+            },
+            {
+                "type": "Person",
+                "text": "Senhor",
+                "sentiment": {
+                    "score": -0.555558,
+                    "mixed": "1",
+                    "label": "negative"
+                },
+                "relevance": 0.662901,
+                "count": 5,
+                "confidence": 0.998482
+            },
+            {
+                "type": "Location",
+                "text": "Drogasil",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.65571,
+                "count": 1,
+                "confidence": 0.105544
+            },
+            {
+                "type": "Time",
+                "text": "duas e meia da manhã",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.652971,
+                "count": 1,
+                "confidence": 0.241305
+            },
+            {
+                "type": "Person",
+                "text": "Vede",
+                "sentiment": {
+                    "score": -0.73079,
+                    "label": "negative"
+                },
+                "relevance": 0.622304,
+                "count": 1,
+                "confidence": 0.83655
+            },
+            {
+                "type": "Person",
+                "text": "Violeta Parra",
+                "sentiment": {
+                    "score": 0.965145,
+                    "label": "positive"
+                },
+                "relevance": 0.498512,
+                "count": 1,
+                "confidence": 0.65042
+            },
+            {
+                "type": "Organization",
+                "text": "Oj",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.469925,
+                "count": 1,
+                "confidence": 0.378061
+            }
+        ],
+        "concepts": [
+            {
+                "text": "São Paulo",
+                "relevance": 0.980126,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Deus",
+                "relevance": 0.961129,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Deus"
+            },
+            {
+                "text": "Sertanejo universitário",
+                "relevance": 0.708233,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Sertanejo_universitário"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.62242,
+                "label": "/family and parenting/children"
+            },
+            {
+                "score": 0.570233,
+                "label": "/style and fashion/body art"
+            },
+            {
+                "score": 0.554994,
+                "label": "/religion and spirituality/christianity"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.547266
+    },
+    "text": "Havia um homem na cidade de São Paulo cujo nome era Oj; homem pobre e refém de tribulações, e que só fazia praguejar e lamuriar. Nasceram-lhe sete filhos e três filhas, e Oj labutava de sol a sol, e o dinheiro se esvaía em Pampers e Hipoglós óleo de amêndoas, e as fraldas acabavam no meio da madrugada, e Oj saía para comprar mais na Drogasil, duas e meia da manhã, de pijama, em seu Corsa 1999.  Num dia em que os filhos de Deus vieram apresentar-se perante o Senhor, veio também Satanás entre eles. E disse Satanás ao Senhor: \"Vede este teu servo na fila do caixa da Drogasil? Vos lhe deste a boca para beber a água fresca dos regatos e os olhos para contemplar as flores do campo, ouvidos para despertar com o gorjeio dos pássaros e mãos para acariciar os cabelos sedosos da amada; Teu servo, porém, passa os dias a maldizer a data em que nasceu. Esta enfadada criatura é o mais perfeito retrato de Tua criação\".  Então disse o Senhor a Satanás: \"Verdade não há no que dizes. Oj resmunga pois lhe faltou sorte, e a sorte que lhe dei arruinou com seu livre arbítrio, mas se a vida melhorasse um pouquinho, um sorriso ele abriria, e ergueria as mãos para os céus, e cantaria 'Gracias a La Vida', da Violeta Parra, como tantos filhos meus já vi cantarem\".  Então, vendo que Satanás duvidava, Deus fez a caixa da Drogasil estender a Oj uma raspadinha, e Oj ganhou um Land Rover 2017 e uma viagem para o Club Med Rio das Pedras. O Land Rover Oj vendeu, e pagou dívidas, e encheu sua morada de fraldas Pampers e Hipoglós óleo de amêndoas, e logo estava pobre e infeliz novamente. Na viagem Oj não parou de reclamar que na piscina só tocava sertanejo universitário, e que no Rio das Pedras havia pedras em demasia, e que o sushi no bufê \"all-inclusive\" era um Monte Sinai de arroz para um solideuzinho de salmão, e, regozijando-se, disse Satanás ao Senhor: \"Ah, humanidade, ingratidão é teu nome!\"  Então disse o Senhor a Satanás: \"A felicidade passageira é invisível aos olhos de quem muito sofreu, como a presença do Senhor é imperceptível para os corações dos incréus, mas lhe tocarei agora com felicidade duradoura, e verás se Oj não erguerá as mãos para os céus e cantará 'Freedom', do George Michael, antes da viração do dia\". E, dizendo isso, num só movimento, Deus curou a rinite, a sinusite e as frieiras de Oj, e lhe deu uma segunda raspadinha com 20 milhões de reais, e lhe fez dez centímetros mais alto e dez quilos mais magro, e lhe enviou por Sedex a caixa completa com as nove temporadas do \"Seinfeld\", e o Senhor e Satanás sentaram-se em seus tronos de ouro e éter nas alturas dos céus, a contemplar as reações de Oj.  Oj, porém, continuava que era só mimimi, e não sabia se investia os milhões em imóveis ou no tesouro direto, as calças estavam largas e curtas, e sem frieiras não tinha mais o que coçar assistindo \"Seinfeld\", e o Jerry tinha que namorar a Elaine, e o protagonista devia ser o Kramer, e quando ia Oj falar que sentia falta da rinite o Senhor Deus se impacientou, e desceu das alturas, e, aparecendo diante de Oj, o mandou catar coquinhos –literalmente. E o resto de seus dias passou Oj perambulando por São Paulo, faminto e maltrapilho, maldizendo o Senhor, pois há pouquíssimos coquinhos nesta cidade de clima temperado, ainda se fosse no Rio, ainda se fosse em Salvador, e 140 anos catando coquinhos viveu Oj, então morreu Oj, velho e farto de seus dias.",
+    "title": "Jó ao contrário",
+    "category": "colunas",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/colunas/antonioprata/2017/03/1867824-jo-ao-contrario.shtml"
+}

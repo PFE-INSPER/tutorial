@@ -1,0 +1,101 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 2068,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.469823,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "melhor opção",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.65337,
+                "count": 1
+            },
+            {
+                "text": "única opção",
+                "sentiment": {
+                    "score": -0.441153,
+                    "label": "negative"
+                },
+                "relevance": 0.62296,
+                "count": 1
+            },
+            {
+                "text": "medida importante",
+                "sentiment": {
+                    "score": 0.458642,
+                    "label": "positive"
+                },
+                "relevance": 0.606312,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Ordinal",
+                "text": "primeiro",
+                "sentiment": {
+                    "score": -0.677192,
+                    "label": "negative"
+                },
+                "relevance": 0.963296,
+                "count": 1,
+                "confidence": 0.996267
+            },
+            {
+                "type": "JobTitle",
+                "text": "adestrador",
+                "sentiment": {
+                    "score": -0.70372,
+                    "label": "negative"
+                },
+                "relevance": 0.542123,
+                "count": 1,
+                "confidence": 0.81778
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Gato",
+                "relevance": 0.990972,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Gato"
+            },
+            {
+                "text": "Felidae",
+                "relevance": 0.793914,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Felidae"
+            },
+            {
+                "text": "Garra",
+                "relevance": 0.780363,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Garra"
+            }
+        ],
+        "categories": [
+            {
+                "score": 1.0,
+                "label": "/pets/cats"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.6691819999999999
+    },
+    "text": "Gatos arranham. É um comportamento que faz parte da natureza felina. Portanto, se você tem um gato e não aguenta mais o sofá desfiado, entenda que ele não vai parar e que a sua única opção é oferecer um local mais interessante para ele arranhar.  É arranhando objetos que os gatos afiam suas garras, alongam seus músculos e, principalmente, delimitam seu espaço. As marcas deixadas pelas unhas são, por si só, um carimbo de identidade. Mas há ainda mais mensagens ali: nas patas dos felinos há glândulas que, pressionadas, liberam ferormônios e espalham pela área o cheiro daquele que se considera o dono do pedaço. É instintivo, não importa se há outro gato no ambiente.  A melhor opção para reduzir o estrago doméstico é comprar arranhadores, com estruturas que permitam ao felino fazer movimentos horizontais e verticais com as patas.  No mercado há ainda uma espécie de unhas postiças —umas capinhas de borracha, gel ou silicone para as garras do gato. Pode ajudar, mas a maioria dos animais não de adapta a elas e se mostra bastante incomodada.  O fato é que os gatos precisam arranhar. Além de marcar território, eles se livram de pedaços lascados, soltos e velhos de unhas que os incomodam, já que as garras são retráteis.  Portanto, amigo, não adianta bufar: providencie um arranhador. A grana está curta? Faça você mesmo com pedaços de madeira e papelão. Seu gato vai adorar.  *  Em tempo: arranhar pessoas tem outro significado. Conforme o contexto, o gesto pode ser uma tentativa de comunicação (há gatos que arranham para convidar os humanos para brincar) ou uma forma de defesa (uma tentativa de escapar do colo alheio, por exemplo).  O primeiro passo é não atender aos pedidos do bichano se ele estiver arranhando para chamar atenção. Outra medida importante é respeitar os limites do gato e não apertá-lo em um demorado abraço (a maioria detesta).  Se você não faz nada disso e o comportamento segue excessivo, é hora de pensar em recondicioná-lo. A melhor alternativa é buscar ajuda de um adestrador. Mas cuidado: nem todo profissional adestra felinos.",
+    "title": "Arranhar é uma forma de exercício, limpeza e comunicação para felinos",
+    "category": "colunas",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/colunas/silviacorrea/2017/03/1867261-arranhar-e-uma-forma-de-exercicio-limpeza-e-comunicacao-para-felinos.shtml"
+}

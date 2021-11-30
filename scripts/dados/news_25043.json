@@ -1,0 +1,210 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 4950,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.565877,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "ideia de representação do mundo",
+                "sentiment": {
+                    "score": 0.787429,
+                    "label": "positive"
+                },
+                "relevance": 0.620449,
+                "count": 1
+            },
+            {
+                "text": "Jean Renoir",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.615659,
+                "count": 1
+            },
+            {
+                "text": "programa da adaptação teatral",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.611861,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Date",
+                "text": "1939",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.950653,
+                "count": 2,
+                "confidence": 0.976991
+            },
+            {
+                "type": "Person",
+                "text": "Renoir",
+                "sentiment": {
+                    "score": 0.834686,
+                    "label": "positive"
+                },
+                "relevance": 0.817517,
+                "count": 2,
+                "confidence": 0.999805
+            },
+            {
+                "type": "Person",
+                "text": "Jean Renoir",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.602283,
+                "disambiguation": {
+                    "subtype": [
+                        "Actor",
+                        "AwardNominee",
+                        "FilmActor",
+                        "FilmDirector",
+                        "FilmProducer",
+                        "TVActor",
+                        "FilmWriter"
+                    ],
+                    "name": "Jean_Renoir",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/Jean_Renoir"
+                },
+                "count": 1,
+                "confidence": 0.950821
+            },
+            {
+                "type": "Organization",
+                "text": "Segunda Guerra",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.592993,
+                "count": 1,
+                "confidence": 0.399217
+            },
+            {
+                "type": "Location",
+                "text": "Beaumarchais",
+                "sentiment": {
+                    "score": 0.618215,
+                    "label": "positive"
+                },
+                "relevance": 0.576949,
+                "count": 1,
+                "confidence": 0.959942
+            },
+            {
+                "type": "Location",
+                "text": "Marivaux",
+                "sentiment": {
+                    "score": 0.618215,
+                    "label": "positive"
+                },
+                "relevance": 0.575637,
+                "count": 1,
+                "confidence": 0.813532
+            },
+            {
+                "type": "JobTitle",
+                "text": "cineasta",
+                "sentiment": {
+                    "score": 0.618215,
+                    "label": "positive"
+                },
+                "relevance": 0.569667,
+                "count": 1,
+                "confidence": 0.971979
+            },
+            {
+                "type": "Person",
+                "text": "Christiane Jatahy",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.556472,
+                "count": 1,
+                "confidence": 0.690236
+            },
+            {
+                "type": "Organization",
+                "text": "Comédie Française",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.553191,
+                "count": 1,
+                "confidence": 0.63517
+            },
+            {
+                "type": "Date",
+                "text": "1942",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.53911,
+                "count": 1,
+                "confidence": 0.834184
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Democracia",
+                "relevance": 0.896099,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Democracia"
+            },
+            {
+                "text": "Caça",
+                "relevance": 0.816178,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Caça"
+            },
+            {
+                "text": "Segunda Guerra Mundial",
+                "relevance": 0.770022,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Segunda_Guerra_Mundial"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.728469,
+                "label": "/society/unrest and war"
+            },
+            {
+                "score": 0.697964,
+                "label": "/art and entertainment/movies"
+            },
+            {
+                "score": 0.680608,
+                "label": "/art and entertainment/movies and tv/movies/reviews"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.5182555
+    },
+    "text": "\"A Regra do Jogo\", de Jean Renoir, já era um filme deliberadamente anacrônico na estreia, em 1939, às vésperas da Segunda Guerra. \"Uma maneira de interpretar o estado de espírito daquele momento era justamente não falar da situação e contar uma história leve. Inspirei-me em Beaumarchais e Marivaux, nos autores clássicos, na comédia\", esclareceu o cineasta quando o filme foi redescoberto, depois da guerra. A declaração está no programa da adaptação teatral que a carioca Christiane Jatahy dirige para a Comédie Française, em cartaz em Paris.  Rejeitado na estreia (pelo visto, ninguém percebeu o que ele anunciava) e destruído nos bombardeios de 1942, o filme só passou a ser interpretado como prognóstico depois da guerra e graças a ela, retrospectivamente, quando foi reconstituído e ressurgiu em nova versão, consagrando-se como obra-prima no final dos anos 1950. Uma nota acrescentada aos créditos alerta, não sem alguma ironia, contra as associações fáceis: \"Este divertimento, cuja ação se situa às vésperas da guerra de 1939, não tem a pretensão de ser um estudo de costumes. Seus personagens são puramente imaginários\".  Se, mesmo depois da guerra, Renoir continuava resistindo à facilidade de fazer de seu filme, a posteriori, um arauto e uma parábola dos maus tempos, como ver uma adaptação teatral que aproveita a oportunidade dos tempos sombrios em curso para reencenar \"A Regra do Jogo\" com a mística do prognóstico? Seria interessante saber o que mudou entre o filme e sua adaptação teatral, senão no mundo, pelo menos na ideia de representação do mundo.  O filme de Renoir é atravessado por uma leveza ao mesmo tempo cômica, absurda e inconsequente, cujo travo vai sendo postergado até o final. São as maneiras de uma civilização e de um grau de liberdade que ali chegam ao paroxismo. Os personagens reunidos num castelo correm uns atrás dos outros, guiados pelo desejo nem sempre correspondido. O racismo não distingue classes. O antissemitismo se manifesta entre os empregados. A morte ronda, mas sua representação alusiva comporta uma graça comum aos desencontros amorosos: são esqueletos e fantasmas num teatrinho montado para a diversão dos convidados, sob os tiros das caçadas ao fundo.  Na peça, parte dessa ambiguidade submerge à maré sinistra do momento. A tensão está presente desde o início. Todos sabemos o que ali está sendo anunciado. A alegria é de fachada. O desejo é histeria e desespero. A diretora escolheu uma atriz de origem argelina para interpretar a anfitriã que no filme é vivida por uma austríaca. \"Como a Christine de Renoir, a minha carrega a suspeita de uma suposta ameaça estrangeira contra a qual as pessoas acham que devem se armar, às vésperas de uma guerra iminente\", diz Jatahy no programa da peça.  Além da representação do estrangeiro, com menção a imigrantes e refugiados, dois outros elementos são especialmente significativos nessa atualização teatral: os autômatos musicais que no filme eram o hobby do anfitrião foram substituídos por câmeras de vídeo (o anfitrião grava tudo e todos), e a caçada –agora, em vez de coelhos e faisões, as presas são mulheres vestidas de coelhinhas.  As coisas ficaram mais diretas, para dizer o mínimo. Em vez da alusão do som de tiros distantes, o terror é a própria expressão aterrorizada no rosto em close da mulher vestida de coelho, diante do caçador que também é a câmera. É um achado da adaptação, que diz mais sobre os novos tempos do que qualquer outra coisa.  A exposição direta e a visibilidade total não são capazes de nos fazer compreender melhor o que se passa a nossa volta. Ao contrário, elas nos hipnotizam e paralisam, como as coelhinhas encurraladas. É o que fica claro na fixação do anfitrião em registrar tudo com sua câmera de vídeo. A compreensão do mundo se reduziu em favor de uma representação mais direta, imediata, automática e não reflexiva, com toda a perversão que isso pode acarretar.  A peça me fez lembrar um caso recente. Ao contrário da má-fé conservadora que atribuiu o sucesso de \"Moonlight\" à representação politicamente correta de negros e gays (à visibilidade das minorias), acredito que a grandeza do filme esteja antes na sua maestria autoral, no que ele tem de criação e invenção. Mas quando o diretor de \"Moonlight\", investido de heroísmo, diz ao público, durante a entrega do Oscar, que não o abandonará, que não deixará de representá-lo; quando promete representar todos os que serão rejeitados por Trump, os que não terão direito de representação sob o governo Trump, ele põe a arte a serviço da lógica da democracia representativa.  É tanto mais normal que isso ocorra quanto mais frágil, vulnerável e falha parecer a democracia como sistema de representação social. Nessa hora, talvez seja difícil não reduzir a representação artística a um substituto, ao grau zero da invenção e da reflexão, por boas intenções ou simples oportunismo. Mas nunca é demais lembrar que nenhum dos dois jamais serviu à boa arte.",
+    "title": "A compreensão do mundo se reduziu a uma representação mais direta",
+    "category": "colunas",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/colunas/bernardo-carvalho/2017/03/1867394-a-compreensao-do-mundo-se-reduziu-a-uma-representacao-mais-direta.shtml"
+}

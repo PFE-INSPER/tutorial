@@ -1,0 +1,193 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 3023,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.581631,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "caixa de e-mails",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.618857,
+                "count": 1
+            },
+            {
+                "text": "sensação de insegurança",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.60827,
+                "count": 1
+            },
+            {
+                "text": "força-tarefa",
+                "sentiment": {
+                    "score": 0.784833,
+                    "label": "positive"
+                },
+                "relevance": 0.603019,
+                "count": 3
+            }
+        ],
+        "entities": [
+            {
+                "type": "Organization",
+                "text": "Lava Jato",
+                "sentiment": {
+                    "score": 0.566217,
+                    "label": "positive"
+                },
+                "relevance": 0.949499,
+                "count": 2,
+                "confidence": 0.95617
+            },
+            {
+                "type": "Date",
+                "text": "dia após dia",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.919929,
+                "count": 1,
+                "confidence": 0.194514
+            },
+            {
+                "type": "Organization",
+                "text": "Operação Lava Jato",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.909511,
+                "count": 1,
+                "confidence": 0.475678
+            },
+            {
+                "type": "Person",
+                "text": "Sergio Moro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.86785,
+                "count": 1,
+                "confidence": 0.973051
+            },
+            {
+                "type": "Organization",
+                "text": "Justiça Federal",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.858915,
+                "count": 1,
+                "confidence": 0.44383
+            },
+            {
+                "type": "JobTitle",
+                "text": "servidora",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.832477,
+                "count": 1,
+                "confidence": 0.934991
+            },
+            {
+                "type": "Person",
+                "text": "Flávia Maceno Blanco",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.828745,
+                "count": 1,
+                "confidence": 0.987587
+            },
+            {
+                "type": "JobTitle",
+                "text": "diretora de secretaria",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.823187,
+                "count": 1,
+                "confidence": 0.375837
+            },
+            {
+                "type": "Duration",
+                "text": "três anos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.777268,
+                "count": 1,
+                "confidence": 0.755451
+            },
+            {
+                "type": "Date",
+                "text": "última sexta-feira (17",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.772376,
+                "count": 1,
+                "confidence": 0.325664
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Operação Lava Jato",
+                "relevance": 0.989753,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Operação_Lava_Jato"
+            },
+            {
+                "text": "Ministério Público",
+                "relevance": 0.979189,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Ministério_Público"
+            },
+            {
+                "text": "E-mail",
+                "relevance": 0.954098,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/E-mail"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.897006,
+                "label": "/technology and computing/internet technology/email"
+            },
+            {
+                "score": 0.743752,
+                "label": "/law, govt and politics"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 2.2438265625
+    },
+    "text": "Foi quando a caixa de e-mails começou a lotar, dia após dia, que os servidores da vara da Operação Lava Jato se deram conta da dimensão do trabalho em que estavam envolvidos.  Diariamente, eram dezenas de elogios, críticas, denúncias e até pedidos de ajuda enviados ao juiz Sergio Moro, titular da 13ª Vara da Justiça Federal no Paraná.  \"Não dava para trabalhar. Ninguém tinha a noção de que a coisa era tão grande\", diz a servidora Flávia Maceno Blanco, diretora de secretaria e uma das que se habituou ao assédio, à pressão e às críticas a quem trabalha na maior operação de combate à corrupção do país.  O gigantismo da Lava Jato, que completou três anos na última sexta-feira (17), se fez sentir aos poucos no dia a dia dos servidores da Justiça, da Polícia Federal e do Ministério Público, que ficam às margens dos holofotes, mas convivem com a repercussão da operação.  \"Aqui virou o juízo universal\", brinca Blanco. Por e-mail ou telefone chegam à força-tarefa pedidos de investigação da Mega-Sena, do desmatamento na Amazônia, de pensão alimentícia e até de abdução por ETs.  \"Meu telefone é insano\", afirma a secretária da força-tarefa do Ministério Público Federal em Curitiba, Maíria Leite Carlos. A maioria liga para elogiar, mas críticas não são raras –especialmente depois da deflagração de novas fases da operação.  \"Já houve um que ligou e perguntou: 'Aí é do escritório do PSDB?'\", comenta um servidor. Outros gritam ao telefone, xingando a quem atende de \"nazista\".  Assessor de gabinete na força-tarefa, o advogado Victor Hugo dos Santos diz ter perdido um amigo de infância, que discordava dos métodos da investigação.  \"Nada me abala mais. A gente vai se blindando\", comenta Maíria. \"Não é pessoal; é uma questão de convicção. Eu até respeito.\"  Se tem uma pergunta que incomoda, porém, é a famosa \"Quando vão prender o fulano?\". \"Mas que perguntinha chata\", diz Blanco.  TENSÃO  O expediente na força-tarefa facilmente ultrapassa as dez horas diárias. Algumas vezes, atravessa as madrugadas, numa corrida contra prazos processuais.  \"Tem analista que fica até 15 dias trabalhando em um só HD\", afirma o delegado Filipe Hille Pace, da PF. \"É um trabalho duro, imprevisível.\"  Em dia de operação, os primeiros policiais chegam à PF pouco antes das 4h. Não raro, o convívio com a família fica prejudicado. \"A minha namorada já entendeu que a Lava Jato é a titular e ela é a outra\", brinca Santos, que logo emenda: \"É brincadeira, pelo amor de Deus!\".  Ninguém fala em sensação de insegurança. Na porta da Procuradoria, porém, fica um guarda de plantão e um detector de metais. Na 13ª Vara, há câmeras e um segurança.  A tensão e a sensação de ter cada ato sob o escrutínio da imprensa e da opinião pública são compensadas, dizem os servidores, pelo resultado do trabalho.  \"A gente vê a Justiça sendo feita\", diz Flávia Rutyna Heidemann, oficial de gabinete de Moro. \"Não estamos enxugando gelo. Algo está acontecendo\", afirma Pace.  No total, cerca de 120 servidores trabalham na Lava Jato em Curitiba.",
+    "title": "Equipe da Lava Jato em Curitiba recebe até pedido de apuração sobre ETs",
+    "category": "poder",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/poder/2017/03/1867766-equipe-da-lava-jato-em-curitiba-recebe-ate-pedido-de-apuracao-sobre-ets.shtml"
+}

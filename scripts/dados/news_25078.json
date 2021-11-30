@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 1606,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.466538,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "Matilde Amin Ghanem",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.665192,
+                "count": 1
+            },
+            {
+                "text": "decreto do governo Vargas",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.625022,
+                "count": 1
+            },
+            {
+                "text": "anúncios de mortes",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.618235,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "JobTitle",
+                "text": "vereadora",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.950474,
+                "count": 2,
+                "confidence": 0.976939
+            },
+            {
+                "type": "Person",
+                "text": "Matilde Amin Ghanem",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.870911,
+                "count": 1,
+                "confidence": 0.937599
+            },
+            {
+                "type": "Date",
+                "text": "1954",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.848208,
+                "count": 1,
+                "confidence": 0.739297
+            },
+            {
+                "type": "Duration",
+                "text": "22 anos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.841385,
+                "count": 1,
+                "confidence": 0.535005
+            },
+            {
+                "type": "Organization",
+                "text": "governo Vargas",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.819448,
+                "count": 1,
+                "confidence": 0.493885
+            },
+            {
+                "type": "Location",
+                "text": "Joinville",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.804033,
+                "count": 2,
+                "confidence": 0.998697
+            },
+            {
+                "type": "Date",
+                "text": "1968",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.753434,
+                "count": 1,
+                "confidence": 0.888941
+            },
+            {
+                "type": "Measure",
+                "text": "180 km",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.712607,
+                "count": 1,
+                "confidence": 0.974781
+            },
+            {
+                "type": "Location",
+                "text": "SC",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.470284,
+                "count": 1,
+                "confidence": 0.559532
+            },
+            {
+                "type": "Location",
+                "text": "Florianópolis",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.443706,
+                "count": 1,
+                "confidence": 0.861117
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Missa",
+                "relevance": 0.990639,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Missa"
+            },
+            {
+                "text": "Joinville",
+                "relevance": 0.901852,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Joinville"
+            },
+            {
+                "text": "A Notícia",
+                "relevance": 0.892707,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/A_Notícia"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.711515,
+                "label": "/law, govt and politics"
+            },
+            {
+                "score": 0.632855,
+                "label": "/society"
+            },
+            {
+                "score": 0.621628,
+                "label": "/society/unrest and war"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 5.672448
+    },
+    "text": "Quando Matilde Amin Ghanem foi eleita vereadora em Joinville (SC), em 1954, fazia só 22 anos que as mulheres podiam votar, decreto do governo Vargas as proibia de praticar esportes \"incompatíveis com sua natureza\" e ainda faltava muito para o mundo ver o clamor por direitos que ocorreria em 1968.  Nada disso impediu a assistente social de ser a primeira vereadora de Joinville, a 180 km de Florianópolis.  Dizia que entrou na política por acaso, depois de ganhar reconhecimento quando trabalhava em indústrias da cidade, dando orientações aos funcionários.  Foi orientada a se candidatar e, eleita, fez \"tudo no peito e na raça\", conta sua sobrinha Terezinha. \"Era muito decidida em tudo. Nada a fazia baixar a cabeça, sempre foi briguenta. Tudo o que quis, conseguiu\", diz ela.  Costumava ressaltar que a atividade era voluntária –não recebia salário e andava a pé– e que fez política por vontade de ajudar o outro.  \"Eu queria saber como era a vida do operário. Nunca fui orgulhosa nem besta. Sempre quis aprender\", disse em entrevista ao jornal \"A Notícia\".  A ousadia ia além da política: gostava de dirigir e nunca se casou, o que não era bem visto na época.  Deixou a Câmara em 1963 e continuou trabalhando como assistente social.  Há cerca de três anos, sua saúde começou a deteriorar, conta a sobrinha, depois que foi diagnosticada com Alzheimer. Morreu na última quarta (15), dois dias antes de completar 94 anos.  Sua missa de sétimo dia acontece nesta quarta (22), às 18h, na Catedral de Joinville.  coluna.obituario@grupofolha.com.br  -  Veja os anúncios de mortes  Veja os anúncios de missas",
+    "title": "Mortes: Pioneira na política no interior catarinense",
+    "category": "cotidiano",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/cotidiano/2017/03/1867814-mortes-pioneira-na-politica-no-interior-catarinense.shtml"
+}

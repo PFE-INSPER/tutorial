@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 4141,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0,
+                "label": "neutral"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "engenheiro Oscar Americano",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.58519,
+                "count": 1
+            },
+            {
+                "text": "Casa da Fazenda",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.582164,
+                "count": 1
+            },
+            {
+                "text": "Marco da arquitetura moderna",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.568639,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Date",
+                "text": "1940",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.948906,
+                "count": 2,
+                "confidence": 0.934937
+            },
+            {
+                "type": "Duration",
+                "text": "dois séculos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.729989,
+                "count": 1,
+                "confidence": 0.381997
+            },
+            {
+                "type": "Facility",
+                "text": "Casa da Fazenda",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.711741,
+                "count": 1,
+                "confidence": 0.726867
+            },
+            {
+                "type": "Date",
+                "text": "1813",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.708469,
+                "count": 1,
+                "confidence": 0.941402
+            },
+            {
+                "type": "Person",
+                "text": "Diogo Feijó",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.705628,
+                "count": 1,
+                "confidence": 0.993707
+            },
+            {
+                "type": "Date",
+                "text": "1784-1843",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.703876,
+                "count": 1,
+                "confidence": 0.56215
+            },
+            {
+                "type": "Date",
+                "text": "1835 a 1837",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.697288,
+                "count": 1,
+                "confidence": 0.494934
+            },
+            {
+                "type": "Facility",
+                "text": "Fazenda Morumby",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.685496,
+                "count": 1,
+                "confidence": 0.865314
+            },
+            {
+                "type": "GeographicFeature",
+                "text": "rio Pinheiros",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.676585,
+                "count": 1,
+                "confidence": 0.956891
+            },
+            {
+                "type": "Location",
+                "text": "Santo Amaro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.674049,
+                "count": 1,
+                "confidence": 0.762533
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Casa",
+                "relevance": 0.991382,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Casa"
+            },
+            {
+                "text": "São Paulo",
+                "relevance": 0.989734,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Arquiteto",
+                "relevance": 0.98871,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Arquiteto"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.71386,
+                "label": "/business and industrial/construction"
+            },
+            {
+                "score": 0.68399,
+                "label": "/real estate/architects"
+            },
+            {
+                "score": 0.631739,
+                "label": "/real estate/buying and selling homes"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.8156963333333334
+    },
+    "text": "CAROLINA MUNIZ COLABORAÇÃO PARA A FOLHA  Antes de se tornar o bairro dos condomínios fechados, o Morumbi já foi terra de jesuítas, plantação de chá e até vinhedo. A história dos últimos dois séculos do território passa por construções famosas do bairro, de diferentes estilos arquitetônicos.  A mais antiga é a Casa da Fazenda, erguida em 1813 pelo padre Diogo Feijó (1784-1843), primeiro regente do império, de 1835 a 1837. A moradia, feita em taipa de pilão, ficava dentro dos limites da Fazenda Morumby. A propriedade, que se estendia da margem do rio Pinheiros até Santo Amaro, foi doada por dom João 6º ao inglês John Rudge, o primeiro a plantar chá preto no Brasil, conta Jussara Martins, curadora da Abach (Academia Brasileira de História e Arte).  O órgão é responsável pela conservação do imóvel, que é tombado. Hoje, funciona como espaço para eventos, na avenida Morumbi, mas oferece visitas gratuitas, com horário agendado (casadafazenda.com.br).  Perto dali, está a Capela do Morumbi, cujas ruínas também pertenciam à fazenda. Elas foram encontradas nos anos 1940 pela Companhia Imobiliária Morumby. Com paredes de taipa inacabadas, a construção foi interpretada como uma capela, mas a teoria nunca se confirmou.    Preocupada em atrair compradores e modernizar a região, a companhia contratou o escritório de Gregori Warchavchik, arquiteto russo radicado no país, para completar a edificação com alvenaria de tijolos, em 1949. Para reforçar o caráter religioso, a pintora Lúcia Suanê representou, em afresco, a cena do batismo de Cristo.  Apesar disso, o local nunca teve funcionamento religioso. Hoje, faz parte do Museu da Cidade de São Paulo.  JARDIM REFINADO  Ainda nos anos 1940, o engenheiro Oscar Americano (1908-1974), dono da Companhia Brasileira de Projetos e Obras (CBPO), teve a ideia de construir ali um bairro-jardim. A fazenda já havia sido dividida em vários sítios, quando ele pensou em criar lotes grandes para atrair um público mais refinado, diz a historiadora Silvia Cristina Siriani, professora da FMU.  O próprio engenheiro escolheu um lote para erguer uma casa, onde viveria com sua família por 20 anos. Hoje, o lugar é a Fundação Maria Luisa e Oscar Americano, com um acervo de pinturas e esculturas que é referência em história do Brasil.  Quem também chegou no início do bairro, em 1952, foi a arquiteta ítalo-brasileira Lina Bo Bardi (1914-1992). No alto de uma colina, ela construiu a Casa de Vidro, a primeira residência do Morumbi, onde morou com o marido, Pietro Maria Bardi.  Marco da arquitetura moderna, a casa, que parece flutuar em cima dos pilares, tem em exposição obras de arte e objetos pessoais do casal.  Pouco tempo depois da chegada dos Bardi, começou a ser erguida, em 1955, a Universidade Fundação Conde Francisco Matarazzo, com projeto do arquiteto italiano Marcello Piacentini.  As obras foram interrompidas por dívidas da família Matarazzo e assumidas pelo Estado. Em 1964, a sede do governo paulista foi transferida para o edifício, nomeado de Palácio dos Bandeirantes. Lá, existe um percurso de visitação, com obras de artistas renomados como Tarsila do Amaral, Victor Brecheret e Lasar Segall.  TURISMO  Com tantos pontos históricos, o Morumbi atraiu o interesse de empresas turísticas. Duas agências, Carona Cultural e Turismo na História oferecem pacotes que incluem vários roteiros pelo bairro, além de transporte, almoço ou chá da tarde.  Os preços vão de R$ 280 a R$ 315. Mais informações: caronacultural.com.br e turismonahistoria.com.br  *  Como visitar os marcos da região  ENDEREÇO av. Morumbi, 5.387 TELEFONE 3772-4301 SITE museudacidade.sp.gov.br VISITAS de terça a domingo, das 9h às 17h QUANTO gratuito  ENDEREÇO av. Morumbi, 4.077 TELEFONE 3742-0077 SITE fundacaooscaramericano.org.br VISITAS de terça a domingo, das 10h às 17h30 QUANTO R$ 10 (meia R$ 5)  ENDEREÇO r. General Almério de Moura, 200 TELEFONE 3744-9902 SITE institutobardi.com.br VISITAS de quinta a domingo, às 10h15, 11h45, 14h15 e 15h30 QUANTO R$ 20  ENDEREÇO av. Morumbi, 4.500, portão 2 TELEFONE 2193-8282 SITE acervo.sp.gov.br VISITAS de terça-feira a domingo, das 10h às 16h QUANTO gratuito",
+    "title": "\n\t\tMorumbi já foi plantação de chá e vinhedo; veja roteiro histórico\n\t\t",
+    "category": "sobretudo",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/sobretudo/morar/2017/03/1867597-morumbi-ja-foi-plantacao-de-cha-e-vinhedo-veja-roteiro-historico.shtml"
+}

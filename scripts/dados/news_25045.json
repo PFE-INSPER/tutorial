@@ -1,0 +1,201 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 2235,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.499457,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "Procuradoria-Geral da República",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.641491,
+                "count": 1
+            },
+            {
+                "text": "anos de prisão",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.639578,
+                "count": 1
+            },
+            {
+                "text": "Goleiro Bruno",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.633828,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Organization",
+                "text": "Procuradoria-Geral da República",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.949105,
+                "count": 1,
+                "confidence": 0.403153
+            },
+            {
+                "type": "Organization",
+                "text": "Odebrecht",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.929092,
+                "count": 1,
+                "confidence": 0.908069
+            },
+            {
+                "type": "JobTitle",
+                "text": "doutrinadores",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.922145,
+                "count": 1,
+                "confidence": 0.669192
+            },
+            {
+                "type": "Date",
+                "text": "mesmos dias",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.844643,
+                "count": 1,
+                "confidence": 0.255985
+            },
+            {
+                "type": "Person",
+                "text": "Luiz Cosenzo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.704169,
+                "count": 1,
+                "confidence": 0.982845
+            },
+            {
+                "type": "Person",
+                "text": "Bruno Fernandes de Souza",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.692987,
+                "count": 1,
+                "confidence": 0.925216
+            },
+            {
+                "type": "Person",
+                "text": "Goleiro Bruno",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.676608,
+                "count": 1,
+                "confidence": 0.847731
+            },
+            {
+                "type": "Duration",
+                "text": "22 anos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.667106,
+                "count": 1,
+                "confidence": 0.573497
+            },
+            {
+                "type": "Person",
+                "text": "Eliza Samudio",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.647515,
+                "disambiguation": {
+                    "name": "Caso_Eliza_Samudio",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/Caso_Eliza_Samudio"
+                },
+                "count": 1,
+                "confidence": 0.931815
+            },
+            {
+                "type": "Duration",
+                "text": "sete anos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.590635,
+                "count": 1,
+                "confidence": 0.768656
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Fernando Henrique Cardoso",
+                "relevance": 0.991848,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Fernando_Henrique_Cardoso"
+            },
+            {
+                "text": "José Sarney",
+                "relevance": 0.991399,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/José_Sarney"
+            },
+            {
+                "text": "São Paulo",
+                "relevance": 0.990327,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.726843,
+                "label": "/law, govt and politics"
+            },
+            {
+                "score": 0.709963,
+                "label": "/society"
+            },
+            {
+                "score": 0.682623,
+                "label": "/society/crime/personal offense"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.5938064999999999
+    },
+    "text": "Depois que a Procuradoria-Geral da República soltou a lista de fregueses dos capilés da Odebrecht, surgiram doutrinadores do direito e da ciência política defendendo uma anistia dos envolvidos e um narcótico eleitoral que lhes assegure os mandatos sem que precisem pedir votos. Se der, inocenta-se o culpado e criminaliza-se quem o acusa.  Nesses mesmos dias, ouviu-se outra voz. Ela merece atenção porque diz o seguinte:  Sobre seu crime:  \"É um erro que talvez eu tenha cometido. Erros acontecem na vida.\"  Qual foi seu erro?  \"Não sei. A Justiça acha que sim. Eu acho que não. (...) O que passou, passou.\"  Você se arrepende?  \"Quando as coisas têm que acontecer, acontecem. Quem somos nós para julgar os outros?\"  O entrevistado do repórter Luiz Cosenzo é o doutor Bruno Fernandes de Souza, também conhecido como \"Goleiro Bruno\", condenado a 22 anos de prisão pelo assassinato, em 2010, de Eliza Samudio, mãe de um de seus filhos. A mulher foi sequestrada, sofreu sucessivos espancamentos e seu corpo nunca foi encontrado. Bruno passou sete anos preso e espera em liberdade o julgamento de seu recurso.  Existem personagens do cotidiano que em determinados momentos refletem uma época. Bruno é o culpado-inocente, vítima da fatalidade e da injustiça: \"Não sou bandido\".  Em 2005, o Partido dos Trabalhadores, símbolo de uma nova moralidade política, foi apanhado no mensalão. É dessa época a fama de Bruna Surfistinha, uma moça que saltou da vida numa família de classe média alta de São Paulo e foi para o mercado da prostituição de luxo. Seu livro de lembranças foi um sucesso de vendas. Anos antes, quando a ekipekonômika e o presidente Fernando Henrique Cardoso desvalorizaram o real depois de atravessar uma campanha eleitoral dizendo que isso não aconteceria, o país encantou-se com a Tiazinha, do programa do Luciano Huck. Era uma gostosona mascarada que empunhava um chicote. Antes dela, o Brasil foi para a rua em 1984, pedindo eleições diretas. Elegeu Tancredo Neves pelo sistema indireto e empossou José Sarney, um veterano cacique da base de apoio da ditadura. Nesse cenário, a estrela da hora chamava-se Roberta Close, um travesti cor de jambo que hoje mora na Suíça.  *  Leia mais textos da coluna deste domingo (19):",
+    "title": "Goleiro Bruno, o culpado-inocente, é o personagem que reflete nossa época",
+    "category": "colunas",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/colunas/eliogaspari/2017/03/1867762-goleiro-bruno-o-culpado-inocente-e-o-personagem-que-reflete-nossa-epoca.shtml"
+}

@@ -1,0 +1,153 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 1847,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.644719,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "composição da mesa",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.644338,
+                "count": 1
+            },
+            {
+                "text": "docinhos do casamento",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.622318,
+                "count": 1
+            },
+            {
+                "text": "confeiteira Carole Crema",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.607985,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "JobTitle",
+                "text": "confeiteira",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.952545,
+                "count": 1,
+                "confidence": 0.337899
+            },
+            {
+                "type": "Person",
+                "text": "Carole Crema",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.947238,
+                "count": 1,
+                "confidence": 0.48842
+            },
+            {
+                "type": "Person",
+                "text": "Carole",
+                "sentiment": {
+                    "score": 0.590263,
+                    "label": "positive"
+                },
+                "relevance": 0.777673,
+                "count": 1,
+                "confidence": 0.99137
+            },
+            {
+                "type": "Number",
+                "text": "SEIS",
+                "sentiment": {
+                    "score": 0.590263,
+                    "label": "positive"
+                },
+                "relevance": 0.355639,
+                "count": 1,
+                "confidence": 0.8
+            },
+            {
+                "type": "Number",
+                "text": "seis",
+                "sentiment": {
+                    "score": 0.590263,
+                    "label": "positive"
+                },
+                "relevance": 0.347042,
+                "count": 1,
+                "confidence": 0.8
+            },
+            {
+                "type": "Organization",
+                "text": "FARTURA",
+                "sentiment": {
+                    "score": -0.570525,
+                    "label": "negative"
+                },
+                "relevance": 0.310965,
+                "count": 1,
+                "confidence": 0.319405
+            }
+        ],
+        "concepts": [
+            {
+                "text": "São Paulo",
+                "relevance": 0.977461,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Bombom",
+                "relevance": 0.883923,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Bombom"
+            },
+            {
+                "text": "Bolo",
+                "relevance": 0.851728,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Bolo"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.995348,
+                "label": "/food and drink/food/candy and sweets"
+            },
+            {
+                "score": 0.925546,
+                "label": "/food and drink/desserts and baking"
+            },
+            {
+                "score": 0.618668,
+                "label": "/food and drink/cuisines"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.631569
+    },
+    "text": "DANIELLE NAGASE DE SÃO PAULO  Não bastasse o \"sacrifício\" de escolher os docinhos do casamento, é preciso também pensar na composição da mesa que vai recebê-los —afinal de contas, é o local mais importante da festa.  A confeiteira Carole Crema, que vai pessoalmente nos eventos para deixar a mesa nos trinques, dá dicas de como decorar e organizar tudo: forminhas, pedestais, arranjos de flores. A relevância é tamanha que a chef estreou serviço de personalização de doces. \"Me inspiro nos noivos para criar docinhos e o bolo\", conta.  É DE COMER? \"O bolo tem que ser de verdade, nada de versões falsas\", diz Carole. \"As pessoas gostam de ver o bolo sendo cortado na hora\"  SEIS PARA CADA Calcule ao menos seis doces por pessoa e invista em variedade -doces com e sem chocolate, opções com nozes, com caramelo e meio amargas. Por mais que você não goste, é preciso pensar nos convidados  MENOS É MAIS Não gaste tanto com forminhas, prefira versões mais simples. Opções cheias de fru-fru escondem o doce e carregam o visual da mesa  TUDO EM ORDEM Escale uma copeira bem treinada para cuidar da estação. É preciso retirar as forminhas vazias e os doces mordidos de cima da mesa  FARTURA Coloque todos os docinhos na mesa e elimine a necessidade de reposição. Além do mais, \"é lindo ver a mesa forrada de doces\", diz Carole  INTIMIDADE Quanto menor o casamento, maior a porção de doces. Convidados mais íntimos prolongam o tempo na festa (e comem mais)  ORGANIZAÇÃO Separe os doces por variedade para não confundir. Exemplo: coloque todos os bombons de pistache em uma só bandeja  MESA FLORIDA Flores complementam a decoração. Combine a cor das pétalas com as das forminhas e prefira espécies sem muito perfume  NAS ALTURAS Invista em suportes e pedestais para acomodar os doces. A disposição em diferentes andares cria certo \"movimento\" na decoração",
+    "title": "Saiba como deixar a mesa de doces ainda mais bonita e apetitosa",
+    "category": "o-melhor-de-sao-paulo",
+    "data": "2017-03-18",
+    "link": "http://www1.folha.uol.com.br/o-melhor-de-sao-paulo/noivas-e-casamentos/2017/03/1867257-saiba-como-deixar-a-mesa-de-doces-ainda-mais-bonita-e-apetitosa.shtml"
+}

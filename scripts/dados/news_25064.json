@@ -1,0 +1,189 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 2642,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.573486,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "marca de luxo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.607649,
+                "count": 1
+            },
+            {
+                "text": "escolas de negócios do país",
+                "sentiment": {
+                    "score": 0.74205,
+                    "label": "positive"
+                },
+                "relevance": 0.604878,
+                "count": 1
+            },
+            {
+                "text": "sócia Alessandra Valenti",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.595573,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Facility",
+                "text": "Instituto Superior de Administração e Economia",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.948979,
+                "count": 1,
+                "confidence": 0.351243
+            },
+            {
+                "type": "Duration",
+                "text": "36 horas",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.895496,
+                "count": 1,
+                "confidence": 0.757275
+            },
+            {
+                "type": "Facility",
+                "text": "Chanel e Hermès",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.881092,
+                "count": 1,
+                "confidence": 0.100215
+            },
+            {
+                "type": "Person",
+                "text": "Adriano Tadeu Barbosa",
+                "sentiment": {
+                    "score": 0.725757,
+                    "label": "positive"
+                },
+                "relevance": 0.823859,
+                "count": 1,
+                "confidence": 0.996346
+            },
+            {
+                "type": "Person",
+                "text": "Cristiane Costa",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.805225,
+                "count": 1,
+                "confidence": 0.988027
+            },
+            {
+                "type": "Organization",
+                "text": "ISAE",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.79515,
+                "count": 1,
+                "confidence": 0.989301
+            },
+            {
+                "type": "Location",
+                "text": "capital paranaense",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.776118,
+                "count": 1,
+                "confidence": 0.313738
+            },
+            {
+                "type": "Money",
+                "text": "R$ 7.000",
+                "sentiment": {
+                    "score": -0.558452,
+                    "label": "negative"
+                },
+                "relevance": 0.736897,
+                "count": 1,
+                "confidence": 0.996948
+            },
+            {
+                "type": "JobTitle",
+                "text": "empreendedor",
+                "sentiment": {
+                    "score": 0.74205,
+                    "label": "positive"
+                },
+                "relevance": 0.703739,
+                "count": 1,
+                "confidence": 0.836646
+            },
+            {
+                "type": "Organization",
+                "text": "FGV",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.676958,
+                "count": 1,
+                "confidence": 0.951495
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Economia",
+                "relevance": 0.944188,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Economia"
+            },
+            {
+                "text": "Administração",
+                "relevance": 0.93327,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Administração"
+            },
+            {
+                "text": "Negócio",
+                "relevance": 0.910101,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Negócio"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.998722,
+                "label": "/style and fashion/clothing/wedding dresses"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.6208035000000001
+    },
+    "text": "Fazer uma marca de luxo prosperar pressupõe conhecimento rigoroso do mercado, do público, da matéria-prima e do design.  Atentas a essa demanda, escolas de negócios do país criaram um currículo que leva o empreendedor aos bastidores de grifes para aprender como funciona um negócio de alto padrão.  No ISAE (Instituto Superior de Administração e Economia), o curso sobre mercado de luxo terá, a partir de julho, um módulo em Curitiba nas áreas de marketing e gestão. Já em setembro, os alunos vão passar 36 horas perambulando por lojas das grifes Chanel e Hermès, hotéis e restaurantes parisienses.  \"Eles vão trocar experiências com os gestores e colocar a mão na massa para entender a operação dessas grandes marcas\", diz Adriano Tadeu Barbosa, supervisor do programa.  A estilista Cristiane Costa, 37, fez o curso do ISAE em 2014. Após a formação, abriu um ateliê na capital paranaense especializado em vestidos de noiva e na revitalização de peças antigas. Um vestido custa a partir de R$ 7.000. \"Antes do curso, eu pensava que era preciso trabalhar num ritmo industrial. Mas eu aprendi que esse tipo de costura é manual, opera em outro modo\", diz Costa.  A FGV (Fundação Getulio Vargas), no Rio, vai abrir o curso sobre gestão de marcas de luxo e premium, o primeiro da escola na área, em abril.  A capacitação foi criada em razão do crescimento da linha premium de serviços e produtos no país, diz a coordenadora Rosana de Moraes. \"Setores ligados ao bem-estar, como spas e os de alimentos, estão passando por uma 'premiurização' intensa, e o mercado vem exigindo mais qualificação\", afirma.  Queroserempresário  LUXO NO BANHO  É nesse nicho que a Frexka, empresa de toucas de banho, quer marcar território. A linha avança ao usar tecidos finos como seda italiana, cristais Swarovski e um jeito de acomodar o cabelo que impede a entrada de água durante o banho. A touca mais cara custa R$ 164.  Antes de o produto ir para o comércio virtual, em dezembro, a sócia Alessandra Valenti, 40, foi buscar capacitação no curso de gerenciamento de marcas de luxo, da ESPM. \"O desafio é nos comunicarmos bem com nossas consumidoras para mostrar que o produto atende às necessidades delas.\"  Mas para isso, diz Gabriela Otto, especialista em mercado de luxo na ESPM, é preciso saber vender. \"Não existe produto caro. Existe é vendedor sem empatia, que não agrega valor ao produto.\"  Para ajustar a especialização às necessidades do mercado, a Faap reformula o seu MBA em gestão de luxo, afirma o coordenador Silvio Passarelli. \"O programa voltará em 2018 com mais matérias em gestão e menos em história da arte. É o que o empresário precisa hoje.\"",
+    "title": "Cursos ajudam a entender mercado premium e promovem visitas a grifes",
+    "category": "mercado",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/mercado/2017/03/1867453-cursos-ajudam-a-entender-mercado-premium-e-promovem-visitas-a-grifes.shtml"
+}

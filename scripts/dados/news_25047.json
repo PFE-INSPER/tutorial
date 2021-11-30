@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 3152,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.654893,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "maiores empresas do Brasil",
+                "sentiment": {
+                    "score": -0.720253,
+                    "label": "negative"
+                },
+                "relevance": 0.744818,
+                "count": 1
+            },
+            {
+                "text": "final do século",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.672972,
+                "count": 1
+            },
+            {
+                "text": "velho empreiteiro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.643156,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Location",
+                "text": "São Paulo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.950015,
+                "count": 2,
+                "confidence": 0.909086
+            },
+            {
+                "type": "Number",
+                "text": "25",
+                "sentiment": {
+                    "score": -0.720253,
+                    "label": "negative"
+                },
+                "relevance": 0.719333,
+                "count": 3,
+                "confidence": 0.992
+            },
+            {
+                "type": "Organization",
+                "text": "Receita Federal",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.619749,
+                "count": 1,
+                "confidence": 0.521141
+            },
+            {
+                "type": "Organization",
+                "text": "Carf",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.617287,
+                "count": 1,
+                "confidence": 0.742974
+            },
+            {
+                "type": "Organization",
+                "text": "Lava Jato",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.587483,
+                "count": 1,
+                "confidence": 0.703147
+            },
+            {
+                "type": "Ordinal",
+                "text": "90°",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.575867,
+                "count": 1,
+                "confidence": 0.470204
+            },
+            {
+                "type": "JobTitle",
+                "text": "empreiteiro",
+                "sentiment": {
+                    "score": -0.841952,
+                    "label": "negative"
+                },
+                "relevance": 0.575778,
+                "count": 2,
+                "confidence": 0.972324
+            },
+            {
+                "type": "Organization",
+                "text": "Polícia Federal",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.48987,
+                "count": 1,
+                "confidence": 0.864408
+            },
+            {
+                "type": "JobTitle",
+                "text": "procuradores",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.478705,
+                "count": 1,
+                "confidence": 0.965153
+            },
+            {
+                "type": "Person",
+                "text": "Bertrand Russell",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.391342,
+                "count": 1,
+                "confidence": 0.989563
+            }
+        ],
+        "concepts": [
+            {
+                "text": "São Paulo",
+                "relevance": 0.985021,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Estados Unidos",
+                "relevance": 0.875607,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Estados_Unidos"
+            },
+            {
+                "text": "Século XIX",
+                "relevance": 0.873821,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Século_XIX"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.844432,
+                "label": "/law, govt and politics"
+            },
+            {
+                "score": 0.782307,
+                "label": "/law, govt and politics/government/government contracting and procurement"
+            },
+            {
+                "score": 0.73033,
+                "label": "/real estate/buying and selling homes"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.648142
+    },
+    "text": "Das 25 maiores empresas do Brasil, ao menos 10 estão envolvidas em algum problema grosso, do petrolão ao papelão da carne. Das 50 seguintes, com má vontade se incluem apenas mais duas no rol do rolo ou das suspeitas ruins.  O copo está meio sujo ou meio limpo?  Na lista das 25 maiores não estão bancos, meia dúzia deles investigados no caso da compra de decisões em disputas sobre impostos no \"tribunal\" da Receita Federal, o Carf. Das cerca de 70 empresas investigadas nesse rolo, apenas três estão na \"primeira divisão\", entre as 25 maiores.  Três das quatro maiores empreiteiras da Lava Jato aparecem mais para baixo no ranking de 2016, depois do 90° lugar. Por ali também estão as empresas do cartel do metrô de São Paulo, várias múltis gigantes, mas menores no Brasil.  Não têm tamanho para aparecer no alto das paradas de sucesso empresas como as da máfia do ISS em São Paulo, por exemplo, dezenas que pagavam propinas a fiscais a fim de não pagar impostos à cidade. Etc.  São pinceladas apenas, não é possível fazer um balanço do estado da degradação. Há centenas de operações da Polícia Federal. De resto, pouco ainda foi peneirado por procuradores e juízes. Há investigações sigilosas ou apenas vaporosas. O esboço do quadro geral é sujo, porém.  Quão desesperados devemos ficar? Nessas comparações internacionais de \"percepção da corrupção\" estamos mal e sujos na foto. Quão corruptos foram esses países hoje \"limpos\"? Emendaram-se vários, pelo menos naquelas corrupções do dinheiro tipificadas em códigos judiciais. Quão corruptos alguns ainda são?  Bertrand Russell (1872-1970), o grande filósofo, matemático e democrata, conta em sua \"Autobiografia\" como começou a se desiludir com o \"império mais civilizado da história\". Ainda estudante, em Cambridge, fez um estágio na embaixada britânica em Paris. Em um coquetel, conheceu um velho empreiteiro que construíra quartéis para as tropas britânicas na Guerra da Crimeia (1853-56). O governo atrasava pagamentos por anos. O empreiteiro passava na frente da fila pagando propina.  É velha e cediça a história de quão corruptos, facinorosos, eram os conglomerados da era dourada dos oligopólios americanos, do final do século 19 ao começo do 20. O país se emendou. Hum, sim, meio que não.  No começo do século 21, fraudes de algumas das maiores empresas americanas e de seus contadores globalizados contribuíram para uma crise financeira internacional. A crise de 2008, além de ter sido causada pela alocação de capital mais inepta e fraudulenta da história, foi a alta de uma maré de crimes, desses que dão cadeia e de outros, absolvidos sem mais, dada a força do dinheiro grosso.  Faz quase uma década, os maiores bancos do mundo assinam acordos com o Departamento de Justiça dos EUA nos quais reconhecem desde formação de quadrilha (sic) a crimes como evasão de divisas e auxílio para fraudar o fisco e lavar dinheiro. Apenas neste século governos de países civilizados passaram a incomodar suas empresas que pagavam propina, no Brasil inclusive, e a pressionar paraísos fiscais.  Começamos a remexer nosso lixão, tarde. Não é um consolo, mas pode ser um lenitivo para o desânimo terminal.",
+    "title": "Capitalismo carne podre",
+    "category": "colunas",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/colunas/viniciustorres/2017/03/1867798-capitalismo-carne-podre.shtml"
+}

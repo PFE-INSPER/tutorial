@@ -1,0 +1,201 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 4984,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.312588,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "CONTROLE Veja dicas",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.608114,
+                "count": 1
+            },
+            {
+                "text": "nova área",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.597999,
+                "count": 1
+            },
+            {
+                "text": "zona de conforto",
+                "sentiment": {
+                    "score": 0.788357,
+                    "label": "positive"
+                },
+                "relevance": 0.579696,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Duration",
+                "text": "um ano",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.949473,
+                "count": 2,
+                "confidence": 0.767665
+            },
+            {
+                "type": "Person",
+                "text": "José Augusto Minarelli",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.900057,
+                "disambiguation": {
+                    "name": "José_Augusto_Minarelli",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/José_Augusto_Minarelli"
+                },
+                "count": 1,
+                "confidence": 0.974058
+            },
+            {
+                "type": "Organization",
+                "text": "CEO da consultoria Lens & Minarelli",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.895631,
+                "count": 1,
+                "confidence": 0.23582
+            },
+            {
+                "type": "Person",
+                "text": "Beatriz Maria Braga",
+                "sentiment": {
+                    "score": 0.788357,
+                    "label": "positive"
+                },
+                "relevance": 0.81417,
+                "count": 1,
+                "confidence": 0.978126
+            },
+            {
+                "type": "JobTitle",
+                "text": "professora de Gestão de Pessoas",
+                "sentiment": {
+                    "score": 0.788357,
+                    "label": "positive"
+                },
+                "relevance": 0.809997,
+                "count": 1,
+                "confidence": 0.245667
+            },
+            {
+                "type": "Organization",
+                "text": "FGV-EAESP",
+                "sentiment": {
+                    "score": -0.609296,
+                    "label": "negative"
+                },
+                "relevance": 0.806278,
+                "count": 1,
+                "confidence": 0.348415
+            },
+            {
+                "type": "Person",
+                "text": "William Gomes",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.77663,
+                "count": 1,
+                "confidence": 0.995102
+            },
+            {
+                "type": "JobTitle",
+                "text": "gerente regional de vendas",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.77258,
+                "count": 1,
+                "confidence": 0.286887
+            },
+            {
+                "type": "Organization",
+                "text": "VivaReal",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.766204,
+                "count": 1,
+                "confidence": 0.325009
+            },
+            {
+                "type": "Duration",
+                "text": "19 anos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.764045,
+                "count": 1,
+                "confidence": 0.382599
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Conhecimento",
+                "relevance": 0.946423,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Conhecimento"
+            },
+            {
+                "text": "Gestão de recursos humanos",
+                "relevance": 0.933815,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Gestão_de_recursos_humanos"
+            },
+            {
+                "text": "Thaeme Mariôto",
+                "relevance": 0.920182,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Thaeme_Mariôto"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.824946,
+                "label": "/education/homework and study tips"
+            },
+            {
+                "score": 0.800482,
+                "label": "/business and industrial/business operations/management/business process"
+            },
+            {
+                "score": 0.736121,
+                "label": "/education/studying business"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.509307
+    },
+    "text": "CAROLINA MUNIZ COLABORAÇÃO PARA A FOLHA  Desempenhar bem uma função hoje não é garantia de sucesso no futuro. É preciso continuar se aprimorando, porque ficar parado no trabalho é o mesmo que andar para trás. É o que afirmam especialistas em vida profissional.  \"A carreira deve ser encarada como uma escada rolante que só desce. Para conseguir subi-la, não dá para parar. É preciso estar em aprendizado constante\", diz José Augusto Minarelli, CEO da consultoria Lens & Minarelli.  Segundo o especialista, o processo de renovação é cíclico. Entra-se em uma nova área ou posição, vêm os desafios, que levam ao desenvolvimento, e, então, chega a estabilidade e a rotina.  Enquanto uns tomam a iniciativa de começar um novo ciclo, outros permanecem em piloto automático. \"A tendência humana é se acomodar no que conhece bem, mas quem faz sempre mais do mesmo involui\", afirma ele.  Ficar um pouco na zona de conforto pode ser bom para consolidar o conhecimento e gerar menos estresse, na opinião de Beatriz Maria Braga, professora de Gestão de Pessoas da FGV-EAESP. \"O problema é quando a pessoa estaciona\", afirma. \"A luz amarela deve acender ao começar a perceber que não há mais nada a aprender onde está.\"  Desde cedo, essa é a máxima de William Gomes, 30, gerente regional de vendas do portal imobiliário VivaReal. Aos 19 anos, ele iniciou a carreira como representante comercial de pequenas marcas de roupas e calçados.  Depois de um ano, quis ampliar sua área de atuação. Mandou currículo para mais de 150 empresas, sem sucesso. Ao perguntar a uma recrutadora, descobriu que o entrave era a ausência de graduação -ele tinha apenas um curso de tecnólogo. Guardou dinheiro para estudar e entrou em marketing na USP.  Começou como estagiário em uma consultoria de vendas. Após quatro meses, pediu para assumir mais tarefas e, em pouco tempo, se tornou consultor júnior.  E viu que, além da cuidar da parte de planejamento das empresas, queria participar da execução dos projetos. \"Eu sabia como iria ser o começo, o meio e o fim de cada cliente. Isso me impulsionou a mudar\", conta William.  Em 2012, entrou como executivo de vendas no VivaReal, uma start-up à época. Desde então, já passou por diferentes setores e funções.  Hoje, comanda um time de 30 vendedores e três gerentes. \"As pessoas esperam um plano de carreira feito pela empresa, mas quem tem que cuidar dela é você\", diz.  Adriana Gomes, professora de Gestão de Carreiras na pós-graduação da ESPM, concorda. \"O comodismo vem de aguardar que a empresa dê o primeiro passo\", afirma.  Para ela, não se deve esperar ficar insatisfeito para começar a se planejar.\"A atualização, com cursos e treinamentos, deve ser constante.\"  TEMPO DE CASA  Se no passado o profissional que ficava décadas numa mesma empresa era valorizado, hoje ele pode ser visto como acomodado e com pouca variedade de vivências.  Isso até é verdade à medida que o funcionário se sente entediado, não encontra possibilidade para novos desafios dentro da organização e tem medo de procurar uma colocação fora dali.  Porém é possível se reinventar dentro da mesma casa. \"Estabilidade é diferente de comodismo\", afirma a psicóloga Myrt Cruz, professora da PUC-SP.  \"Já vi pessoas que quiseram deixar a empresa depois de três meses porque não haviam sido promovidas\", afirma. \"É preciso tempo para criar engajamento e solidez.\"  Profissional de marketing, Daniela Veiga, 42, se encontrou no ramo farmacêutico. Há sete anos trabalha na Boehringer Ingelheim e, antes disso, ficou 12 anos em outra companhia do setor.  Nesse período, ela já atuou no marketing de medicamentos de diferentes áreas. Em 2014, se tornou líder global de um produto na Alemanha, sede da Boehringer. Há quase um ano, voltou para o Brasil para assumir um novo departamento.  \"Fiquei um bom tempo nas duas empresas, mas nunca permaneci muito tempo na mesma função. Tem gente que pode passar por dez lugares diferentes e executar exatamente a mesma tarefa em todos\", afirma.  *  NO CONTROLE Veja dicas para sair da zona de conforto  INOVAÇÃO Sempre há um jeito diferente de desempenhar a mesma tarefa. Não se acomode em repetir procedimentos e entregar o mínimo esperado. Esteja aberto para novidades  APRIMORAMENTO Não espere que a empresa crie um novo treinamento para você voltar a estudar. Com o tempo, os conhecimentos da faculdade são esquecidos ou superados  PLANEJAMENTO Pense em onde quer estar daqui alguns anos e pesquise o que é necessário para atingir seu objetivo. Trace metas de curto e longo prazo  MUDANÇA Não espere ficar insatisfeito para mudar. Se perceber que só irá repetir tudo o que aprendeu é melhor buscar novas possibilidades dentro ou fora da empresa  ADAPTAÇÃO Procure conhecer bem a função ou área da empresa para qual quer mudar. Mostre interesse e capacidade para assumir novos desafios  TRANSIÇÃO Se não vê perspectivas na empresa, acione sua rede de contatos e comunique o desejo por uma nova colocação. Seja claro sobre suas expectativas e competências",
+    "title": "\n\t\tPara não ficar parado, profissional deve criar seu plano de carreira\n\t\t",
+    "category": "sobretudo",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/sobretudo/carreiras/2017/03/1867592-para-nao-ficar-parado-profissional-deve-criar-seu-plano-de-carreira.shtml"
+}

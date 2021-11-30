@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 3617,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.715977,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "Jair Bolsonaro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.674457,
+                "count": 1
+            },
+            {
+                "text": "ano seguinte",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.627338,
+                "count": 1
+            },
+            {
+                "text": "maiores héteros",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.594357,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Organization",
+                "text": "PSC",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.951809,
+                "count": 9,
+                "confidence": 1
+            },
+            {
+                "type": "Person",
+                "text": "Bolsonaro",
+                "sentiment": {
+                    "score": -0.654983,
+                    "label": "negative"
+                },
+                "relevance": 0.820141,
+                "count": 6,
+                "confidence": 1
+            },
+            {
+                "type": "Person",
+                "text": "Rey",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.608192,
+                "count": 3,
+                "confidence": 0.999996
+            },
+            {
+                "type": "Percent",
+                "text": "10%",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.604123,
+                "count": 2,
+                "confidence": 0.96
+            },
+            {
+                "type": "Date",
+                "text": "2014",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.546654,
+                "count": 3,
+                "confidence": 0.998966
+            },
+            {
+                "type": "Organization",
+                "text": "Partido Social Cristão",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.495315,
+                "count": 1,
+                "confidence": 0.74107
+            },
+            {
+                "type": "Facility",
+                "text": "Assembleia Legislativa de São Paulo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.484796,
+                "count": 1,
+                "confidence": 0.502021
+            },
+            {
+                "type": "Facility",
+                "text": "Hotel California",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.477835,
+                "count": 1,
+                "confidence": 0.776388
+            },
+            {
+                "type": "Person",
+                "text": "Marco Feliciano",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.470721,
+                "count": 1,
+                "confidence": 0.984236
+            },
+            {
+                "type": "Person",
+                "text": "Jair Bolsonaro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.468656,
+                "count": 1,
+                "confidence": 0.992134
+            }
+        ],
+        "concepts": [
+            {
+                "text": "São Paulo",
+                "relevance": 0.991383,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Partido Social Cristão",
+                "relevance": 0.991288,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Partido_Social_Cristão"
+            },
+            {
+                "text": "Partido Comunista do Brasil",
+                "relevance": 0.991255,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Partido_Comunista_do_Brasil"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.858222,
+                "label": "/law, govt and politics"
+            },
+            {
+                "score": 0.816721,
+                "label": "/law, govt and politics/politics/political parties"
+            },
+            {
+                "score": 0.741092,
+                "label": "/law, govt and politics/politics/elections"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.6699800000000001
+    },
+    "text": "Em 2014, o PSC (Partido Social Cristão) era uma festa.  A sigla realizava sua convenção nacional na Assembleia Legislativa de São Paulo. Lá fora, caixas de som tocavam \"Hotel California\". Dentro, uma selfie reunia dois deputados, Marco Feliciano e Jair Bolsonaro, e o candidato à Câmara Dr. Rey.  \"Os dois maiores héteros e o homem que toca todas as mulheres [o cirurgião plástico Rey]\", bradava Feliciano no salão.  Do trio, só Bolsonaro não era filiado ao PSC –ainda. No ano seguinte, ele trocou o PP pelo partido, que já abrigava um de seus filhos, Eduardo, deputado que nem o pai.  A festa acabou. Potenciais puxadores de votos da legenda, Bolsonaro e Feliciano já articulam o divórcio eleitoral (após perder em 2014 e declarar que \"o Brasil preferiu os mesmos malandros de sempre\", Dr. Rey deixou a sigla).  Pré-candidato à Presidência, o primeiro foi o deputado mais votado no Rio em 2014 (465 mil votos). O segundo teve a terceira melhor colocação no pleito paulista (398 mil).  Junto com o pai debandariam também três Bolsonaros. O primogênito Flávio se candidatou a prefeito carioca e, mesmo terminando no quarto lugar, teve desempenho acima do esperado (14%, contra 10% projetados pelo Ibope).  Também em 2016, o caçula Carlos virou o vereador mais votado no Rio (106 mil eleitores). E Eduardo, dois anos antes, ganhou 82 mil votos em São Paulo e garantiu vaga na Câmara ao lado do pai, estendendo a base fluminense do clã para o Estado vizinho.  Bolsonaro já deixou claro que não fica no PSC. Tinha um pré-acordo com o partido, conta: se conseguisse 10% das intenções de voto para a corrida presidencial de 2018, \"a legenda seria minha\". Apareceu com quase isso: 9% em pesquisa Datafolha de dezembro.  Ele se diz decepcionado com a aliança no Maranhão, em 2016, entre o partido e o governo de Flávio Dino, do PC do B –o Partido Comunista do Brasil, que seria inconciliável com sua ideologia de direita.  Notícias da parceria foram ilustradas com foto em que o presidente do PSC, pastor Everaldo, posa ao lado de Dino e de um retrato da então presidente Dilma Rousseff. Ao votar a favor do impeachment da petista, em abril passado, Bolsonaro disse que o fazia \"pela memória\" do \"pavor de Dilma\", o coronel Carlos Brilhante Ustra, que a torturou na ditadura.  A Folha apurou que Feliciano vê o PSC balançado e conversa com outros partidos. Questionado, ele só afirma que sua intenção é se candidatar ao Senado em 2018. Diz considerar o momento propício a conservadores como ele. \"E minha rejeição vem de um grupo pequeno, os gays.\"  Segundo Bolsonaro, com essas defecções à vista, o PSC arrisca cair na \"zona de rebaixamento\" se a cláusula de barreira vingar. Refere-se à lei, em votação no Senado, que estrangularia partidos nanicos ao limitar dinheiro do fundo partidário às siglas incapazes de obter 2% dos votos totais para a Câmara.  Em fevereiro, o PSC teve direito a R$ 1,5 milhão em verbas do fundo (PT, com o maior aporte, abocanhou R$ 7,6 milhões), segundo o TSE (Tribunal Superior Eleitoral).  Nome do partido em maior evidência no jogo interno da política, o líder do governo na Câmara, André Moura (PSC-SE), relativiza uma eventual deserção dos colegas. \"É lógico que a gente gostaria muito que eles ficassem, mas o PSC tem um planejamento forte para 2018 –eleger deputados em todos os Estados.\"  O próprio Moura, contudo, está sendo cortejado por dirigentes do PMDB, segundo a coluna \"Painel\".  O presidente do partido diz desconhecer uma insatisfação de Feliciano. Sobre Bolsonaro, \"as torcidas do Flamengo e do Botafogo estão sabendo do problema dele [com a gente]\", afirma o pastor Everaldo.",
+    "title": "'Popstars' Feliciano e Bolsonaro estudam deixar Partido Social Cristão",
+    "category": "poder",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/poder/2017/03/1867654-popstars-feliciano-e-bolsonaro-estudam-deixar-partido-social-cristao.shtml"
+}

@@ -1,0 +1,201 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 8219,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.651607,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "ITÁLIA Preço",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.597227,
+                "count": 1
+            },
+            {
+                "text": "organização da cerimônia",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.583657,
+                "count": 1
+            },
+            {
+                "text": "casamentos do lado",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.579789,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Number",
+                "text": "35 mil",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.948802,
+                "count": 2,
+                "confidence": 0.96
+            },
+            {
+                "type": "Location",
+                "text": "Toscana",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.943847,
+                "count": 2,
+                "confidence": 0.944791
+            },
+            {
+                "type": "JobTitle",
+                "text": "músicos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.74766,
+                "count": 3,
+                "confidence": 0.990448
+            },
+            {
+                "type": "Money",
+                "text": "R$ 115 mil",
+                "sentiment": {
+                    "score": -0.665773,
+                    "label": "negative"
+                },
+                "relevance": 0.708256,
+                "count": 1,
+                "confidence": 0.989466
+            },
+            {
+                "type": "GeographicFeature",
+                "text": "praias do Caribe",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.692676,
+                "count": 1,
+                "confidence": 0.380399
+            },
+            {
+                "type": "Facility",
+                "text": "Fazenda Lageado",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.689478,
+                "disambiguation": {
+                    "name": "Fazenda_Lageado",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/Fazenda_Lageado"
+                },
+                "count": 2,
+                "confidence": 0.930696
+            },
+            {
+                "type": "Person",
+                "text": "Fernanda Suplicy",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.684063,
+                "count": 1,
+                "confidence": 0.992808
+            },
+            {
+                "type": "Date",
+                "text": "século 19",
+                "sentiment": {
+                    "score": 0.777578,
+                    "label": "positive"
+                },
+                "relevance": 0.682902,
+                "count": 2,
+                "confidence": 0.872871
+            },
+            {
+                "type": "Organization",
+                "text": "Yes Wedding",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.682442,
+                "count": 1,
+                "confidence": 0.44681
+            },
+            {
+                "type": "GeographicFeature",
+                "text": "praia de Trancoso",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.670059,
+                "count": 1,
+                "confidence": 0.8586
+            }
+        ],
+        "concepts": [
+            {
+                "text": "São Paulo",
+                "relevance": 0.995229,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Mar do Caribe",
+                "relevance": 0.964693,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Mar_do_Caribe"
+            },
+            {
+                "text": "DJ",
+                "relevance": 0.933811,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/DJ"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.868878,
+                "label": "/society/social institution"
+            },
+            {
+                "score": 0.868878,
+                "label": "/society/social institution/marriage"
+            },
+            {
+                "score": 0.808057,
+                "label": "/society/social institution/marriage/weddings"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.7481671666666666
+    },
+    "text": "PRISCILA CAMAZANO DE SÃO PAULO  Imagine a cena: um vasto campo de vegetação verdinha, ar puro e o pôr do sol ao fundo colorindo o céu de laranja. Agora, o melhor: trocar ali alianças e juras de amor para o resto da vida.  Para realizar um sonho desses, precisa colocar a mão (bem funda) no bolso. A locação de um ambiente sob o sol da Toscana, por exemplo, não sai por menos de € 35 mil (cerca de R$ 115 mil). É caro? Depende de quanto vale o seu sonho.    Conforme você pode conferir nas páginas que seguem, há opções para diferentes gostos e orçamentos no Brasil e no exterior.  \"Cenários paradisíacos, como as praias do Caribe, ou mais agitados, como Ibiza, estão entre os preferidos dos noivos brasileiros\", explica a empresária Fernanda Suplicy, 39, do Yes Wedding, especializado no tema. \"A escolha depende muito do estilo e desejo dos noivos. Itália e França também são lugares muito procurados\", diz ela, que aponta a praia de Trancoso, no sul da Bahia, como uma das \"queridinhas\" quando o assunto é \"destination wedding\" no Brasil.  Outro hit entre os casamentos do lado de cá do Atlântico são as fazendas coloniais, onde as celebrações são, geralmente, realizadas a céu aberto. \"Tanto as do século 18, da época dos bandeirantes, quanto as do século 19, do período cafeeiro, oferecem ambientes ideias para casamentos\", explica Josias Cordeiro Jr., diretor da Fazenda Lageado, em Bragança Paulista.  São cenários assim que fazem de uma festa de casamento um evento inesquecível.  Além de celebrar a união ao lado de parentes e amigos, é uma oportunidade de realizar uma viagem com os convidados, que com certeza ficará marcada na memória por toda a vida.  *  ITÁLIA Preço: a partir de € 1.000 por convidado A famosa \"bota\", um dos berços da civilização ocidental, está entre os destinos mais procurados dos pombinhos que decidem oficializar a união na Europa. Para quem resolver dizer o \"sim\" em terras italianas, o pacote oferece serviço personalizado que inclui a organização da cerimônia, que pode ser simbólica ou religiosa, logística, maquiagem e cabelo da noiva, fotos, músicos, alimentação, bebidas, decoração e outros. Mínimo 30 convidados  Wedding Luxe (wedding-luxe.com ), e-mail: info@wedding-luxe.com (atendimento com hora marcada)  *  RESORT EM CANCÚN Preço: a partir de US$ 999 Península localizada na Cidade do México, rodeada por praias de areia branquinha e águas cristalinas, típicas do mar do Caribe, é um dos pontos turísticos mais badalados da região. O valor refere-se somente ao pacote de casamento que inclui um gerente dedicado ao casamento que irá cuidar de todos os detalhes até a realização da cerimônia.  AM Resorts (amresorts.com ), tel. 3171-3899 ramal 13, e-mail: amresorts@imaginadora.com.br  *  HOTEL EM CANCÚN Preço: a partir de R$ 8.499 (casal) Inclui aéreo, cinco noites de hospedagem em apto. duplo e \"all inclusive\", traslados, assistência de um coordenador de eventos, cerimônia, certificado simbólico, buquê, bolo e decoração na suíte  Senses Cancún (sensescancun.com.br ), tel. 3579-8603  *  PRAIA NA RIVIERA MAYA Preço: 10% do valor do evento Areia branca, mar azul-turquesa, recifes de corais e vestígios da civilização maia são algumas das riquezas da Riviera Maya, no México. Os noivos que optarem pelo serviço terão disponível a organização e logística de todo o casamento, como: aéreo, decoração, festa, fotógrafo, DJs, músicos, maquiador e reservas de hotéis, entre outros. Além do tradicional casamento, a empresa também organiza cerimônia a dois e celebrações em outros 16 destinos, como Trancoso (BA)  Aonde Casar (aondecasar.com.br ), tel. (21) 9 8444-8233, e-mail: contato@aondecasar.com.br  *  RESORT NAS ILHAS SEYCHELLES Preço: a partir de € 64.536 (casal) Para o casal que optar por esse paraíso localizado no oceano Índico, formado por 115 ilhas de areia branca e águas claras, o pacote inclui o penteado da noiva, maquiagem, massagem, serviço de alfaiataria, costura e tinturaria para os noivos, buquê, flor de lapela, coordenador para a decoração da festa, bolo, jantar romântico na praia para o casal, cerimônia civil, certidão de casamento, serviço de fotografia e filmagem, entre outros  Teresa Perez Tours (teresaperez.com.br ), tel. 3799-4000  *  HOTEL EM LISBOA A partir de € 12.700 Que tal jurar viver juntos para sempre até que a morte nos separe na capital portuguesa, em meio a castelos, palácios e mosteiros? O pacote para os pombinhos que optarem por Lisboa irá garantir o local da cerimônia, o coquetel, o jantar, a decoração de centro para mesas, o bolo, o DJ e o equipamento de som, entre outros. Tudo isso, para até 60 convidados  Riva Turismo (riva.tur.br ), tel. 2307-0516  *  VILA ROMÂNTICA NA TOSCANA A partir de € 35 mil O pacote para até cem convidados inclui um \"wedding planner\", a locação de uma vila romântica na região de Turim ou na Toscana, decoração, flores, celebrante em português, músicos, dj e banquete, entre outros  Cinqtours Viagens e Turismo (cinqtours.com.br ), tel. 5093-6305  *  ECORESORT NA PRAIA DO FORTE Preço: a partir de R$ 100 mil Um dos destinos mais procurados da Linha Verde -trecho do litoral baiano que leva até o norte de Salvador- é uma boa pedida para quem deseja realizar a cerimônia em um visual praiano. O pacote inclui somente a locação do espaço, mas o hotel oferece bufê com bebidas e indica fornecedores de decoração, cerimonialista, sonorização, fotografia e bolo, entre outros. Devem ser ocupados no mínimo 75 aptos, com diária a partir de R$ 1.215 que inclui café da manhã e jantar  Tivoli Ecoresort Praia do Forte (tivolihotels.com ), tel. (71) 3676-4000  *  HOTEL EM CAMBURI Preço: a partir de R$ 114.240 Localizado em São Sebastião, litoral norte de São Paulo, em uma praia paradisíaca, o hotel oferece somente a locação do espaço mais 13 suítes para a realização da cerimônia. O valor refere-se a festa para até cem convidados, por três noites, mas é possível também realizar \"miniweddings\" e casamentos para até 400 pessoas. A cerimônia pode ser realizada no deque em frente ao mar; na areia, com autorização de uso do espaço público pela prefeitura e marinha; ou na capela, que fica a 150 metros do hotel  Hotel Boutique Nau Royal (nauroyal.com.br ), tel. (12) 3865-4486 / 3865-4210  *  HOTEL EM PUNTA CANA Preço: a partir de R$ 4.254,82 (casal) O pacote inclui cerimônia em frente ao mar, decoração, buquê, flor de lapela, bolo, música, serviço de coordenador de casamento, jantar em um restaurante à la carte com menu pré-estabelecido para 10 clientes. (acima disso, haverá custo, garrafa de champagne, cesta de frutas de boas vindas, entre outros. São cinco noites em apto. duplo e sistema \"all inclusive\".  CVC (cvc.com.br ), tel. 3003-9282  *  FAZENDAS  BANDEIRISTA (Itu - SP) A partir de R$ 153.719 De arquitetura bandeirista de meados de 1750, do período de engenho de açúcar, a fazenda abriga um casarão construído em taipa de pilão. Com uma capela em suas dependências oferece somente a locação do espaço para a realização das cerimônias. Com 36 chalés à disposição dos convidados, inclui pensão completa com culinária tipicamente brasileira, saunas e piscina, entre outros  Fazenda Capoava (fazendacapoava.com.br ), tel. 2118-4100  *  CICLO DO OURO (Bragança Paulista - SP) A partir de R$ 15 mil Para quem deseja realizar a cerimônia de casamento a céu aberto com o contato direto com a natureza a fazenda construída em 1780, no fim do Ciclo do Ouro, antes mesmo que o café dominasse a economia do país, é uma opção. O pacote inclui somente a locação do espaço. Para os noivos e seus familiares há a possibilidade de hospedagem, para até 8 pessoas, porém o valor é a parte  Fazenda Lageado (fazendalageado.com.br ), tel. 99985-1213  *  SESMARIA (Mairinque - SP) A partir de R$ 27 mil A fazenda localizada próxima à cidade de Itu, no interior de São Paulo, abriga um casarão que data do século 19. Um belo cenário para a realização de uma cerimônia romântica. O pacote válido para até 150 convidados contempla somente a locação do espaço, mas tem capacidade para receber mais de 300. A fazenda oferece os serviços de fotógrafo, cerimonialista e decoração, entre outros, porém o valor é a parte  Fazenda Dona Catarina (fazendadonacatarina.com ), tel. 3071-3655 / 4112-3103",
+    "title": "Vilas e fazendas coloniais estão entre as novidades do destination wedding",
+    "category": "o-melhor-de-sao-paulo",
+    "data": "2017-03-18",
+    "link": "http://www1.folha.uol.com.br/o-melhor-de-sao-paulo/noivas-e-casamentos/2017/03/1867543-vilas-e-fazendas-coloniais-estao-entre-as-novidades-do-destination-wedding.shtml"
+}

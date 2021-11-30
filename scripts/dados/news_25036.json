@@ -1,0 +1,201 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 5153,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.565541,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "principais desafios da Colômbia",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.596965,
+                "count": 1
+            },
+            {
+                "text": "área de produção",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.592087,
+                "count": 1
+            },
+            {
+                "text": "planta de coca",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.5634,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Organization",
+                "text": "governo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.951486,
+                "count": 7,
+                "confidence": 1
+            },
+            {
+                "type": "Location",
+                "text": "Colômbia",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.537063,
+                "disambiguation": {
+                    "name": "Colômbia",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/Colômbia"
+                },
+                "count": 3,
+                "confidence": 0.99999
+            },
+            {
+                "type": "Person",
+                "text": "Rafael Pardo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.506056,
+                "count": 1,
+                "confidence": 0.997505
+            },
+            {
+                "type": "Organization",
+                "text": "Alto Conselheiro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.504519,
+                "count": 1,
+                "confidence": 0.298028
+            },
+            {
+                "type": "Date",
+                "text": "começo da semana",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.501012,
+                "count": 1,
+                "confidence": 0.38494
+            },
+            {
+                "type": "Location",
+                "text": "Viena",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.49771,
+                "count": 1,
+                "confidence": 0.955322
+            },
+            {
+                "type": "Organization",
+                "text": "Farc",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.492776,
+                "count": 2,
+                "confidence": 0.859502
+            },
+            {
+                "type": "Organization",
+                "text": "Farc (Forças Armadas Revolucionárias da Colômbia",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.471836,
+                "count": 1,
+                "confidence": 0.304464
+            },
+            {
+                "type": "Date",
+                "text": "dezembro de 2016",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.467718,
+                "count": 1,
+                "confidence": 0.95175
+            },
+            {
+                "type": "Date",
+                "text": "semana passada",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.411826,
+                "count": 1,
+                "confidence": 0.887889
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Forças Armadas Revolucionárias da Colômbia",
+                "relevance": 0.995051,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Forças_Armadas_Revolucionárias_da_Colômbia"
+            },
+            {
+                "text": "Colômbia",
+                "relevance": 0.992604,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Colômbia"
+            },
+            {
+                "text": "América Latina",
+                "relevance": 0.982138,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/América_Latina"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.923621,
+                "label": "/business and industrial/agriculture and forestry/crops and seed"
+            },
+            {
+                "score": 0.812861,
+                "label": "/law, govt and politics"
+            },
+            {
+                "score": 0.783864,
+                "label": "/society"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.6308367500000001
+    },
+    "text": "\"Enquanto houver uma planta de coca, alguém virá atrás dela. Um bandido, uma gangue ou um cartel, é por isso que reduzir a área de produção é um dos principais desafios da Colômbia\", disse Rafael Pardo, o Alto Conselheiro para o Pós-Conflito, no começo da semana, em conferência da ONU, em Viena.  Após a entrada da maioria dos ex-guerrilheiros nas zonas de segurança designadas pelo Estado, o início da entrega de armas e a aprovação da criação dos tribunais especiais, inicia-se uma das fases mais importantes da implementação do acordo de paz entre o governo e as Farc (Forças Armadas Revolucionárias da Colômbia), aprovado em dezembro de 2016.  Trata-se de combater o aumento do território dedicado a áreas de cultivo de coca para a produção de cocaína, provocado por uma decisão do governo, em 2014, de parar com a fumigação das plantações ilegais.  Na ocasião, o governo atendeu a um pedido das Farc e dos camponeses, por conta dos danos causados à saúde pelos produtos químicos utilizados na fumigação.  O governo também acaba de pôr em marcha um plano para fazer acordos com os camponeses que antes produziam coca para fornecer à guerrilha. A ideia é que aceitem a substituição por outro tipo de cultivo.  Segundo relatório divulgado pelos EUA na semana passada e acatado pelo Ministério da Defesa colombiano, hoje há no país 188 mil hectares destinados a esse cultivo ilícito. É um número elevado ainda quando comparado a outros grandes produtores da região, como Peru (53 mil hectares) e Bolívia (36,5 mil).  COCA NA COLÔMBIA - Situação atual, em %  Segundo Pardo, o objetivo inicial será propor a troca aos cultivadores. Os que aceitarem, receberão estímulos financeiros do governo. Os que não, terão as plantações destruídas pelo Exército.  MACONHA  Como em outros programas de substituição pelo mundo, há resistência dos camponeses colombianos em deixar um negócio lucrativo para passar a plantar tomates, bananas, café, ou seja, produtos menos rentáveis.  Por isso, uma das opções do governo é estimular a produção de maconha para uso medicinal, de olho no mercado interno e na legalização da droga em Estados americanos e países europeus.  Para isso, em 2015, o Congresso aprovou uma lei proposta pelo Executivo para liberar a produção de maconha para fins medicinais. No começo deste ano, o governo começou a distribuir licenças para grupos estrangeiros e cooperativas locais.  A ideia é produzir cremes, azeite, gel e pastilhas de maconha com o objetivo de tratar os sintomas de pessoas que sofrem de artrite, epilepsia, mal de Alzheimer e outras doenças.  \"É uma oportunidade para que a Colômbia tenha mais um instrumento para reconstruir sua economia neste período de pós-conflito\", diz o ministro da Saúde, Alejandro Gaviria.  Para o professor Hernando Zuleta, diretor do centro de estudo de drogas da Universidad de los Andes, de Bogotá, \"o projeto tem base científica, pode ajudar os doentes, pode facilitar o diálogo do Estado com os produtores de coca e oferecer-lhes um novo negócio\", disse à Folha.  O especialista, porém, faz algumas ressalvas. \"Há diferenças na composição e no modo de produção da maconha medicinal, ou seja, quem produz maconha para vender para usuários recreativos talvez ainda veja mais lucro nesse mercado\", diz.  GUERRA ÀS DROGAS  O presidente Juan Manuel Santos vem dizendo que a \"guerra às drogas\" não funcionou. Em seu discurso de recebimento do Nobel da Paz, em outubro, afirmou que havia chegado a hora de a América Latina \"reformular a luta contra o narcotráfico\".  Porém, além da legalização da maconha medicinal, Santos não estimulou a criação de novas leis.  \"Percebe-se que Santos quer colocar essa agenda da legalização para a sociedade. Mas isso corre perigo caso a oposição vença as próximas eleições\", disse Zuleta.  COCA NA COLÔMBIA - Projeto original do governo, em %  Em 2018, haverá eleições presidenciais e legislativas na Colômbia. O principal opositor de Santos é o ex-presidente Álvaro Uribe, crítico ferrenho do acordo de paz e da legalização das drogas.  Nem Santos nem Uribe estão aptos para concorrer ao cargo, mas seus escolhidos para a corrida eleitoral defenderão suas bandeiras.  GOVERNO  Apesar de afirmar que o Exército colombiano está vigilante com relação aos territórios deixados pelas Farc em seu caminho às zonas de segurança, o ministro da Defesa, Luis Carlos Villegas, disse que \"ainda há dificuldades em algumas áreas\", referindo-se a Catatumbo e a localidades dos departamentos de Cauca, Chocó e Nariño.  Nesses lugares, foram identificadas associações entre guerrilheiros que não se entregaram —estima-se que sejam cerca de 400 a 600— a criminosos.  A incorporação de dissidentes das Farc aos bandos existentes provocou novas disputas por territórios, e um pesadelo que remonta ao começo da guerra voltou a ocorrer: mais famílias tiveram de deslocar-se, abandonando suas casas em direção aos centros urbanos.  Segundo a ONG Insight Crime, especializada em monitorar grupos armados, também há indicativos de que membros do ELN (Exército de Libertação Nacional), que negocia a paz com o Estado, tomaram redes de tráfico e de extorsão que antes pertenciam às Farc.",
+    "title": "Cultivo de maconha medicinal se torna alternativa à coca na Colômbia",
+    "category": "mundo",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/mundo/2017/03/1867812-cultivo-de-maconha-medicinal-se-torna-alternativa-a-coca-na-colombia.shtml"
+}

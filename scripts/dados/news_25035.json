@@ -1,0 +1,131 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 1392,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.78833,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "professora do curso de biomedicina",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.734706,
+                "count": 1
+            },
+            {
+                "text": "edições do Bom Proveito",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.676487,
+                "count": 1
+            },
+            {
+                "text": "lixo comum",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.670737,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Person",
+                "text": "PAULO  Dyana Henriques",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.95577,
+                "count": 1,
+                "confidence": 0.692457
+            },
+            {
+                "type": "Facility",
+                "text": "Centro Universitário São Camilo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.921967,
+                "count": 1,
+                "confidence": 0.65276
+            },
+            {
+                "type": "JobTitle",
+                "text": "professora",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.409212,
+                "count": 1,
+                "confidence": 0.954457
+            },
+            {
+                "type": "Person",
+                "text": "Banana",
+                "sentiment": {
+                    "score": -0.909041,
+                    "label": "negative"
+                },
+                "relevance": 0.363118,
+                "count": 1,
+                "confidence": 0.721078
+            }
+        ],
+        "concepts": [
+            {
+                "text": "São Paulo",
+                "relevance": 0.993551,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Alimento",
+                "relevance": 0.991274,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Alimento"
+            },
+            {
+                "text": "Tomate",
+                "relevance": 0.93552,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Tomate"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.996601,
+                "label": "/food and drink/food"
+            },
+            {
+                "score": 0.886007,
+                "label": "/food and drink/food/condiments and dressings"
+            },
+            {
+                "score": 0.849435,
+                "label": "/food and drink/desserts and baking"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.666574
+    },
+    "text": "DE SÃO PAULO  Dyana Henriques, professora do curso de biomedicina do Centro Universitário São Camilo, explica quais alimentos não devem ser guardados na geladeira.  *  ALIMENTOS LACRADOS Enlatados e embalagens fechadas, como ketchup e maionese, ainda não tiveram contato com o ambiente externo, não serão contaminados se ficarem fora do refrigerador.  FRUTAS E RAÍZES Cada caso é um caso. Banana reage mal ao frio e fica com a casa escurecida quando está na geladeira. Já batata e tomate, quando são refrigerados, produzem a toxina solanina, que os deixam com manchas esverdeadas. Os alimentos devem ser mantidos em ambiente sem luz, mas arejado.  TEMPEROS No frio, cebola e alho ressecam e ficam murchos mais rápido. Só precisam ser guardados na geladeira depois de descascados.  MEL É um alimento que, por si só, já tem ação bactericida. Quando vai para a geladeira, cristaliza mais rapidamente.  PÃO DE FORMA Só deve ser mantido no refrigerador se o prazo de validade estiver perto de vencer.  *  Veja outras edições do Bom Proveito:  Baterias, lâmpadas e remédios não devem ser jogados em lixo comum Veja como controlar o amadurecimento de frutas Conheça os principais problemas de plantas Nutricionistas ensinam a preparar, resfriar e armazenar comida pronta Saiba como reduzir o consumo de energia do ar-condicionado no verão Eletrodomésticos antigos devem ser recolhidos por fabricante",
+    "title": "\n\t\tNutricionista explica quais alimentos não devem ser guardados na geladeira\n\t\t",
+    "category": "sobretudo",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/sobretudo/vida-pratica/2017/03/1867564-nutricionista-explica-quais-alimentos-nao-devem-ser-guardados-na-geladeira.shtml"
+}

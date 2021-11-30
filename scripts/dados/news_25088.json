@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 2437,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.417633,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "entrada de Renan Ribeiro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.688433,
+                "count": 1
+            },
+            {
+                "text": "meta do São Paulo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.66747,
+                "count": 1
+            },
+            {
+                "text": "primeiros anos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.642253,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Person",
+                "text": "Renan Ribeiro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.950806,
+                "count": 4,
+                "confidence": 1.0
+            },
+            {
+                "type": "Person",
+                "text": "Rogério Ceni",
+                "sentiment": {
+                    "score": -0.530992,
+                    "label": "negative"
+                },
+                "relevance": 0.571034,
+                "count": 3,
+                "confidence": 0.999986
+            },
+            {
+                "type": "Organization",
+                "text": "São Paulo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.505885,
+                "count": 2,
+                "confidence": 0.852888
+            },
+            {
+                "type": "Organization",
+                "text": "Ituano",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.480012,
+                "count": 3,
+                "confidence": 0.999197
+            },
+            {
+                "type": "Date",
+                "text": "sábado (18",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.45051,
+                "count": 1,
+                "confidence": 0.386634
+            },
+            {
+                "type": "Organization",
+                "text": "Campeonato Paulista",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.435214,
+                "count": 1,
+                "confidence": 0.85043
+            },
+            {
+                "type": "Person",
+                "text": "Sidão",
+                "sentiment": {
+                    "score": -0.499238,
+                    "label": "negative"
+                },
+                "relevance": 0.431345,
+                "count": 2,
+                "confidence": 0.999998
+            },
+            {
+                "type": "Person",
+                "text": "Wellington Simião",
+                "sentiment": {
+                    "score": -0.609215,
+                    "label": "negative"
+                },
+                "relevance": 0.420175,
+                "count": 1,
+                "confidence": 0.996607
+            },
+            {
+                "type": "Duration",
+                "text": "16 minutos",
+                "sentiment": {
+                    "score": -0.609215,
+                    "label": "negative"
+                },
+                "relevance": 0.41682,
+                "count": 1,
+                "confidence": 0.460019
+            },
+            {
+                "type": "Location",
+                "text": "São Paulo",
+                "sentiment": {
+                    "score": -0.609215,
+                    "label": "negative"
+                },
+                "relevance": 0.410345,
+                "count": 1,
+                "confidence": 0.412859
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Time",
+                "relevance": 0.980098,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Time"
+            },
+            {
+                "text": "São Paulo",
+                "relevance": 0.977575,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Mão",
+                "relevance": 0.969775,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Mão"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.664756,
+                "label": "/society/unrest and war"
+            },
+            {
+                "score": 0.658233,
+                "label": "/sports/soccer"
+            },
+            {
+                "score": 0.615966,
+                "label": "/business and industrial/business operations/business plans"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.638256
+    },
+    "text": "Nem mesmo a entrada de Renan Ribeiro na meta do São Paulo foi capaz de evitar que o time, mais uma vez, sofresse com os gols do adversário.  Neste sábado (18), diante do Ituano, a equipe tricolor empatou em 1 a 1 pela nona rodada do Campeonato Paulista e viu sua defesa ser vazada pela 11ª vez seguida.  O gol marcado por Wellington Simião, aos 16 minutos do segundo tempo, deixou o São Paulo isolado como a pior defesa do Estadual. Nos nove jogos foram 18 sofridos — média de dois por partida.  Em contrapartida, o time tem o melhor ataque. O gol de Cueva, aos 42 minutos da etapa inicial, foi o 22º.  Embora não tenha evitado que o Ituano saísse com a igualdade do Morumbi, o destaque da partida foi justamente Renan Ribeiro.  Pela primeira vez na temporada, o goleiro ganhou uma oportunidade com o treinador Rogério Ceni, e mostrou que está vivo em uma disputa contra Sidão e Denis pela titularidade.  As melhores oportunidades do clube de Itu pararam nas mãos de Renan, que teve seu nome cantado pelos mais de 11 mil torcedores que compareceram ao estádio.  \"Fico feliz porque foi muito tempo sem jogar. Ainda tenho muito a melhorar, mas ficou um pontapé inicial para eu continuar evoluindo e buscando a perfeição, para ajudar o clube\", afirmou o goleiro na saída do gramado.  Desde que chegou à equipe tricolor, em 2013, Renan Ribeiro nunca teve um sequência. Durante os dois primeiros anos, era a terceira opção dos treinadores e só entrava em campo caso Denis ou Rogério Ceni estivessem sem condições de jogo.  Quando poderia brigar efetivamente pelo posto de principal jogador da meta, sofreu com as lesões. No ano passado, ele teve fratura por estresse na quinta vértebra, contratura na coxa e cirurgias de apendicite e em um dos dedos da mão esquerda.  A fase infeliz o tirou por um bom tempo de combate e a insegurança da comissão técnica fez com que Sidão fosse contratado.  O novo reforço, porém, não convenceu. Denis, muito menos. E Renan Ribeiro tenta cravar de uma vez seu lugar no gosto do seu ex-companheiro de time e hoje técnico Rogério Ceni.  Pelo grito da torcida ele já tem moral. Ao invés de vaiar o time pela derrota ao fim do jogo, as arquibancadas do Morumbi entoaram o canto \"Renan, Renan\".  Com o resultado, o São Paulo permanece na liderança do Grupo B com 15 pontos e é seguido pelo Linense, com 14. Já o Ituano foi aos 10 pontos subiu para a terceira posição do Grupo A, liderado pelo Corinthians, com 19.",
+    "title": "Renan Ribeiro vai bem, mas defesa volta a falhar e São Paulo empata",
+    "category": "esporte",
+    "data": "2017-03-18",
+    "link": "http://www1.folha.uol.com.br/esporte/2017/03/1867799-renan-ribeiro-vai-bem-mas-defesa-volta-a-falhar-e-sao-paulo-empata.shtml"
+}

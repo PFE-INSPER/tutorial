@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 1551,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.645033,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "LISTAS  De uma víbora",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.837841,
+                "count": 1
+            },
+            {
+                "text": "voto de lista",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.741152,
+                "count": 3
+            },
+            {
+                "text": "ideia do Distritão",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.680522,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Organization",
+                "text": "Lista do Janot",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.949917,
+                "count": 1,
+                "confidence": 0.249066
+            },
+            {
+                "type": "Person",
+                "text": "João Doria",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.919203,
+                "count": 1,
+                "confidence": 0.987224
+            },
+            {
+                "type": "JobTitle",
+                "text": "secretário de Cultura",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.900009,
+                "count": 1,
+                "confidence": 0.398009
+            },
+            {
+                "type": "Location",
+                "text": "São Paulo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.890911,
+                "count": 1,
+                "confidence": 0.345302
+            },
+            {
+                "type": "Facility",
+                "text": "favela carioca do Caju",
+                "sentiment": {
+                    "score": -0.807059,
+                    "label": "negative"
+                },
+                "relevance": 0.620676,
+                "count": 1,
+                "confidence": 0.170724
+            },
+            {
+                "type": "Organization",
+                "text": "MOSCA",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.529924,
+                "count": 1,
+                "confidence": 0.844606
+            },
+            {
+                "type": "JobTitle",
+                "text": "secretário",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.526802,
+                "count": 1,
+                "confidence": 0.99012
+            },
+            {
+                "type": "JobTitle",
+                "text": "prefeito",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.514586,
+                "count": 1,
+                "confidence": 0.954728
+            },
+            {
+                "type": "Number",
+                "text": "40",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.48065,
+                "count": 2,
+                "confidence": 0.96
+            },
+            {
+                "type": "Facility",
+                "text": "Distritão",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.373325,
+                "count": 2,
+                "confidence": 0.928087
+            }
+        ],
+        "concepts": [
+            {
+                "text": "São Paulo",
+                "relevance": 0.981651,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Eleição",
+                "relevance": 0.824765,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Eleição"
+            },
+            {
+                "text": "Container",
+                "relevance": 0.801188,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Container_(transporte)"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.84647,
+                "label": "/law, govt and politics"
+            },
+            {
+                "score": 0.740915,
+                "label": "/law, govt and politics/government"
+            },
+            {
+                "score": 0.713686,
+                "label": "/law, govt and politics/politics/political parties"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 4.837384
+    },
+    "text": "LISTAS  De uma víbora: \"Para se livrar dos efeitos da Lista do Janot, a solução é o voto de lista\".  NA MOSCA  O prefeito João Doria interrompeu uma fala do secretário de Cultura de São Paulo que descrevia um programa de compra de livros para bibliotecas da cidade: \"Queria aproveitar o embalo e recomendar ao secretário que peça de graça esses livros\".  Toda vez que uma autoridade pública fala em comprar livros baratos, o mais provável é que se esteja pagando pela desova dos encalhes das editoras.  Assim elas se livram do custo do armazenamento dos livros que não tiveram freguesia e ainda ganham algum.  BOLIVARIANISMO  A policia apreendeu 40 milhões de bolívares venezuelanos na favela carioca do Caju. É o triste fim de uma moeda, símbolo da ruína bolivarianista.  Os bolívares nada valem, e o lote apreendido no Rio veio de um carregamento de 40 contêineres que foi localizado no Paraguai.  Descoloridos, os bolívares servem como matéria-prima para falsificações grosseiras de outras moedas.  BODE  É possível que a proposta de adoção do modelo de lista embuta uma astúcia. Pelo voto de lista, o eleitor não escolhe o candidato em quem vota.  Voltou a circular a ideia do Distritão. Como o voto de lista, o Distritão já foi a voto e acabou rebarbado. O que é defeito numa torna-se virtude na outra. Pelo Distritão, se num Estado há 30 vagas de deputado, elegem-se os 30 mais votados e não se fala mais no assunto.  Seus defeitos são outros.  O Distritão é uma velha proposta de Michel Temer.  *  Leia mais textos da coluna deste domingo (19):",
+    "title": "'Para se livrar da lista do Janot, só o voto em lista', diz uma víbora",
+    "category": "colunas",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/colunas/eliogaspari/2017/03/1867763-para-se-livrar-da-lista-do-janot-so-o-voto-em-lista-diz-uma-vibora.shtml"
+}

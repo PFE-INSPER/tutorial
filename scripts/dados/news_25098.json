@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 8914,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.531321,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "R. Eng",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.620087,
+                "count": 1
+            },
+            {
+                "text": "pacote do dia da noiva",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.613237,
+                "count": 1
+            },
+            {
+                "text": "serviços de relaxamento",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.580802,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Time",
+                "text": "9h às 21h",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.948859,
+                "count": 3,
+                "confidence": 0.811176
+            },
+            {
+                "type": "Person",
+                "text": "Cerqueira César",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.835367,
+                "count": 2,
+                "confidence": 0.989109
+            },
+            {
+                "type": "Person",
+                "text": "M. Estac",
+                "sentiment": {
+                    "score": 0.856241,
+                    "label": "positive"
+                },
+                "relevance": 0.829381,
+                "count": 2,
+                "confidence": 0.971797
+            },
+            {
+                "type": "Time",
+                "text": "9h às 20h",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.827718,
+                "count": 4,
+                "confidence": 0.908851
+            },
+            {
+                "type": "Person",
+                "text": "D. Estac",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.806406,
+                "count": 3,
+                "confidence": 0.995287
+            },
+            {
+                "type": "Money",
+                "text": "R$ 6.500",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.797375,
+                "count": 2,
+                "confidence": 0.999986
+            },
+            {
+                "type": "Time",
+                "text": "10h às 18h",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.778939,
+                "count": 2,
+                "confidence": 0.716755
+            },
+            {
+                "type": "Money",
+                "text": "R$ 2.750",
+                "sentiment": {
+                    "score": 0.717527,
+                    "label": "positive"
+                },
+                "relevance": 0.742566,
+                "count": 3,
+                "confidence": 1.0
+            },
+            {
+                "type": "Time",
+                "text": "8h às 20h",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.716071,
+                "count": 3,
+                "confidence": 0.824619
+            },
+            {
+                "type": "Organization",
+                "text": "AE",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.667627,
+                "count": 8,
+                "confidence": 0.999758
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Pacote",
+                "relevance": 0.982088,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Pacote"
+            },
+            {
+                "text": "Massagem",
+                "relevance": 0.969182,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Massagem"
+            },
+            {
+                "text": "Estados Unidos",
+                "relevance": 0.944522,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Estados_Unidos"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.784207,
+                "label": "/society/social institution"
+            },
+            {
+                "score": 0.784207,
+                "label": "/society/social institution/marriage"
+            },
+            {
+                "score": 0.747368,
+                "label": "/style and fashion/beauty/hair care"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.8344980000000001
+    },
+    "text": "LUIZA WOLF COLABORAÇÃO PARA A sãopaulo  Com serviços de relaxamento e beleza, alguns pacotes de Dia da Noiva podem ser oferecidos no local do evento e incluir atendimento personalizado também ao noivo e às madrinhas.  Confira sugestões selecionadas pela sãopaulo.    -  AGÊNCIA FIRST O salão de beleza existe há aproximadamente 26 anos. Mas foi por volta de 2005 que a agência contratou com uma equipe de profissionais especializados em casamentos. Eles podem atender a noiva e mãe em casa. O pacote do dia da noiva, que inclui prova de cabelo e maquiagem, custa de R$ 3.500 a R$ 6.500 com duração até o término das fotos protocolares na festa.  agenciafirst.com.br. R. do Níquel, 140, Jardim Petrópolis, região sul, tel. 5535-1511. Seg. a sex.: 9h às 16h. Atendimento somente com hora marcada.  *  AIGAI SPA O espaço para o dia da noiva é o My Spa, situado no andar superior, um ambiente privativo para até, no máximo, seis pessoas. O pacote custa R$ 7.840 e inclui seis horas para duas pessoas com ritual de boas vindas e escalda pés, massagens de 80 minutos (à escolha dos clientes), hammans (banhos turcos), experiências de horizontal shower e de vertical shower, almoço e um champanhe. A noiva ainda tem a opção de levar até mais três acompanhantes por R$ 500 por pessoa (inclui só o almoço).  aigaispa.com.br. R. dos Macunis, 397, Vila Madalena, região oeste, tel. 3034-3939. Ter. a sex.: 9h às 22h. Sáb.: 10h às 19h. Dom.: 10h às 18h. CC: todos. Valet a partir de R$ 20. Atendimento somente com hora marcada.  *  BUDDHA SPA O pacote, chamado de \"day spa dia da noiva\", inclui cardápio especial do almoço, lanche, banho de ofurô, massagem com alongamento, lanche saudável, shiatsu facial, reflexologia e preparação para o casamento -o que inclui pele, maquiagem, unhas e cabelos. O serviço pode durar de três a cinco horas e custa a partir de aproximadamente R$ 1.800 (pode alterar conforme a unidade). O local também disponibiliza o espaço para a equipe de making of da noiva.  buddhaspa.com.br. R. Eng. Edgar Egídio de Sousa, 510, Santa Cecília, região central, tel. 3829-9898. Seg. a sex.: 7h às 21h. Sáb.: 9h30 às 19h. Dom.: 10h às 17h. CC: V, M. Estac. R$ 10.  *  C. KAMURA Não oferece o dia da noiva tradicional, mas conta três pacotes que podem ser customizados de acordo com a vontade da cliente, além de oferecer um camarim especial para a noiva com a ajuda de uma profissional para se trocar. O pacote com teste de maquiagem e cabelo, maquiagem e penteado do dia, cílios postiços, manicure, pedicure, café da manhã ou almoço custa R$ 2.680. Para madrinhas e convidadas, o penteado sai por R$ 250 e a maquiagem por R$ 280.  ckamura.com.br. R. da Consolação, 3.679, Cerqueira César, região oeste, tel. 3061-5500. Seg.: 12h às 20h. Ter. a sex.: 9h às 21h. Sáb.: 9h às 19h. CC: V, M, AE, E, D, H. Valet (grátis).  *  ESPAÇO BE O local tem cinco suítes para a noiva, onde ela pode escolher entre diversos procedimentos, além do cabelo e maquiagem, como limpeza de pele, massagem e manicure e pedicure. Pacotes para Dia da Noiva no salão custam a partir de R$ 2.750. Oferece a opção de uma equipe para atender a noiva em outro local.  espacobe.com.br. R. Augusto Tolle, 696, Santana, tel. 2281-0330. Ter. a sáb.: 8h às 20h. CC: V, M, AE, D. Estac. (grátis). Atendimento somente com hora marcada.  *  FASANO O dia da noiva no hotel inclui uma diária em apartamento Deluxe, além de sala com decoração especial, mordomo exclusivo, coffee break para cinco pessoas, duas garrafas de espumante e condições especiais no spa para a noiva e convidadas. O pacote custa R$ 2.700.  fasano.com.br. R. Vitório Fasano, 88, Cerqueira César, tel. 3896-4000. 120 lugares. Seg. a sáb.: 10h às 16h. Dom.: 10h às 2h. CC: V, M, AE, D. Estac. a partir de R$ 55.  *  GILBERTO CABELEIREIROS Dispõe de um grande espaço -são, aproximadamente, 2.000 m²- e atende homens e mulheres em andares diferentes. Entre os serviços, além de cabelo e manicure, estão massagem, podologia, e acupuntura. Para noivas, trabalha com penteados, maquiagem e massagem completa. Os serviços, que são cobrados separadamente, saem por R$ 800, R$ 400 e R$ 215 respectivamente.  gilbertocabeleireiros.com.br. Al. Itu, 707, Jardim Paulista, região oeste, tel. 3891-2277. Ter. a sáb.: 8h30 às 20h. CC: V, M. Estac. a partir de R$ 15.  *  JACQUES JANINE Oferece tratamento especial para as noivas e também para os noivos no dia da cerimônia. Para elas, os serviços incluem penteado, maquiagem, manicure, pedicure, massagens, refeição, banhos especiais e apoio para troca de roupa. Os valores variam de R$ 1.235 a R$ 2.066. Há também um pacote de beleza para os noivos (que inclui serviços como corte, penteado, manicure e massagem) por R$ 700.  jacquesjanine.com.br. Av. Sto. Amaro, 6.802, Santo Amaro, região sul, tel. 5183-2825. Seg.: 11h às 21h. Ter. a sex.: 9h às 21h. Sáb.: 9h às 20h. CC: V, M, E, D.  *  JU KODANI O salão disponibiliza pacotes, que incluem desde o banho de hidromassagem até maquiagem, cabelo e manicure, e variam de R$ 1.350 até R$ 2.900. Os serviços podem ser cobrados separadamente (penteado e a maquiagem custam R$ 350 cada).  jukodani.com.br. Av. Onze de Junho, 88, Vila Clementino, tel. 2307-1125. Ter. a sáb.: 9h às 20h. CC: V, M, E, D.  *  KENNZUR O local trabalha com o \"day spa noiva\", que tem quatro horas de duração e inclui massagem, esfoliação e hidratação corporal, reflexologia e um \"break gourmet\" de 30 minutos. O pacote sai por R$ 1.286, mas pode ser personalizado.  kennzur.com.br. Av. República do Líbano, 577, Ibirapuera, tel. 2348-1200. Seg. a dom.: 9h às 21h. CC: V, M, AE, E, D.  *  LICEU DE MAQUIAGEM O dia da noiva inclui uma sala especial com clima retrô para realização da maquiagem, penteado e troca de roupa. Os pacotes variam de R$ 2.550 a R$ 3.790, dependendo do profissional.  liceudemaquiagem.com.br. R. Tinhorão, 102, Higienópolis, região central, tel. 3083-0500. Seg. a sáb.: 10h às 18h. CC: V, M, AE, Au, E, D, H.  *  MARCELLA BALDONI A maquiadora e hair stylist atende a noiva onde ela desejar. Marcella leva a estrutura física para o conforto da noiva (camarim, cadeira profissional e iluminação). Tem equipe para atender mães e madrinhas. Pacotes a partir de R$ 2.750.  marcellabaldoni.com.br/old. Tel. 95577-0123. Seg. a dom.: 9h às 20h. CC: V, M, AE. Atendimento somente com hora marcada.  *  MG HAIR DESIGN No salão de Marco Antônio de Biaggi, há vários pacotes cujos preços variam de R$ 3.700 a R$ 6.500. O Plus é a opção mais simples e começa dez dias antes do casamento, incluindo provas de cabelo e de maquiagem. No dia da cerimônia, a noiva conta ainda com serviços como manicure, maquiagem, penteado e refeição leve.  mghair.com.br. R. Estados Unidos, 1.862, Jardim América, região oeste, tel. 3061-1499. Seg.: 13h às 20h. Ter. a sáb.: 8h às 20h. CC: V, M, AE, E, D, H.  *  NOIVA EM FORMA Comandada pela personal trainer Carina Rosin, a empresa se dedica a atender noivas que querem fazer exercícios e dietas para se prepararem para o grande dia. Há pacotes com duração de três meses a um ano. São duas opções. A primeira é personalizada, com atendimento de personal e nutricionista, onde a noiva preferir: em casa, no parque ou na academia, por exemplo. Para este programa, o valor mensal varia de R$ 960 a R$ 2.000. A segunda opção são aulas de circuito funcional em grupo (R$ 250 por mês), duas vezes por semana.  noivaemforma.net. Tel. 94745-3291. Seg. a sex.: 8h às 20h. Atendimento somente com hora marcada.  *  STUDIO TEZ Trabalha com diferentes pacotes para o dia da noiva. O mais em conta, \"Twiggy\", reúne prova de cabelo e de maquiagem, sobrancelhas, manicure e pedicure, maquiagem, penteado, sala da noiva e um almoço especial e sai por a partir de R$ 2.750. O salão oferece ainda um tratamento chamado \"Spa do cabelo para Noiva\" (leia mais acima), que começa com, no mínimo, três meses de antecedência e promove detox capilar e estimula o crescimento dos fios. Há também a opção do tratamento diário, boa opção para preparar o cabelo para a viagem de lua-de-mel.  studiotez.com.br. R. Diogo Jácome, 337, Vila Nova Conceição, região sul, tel. 3849-7786. Ter. a sáb.: 9h às 20h. CC: V, M, E, D, H. Estac. (grátis).  *  STUDIO W Inaugurado pelo renomado hair stylist Wanderley Nunes, em 1999, e em sociedade com a empresária Rosângela Barchetta, oferece serviços de cabelo e maquiagem personalizados para noivas. Os valores podem variar de acordo com cada unidade, penteados com teste incluso variam de R$ 690 a R$ 1158 e maquiagem, também com teste, de R$ 624 a R$ 729. Todas as unidades oferecem o serviço e possuem um profissional responsável pelo atendimento às noivas, que acompanha desde o orçamento ao dia da cerimônia.  studiow.com.br. Shopping Iguatemi. Av. Brig. Faria Lima, 2.232, 9º andar, Jardim Paulistano, região oeste, tel. 3094-2640. Seg. a sáb.: 10h às 22h. Dom.: 14h às 20h. CC: V, M, AE, E, D. Estac. a partir de R$ 15. Atendimento somente com hora marcada.",
+    "title": "Veja 16 pacotes de Dia da Noiva e serviços para noivos e madrinhas",
+    "category": "o-melhor-de-sao-paulo",
+    "data": "2017-03-18",
+    "link": "http://www1.folha.uol.com.br/o-melhor-de-sao-paulo/noivas-e-casamentos/2017/03/1866736-veja-16-pacotes-de-dia-da-noiva-e-servicos-para-noivos-e-madrinhas.shtml"
+}

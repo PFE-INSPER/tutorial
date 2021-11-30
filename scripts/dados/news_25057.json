@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 2882,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.383124,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "thriller psicológico capaz",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.716864,
+                "count": 1
+            },
+            {
+                "text": "Reese Witherspoon",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.661597,
+                "count": 1
+            },
+            {
+                "text": "Nicole Kidman",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.612664,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Person",
+                "text": "Liane Moriarty",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.948929,
+                "count": 1,
+                "confidence": 0.599233
+            },
+            {
+                "type": "Person",
+                "text": "David E. Kelley",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.843864,
+                "count": 1,
+                "confidence": 0.801135
+            },
+            {
+                "type": "Organization",
+                "text": "História de Horror Americana",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.818874,
+                "count": 1,
+                "confidence": 0.291087
+            },
+            {
+                "type": "Person",
+                "text": "Reese Witherspoon",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.808499,
+                "count": 1,
+                "confidence": 0.997986
+            },
+            {
+                "type": "Person",
+                "text": "Nicole Kidman",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.80377,
+                "count": 1,
+                "confidence": 0.998828
+            },
+            {
+                "type": "Person",
+                "text": "Shailene Woodley",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.798884,
+                "count": 1,
+                "confidence": 0.988381
+            },
+            {
+                "type": "Person",
+                "text": "Laura Dern",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.771198,
+                "count": 1,
+                "confidence": 0.772366
+            },
+            {
+                "type": "Person",
+                "text": "Veludo Azul",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.76734,
+                "count": 1,
+                "confidence": 0.305445
+            },
+            {
+                "type": "JobTitle",
+                "text": "executiva",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.761029,
+                "count": 1,
+                "confidence": 0.788859
+            },
+            {
+                "type": "Person",
+                "text": "Alexander Skarsgård",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.733145,
+                "count": 1,
+                "confidence": 0.992439
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Big Bang",
+                "relevance": 0.968783,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Big_Bang"
+            },
+            {
+                "text": "O Rebu",
+                "relevance": 0.940209,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/O_Rebu"
+            },
+            {
+                "text": "Laura Dern",
+                "relevance": 0.884128,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Laura_Dern"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.698437,
+                "label": "/art and entertainment/movies and tv/movies/reviews"
+            },
+            {
+                "score": 0.615251,
+                "label": "/family and parenting/parenting teens"
+            },
+            {
+                "score": 0.589882,
+                "label": "/society"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.6980955
+    },
+    "text": "A premissa de \"Big Little Lies\" serve para descrever tanto suas protagonistas quanto a série em si, baseada no romance homônimo da australiana Liane Moriarty: lustrosa e frívola na superfície, ela espirala em um turbilhão de fraquezas humanas para expor um quadro muito mais soturno –e interessante– do que aquele visto de imediato.  Assim, o que parece o enésimo novelão sobre mulheres ricas & entediadas, com um mistério policial no meio, descortina-se em um thriller psicológico capaz de hipnotizar o espectador mais indisposto.  Tem a mão de David E. Kelley, competente em fazer entretenimento e dinheiro (de \"Chicago Hope\" a \"História de Horror Americana\"). Tem também Reese Witherspoon, Nicole Kidman e Shailene Woodley (\"A Culpa é das Estrelas\") como um trio de belas-recatadas-e-do-lar, e a exuberante Laura Dern (\"Veludo Azul\") como uma executiva dividida entre reuniões e a maternidade.  Se não bastar, há os sempre agradáveis Alexander Skarsgård (\"Tarzan\"), Adam Scott (\"Parks and Recreations\") e a inebriante costa central da Califórnia. O site Vulture, aliás, levantou os preços das mansões usadas como locação, de US$ 2,6 milhões a US$ 14,8 milhões (R$ 8 milhões e R$ 46 milhões).  Bem alinhavada,\"Big Little Lies\" lembra a novela brasileira \"O Rebu\" (1974), que ganhou remake em 2014. Não apenas pelo cenário suntuoso, mas porque nela também um crime acontece logo no início -sem que saibamos de quem é o cadáver.  Quando a vida das personagens centrais é reconstruída por meio de depoimentos dos coadjuvantes, a curiosidade é sobre o morto.  Afinal, conforme neuroses e mesquinharias vêm à tona, todos ali parecem vestir facilmente a pele de assassino. Quem, entretanto, poderia virar vítima?  Kidman, a quem se credita parte da audiência graças às (boas) cenas eróticas com Skarsgård, faz uma advogada insatisfeita por ter trocado a carreira pelos filhos gêmeos e pelo marido violento.  Witherspoon é a mulher que se casou cedo, pariu, separou-se, ocupou-se de criar a filha mais velha e, em seu segundo casamento, passa os dias esquadrinhando a vida alheia. Dern é o vulcão de sempre, capaz de aniquilar o que surge à frente. E Woodley dá conta da ensimesmada Jane, cujo filho, Ziggy, reluta em se adaptar à nova vizinhança (e vice-versa).  Essa guerra de paranoias e egos é travada tendo as crianças como peões e a escola como campo, do qual quem \"maternar\" melhor sai vitoriosa e onde vale tudo.  Pais de filhos pequenos, preparem-se para alguma angústia e autocrítica, potencializada por um elenco infantil encantador encabeçado por Iain Armitage, o Ziggy, que logo será o jovem Sheldon na comédia derivada de \"Big Bang Theory\".)  O thriller, que estreou há um mês, tem sete episódios e vai até o próximo dia 2. O romance foi lançado no Brasil em 2015 pela Intrínseca. Dá tempo de fazer sua aposta.  *  \"Big Little Lies\" é exibida aos domingos, às 23h, pela HBO",
+    "title": "Verniz de novelão barato dá sabor ao thriller psicológico 'Big Little Lies'",
+    "category": "colunas",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/colunas/lucianacoelho/2017/03/1867782-verniz-de-novelao-barato-da-sabor-ao-thriller-psicologico-big-little-lies.shtml"
+}

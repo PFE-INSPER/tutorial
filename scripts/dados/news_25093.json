@@ -1,0 +1,189 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 1518,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.69785,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "Real Madrid",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.753913,
+                "count": 1
+            },
+            {
+                "text": "Athletic Bilbao",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.744222,
+                "count": 2
+            },
+            {
+                "text": "time da Catalunha",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.666389,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Organization",
+                "text": "Athletic Bilbao",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.949788,
+                "count": 2,
+                "confidence": 0.993234
+            },
+            {
+                "type": "Organization",
+                "text": "Campeonato Espanhol",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.907889,
+                "count": 2,
+                "confidence": 0.97224
+            },
+            {
+                "type": "Person",
+                "text": "Casemiro",
+                "sentiment": {
+                    "score": 0.507392,
+                    "label": "positive"
+                },
+                "relevance": 0.722035,
+                "count": 4,
+                "confidence": 0.999837
+            },
+            {
+                "type": "Organization",
+                "text": "Real Madrid",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.675609,
+                "count": 1,
+                "confidence": 0.895728
+            },
+            {
+                "type": "Location",
+                "text": "Catalunha",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.562874,
+                "count": 1,
+                "confidence": 0.259253
+            },
+            {
+                "type": "Date",
+                "text": "domingo (19",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.536913,
+                "count": 1,
+                "confidence": 0.398839
+            },
+            {
+                "type": "Ordinal",
+                "text": "21ª",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.46659,
+                "count": 1,
+                "confidence": 0.425084
+            },
+            {
+                "type": "Date",
+                "text": "início de fevereiro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.452082,
+                "count": 1,
+                "confidence": 0.509293
+            },
+            {
+                "type": "Organization",
+                "text": "Real",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.408267,
+                "count": 3,
+                "confidence": 0.999258
+            },
+            {
+                "type": "Organization",
+                "text": "Liga Europa",
+                "sentiment": {
+                    "score": 0.507392,
+                    "label": "positive"
+                },
+                "relevance": 0.359811,
+                "count": 1,
+                "confidence": 0.613959
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Time",
+                "relevance": 0.972344,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Time"
+            },
+            {
+                "text": "Futebol",
+                "relevance": 0.934433,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Futebol"
+            },
+            {
+                "text": "Club Atlético Osasuna",
+                "relevance": 0.881354,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Club_Atlético_Osasuna"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.931794,
+                "label": "/sports/soccer"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 5.928408
+    },
+    "text": "Com uma ótima atuação do brasileiro Casemiro, o Real Madrid derrotou o Athletic Bilbao neste sábado (18), por 2 a 1, fora de casa, pela 28ª rodada do Campeonato Espanhol, e abriu cinco pontos de vantagem na liderança da competição.  Com o triunfo, o Real chegou aos 65 pontos, enquanto o Barcelona, que está na segunda posição, tem 60. O time da Catalunha terá a oportunidade de reduzir a vantagem do rival no domingo (19), contra o Valencia.  Depois do encerramento da rodada, o Real ainda ficará com uma partida a menos em relação aos seus adversários. O duelo contra o Celta, pela 21ª rodada, foi adiado no início de fevereiro e será realizado em uma nova data (ainda a ser definida).  O Athletic Bilbao, por sua vez, é o sétimo colocado do Campeonato Espanhol, com 44 pontos, e briga por uma vaga na próxima edição da Liga Europa.  Casemiro foi o grande destaque da partida. Foi ele quem iniciou a jogada do primeiro gol da partida, marcado por Benzema aos 24 minutos do primeiro tempo.  O Athletic conseguiu o empate aos 19 minutos do segundo tempo, com Aduriz. Livre de marcação na pequena área, ele só teve o trabalho de empurrar a bola para as redes, de cabeça. Mas Casemiro anotou o gol da vitória, na segunda etapa, aos 23 minutos.  Na próxima rodada da competição, o Real recebe o Alavés, enquanto o Athletic visita o Osasuna. O time de Madrid, porém, não poderá contar com Casemiro para a partida no próximo 2 de abril. O brasileiro tomou o quinto cartão amarelo no Espanhol, neste sábado, e está suspenso.",
+    "title": "Casemiro brilha e dá vitória ao Real contra o Athletic pelo Espanhol",
+    "category": "esporte",
+    "data": "2017-03-18",
+    "link": "http://www1.folha.uol.com.br/esporte/2017/03/1867783-casemiro-brilha-e-da-vitoria-ao-real-contra-o-athletic-pelo-espanhol.shtml"
+}

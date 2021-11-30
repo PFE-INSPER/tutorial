@@ -1,0 +1,193 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 1594,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0,
+                "label": "neutral"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "número de vitórias",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.672569,
+                "count": 1
+            },
+            {
+                "text": "empate do Ituano",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.661843,
+                "count": 1
+            },
+            {
+                "text": "clube alvinegro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.651226,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Organization",
+                "text": "Ferroviária",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.949872,
+                "count": 2,
+                "confidence": 0.907337
+            },
+            {
+                "type": "Organization",
+                "text": "Ituano",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.832841,
+                "count": 3,
+                "confidence": 0.999587
+            },
+            {
+                "type": "Date",
+                "text": "domingo (18",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.664727,
+                "count": 1,
+                "confidence": 0.412849
+            },
+            {
+                "type": "Organization",
+                "text": "Campeonato Paulista",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.629639,
+                "count": 1,
+                "confidence": 0.802048
+            },
+            {
+                "type": "Organization",
+                "text": "clube alvinegro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.621952,
+                "count": 1,
+                "confidence": 0.241754
+            },
+            {
+                "type": "Location",
+                "text": "São Paulo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.597558,
+                "count": 1,
+                "confidence": 0.489425
+            },
+            {
+                "type": "Organization",
+                "text": "Corinthians",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.591572,
+                "count": 3,
+                "confidence": 0.999995
+            },
+            {
+                "type": "Number",
+                "text": "19",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.403861,
+                "count": 2,
+                "confidence": 0.96
+            },
+            {
+                "type": "Person",
+                "text": "Fábio Carille",
+                "sentiment": {
+                    "score": 0.677056,
+                    "label": "positive"
+                },
+                "relevance": 0.401128,
+                "count": 1,
+                "confidence": 0.992387
+            },
+            {
+                "type": "Ordinal",
+                "text": "quartas",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.37041,
+                "count": 1,
+                "confidence": 0.972066
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Time",
+                "relevance": 0.978937,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Time"
+            },
+            {
+                "text": "São Paulo",
+                "relevance": 0.977707,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Copa São Paulo de Futebol Júnior",
+                "relevance": 0.795659,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Copa_São_Paulo_de_Futebol_Júnior"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.792775,
+                "label": "/health and fitness/sports medicine"
+            },
+            {
+                "score": 0.677573,
+                "label": "/sports/soccer"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 6.006568
+    },
+    "text": "O Corinthians entrará em campo neste domingo (18) diante da Ferroviária, às 16h (Globo), com vaga já garantida nas quartas de final do Campeonato Paulista.  O clube alvinegro se beneficiou graças ao empate do Ituano em 1 a 1 com o São Paulo. Com o resultado, a equipe de Itu foi aos 10 pontos e não pode mais alcançar o Corinthians, que tem 19 -restam apenas três jogos e nove pontos em disputa para o time do interior.  O Ituano é o terceiro colocado do Grupo A e até pode igualar os mesmos 19 pontos corintianos, mas não ultrapassaria no número de vitórias, o primeiro quesito de desempate —o Corinthians tem seis contra duas do Ituano. Mesmo assim, o confronto diante da Ferroviária não deixa de ser importante para a equipe comandada por Fábio Carille.  Uma vitória neste domingo, leva o clube aos 22 pontos, garantindo assim a liderança da chave. Isso porque o vice-líder Botafogo soma 12 pontos não poderia mais alcançar o rival da capital.  Embora esteja em uma situação confortável, Carille não deu indícios do time que levará a campo. A expectativa é que utilize uma equipe mista.  A surpresa pode ser a escalação do meia-atacante Pedrinho. Aos 18 anos, o jogador destaque na Copa São Paulo foi inscrito pelo treinador no Paulista e pode fazer sua estreia na equipe principal. Ele substitui o zagueiro Vilson, que se recupera de uma artroscopia no joelho esquerdo.  Em contrapartida, o atacante Kazim não tem muito o que celebrar. O turco sofreu uma lesão no ligamento colateral mediano no joelho direito no confronto contra o Luverdense e deve ficar de três a quatro semanas afastado.",
+    "title": "Empate do São Paulo classifica Corinthians às quartas de final",
+    "category": "esporte",
+    "data": "2017-03-18",
+    "link": "http://www1.folha.uol.com.br/esporte/2017/03/1867786-proximo-de-vaga-nas-quartas-corinthians-deve-poupar-atletas.shtml"
+}

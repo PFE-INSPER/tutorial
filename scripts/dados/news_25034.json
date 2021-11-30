@@ -1,0 +1,149 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 1878,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.332814,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "bom corpo de evidências",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.675819,
+                "count": 1
+            },
+            {
+                "text": "exemplo clássico",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.673553,
+                "count": 1
+            },
+            {
+                "text": "combinações de elementos hereditários",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.575734,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Person",
+                "text": "Stanford",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.953262,
+                "count": 1,
+                "confidence": 0.690618
+            },
+            {
+                "type": "Organization",
+                "text": "polícia",
+                "sentiment": {
+                    "score": 0.257077,
+                    "label": "positive"
+                },
+                "relevance": 0.692317,
+                "count": 1,
+                "confidence": 0.566743
+            },
+            {
+                "type": "JobTitle",
+                "text": "agentes",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.682072,
+                "count": 1,
+                "confidence": 0.781081
+            },
+            {
+                "type": "Ordinal",
+                "text": "terceiros",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.482979,
+                "count": 1,
+                "confidence": 0.931392
+            },
+            {
+                "type": "JobTitle",
+                "text": "políticos",
+                "sentiment": {
+                    "score": -0.481027,
+                    "label": "negative"
+                },
+                "relevance": 0.331912,
+                "count": 1,
+                "confidence": 0.491921
+            },
+            {
+                "type": "Number",
+                "text": "um",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.025411,
+                "count": 1,
+                "confidence": 0.8
+            }
+        ],
+        "concepts": [
+            {
+                "text": "São Paulo",
+                "relevance": 0.987434,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Crime",
+                "relevance": 0.980777,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Crime"
+            },
+            {
+                "text": "Comportamento antissocial",
+                "relevance": 0.929288,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Comportamento_antissocial"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.987582,
+                "label": "/society/crime"
+            },
+            {
+                "score": 0.792013,
+                "label": "/family and parenting/children"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.6125295
+    },
+    "text": "SÃO PAULO - Nunca tantos roubaram tanto em tão pouco tempo. Essa ao menos é a sensação com que ficamos ao ler o noticiário. O que aconteceu com nossos políticos?  Um modelo popular de explicação do comportamento antissocial é aquele que atribui o crime a disposições individuais. Existiriam combinações de elementos hereditários com histórias de vida que fazem com que certas pessoas fiquem mais propensas do que outras a delinquir. Por essa concepção, a função da polícia é separar os frutos podres dos sadios.  Em algum grau, essa leitura é correta. Há evidências de que certas características de personalidade e mesmo doenças orgânicas aumentam as chances de alguém cometer crimes.  Essa, contudo, é apenas parte da história. Existe também um bom corpo de evidências que sugerem que a situação em que se encontram os agentes pode ser decisiva.  Um exemplo clássico desse efeito é o famoso experimento da prisão de Stanford, em que apenas desempenhar o papel de guarda numa simulação fez com que os jovens que haviam sido sorteados para essa posição agissem no limite do sadismo.  Isso significa que estar numa situação em que seja relativamente fácil (ou até mesmo esperado) tirar proveito de terceiros e ver colegas fazendo isso pode constituir um impulso irresistível à roubalheira. Não é totalmente sem sentido, portanto, o discurso de políticos que dizem que só fizeram o que todos faziam.  No que não deixa de ser um paradoxo do conhecimento, a ciência pode nos fazer compreender os motivos pelos quais uma pessoa comete um crime, mas as exigências da boa organização social nos impedem de ser muito lenientes para com esses indivíduos, já que a reação negativa do grupo a quem tenta passar-lhe a perna é um dos fatores situacionais a limitar o crime. Aqui, ser muito compreensivo significaria incentivar o ato antissocial, um luxo ao qual nenhuma sociedade pode se dar.",
+    "title": "Por que eles roubam?",
+    "category": "colunas",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/colunas/helioschwartsman/2017/03/1867730-por-que-eles-roubam.shtml"
+}

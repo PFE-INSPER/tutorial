@@ -1,0 +1,215 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 4722,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.601947,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "carros nacionais",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.709,
+                "count": 1
+            },
+            {
+                "text": "controlador de velocidade de cruzeiro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.68884,
+                "count": 1
+            },
+            {
+                "text": "piloto automático",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.631347,
+                "count": 6
+            }
+        ],
+        "entities": [
+            {
+                "type": "Organization",
+                "text": "Volkswagen",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.950806,
+                "disambiguation": {
+                    "subtype": [
+                        "Company",
+                        "AutomobileCompany",
+                        "AwardWinner"
+                    ],
+                    "name": "Volkswagen",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/Volkswagen"
+                },
+                "count": 4,
+                "confidence": 0.999393
+            },
+            {
+                "type": "JobTitle",
+                "text": "motorista",
+                "sentiment": {
+                    "score": -0.625747,
+                    "label": "negative"
+                },
+                "relevance": 0.696842,
+                "count": 8,
+                "confidence": 0.999999
+            },
+            {
+                "type": "JobTitle",
+                "text": "piloto",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.689672,
+                "count": 7,
+                "confidence": 1.0
+            },
+            {
+                "type": "JobTitle",
+                "text": "piloto automático",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.656983,
+                "count": 2,
+                "confidence": 0.679569
+            },
+            {
+                "type": "Organization",
+                "text": "Chevrolet Omega",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.481624,
+                "count": 1,
+                "confidence": 0.64141
+            },
+            {
+                "type": "Money",
+                "text": "R$ 165 mil",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.44023,
+                "count": 1,
+                "confidence": 0.990775
+            },
+            {
+                "type": "Organization",
+                "text": "Renault",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.41426,
+                "disambiguation": {
+                    "subtype": [
+                        "AutomobileCompany",
+                        "AwardWinner",
+                        "Company"
+                    ],
+                    "name": "Renault",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/Renault"
+                },
+                "count": 1,
+                "confidence": 0.815745
+            },
+            {
+                "type": "Organization",
+                "text": "GT Line do Sandero",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.406208,
+                "count": 1,
+                "confidence": 0.553662
+            },
+            {
+                "type": "Money",
+                "text": "R$ 55.9 mil",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.404667,
+                "count": 1,
+                "confidence": 0.991244
+            },
+            {
+                "type": "Money",
+                "text": "R$ 54,3 mil",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.397639,
+                "count": 1,
+                "confidence": 0.995954
+            }
+        ],
+        "concepts": [
+            {
+                "text": "São Paulo",
+                "relevance": 0.985529,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Veículo",
+                "relevance": 0.955857,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Veículo"
+            },
+            {
+                "text": "Automóvel",
+                "relevance": 0.951382,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Automóvel"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.991973,
+                "label": "/automotive and vehicles/cars/sedan"
+            },
+            {
+                "score": 0.961937,
+                "label": "/automotive and vehicles/cars/car culture"
+            },
+            {
+                "score": 0.951599,
+                "label": "/automotive and vehicles/auto parts"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.56198325
+    },
+    "text": "EDUARDO SODRÉ COLUNISTA DA FOLHA  Entre funcionalidades e botões que hoje parecem arcaicos, a versão mais equipada do Chevrolet Omega 1993 trazia pela primeira vez em carros nacionais um comando que é parte fundamental do futuro dos automóveis: o \"cruise control\", controlador de velocidade de cruzeiro.  O equipamento, também conhecido como piloto automático, é a base dos sistemas de condução autônoma. Ele permite que o veículo mantenha a velocidade sem que o motorista precise pisar no pedal do acelerador.  Antes restrito a carro de luxo –o Omega custaria hoje o equivalente a R$ 165 mil–, o controlador de velocidade já equipa modelos compactos produzidos no país.  Montadoras não revelam o quanto um determinado item é procurado, mas o retorno dos clientes mostra que o \"cruise control\" já é considerado um diferencial.  Uma queixa comum dos clientes na rede Renault, de acordo com revendedores, é a ausência do piloto automático na versão GT Line do Sandero (R$ 55.9 mil)– o item está disponível apenas na versão Dynamique, que custa R$ 54,3 mil. Ambos têm motor 1.6 16V flex (118 cv).  A montadora de origem francesa oferece também o Logan com \"cruise control\" por a partir de R$ 57,3 mil.  Na Volkswagen, até o Gol pode trazer o controlador em sua opção mais completa, Highline. O hatch equipado com o item tem motor 1.6 8V flex (104 cv) e preço que começa em R$ 60,6 mil.  Entre os carros automáticos, o modelo mais em conta equipado com controlador é o Toyota Etios 1.5 XS (107 cv), vendido a R$ 56 mil.  ACELERA E FREIA  Nos modelos mais evoluídos –e caros– da VW, o piloto automático recebe uma função adicional: o ACC (sigla em inglês para controle adaptativo de velocidade). Por meio de sensores, o carro acompanha o ritmo do trânsito, acelerando ou freando quando necessário, sem intervenções do motorista.  No hatch Golf, o ACC faz parte de um pacote de opcionais que faz a versão 1.4 turbo (150 cv) custar R$ 121,8 mil.  \"É uma tecnologia bastante procurada pelos clientes, que traz mais conforto e, principalmente, segurança. Nas marginais, você liga o piloto automático sem se preocupar com o excesso de velocidade\", afirma Joas Fritz, supervisor de marketing de produto da Volkswagen.  Contudo, o motorista não pode deixar de acompanhar o velocímetro. O sistema não é à prova de falhas, e a velocidade gravada no equipamento tende a aumentar em descidas longas. Montadoras como a Fiat fazem esse alerta nos manuais do proprietário de seus carros equipados com piloto automático.  O empresário Hugo Henrique Baptista, 41, que faz viagens constantes de carro entre Rio e São Paulo, lembra de outro problema: o motorista pode se distrair e não observar as mudanças na velocidade máxima permitida ao longo do percurso. A situação expõe o condutor a multas.  Em um futuro próximo, sensores que leem placas (já existentes em carros da Volvo) ou interpretam informações via GPS conseguirão se adaptar às variações de velocidade da via. Será mais uma etapa rumo à automatização completa de veículos, que ainda tem muito a evoluir.  *  Conheça algumas características do piloto automático automotivo  De um lado ou de outro Cada carro tem um tipo diferente de acionamento. Modelos Toyota trazem uma pequena haste à direita do volante, enquanto carros compactos da Volkswagen colocam o item à esquerda. A tendência atual é instalar os botões no volante  De olho no velocímetro O motorista precisa manter a atenção nos limites da via mesmo se o piloto automático estiver acionado. A velocidade do veículo pode aumentar em descidas devido à inclinação da pista, ultrapassando a velocidade inicialmente programada  Mais velocidade Não há problema caso o motorista precise acelerar mais para concluir uma ultrapassagem com o piloto automático acionado. Após a manobra, basta tirar o pé do pedal para que a velocidade programada retorne gradativamente  PRINCIPAIS COMANDOS  Set Define a velocidade desejada pelo motorista na via. Em geral, é possível programar valores a partir de 40 km  \"+\" e \"-\" Permitem que, por meio de toques na haste ou nos botões do sistema, o condutor faça um ajuste fino da velocidade desejada  Res ou Resume Se o motorista pisar no freio, o sistema é desativado automaticamente. O comando \"resume\" faz o carro voltar gradativamente à velocidade programada anteriormente sem que seja preciso pisar no acelerador  ACC Sigla em inglês para \"controle adaptativo de velocidade de cruzeiro\". Carros equipados com esse sistema têm sensores que detectam a velocidade do carro que vai à frente e ajustam o ritmo de viagem do veículo com acelerações ou frenagens automáticas  PIONEIRO O primeiro carro produzido em série equipado com um sistema de piloto automático foi o Chrysler imperial, em 1958",
+    "title": "\n\t\tAntes restrito a carros de luxo, piloto automático chega a modelos compactos\n\t\t",
+    "category": "sobretudo",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/sobretudo/rodas/2017/03/1867612-antes-restrito-a-carros-de-luxo-piloto-automatico-chega-a-modelos-compactos.shtml"
+}

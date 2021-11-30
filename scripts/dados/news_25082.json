@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 1511,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.707399,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "estupro coletivo de uma adolescente",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.692311,
+                "count": 1
+            },
+            {
+                "text": "Moisés Camilo de Lucena",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.683228,
+                "count": 1
+            },
+            {
+                "text": "Polícia Militar do Rio",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.632426,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Organization",
+                "text": "Polícia Militar do Rio",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.949185,
+                "count": 1,
+                "confidence": 0.473223
+            },
+            {
+                "type": "Time",
+                "text": "manhã deste sábado",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.934471,
+                "count": 1,
+                "confidence": 0.214405
+            },
+            {
+                "type": "Duration",
+                "text": "16 anos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.89007,
+                "count": 1,
+                "confidence": 0.550607
+            },
+            {
+                "type": "Date",
+                "text": "maio do ano passado",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.881927,
+                "count": 1,
+                "confidence": 0.577808
+            },
+            {
+                "type": "Person",
+                "text": "Moisés Camilo de Lucena",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.870833,
+                "count": 1,
+                "confidence": 0.923203
+            },
+            {
+                "type": "Person",
+                "text": "Canário",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.855247,
+                "count": 1,
+                "confidence": 0.986224
+            },
+            {
+                "type": "Organization",
+                "text": "UPP (Unidade de Polícia Pacificadora",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.788753,
+                "count": 1,
+                "confidence": 0.28076
+            },
+            {
+                "type": "Location",
+                "text": "Jacarezinho",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.775578,
+                "count": 1,
+                "confidence": 0.869839
+            },
+            {
+                "type": "Location",
+                "text": "zona norte do Rio",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.765677,
+                "count": 1,
+                "confidence": 0.207393
+            },
+            {
+                "type": "Facility",
+                "text": "favela do Rato Molhado",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.732596,
+                "count": 1,
+                "confidence": 0.399737
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Polícia militar",
+                "relevance": 0.938172,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Polícia_militar"
+            },
+            {
+                "text": "Crime",
+                "relevance": 0.930305,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Crime"
+            },
+            {
+                "text": "Praça Seca",
+                "relevance": 0.901016,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Praça_Seca"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.982057,
+                "label": "/society/crime/sexual offense/rape"
+            },
+            {
+                "score": 0.794137,
+                "label": "/law, govt and politics"
+            },
+            {
+                "score": 0.737316,
+                "label": "/society/crime/personal offense/homicide"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 6.702608
+    },
+    "text": "A Polícia Militar do Rio prendeu na manhã deste sábado (18) um suspeito acusado de participar do estupro coletivo de uma adolescente de 16 anos em maio do ano passado. Moisés Camilo de Lucena, conhecido como Canário, estava foragido desde a data do crime.  De acordo com a corporação, agentes abordaram um veículo suspeito na UPP (Unidade de Polícia Pacificadora) Jacarezinho, na zona norte do Rio.  Um homem saiu do veículo e correu até a favela do Rato Molhado, mas foi alcançado pelos policiais, que o identificaram como o suspeito foragido. Não houve troca de tiros, diz a PM. Lucena, que tinha um mandado de prisão aberto, foi preso na hora.  O estupro aconteceu no dia 21 de maio de 2016, na favela Barão, no bairro da Praça Seca, zona oeste do Rio. Em fevereiro deste ano, a Justiça condenou dois homens a 15 anos de prisão: Raí de Souza e Raphael Assis Duarte Belo. À decisão, de primeira instância, cabe recurso.  A investigação teve início após um vídeo da jovem, nua e desacordada, ser postado em redes sociais. Na gravação, um grupo de homens, em meio a risadas, toca nas partes íntimas da garota e diz: \"Mais de 30 engravidou [sic]\".  Em 2009, a lei nº 12.015 foi alterada e passou a considerar, além da conjunção carnal, atos libidinosos como crime de estupro.  Souza gravou e transmitiu o vídeo. Já Belo tirou uma foto ao lado da menor enquanto ela estava desacordada e também compartilhou as imagens.  A adolescente e sua família estão no programa de proteção a testemunhas do governo do Estado.",
+    "title": "Polícia do Rio prende acusado de participar de estupro coletivo",
+    "category": "cotidiano",
+    "data": "2017-03-18",
+    "link": "http://www1.folha.uol.com.br/cotidiano/2017/03/1867811-policia-do-rio-prende-acusado-de-participar-de-estupro-coletivo.shtml"
+}

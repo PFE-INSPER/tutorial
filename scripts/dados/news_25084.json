@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 3629,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.774901,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "Chuck Berry",
+                "sentiment": {
+                    "score": 0.757608,
+                    "label": "positive"
+                },
+                "relevance": 0.757879,
+                "count": 7
+            },
+            {
+                "text": "inúmeras versões de suas músicas",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.656477,
+                "count": 1
+            },
+            {
+                "text": "Roll Over Beethoven",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.610757,
+                "count": 3
+            }
+        ],
+        "entities": [
+            {
+                "type": "Person",
+                "text": "Chuck Berry",
+                "sentiment": {
+                    "score": 0.757608,
+                    "label": "positive"
+                },
+                "relevance": 0.953978,
+                "count": 8,
+                "confidence": 1
+            },
+            {
+                "type": "Person",
+                "text": "Berry",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.414977,
+                "count": 6,
+                "confidence": 1
+            },
+            {
+                "type": "Person",
+                "text": "Little Richard",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.379573,
+                "count": 2,
+                "confidence": 0.997833
+            },
+            {
+                "type": "Organization",
+                "text": "Rock and Roll Music",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.283266,
+                "count": 2,
+                "confidence": 0.705271
+            },
+            {
+                "type": "Person",
+                "text": "Jerry Lee Lewis",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.258435,
+                "count": 1,
+                "confidence": 0.989002
+            },
+            {
+                "type": "Date",
+                "text": "início dos anos 1950",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.251148,
+                "count": 1,
+                "confidence": 0.258149
+            },
+            {
+                "type": "JobTitle",
+                "text": "compositor",
+                "sentiment": {
+                    "score": 0.757006,
+                    "label": "positive"
+                },
+                "relevance": 0.251083,
+                "count": 2,
+                "confidence": 0.996938
+            },
+            {
+                "type": "GeographicFeature",
+                "text": "Beach Boys",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.231701,
+                "count": 1,
+                "confidence": 0.296712
+            },
+            {
+                "type": "Organization",
+                "text": "Sweet Little Sixteen",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.229956,
+                "count": 1,
+                "confidence": 0.491301
+            },
+            {
+                "type": "Date",
+                "text": "1957",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.228949,
+                "count": 1,
+                "confidence": 0.558051
+            }
+        ],
+        "concepts": [
+            {
+                "text": "The Beatles",
+                "relevance": 0.994491,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/The_Beatles"
+            },
+            {
+                "text": "Estados Unidos",
+                "relevance": 0.993297,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Estados_Unidos"
+            },
+            {
+                "text": "Chuck Berry",
+                "relevance": 0.99047,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Chuck_Berry"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.96389,
+                "label": "/art and entertainment/music/music genres/rock music"
+            },
+            {
+                "score": 0.94944,
+                "label": "/art and entertainment/music/music genres/blues"
+            },
+            {
+                "score": 0.918098,
+                "label": "/art and entertainment/music/music reference"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.6829546666666667
+    },
+    "text": "Little Richard foi o mais extravagante, Jerry Lee Lewis o mais selvagem, e Elvis o mais sensual. Mas, dos pioneiros que inventaram o rock'n'roll no início dos anos 1950, o maior compositor foi Chuck Berry. Com seus elegantes riffs de guitarra e letras geniais, Berry criou o imaginário do rock, um paraíso adolescente de carros velozes, meninas lascivas e uma atmosfera festiva de diversão inconsequente.  Chuck Berry influenciou todo mundo: os Beach Boys copiaram \"Sweet Little Sixteen\" (1957) para fazer o sucesso \"Surfin' USA\" (1963), os Beatles gravaram inúmeras versões de suas músicas (\"Roll Over Beethoven\", \"Rock and Roll Music\" e \"Too Much Monkey Business\", e Keith Richards há meio século imita o estilo \"cool\" e minimalista da guitarra de Berry, com seu \"suingue sem esforço\", como disse o guitarrista dos Stones.  Mais do que um grande compositor, Chuck Berry foi um gênio do marketing, um dos primeiros criadores a perceber o potencial de consumo dos adolescentes norte-americanos do pós-Segunda Guerra. Até então, não havia música feita especificamente para os \"teenagers\". Mas Berry, um veterano do circuito de blues e rhythm'n'blues de Saint Louis e Chicago, mudaria isso, criando uma sonoridade nova e que viria a se tornar a música de uma geração.  Poucos artistas da música pop tiveram tanta importância na destruição de barreiras raciais e sociais quanto Chuck Berry. Era um negro tocando uma música nova e polêmica para plateias brancas e negras. Nos anos 1950, com a América racialmente dividida, isso foi uma revolução.  OK, os punks dos anos 70 foram importantes, com suas canções agressivas e ofensas à monarquia inglesa e a governos em geral, mas os verdadeiros punks, aqueles que arriscaram até a vida por sua música, foram os pioneiros do rock dos anos 1950, em especial os negros, como Chuck Berry, Little Richard, Bo Diddley, Fats Domino e Sister Rosetta Tharpe (esta nos anos 1940!), que excursionaram pelos cafundós dos Estados Unidos numa época em que negros ainda eram linchados e pendurados em árvores.  Chuck Berry entendia seu país e sua cultura, e criou uma música que uniu todos os jovens - brancos e negros - em uma celebração coletiva. Suas canções falavam de um mundo \"teen\" idealizado e fantástico, onde cantores de rock viram astros (\"Johnny B. Goode\"), gatas lindas dirigem carrões envenenados (\"Maybellene\") e a escola é um tédio sem fim (\"School Days\").  Mas o grande tema musical de Chuck Berry foi o próprio rock'n'roll. Ele percebeu, antes de todos, que o adolescente precisava de uma música para chamar de sua, algo com que se identificasse e que o diferenciasse de seus pais, e compôs verdadeiros hinos em que celebrava o rock e o contrapunha a outros gêneros musicais: em \"Rock and Roll Music\", Berry canta que \"não tem nada contra jazz moderno\", mas gosta mesmo é de rock. Em \"Roll Over Beethoven\", brinca que Ludwig Van Beethoven rolaria em seu túmulo ao ver que o rock estava dominando o mundo. E em \"School Days\", sintetizou lindamente o conflito de gerações que ele tão bem musicou: \"Salve, salve, rock'n'roll / Livrai-me dos dias de outrora\".  Gênio é pouco.  *  Veja os artistas que foram influenciados por Chuck Berry:  Elvis Presley  Além de ter gravado diversas canções de Berry, Elvis foi acusado de ter se apropriado da música de artistas negros, tornando-a palatável para um público branco  The Beatles  Além de ter gravado \"Roll Over Beethoven\", a música \"Back in the U.S.S.R.\" é uma referência a \"Back in the USA\"  The Rolling Stones  Em sua conta no Twitter, a banda apontou Berry como uma influência. O grupo gravou covers de \"Come On\" e \"Carol\", entre outras",
+    "title": "Chuck Berry, o gênio que inventou a adolescência",
+    "category": "ilustrada",
+    "data": "2017-03-18",
+    "link": "http://www1.folha.uol.com.br/ilustrada/2017/03/1867845-chuck-berry-o-genio-que-inventou-a-adolescencia.shtml"
+}

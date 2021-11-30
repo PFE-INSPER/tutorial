@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 4901,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.597415,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "Rio de Janeiro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.641041,
+                "count": 3
+            },
+            {
+                "text": "São Paulo",
+                "sentiment": {
+                    "score": -0.600473,
+                    "label": "negative"
+                },
+                "relevance": 0.612264,
+                "count": 3
+            },
+            {
+                "text": "Superintendência Regional do Trabalho",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.578941,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Location",
+                "text": "São Paulo",
+                "sentiment": {
+                    "score": -0.778726,
+                    "label": "negative"
+                },
+                "relevance": 0.950357,
+                "count": 4,
+                "confidence": 0.999236
+            },
+            {
+                "type": "Location",
+                "text": "Rio de Janeiro",
+                "sentiment": {
+                    "score": -0.519523,
+                    "label": "negative"
+                },
+                "relevance": 0.746955,
+                "count": 4,
+                "confidence": 0.993309
+            },
+            {
+                "type": "Organization",
+                "text": "Ministério da Agricultura",
+                "sentiment": {
+                    "score": -0.810416,
+                    "label": "negative"
+                },
+                "relevance": 0.664628,
+                "count": 2,
+                "confidence": 0.888348
+            },
+            {
+                "type": "Location",
+                "text": "SP",
+                "sentiment": {
+                    "score": -0.600473,
+                    "label": "negative"
+                },
+                "relevance": 0.651713,
+                "count": 7,
+                "confidence": 0.999832
+            },
+            {
+                "type": "JobTitle",
+                "text": "congressistas",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.455431,
+                "count": 1,
+                "confidence": 0.892061
+            },
+            {
+                "type": "Person",
+                "text": "Janot",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.453562,
+                "count": 1,
+                "confidence": 0.880197
+            },
+            {
+                "type": "Person",
+                "text": "Ledo",
+                "sentiment": {
+                    "score": -0.440933,
+                    "label": "negative"
+                },
+                "relevance": 0.426209,
+                "count": 1,
+                "confidence": 0.972054
+            },
+            {
+                "type": "Location",
+                "text": "RJ",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.400441,
+                "count": 4,
+                "confidence": 0.993208
+            },
+            {
+                "type": "Person",
+                "text": "FRANCISCO C.S DA SILVA PIRES",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.377828,
+                "count": 1,
+                "confidence": 0.378475
+            },
+            {
+                "type": "Location",
+                "text": "São Gonçalo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.375894,
+                "count": 1,
+                "confidence": 0.463808
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Rio de Janeiro",
+                "relevance": 0.993173,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Rio_de_Janeiro"
+            },
+            {
+                "text": "São Paulo",
+                "relevance": 0.992864,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Previdência social",
+                "relevance": 0.979796,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Previdência_social"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.754265,
+                "label": "/food and drink/food"
+            },
+            {
+                "score": 0.716251,
+                "label": "/food and drink/vegan"
+            },
+            {
+                "score": 0.664317,
+                "label": "/food and drink/vegetarian"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.7142185000000001
+    },
+    "text": "OPERAÇÃO CARNE FRACA  Não adianta as gigantes do setor de carne virem com desmentidos gigantescos nos jornais depois de uma avalanche de provas contundentes. Contra fatos não existem argumentos.  SILVIA TAKESHITA DE TOLEDO (São Paulo, SP)  *  Pela falta de reação da sociedade em relação ao governo Temer, com diversos ministros e congressistas na lista de Janot, além das diversas tentativas de anistiar os envolvidos, percebe-se que, hoje, as panelas só servem mesmo para cozinhar a carne podre dos frigoríficos que abasteciam o caixa do PMDB.  CRISTIANO PENHA (Campinas, SP)  *  Diante do escândalo da carne estragada, não há nada como ser vegetariano – ou melhor, vegano. Ledo engano! Quem garante que não estamos consumindo soja transgênica, trigo cheio de fungos, vegetais tratados com uso abusivo de agroquímicos? O Ministério da Agricultura, os fiscais, os políticos e os suspeitos de sempre são os mesmos. Trata-se exatamente do mesmo país!  MONIKA SCHMIDT (São Paulo, SP)  *  Muitas coisas acontecem no Brasil porque as pessoas não cumprem suas atribuições e, quando o fazem, acham que devem ter vantagem. Não pensam, nesse caso específico, que eles mesmos, ou um dos seus, podem ter a saúde afetada.  FRANCISCO C.S DA SILVA PIRES (São Gonçalo, RJ)  *  Torcendo para que as prisões cheguem aos poderosos responsáveis por tais crimes e que sejam demitidos os agentes públicos corruptos e criminosos. Quantos de nós não ingerimos carne estragada, e há quanto tempo? Este país virou uma piada de mau gosto, que só escarnece de seu povo, porque aos muito ricos toda a engrenagem favorece. Parabéns à Polícia Federal.  VERA COSTA (Rio de Janeiro, RJ)  *  No Brasil, quando algum pequeno produtor de alimentos pensa em embalar um produto para venda, imediatamente vem o comentário: desista, conseguir o Selo de Inspeção Federal fornecido pelo Ministério da Agricultura é muito difícil. Pois então, é difícil para o pequeno, mas não para os mastodontes da alimentação. Deveríamos estimular os produtores locais.  LUIZ CARLOS BASSIT (São José dos Campos, SP)  -  REFORMA DA PREVIDÊNCIA  Se neste país a roubalheira atinge até os remédios a serem distribuídos nas farmácias populares e a verba para merenda escolar, não vejo por que a Previdência Social, que movimenta enormes quantias, esteja livre dessa praga. Creio que, se fizerem uma faxina nas contas, encontrarão ralos enormes por onde escoa o dinheiro público. Isso provará a desnecessidade da reforma proposta pelo atual governo.  LEONIDAS PEREIRA DE ASSIS (Rio de Janeiro, RJ)  -  VIOLÊNCIA EM PARATY  Desalentador tudo o que tem sido veiculado sobre Paraty, uma pérola encravada no litoral do Rio de Janeiro. Estive lá várias vezes e, felizmente, nada vivenciei de criminalidade. Mal dá para crer que seja, hoje, considerado o município mais violento do Estado. Lamentável.  MARIA INÊS PRADO (São João da Boa Vista, SP)  -  COLUNISTAS  Simplesmente irretorquível o artigo da professora Laura Carvalho sobre a reforma da Previdência. Bateu no ponto certo!  MÁRIO PARREIRAS DE FARIA (Belo Horizonte, MG)  -  BRASILÂNDIA  É lamentável ver a situação de alguns bairros de São Paulo que ainda sofrem com a escassez de água, entre outras queixas apresentadas. Tal problema já deveria ter sido solucionado, uma vez que, na época em que estamos, as chuvas têm sido frequentes e abundantes.  GABRIELLA ESTEVES DE OLIVEIRA e HELOYSA HELENA ROSSI BONANI (Rio Claro, SP)  *  A fim de complementar a reportagem sobre o bairro da Brasilândia, a Secretaria da Cultura informa que a referida unidade da Fábrica de Cultura, inaugurada em 2014, oferece cursos gratuitos de iniciação artística para mais de 45 mil pessoas por ano, além de atender outras 86 mil em atividades livres nos fins de semana. O local conta com biblioteca, computadores com acesso à internet, teatro e estúdio de gravação, disponíveis para apoiar as iniciativas culturais independentes da comunidade.  RENATA BELTRÃO, coordenadora de comunicação da Secretaria da Cultura do Estado (São Paulo, SP)  -  INDICAÇÃO POLÍTICA  A Superintendência Regional do Trabalho e Emprego do Rio de Janeiro esclarece que o auditor-fiscal Luiz Renato Almeida foi designado para o cargo de gerente regional do Trabalho e Emprego em Duque de Caxias em razão de suas virtudes profissionais, não por critérios políticos ou de qualquer natureza avessa às boas práticas do serviço público. Ressalta que ele é servidor público federal, sem falta desabonatória e entrou no corpo funcional mediante os ditames regratórios em consonância com a lei.  HELTON YOMURA, superintendente regional do Trabalho e Emprego do RJ (Rio de Janeiro, RJ)  -  PARTICIPAÇÃO  Os leitores podem colaborar com o conteúdo da Folha enviando notícias, fotos e vídeos (de acontecimentos ou comentários) que sejam relevantes no Brasil e no mundo. Para isso, basta acessar Envie sua Notícia ou enviar mensagem para leitor@grupofolha.com.br",
+    "title": "Nossas panelas só servem para cozinhar carne podre, ironiza leitor",
+    "category": "paineldoleitor",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/paineldoleitor/2017/03/1867744-nossas-panelas-so-servem-para-cozinhar-carne-podre-ironiza-leitor.shtml"
+}

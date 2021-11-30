@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 8727,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.479719,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "chegada da água da transposição",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.712037,
+                "count": 1
+            },
+            {
+                "text": "água dos canais",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.590387,
+                "count": 1
+            },
+            {
+                "text": "São Francisco",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.576282,
+                "count": 2
+            }
+        ],
+        "entities": [
+            {
+                "type": "Location",
+                "text": "São Francisco",
+                "sentiment": {
+                    "score": -0.72047,
+                    "label": "negative"
+                },
+                "relevance": 0.949044,
+                "count": 3,
+                "confidence": 0.753455
+            },
+            {
+                "type": "Person",
+                "text": "Suassuna",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.916704,
+                "count": 2,
+                "confidence": 0.998451
+            },
+            {
+                "type": "Organization",
+                "text": "governo",
+                "sentiment": {
+                    "score": 0.554746,
+                    "label": "positive"
+                },
+                "relevance": 0.819609,
+                "count": 5,
+                "confidence": 0.999999
+            },
+            {
+                "type": "Organization",
+                "text": "governo federal",
+                "sentiment": {
+                    "score": 0.783205,
+                    "label": "positive"
+                },
+                "relevance": 0.76765,
+                "count": 2,
+                "confidence": 0.890331
+            },
+            {
+                "type": "Organization",
+                "text": "Adutora do Agreste",
+                "sentiment": {
+                    "score": 0.783205,
+                    "label": "positive"
+                },
+                "relevance": 0.767093,
+                "count": 2,
+                "confidence": 0.419252
+            },
+            {
+                "type": "Person",
+                "text": "João Suassuna",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.749282,
+                "count": 2,
+                "confidence": 0.999764
+            },
+            {
+                "type": "Person",
+                "text": "Helder Barbalho",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.709992,
+                "count": 2,
+                "confidence": 0.999983
+            },
+            {
+                "type": "GeographicFeature",
+                "text": "bacia do rio",
+                "sentiment": {
+                    "score": -0.72047,
+                    "label": "negative"
+                },
+                "relevance": 0.669323,
+                "count": 2,
+                "confidence": 0.570159
+            },
+            {
+                "type": "GeographicFeature",
+                "text": "rio São Francisco",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.65975,
+                "count": 3,
+                "confidence": 0.986166
+            },
+            {
+                "type": "Person",
+                "text": "Sertânia",
+                "sentiment": {
+                    "score": -0.755404,
+                    "label": "negative"
+                },
+                "relevance": 0.613469,
+                "count": 2,
+                "confidence": 0.996448
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Transposição do rio São Francisco",
+                "relevance": 0.981608,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Transposição_do_rio_São_Francisco"
+            },
+            {
+                "text": "Pernambuco",
+                "relevance": 0.965782,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Pernambuco"
+            },
+            {
+                "text": "Zona rural",
+                "relevance": 0.954923,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Zona_rural"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.782355,
+                "label": "/business and industrial/agriculture and forestry/agriculture"
+            },
+            {
+                "score": 0.699543,
+                "label": "/business and industrial/agriculture and forestry/crops and seed"
+            },
+            {
+                "score": 0.607525,
+                "label": "/business and industrial/energy"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.6682229999999999
+    },
+    "text": "Enquanto o governo Temer alardeia a chegada da água da transposição às primeiras cidades do Nordeste, hidrólogos, estudiosos do semiárido nordestino e produtores da região apontam quatro entraves principais para que a transposição funcione: a debilidade atual do rio São Francisco para suprir a nova demanda; a ausência ou precariedade de obras complementares para fazer a água dos canais chegar às torneiras; a prioridade ao agronegócio, em detrimento do abastecimento humano; e o temor quanto ao furto de água dos canais, algo recorrente em projetos na região.  Um ponto crucial é saber se a vazão captada do São Francisco, por autorização da ANA (Agência Nacional de Águas), prejudicará a bacia do rio. Hoje, por causa da seca, ela é de 26,4 m³ por segundo, mas em época de cheia poderá chegar a 127 m³/s.  O governo argumenta que a retirada não afetará o manancial. O engenheiro agrônomo João Suassuna, 64, pesquisador da Fundaj (Fundação Joaquim Nabuco) especialista em semiárido, discorda. \"O São Francisco tem problemas hidrológicos sérios e não tem volume para abastecer a transposição. É um rio de múltiplos usos, responsável por 95% da energia gerada no Nordeste, irriga uma área de 340 mil hectares.\"  Segundo Suassuna, a fronteira agrícola de Mapitoba (Maranhão, Piauí, Tocantis e Bahia) é outra ameaça ao rio. \"Os produtores de soja estão exaurindo as águas de subsolo dessa região, do aquífero Urucuia, o que já está interferindo nas vazões de base do são Francisco, que alimentam o leito do rio.\"  Assim como Suassuna, o hidrólogo João Abner, 63, professor titular aposentado da UFRN, crê que a prioridade de uso da água será do agronegócio, diferentemente do que afirma o governo, para quem a primazia é para o abastecimento humano.  \"Os canais foram dimensionados para uma vazão quatro vezes maior do que a outorgada. E a expectativa de desenvolvimento pregada largamente por todos os políticos vai pressionar sempre por aumento de vazão para atender o agronegócio. Os Estados da região estão com grandes projetos em andamento baseados na vazão máxima. Esse é o maior conflito do projeto\", diz Abner.  Secretário de recursos hídricos de Pernambuco até janeiro passado, o engenheiro José Almir Cirilo, doutor em recursos hídricos e professor titular da UFPE, discorda dos colegas sobre o prejuízo ao rio. \"Os 26 m³/s são vitais e representam apenas 1% da vazão média do São Francisco. Mesmo na crise atual que também afeta a bacia do rio, é uma retirada insignificante\", defende.  Mas Cirilo aponta outro problema, a pendência de obras complementares para que a água chegue às torneiras. Ele cita o caso do do Ramal do Agreste, canal que captará água da transposição em Sertânia para abastecer 68 cidades pernambucanas a partir da chamado Adutora do Agreste. \"Esse projeto está pronto há pelo menos dois anos, o governo federal licitou há um ano e até hoje não determinou o início da obra, que vai se estender por no mínimo quatro anos.\"  O ministro da Integração Nacional, Helder Barbalho, diz que o governo federal ampliou os repasses ao governo de Pernambuco para a obra e que a Adutora do Agreste deve começar a operar em sete meses.  Barbalho lembrou que as obras adicionais cabem aos governos estaduais e disse que, ao assumir, o atual governo agiu para agilizar os repasses. \"É fato que as obras estruturantes deveriam estar prontas no momento da passagem da água. Por isso, em maio passado, quando assumimos, chamamos os governos dos Estados e as empresas envolvidas com a transposição e perguntamos qual a capacidade de execução para antecipar os cronogramas. Terminamos o ano colocando dinheiro na conta do governo de Pernambuco.\"  O ministro frisou, entretanto que \"desde o primeiro momento o compromisso principal [do governo] é com o caminho das águas\" e que, graças à situação crítica de abastecimento em Campina Grande (PB), que receberá água da transposição a partir de Monteiro (PB), havia pressa para concluir o trecho leste.  Segundo Helder Barbalho, Monteiro e Sertânia já estão abastecidas com água da transposição. No caso da cidade paraibana, a informação é contestada pelo Ministério Público Federal. \"A água da transposição enche os reservatórios, mas a companhia de saneamento precisa distribuir essa água. Em Monteiro, esse sistema não existe em toda a zona urbana e inexiste na zona rural\", disse a procuradora federal Janaína Andrade de Sousa.  \"Na minha casa não chegou água. Ontem fiz uma escova num salão e tive que comprar água mineral. Sempre levo duas garrafas de água para frequentar um salão de beleza\", contou a procuradora.  Dois outros moradores de Monteiro relataram nesta sexta (17) à reportagem que na véspera começou a chegar um pouco de água em suas casas. Um morador de Sertânia disse que nada mudou e que continua a tomar banho de cuia com água comprada de caminhão-pipa.  Especialistas defendem que o gasto com a transposição, R$ 9,6 bilhões até agora, é excessivo, e que obras menores e mais baratas, como adutoras captando água direto do rio até barragens pelo sertão, cumpririam função mais eficaz. \"Fizeram esses canais faraônicos, fica claro que é para abastecer o grande capital, criadores de camarão, agronegócio, grandes indústrias. Não vai chegar uma gota para atender a população difusa [mais afastada da bacia do rio e das barragens]\", diz João Suassuna.  Graças a projetos de irrigação com água do rio, o vale do São Francisco, na região de Petrolina (PE), é o maior exportador de frutas do país. Presidente da Valexport ( Associação dos Produtores e Exportadores de Hortigranjeiros e Derivados do Vale do São Francisco), José Gualberto, considera que adutoras e barramentos seriam mais eficientes contra a seca e que a transposição visou movimentar as grandes empresas de construção civil do país.  \"Agora está pronta, não tem que se discutir, tem que fazer que ela opere com eficiência, a maior que ela possa ter\", diz Gualberto. O maior problema a partir de agora, aponta, é a gestão dos canais e da água da tranposição. \"Se você examinar transposições que já existem, como o projeto Nilo Coelho, verá que há muito roubo de água, falta de controle e falta de gestão.\"  Transposição do rio São Francisco  FISCALIZAÇÃO  Morador de Juazeiro (BA), às margens do São Francisco, o filósofo e teólogo Roberto Malvezzi, assessor da Comissão Pastoral da Terra e de movimentos sociais, diz que o atual estado do rio não é compatível com a transposição. \"A reprodução de peixes é afetada, porque não há mais a inundação das lagoas marginais. Isso impacta diretamente a vida de milhares de pescadores que viviam dessa pesca. Sem falar na cunha salina que penetrou o rio e está inviabilizando os mananciais de água doce da foz. Não que a transposição seja a causa desses problemas, mas pode agravá-los. A causa é o desmatamento do Cerrado.\"  Órgão que se opôs à transposição enquanto o projeto foi debatido, o CBHSF (Comitê da Bacia Hidrográfica do São Francisco) diz que \"agora, quando quase R$ 10 bilhões já foram investidos, essa polêmica perdeu o foco político, muito embora historicamente vá se manter ainda por um longo período\". O CBHSF atenta para a importância de se fiscalizar a vazão autorizada pela ANA (Agência Nacional de Águas) e cobra o engajamento dos Estados que passarão a receber água do rio.  \"A entrada em funcionamento do eixo Leste da transposição representa mais uma demanda expressiva de água em contexto de grave crise hídrica e ambiental na própria bacia e calha do São Francisco, onde as vazões a jusante dos principais reservatórios (Três Marias e Sobradinho) estão sendo reduzidas drasticamente para contornar os efeitos dramáticos da seca de cinco anos. Em tais circunstâncias, as condições da outorga deverão ser estritamente observadas\", afirma o presidente do CBHSF, Anivaldo Miranda.  \"Por outro lado, o fato das bacias receptoras do Nordeste Setentrional receberem as águas do São Francisco torna-as, a partir de agora, e a seus Estados também (Ceará, Rio Grande do Norte e Paraíba) responsáveis pela gestão das águas sanfranciscanas tanto para o bônus como para o ônus, ou seja, todos que usam águas do rio São Francisco devem se obrigar a um engajamento de fato e não apenas retórico, com o uso racional dessas águas, com as restrições impostas à administração da crise hídrica que afeta o próprio rio São Francisco e com o Programa de Revitalização da Bacia Hidrográfica que até agora, em termos práticos, ainda não saiu do papel.\"  O Ministério da Integração lançou em outubro um programa de revitalização da bacia, batizado de Novo Chico, no qual diz que vai investir R$ 7 bilhões, que prevê a recuperação de nascentes e matas ciliares, tratamento de esgoto ao longo da bacia e educação ambiental, entre outras medidas.",
+    "title": "Saúde do São Francisco e falta de obras adicionais são entraves à transposição",
+    "category": "poder",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/poder/2017/03/1867802-saude-do-sao-francisco-e-falta-de-obras-adicionais-sao-entraves-a-transposicao.shtml"
+}

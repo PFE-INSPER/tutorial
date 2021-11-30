@@ -1,0 +1,208 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 7354,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.425635,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "Executivos da JBS",
+                "sentiment": {
+                    "score": -0.699191,
+                    "label": "negative"
+                },
+                "relevance": 0.763765,
+                "count": 2
+            },
+            {
+                "text": "cúpula da empresa",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.621112,
+                "count": 1
+            },
+            {
+                "text": "família Batista",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.60159,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Organization",
+                "text": "JBS",
+                "sentiment": {
+                    "score": -0.611324,
+                    "label": "negative"
+                },
+                "relevance": 0.957308,
+                "disambiguation": {
+                    "subtype": [
+                        "Company"
+                    ],
+                    "name": "JBS",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/JBS"
+                },
+                "count": 28,
+                "confidence": 1
+            },
+            {
+                "type": "Organization",
+                "text": "J&F",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.196205,
+                "count": 5,
+                "confidence": 0.963646
+            },
+            {
+                "type": "Person",
+                "text": "Wesley Batista",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.131514,
+                "disambiguation": {
+                    "name": "Wesley_Batista",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/Wesley_Batista"
+                },
+                "count": 5,
+                "confidence": 1
+            },
+            {
+                "type": "Organization",
+                "text": "Carne Fraca",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.125987,
+                "count": 2,
+                "confidence": 0.968867
+            },
+            {
+                "type": "JobTitle",
+                "text": "Executivos",
+                "sentiment": {
+                    "score": -0.699191,
+                    "label": "negative"
+                },
+                "relevance": 0.097247,
+                "count": 1,
+                "confidence": 0.900302
+            },
+            {
+                "type": "Date",
+                "text": "sexta-feira (17",
+                "sentiment": {
+                    "score": -0.699191,
+                    "label": "negative"
+                },
+                "relevance": 0.096691,
+                "count": 1,
+                "confidence": 0.378039
+            },
+            {
+                "type": "Date",
+                "text": "sexta (17",
+                "sentiment": {
+                    "score": -0.596373,
+                    "label": "negative"
+                },
+                "relevance": 0.095336,
+                "count": 2,
+                "confidence": 0.454307
+            },
+            {
+                "type": "Organization",
+                "text": "Operação Carne Fraca",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.09451,
+                "count": 1,
+                "confidence": 0.655736
+            },
+            {
+                "type": "Time",
+                "text": "início daquela manhã",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.094049,
+                "count": 1,
+                "confidence": 0.207245
+            },
+            {
+                "type": "Location",
+                "text": "São Paulo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.092929,
+                "count": 1,
+                "confidence": 0.945688
+            }
+        ],
+        "concepts": [
+            {
+                "text": "São Paulo",
+                "relevance": 0.988439,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Estados Unidos",
+                "relevance": 0.985239,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Estados_Unidos"
+            },
+            {
+                "text": "JBS",
+                "relevance": 0.974366,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/JBS"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.771433,
+                "label": "/business and industrial/business operations"
+            },
+            {
+                "score": 0.759495,
+                "label": "/business and industrial/company"
+            },
+            {
+                "score": 0.695497,
+                "label": "/food and drink/food"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.6928364
+    },
+    "text": "Executivos da JBS mal haviam acordado na sexta-feira (17) quando mensagens em seus celulares começaram a pulular. A gigante do setor de alimentos e maior produtora de carne bovina do mundo era um dos alvos da Operação Carne Fraca, deflagrada no início daquela manhã.  Nas horas que se seguiram, a cúpula da empresa, na sede brasileira em São Paulo e na base americana no Colorado, ficaria dedicada a entender a extensão do problema -a operação mirou 32 companhias- e dividir-se para tentar tranquilizar clientes e investidores ao redor do mundo.  Os telefones da empresa tocaram incessantemente. Eram ligações de varejistas, grandes supermercados e redes de fast food, que compram carne ou industrializados da JBS. A empresa é dona de uma miríade de marcas, entre elas Friboi e Seara.  Ao contrário de outras operações que envolveram o grupo nos últimos meses, a divulgação da Carne Fraca lançou dúvidas, num primeiro momento, sobre a qualidade do produto da companhia, que vende ao mercado interno e exporta para mais de 150 países.  A JBS, porém, não teve fábricas interditadas e não há menção no relatório da PF a irregularidades sanitárias da companhia, como a venda de produtos estragados.  Na noite de sexta, executivos da JBS, que teve receitas de R$ 170 bilhões em 2016, diziam haver incerteza sobre os prejuízos práticos da investigação para o negócio. O alto escalão da JBS compartilhava, porém, duas certezas: o dano à imagem da empresa era real e a turbulência não se encerraria naquele dia.  OFERTA DE AÇÕES  Uma das principais dúvidas é como ficará o cronograma para abertura de capital da JBS Foods International, dona de todos os negócios da JBS fora do Brasil, na Bolsa de Nova York. A operação, que vem sendo gestada há meses, é a principal aposta da empresa para aumentar seu poder de fogo no mercado mundial e tem sido decisiva para sustentar o preço das ações da JBS no Brasil.  Segundo um executivo ouvido pela Folha, a companhia preparava-se para, nesta semana, atualizar as informações do registro para a oferta de ações. O plano era deixar tudo pronto para que a operação pudesse ser feita de \"meados para o final\" de abril. Agora, os próximos passos dependerão de como investidores reagirão ao longo desta semana, diz um membro do alto escalão da companhia. Procurada, a empresa disse que não comentaria o processo.  As ações da JBS na Bolsa brasileira têm sofrido abalos. Desde julho passado, a empresa enfrenta os efeitos de investigações que miram a J&F, conglomerado da família Batista que comanda a JBS e também outras empresas como a Alpargatas (calçados), Flora (higiene e limpeza), Vigor (derivados do leite) e Eldorado (celulose).  As operações Sépsis, da Lava Jato, Greenfield e Cui Bono apuram se a J&F pagou propina a políticos e funcionários públicos para obter, por exemplo, empréstimos da Caixa à empresa de celulose.  A JBS não é alvo nesses casos, mas foi afetada. Em setembro, a Justiça determinou que Joesley Batista, presidente da J&F, e Wesley Batista, presidente da JBS, fossem afastados do cargos. Um acordo com as autoridades permitiu que retornassem.  A cada operação, o mercado reage. Na sexta (17), as ações da JBS foram as que mais caíram na Bovespa -tombo de 10,59%. A cotação ainda está acima da registrada em 30 de junho de 2016, dia anterior à primeira operação que mirou a J&F. De lá para cá, no entanto, enquanto as ações da JBS subiram 7,7%, o Ibovespa teve alta de 25,9%.  Caminho da carne  CLIMA  A ordem na JBS é intensificar nos próximas dias a comunicação com clientes e consumidores, \"correr atrás do prejuízo\", como expressou um executivo. Mas o clima na companhia ainda é, em muitos casos, de indignação.  Em comentários com pessoas próximas, Wesley Batista indicou desconforto com a maneira como a operação fora divulgada, sem separar devidamente as irregularidades cometidas por pequenas empresas do que havia contra a JBS e a rival BRF (dona da Sadia e da Perdigão), segundo relatos obtidos pela Folha.  A avaliação inicial da cúpula é que a companhia não precisará reforçar sua estrutura de qualidade, que conta hoje com cerca de 2.000 funcionários, mas terá uma grande desafio de comunicação com os consumidores no mercado doméstico e no exterior.  MAIORES IMPORTADORES DE CARNE BOVINA BRASILEIRA - Em mil toneladas (fev.2017)  OUTRO LADO  A JBS não quis comentar os efeitos da Carne Fraca para suas vendas e o impacto da operação sobre os planos de abertura de capital nos EUA.  Em nota divulgada na sexta (17) sobre a investigação, a companhia afirmou que a qualidade de seus produtos \"é a sua maior prioridade\" e a razão de ter se transformado na maior empresa de proteína do mundo.  A empresa destacou que, no despacho da Justiça, não há menção a irregularidades sanitárias da JBS e que nenhuma de suas fábricas foi interditada.  Segundo a JBS, por exportar carne para mais de 150 países, como EUA, Alemanha e Japão, a companhia é anualmente auditada por missões sanitárias internacionais e pelos clientes.  De acordo com a JBS, o grupo mantém no Brasil 2.000 profissionais \"dedicados exclusivamente\" a garantir a qualidade de seus produtos e das marcas Friboi e Seara. E que, \"todos os anos, 70 mil funcionários têm treinamento obrigatório nessa área\"  Segundo a companhia, nenhum executivo foi alvo de medidas judiciais na Carne Fraca e apenas um funcionário da unidade de Lapa (PR)foi citado na investigação.  Ainda por meio de nota, a JBS disse que \"não compactua com desvios de conduta e tomará todas as medidas cabíveis\". E que reitera \"seu compromisso histórico com o aprimoramento das práticas sanitárias\".  Em anúncio publicado nos principais veículos de comunicação do país neste sábado (17), a JBS afirmou que, nos últimos dois anos, suas unidades receberam 340 auditorias de qualidade e que é a companhia com mais certificações BRC (British Retail Consortium, na sigla em inglês), referência global em qualidade na produção de proteína animal.  A companhia sustenta que é a maior interessada no fortalecimento da inspeção sanitária no país e que os \"lamentáveis casos citados na imprensa sobre produtos adulterados não envolvem nenhuma das marcas da JBS.  A empresa disse estar à disposição de autoridades, clientes e consumidores para esclarecimentos.  -  01/07/2016 - Deflagrada Sépsis, etapa da Lava Jato, sobre suposto esquema no FI-FGTS. J&F, dona da JBS, está entre os alvos  05/09/2016 - Deflagrada Operação Greenfield, sobre fundos de pensão. Justiça determina que Wesley Batista, presidente da JBS, e Joesley Batista, presidente da J&F, se afastem dos cargos  13/09/2016 - José Batista Júnior assume interinamente a presidência da JBS  14/09/2016 - Justiça autoriza retorno de Wesley Batista ao comando da JBS  26/10/2016 - BNDES veta reestruturação da JBS, que mudaria sede para Irlanda e lançaria ações em Nova York  05/12/2016 - JBS anuncia plano de lançar ações da subsidiária JBS Foods International em Nova York  13/01/2017 - Deflagrada Operação Cui Bono?, sobre a Caixa Econômica Federal. J&F está entre os alvos.  07/02/2017 - Ministério Público pede afastamento de Joesley Batista do comando da J&F; medida não atinge Wesley Batista.  13/03/2016 - JBS anuncia compra da empresa Plumrose USA, nos Estados Unidos  17/03/2017 - Deflagrada Operação Carne Fraca, sobre fraudes em fiscalizações de frigoríficos. A JBS é uma das 32 empresas investigadas",
+    "title": "Escândalo da carne lança dúvidas sobre oferta de ações da JBS em NY",
+    "category": "mercado",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/mercado/2017/03/1867804-escandalo-da-carne-lanca-duvidas-sobre-oferta-de-acoes-da-jbs-em-ny.shtml"
+}

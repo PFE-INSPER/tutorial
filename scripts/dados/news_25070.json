@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 1916,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.6775,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "nova ofensiva da PF",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.688916,
+                "count": 1
+            },
+            {
+                "text": "operação Carne Fraca",
+                "sentiment": {
+                    "score": -0.58519,
+                    "label": "negative"
+                },
+                "relevance": 0.678551,
+                "count": 1
+            },
+            {
+                "text": "novo ministro da Justiça",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.587015,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Organization",
+                "text": "Carne Fraca",
+                "sentiment": {
+                    "score": -0.58519,
+                    "label": "negative"
+                },
+                "relevance": 0.94932,
+                "count": 1,
+                "confidence": 0.544564
+            },
+            {
+                "type": "Organization",
+                "text": "Ministério da Agricultura",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.834665,
+                "count": 1,
+                "confidence": 0.685824
+            },
+            {
+                "type": "JobTitle",
+                "text": "ministro da Justiça",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.723905,
+                "count": 1,
+                "confidence": 0.490848
+            },
+            {
+                "type": "Person",
+                "text": "Osmar Serraglio",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.714818,
+                "count": 1,
+                "confidence": 0.988086
+            },
+            {
+                "type": "JobTitle",
+                "text": "peemedebista",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.671676,
+                "count": 1,
+                "confidence": 0.627893
+            },
+            {
+                "type": "Date",
+                "text": "Há poucos meses",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.633257,
+                "count": 1,
+                "confidence": 0.316022
+            },
+            {
+                "type": "Person",
+                "text": "Eduardo Cunha",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.607551,
+                "count": 1,
+                "confidence": 0.979925
+            },
+            {
+                "type": "Money",
+                "text": "R$ 400 milhões",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.484083,
+                "count": 1,
+                "confidence": 0.986287
+            },
+            {
+                "type": "Organization",
+                "text": "PF",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.464387,
+                "count": 1,
+                "confidence": 0.995141
+            },
+            {
+                "type": "JobTitle",
+                "text": "fiscal",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.432666,
+                "count": 1,
+                "confidence": 0.599903
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Eduardo Cunha",
+                "relevance": 0.974381,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Eduardo_Cunha"
+            },
+            {
+                "text": "Aécio Neves",
+                "relevance": 0.960297,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Aécio_Neves"
+            },
+            {
+                "text": "JBS",
+                "relevance": 0.957738,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/JBS"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.766046,
+                "label": "/law, govt and politics"
+            },
+            {
+                "score": 0.746095,
+                "label": "/food and drink/food"
+            },
+            {
+                "score": 0.651587,
+                "label": "/society/unrest and war"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.607756
+    },
+    "text": "BRASÍLIA - Não é só a carne que está podre. A nova ofensiva da PF expôs o grau de decomposição avançada das relações entre o dinheiro, a política e os órgãos que deveriam proteger o consumidor no Brasil.  A operação Carne Fraca flagrou práticas de embrulhar o estômago: reembalagem de comida estragada, uso de substâncias cancerígenas para maquiar produtos vencidos, mistura de papelão nas salsichas.  Tudo era permitido graças à promiscuidade entre frigoríficos e funcionários do Ministério da Agricultura. A bancada ruralista é quem dá as ordens na pasta. Deputados nomeiam e demitem fiscais, travam ações sanitárias e fazem pressão para afrouxar o controle das mercadorias.  Um dos grampos fisgou a intimidade entre o novo ministro da Justiça, Osmar Serraglio, e o fiscal apontado como \"líder da organização criminosa\". Na ligação, o peemedebista chama o funcionário suspeito de corrupção de \"grande chefe\".  Há poucos meses, ele prestava a mesma reverência a Eduardo Cunha. Chegou a defender que o amigo fosse anistiado pelas acusações que o levaram à cadeia em Curitiba.  Se a fiscalização é fraca, a ligação entre frigoríficos e política é fortíssima. Em 2014, o setor despejou quase R$ 400 milhões em campanhas. O grosso do dinheiro foi fatiado como um bife entre PT, PMDB e PSDB.  A investigada JBS, que controla as marcas Friboi e Seara, aparece como a maior financiadora de Serraglio. A empresa também abriu os cofres para os comitês de Dilma Rousseff e Aécio Neves. O recado era claro: queria continuar bem com o governo, seja quem fosse o presidente eleito.  O escândalo deve produzir mais um forte abalo na economia. Os frigoríficos empregam milhares e o Brasil se tornou o maior exportador do mundo no setor. Nada disso, é claro, pode servir como desculpa para salvar corruptos. Além de punir os culpados, é preciso reforçar os controles para que o caso não se repita. Afinal, a carne continuará fraca.",
+    "title": "A carne continuará fraca",
+    "category": "colunas",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/colunas/bernardomellofranco/2017/03/1867732-a-carne-continuara-fraca.shtml"
+}

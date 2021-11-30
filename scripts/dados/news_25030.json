@@ -1,0 +1,186 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 1059,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0,
+                "label": "neutral"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "mote do blog Studio",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.906063,
+                "count": 1
+            },
+            {
+                "text": "casal Joel",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.764084,
+                "count": 1
+            },
+            {
+                "text": "SÃO PAULO  Como",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.62626,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Number",
+                "text": "1202",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.951589,
+                "count": 1,
+                "confidence": 0.8
+            },
+            {
+                "type": "Person",
+                "text": "Mirna Alves",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.927083,
+                "count": 1,
+                "confidence": 0.982322
+            },
+            {
+                "type": "JobTitle",
+                "text": "designer de interiores e engenheira elétrica",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.905776,
+                "count": 1,
+                "confidence": 0.08443
+            },
+            {
+                "type": "Location",
+                "text": "São Bernardo do Campo (região metropolitana de São Paulo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.772891,
+                "count": 1,
+                "confidence": 0.409417
+            },
+            {
+                "type": "Person",
+                "text": "Joel",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.718773,
+                "count": 2,
+                "confidence": 0.999998
+            },
+            {
+                "type": "JobTitle",
+                "text": "designer",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.307359,
+                "count": 1,
+                "confidence": 0.814934
+            },
+            {
+                "type": "Number",
+                "text": "dois",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.251993,
+                "count": 1,
+                "confidence": 0.8
+            },
+            {
+                "type": "Organization",
+                "text": "Youtube",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.100833,
+                "count": 1,
+                "confidence": 0.514646
+            },
+            {
+                "type": "Facility",
+                "text": "Studio 1202",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.007736,
+                "count": 1,
+                "confidence": 0.406495
+            }
+        ],
+        "concepts": [
+            {
+                "text": "São Paulo",
+                "relevance": 0.983441,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Região Metropolitana de São Paulo",
+                "relevance": 0.97659,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Região_Metropolitana_de_São_Paulo"
+            },
+            {
+                "text": "Bricolagem",
+                "relevance": 0.864177,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Bricolagem"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.660338,
+                "label": "/technology and computing/internet technology/web search/people search"
+            },
+            {
+                "score": 0.637392,
+                "label": "/art and entertainment/shows and events"
+            },
+            {
+                "score": 0.588738,
+                "label": "/style and fashion"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.666721
+    },
+    "text": "DE SÃO PAULO  Como repaginar a casa gastando pouco? Esse é o mote do blog Studio 1202, criado pelo casal Joel e Mirna Alves, designer de interiores e engenheira elétrica, respectivamente.  \"Queremos estimular o consumo consciente. Nada é lixo\", diz ele, que, assim como a esposa, é natural de São Bernardo do Campo (região metropolitana de São Paulo).  Os dois ensinam, por exemplo, a transformar um quarto com pequenos truques de decoração e a construir móveis para a casa.  \"Somos muito criteriosos em relação à técnica, não escrevemos com base em 'achismo'. E tentamos transmiti-la de forma simples\", afirma o designer.  Ensinar a resolver pequenos problemas da casa, como vazamentos e portas emperradas, é outra proposta da página. Para Joel, muitas vezes, bastam orientações e uma chave de fenda para resolvê-los.  Além do blog, o casal mantém um canal no Youtube onde compartilha vídeos com dicas de bricolagem e 'faça você mesmo'. \"Os vídeos são mais dinâmicos, e vão direto ao ponto\", diz ele.  Veja, a seguir, algumas dicas publicadas no Studio 1202.",
+    "title": "\n\t\tEm blog, casal ensina a repaginar a casa gastando poucos recursos\n\t\t",
+    "category": "sobretudo",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/sobretudo/vida-pratica/2017/03/1867595-casal-ensina-em-blog-a-repaginar-a-casa-gastando-poucos-recursos.shtml"
+}

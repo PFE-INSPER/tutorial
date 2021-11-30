@@ -1,0 +1,198 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 3414,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.432991,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "história do Minotauro de Knossos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.602223,
+                "count": 1
+            },
+            {
+                "text": "setor de saúde",
+                "sentiment": {
+                    "score": 0.822053,
+                    "label": "positive"
+                },
+                "relevance": 0.595359,
+                "count": 3
+            },
+            {
+                "text": "tema da terceirização",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.591665,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "JobTitle",
+                "text": "médicos",
+                "sentiment": {
+                    "score": 0.386946,
+                    "mixed": "1",
+                    "label": "positive"
+                },
+                "relevance": 0.957098,
+                "count": 5,
+                "confidence": 1.0
+            },
+            {
+                "type": "Ordinal",
+                "text": "terceirização",
+                "sentiment": {
+                    "score": 0.839469,
+                    "label": "positive"
+                },
+                "relevance": 0.68628,
+                "count": 2,
+                "confidence": 0.859564
+            },
+            {
+                "type": "Location",
+                "text": "Estado brasileiro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.631329,
+                "count": 1,
+                "confidence": 0.266008
+            },
+            {
+                "type": "Location",
+                "text": "Cassandras",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.61837,
+                "count": 1,
+                "confidence": 0.375769
+            },
+            {
+                "type": "Organization",
+                "text": "Minotauro de Knossos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.595953,
+                "count": 1,
+                "confidence": 0.359976
+            },
+            {
+                "type": "GeographicFeature",
+                "text": "ilha de Creta",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.592621,
+                "count": 1,
+                "confidence": 0.351525
+            },
+            {
+                "type": "Organization",
+                "text": "Ministério do Trabalho",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.443696,
+                "count": 2,
+                "confidence": 0.898245
+            },
+            {
+                "type": "Percent",
+                "text": "4%",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.354149,
+                "count": 1,
+                "confidence": 0.8
+            },
+            {
+                "type": "Organization",
+                "text": "CLT",
+                "sentiment": {
+                    "score": 0.804003,
+                    "label": "positive"
+                },
+                "relevance": 0.342744,
+                "count": 1,
+                "confidence": 0.947587
+            },
+            {
+                "type": "Organization",
+                "text": "Associação Nacional de Hospitais Privados",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.281627,
+                "count": 1,
+                "confidence": 0.614469
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Creta",
+                "relevance": 0.991095,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Creta"
+            },
+            {
+                "text": "Minotauro",
+                "relevance": 0.956432,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Minotauro"
+            },
+            {
+                "text": "Médico",
+                "relevance": 0.94742,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Médico"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.875985,
+                "label": "/health and fitness"
+            },
+            {
+                "score": 0.812935,
+                "label": "/health and fitness/men's health"
+            },
+            {
+                "score": 0.792926,
+                "label": "/science/medicine"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.5235163333333334
+    },
+    "text": "Há muitos aspectos de mitos e de tragédia grega no Estado brasileiro. Falando especificamente do setor de saúde, às vezes nos sentimos como Cassandras, anunciando profecias funestas para ouvidos moucos.  Uma interação recente sobre o tema da terceirização lembrou-me a história do Minotauro de Knossos, na ilha de Creta -uma monstruosidade que tinha cabeça de touro e corpo de humano. A experiência recente com o Minotauro estatal, no entanto, envolve uma profunda desconexão entre discurso e ação.  Cabe aqui, antes de prosseguir, explicar a importância da terceirização para o setor de saúde, e em especial para os hospitais e os médicos.  A medicina tem se especializado cada vez mais, uma evolução extremamente positiva para os pacientes. A antiga divisão básica entre cirurgiões e clínicos foi suplantada por uma infinidade de profissionais que entendem cada vez mais sobre condições clínicas e partes específicas do corpo.  A contrapartida dessa questão é que raramente há, em um só hospital, pacientes em número suficiente para preencher o dia de trabalho desses médicos ultraespecializados.  Aliás, nem sequer há médicos em número suficiente, mesmo nas regiões mais ricas do país, para dar conta de todas as contratações em regime de emprego que se fariam necessárias, a não ser que houvesse sobreposição de jornadas de trabalho, algo inadmitido pela legislação.  Assim, não há sentido em manter médicos ociosos quando poderiam estar atendendo a pacientes, nem preservar vínculos trabalhistas tradicionais com profissionais que não os querem, uma vez que com eles a sua atividade profissional teria menor remuneração e seria menos satisfatória.  Isso é tão amplamente aceito entre médicos e hospitais que menos de 4% das relações laborais dessas partes ocorrem nos moldes da CLT.  Esses são temas caros ao setor de saúde, e é dever das entidades representativas disponibilizar seus conhecimentos técnicos para a criação de políticas públicas mais adequadas ao país.  As particularidades da saúde impõem condições de trabalho diferentes das de outros setores. Nesse espírito, a Associação Nacional de Hospitais Privados enviou ofício ao Ministério do Trabalho, colocando-se à disposição para contribuir para as discussões sobre o tema.  Neste momento, surgiu o Minotauro. Os mais altos níveis do governo vêm sinalizando positivamente para uma regulamentação que vise dar segurança jurídica às relações de terceirização. A cabeça e o corpo, porém, parecem pertencer a seres completamente diferentes.  O Ministério do Trabalho, em sua resposta, dá a impressão de considerar que o debate sobre terceirização busca, na verdade, escancarar as portas para a fraude e promover uma associação com uma forma de trabalho análoga à escravidão.  Para além do caráter improdutivo -e ofensivo à honra- da manifestação do ministério, evidencia-se ainda a imagem de um governo que não é coeso em suas políticas, deixando o setor produtivo inseguro para retomar investimentos.  A solução encontrada pelos cretenses para o Minotauro foi encerrá-lo em um gigantesco labirinto, do qual não conseguiria sair. No labirinto do Estado brasileiro, porém, estamos presos todos nós, junto a um Minotauro especializado em fornecer informações contraditórias  FRANCISCO BALESTRIN, médico, é presidente da Associação Nacional de Hospitais Privados (Anahp)  PARTICIPAÇÃO  Para colaborar, basta enviar e-mail para debates@grupofolha.com.br",
+    "title": "O Minotauro da saúde",
+    "category": "opiniao",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/opiniao/2017/03/1867700-o-minotauro-da-saude.shtml"
+}

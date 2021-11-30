@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 5359,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.417268,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "sapatos da noiva",
+                "sentiment": {
+                    "score": 0.599256,
+                    "label": "positive"
+                },
+                "relevance": 0.698248,
+                "count": 1
+            },
+            {
+                "text": "modelos de sapatos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.659534,
+                "count": 1
+            },
+            {
+                "text": "escondidos embaixo do vestido",
+                "sentiment": {
+                    "score": 0.599256,
+                    "label": "positive"
+                },
+                "relevance": 0.581539,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Time",
+                "text": "10h às 22h",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.949917,
+                "count": 5,
+                "confidence": 0.95119
+            },
+            {
+                "type": "Time",
+                "text": "14h às 20h",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.945312,
+                "count": 5,
+                "confidence": 0.961305
+            },
+            {
+                "type": "Person",
+                "text": "D. Estac",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.661498,
+                "count": 2,
+                "confidence": 0.990884
+            },
+            {
+                "type": "Facility",
+                "text": "Shopping Iguatemi",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.644728,
+                "count": 2,
+                "confidence": 0.993642
+            },
+            {
+                "type": "Person",
+                "text": "Faria Lima",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.641514,
+                "count": 2,
+                "confidence": 0.953784
+            },
+            {
+                "type": "Number",
+                "text": "2.232",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.640314,
+                "count": 2,
+                "confidence": 0.96
+            },
+            {
+                "type": "Location",
+                "text": "Jardim Paulistano",
+                "sentiment": {
+                    "score": -0.420596,
+                    "label": "negative"
+                },
+                "relevance": 0.638671,
+                "count": 2,
+                "confidence": 0.794826
+            },
+            {
+                "type": "Money",
+                "text": "R$ 15",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.623345,
+                "count": 2,
+                "confidence": 0.96717
+            },
+            {
+                "type": "Person",
+                "text": "Cerqueira César",
+                "sentiment": {
+                    "score": -0.420596,
+                    "label": "negative"
+                },
+                "relevance": 0.549047,
+                "count": 3,
+                "confidence": 0.999764
+            },
+            {
+                "type": "Time",
+                "text": "10h às 19h",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.499681,
+                "count": 2,
+                "confidence": 0.701755
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Sapato",
+                "relevance": 0.94662,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Sapato"
+            },
+            {
+                "text": "Salto-alto",
+                "relevance": 0.940771,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Salto-alto"
+            },
+            {
+                "text": "Calçado",
+                "relevance": 0.93113,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Calçado"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.987658,
+                "label": "/style and fashion/footwear/shoes"
+            },
+            {
+                "score": 0.886566,
+                "label": "/style and fashion/footwear/sandals"
+            },
+            {
+                "score": 0.745778,
+                "label": "/style and fashion/footwear/boots"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.81575925
+    },
+    "text": "LUIZA WOLF COLABORAÇÃO PARA A sãopaulo  Não é só porque, na maioria das vezes, os sapatos da noiva ficam escondidos embaixo do vestido que os estilistas relaxaram: há criações com salto alto e adornos de cristais —como os da Christian Louboutin e da Jimmy Choo—, além de opções como sandálias e scarpins. Confira dez lojas abaixo.    -  ALEXANDRE BIRMAN A marca não tem modelos de sapatos criados especificamente para noivas, mas a coleção atual, Pre Fall 2017, tem calçados sofisticados. Eles são inspirados na moda vintage e resgatam formas geométricas. As sandálias da linha custam na faixa de R$ 1.600 e são opções para compor o look da noiva, de madrinhas e de convidadas.  alexandrebirman.com.br. Shopping Iguatemi. Av. Brig. Faria Lima, 2.232, Jardim Paulistano, região oeste, tel. 3031-6195. Seg. a sáb.: 10h às 22h. Dom.: 14h às 20h. CC: V, M, AE, E, D. Estac. a partir de R$ 15.  *  AREZZO A marca tem um leque de calçados, como sapatilhas, sandálias e tênis. No catálogo, há opções de sapatos e acessórios, como bolsas, mais sofisticados, ideais para noivas, madrinhas e convidadas. Entre as boas opções, estão o elegante scarpin de nobuck nude (que custa R$ 219,90), a sandália de tira preta em verniz (R$ 239,90) e a clutch de cetim preta (R$ 299,90).  arezzo.com.br. R. Oscar Freire, 808, Cerqueira César, tel. 3081-4929. Seg. a sex.: 10h às 20h. Sáb.: 10h às 19h. Dom.: 13h às 18h. CC: V, M, AE, E, D. Estac. (grátis).  *  CHRISTIAN LOUBOUTIN Os modelos mais desejados pelas noivas são que têm aplicação manual de cristais, como Follie Strass e Fifi Strass, que partem de R$ 5.190. Modelos clássicos em tons nude e branco ou revestidos em cetim, também são ideais para a ocasião e custam a partir de R$ 2.790. Há ainda, para os noivos, a linha de sapatos masculinos (a partir de R$ 3.990).  christianlouboutin.com. Shopping Iguatemi. Av. Brig. Faria Lima, 2.232, Jardim Paulistano, região oeste, tel. 3032-0233. Seg. a sáb.: 10h às 22h. Dom.: 14h às 20h. CC: todos. Estac. a partir de R$ 15.  *  DURVAL CALÇADOS FINOS No mercado desde 1999, a loja vende sapatos altos e baixos para festas. Para noivas, os modelos brancos são adornados com rendas, laços e outros enfeites. Os pares custam na faixa de R$ 300. Há também com opções para daminhas -as sapatilhas partem de R$ 140.  durvalcalcados.com.br. Shopping Ibirapuera. Av. Ibirapuera, 3.103, Indianópolis, tel. 5041-6228. Seg. a sáb.: 10h às 22h. Dom.: 14h às 20h. CC: V, M, AE, E, D, H.  *  JIMMY CHOO No ano passado, a loja lançou a coleção Bridal, especialmente dedicada às noivas. Há sandálias e sapatos para noivas adornados por cristais da Swarovski, penas, laços e acabamento com brilho, entre outros. Há ainda a possibilidade de personalizar os calçados com as iniciais dos noivos ou com a data do casamento.  jimmychoo.com. Shopping Cidade Jardim. Av. Magalhães de Castro, 12.000, piso térreo, Butantã, tel. 3552-2052. Seg. a sáb.: 10h às 22h. Dom.: 14h às 20h. CC: V, M, AE.  *  JULIANA BICUDO A loja foi aberta em 2010 e oferece peças confortáveis, todas produzidas artesanalmente. Em 2014, lançou a Coleção Noivas, com modelos em tons nude, \"off-white\", azul e opções com aplicações delicadas de bordados e estampa de coração no solado. Os preços variam de R$ 689 a R$ 1.009.  julianabicudo.com.br. R. Girassol, 170/174, Vila Madalena, região oeste, tel. 3031-7802. Seg. a sex.: 10h às 19h. Sáb.: 10h às 18h. CC: V, M.  *  KILA Desde 1970, a marca produz em sua oficina calçados para festas ou para compromissos casuais. Para noivas, há modelos com matérias-primas como pelica, camurça, verniz, metalizados e perolizados e tecidos como seda, renda, zibeline, tafetá e musseline. Os preços dos modelos por encomenda partem de R$ 1.630 e os de pronta entrega, de R$ 1.300.  kila.com.br. R. da Consolação, 3.153, Cerqueira César, região oeste, tel. 3081-1416. Seg. a sex.: 9h às 18h30. Sáb.: 9h às 13h. CC: V, M. Estac. (grátis, n° 3.101).  *  MELISSA A linha Wedding, assinada pela designer londrina J.Maskrey, é dedicada especialmente às noivas. O peep toe com salto Melissa Lady Dragon Wedding, com aplicação de pequenos cristais Swarovski na parte frontal e um anel no salto, sai por R$ 700. Já o Melissa UltraGirl Wedding é uma sapatilha também com detalhes em cristais e custa R$ 600.  melissa.com.br. R. Oscar Freire, 827, Cerqueira César, região oeste, tel. 3083-3612. Seg. a sex.: 10h às 19h30. Sáb.: 10h às 17h30. CC: V, M, AE, Au, E, D, C, G.  *  SANTA LOLLA Focada em casamentos, a linha Marry Me da marca traz sapatos \"off-white\", incrementados com materiais como rendas, cristais e amarrações, feitos tanto para noivas clássicas quanto para modernas. Os modelos variam entre scarpins, peep toes, sapatilhas e open boots. A sandália da coleção, branca com cristais, custa R$ 229,90.  santalolla.com.br. Av. Bem-te-vi, 184, Moema, região sul, tel. 4328-1592. Seg. a sáb.: 10h às 20h. Dom.: 12h às 18h. CC: V, M, AE, E, D, H. Valet (grátis).  *  SCHUTZ Da linha festa, aposta em modelos que agradam noivas e madrinhas. Podem ser encontrados scarpins, peep toes e sandálias em diversas cores -incluindo peças em dourado e nude-, modelos, e acabamentos com valores a partir de aproximadamente R$ 300.  schutz.com.br. Shopping Ibirapuera. Av. Ibirapuera, 3.103, Indianópolis, tel. 5093-8899. Seg. a sáb.: 10h às 22h. Dom.: 14h às 20h. CC: V, M, AE. Estac. a partir de R$ 14.",
+    "title": "Sandálias e sapatos com cristais para noivas em 10 endereços em São Paulo",
+    "category": "o-melhor-de-sao-paulo",
+    "data": "2017-03-18",
+    "link": "http://www1.folha.uol.com.br/o-melhor-de-sao-paulo/noivas-e-casamentos/2017/03/1866526-sandalias-e-sapatos-com-cristais-para-noivas-em-10-enderecos-em-sao-paulo.shtml"
+}

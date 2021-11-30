@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 5564,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.809096,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "eixo leste da transposição",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.678164,
+                "count": 1
+            },
+            {
+                "text": "zona rural",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.61372,
+                "count": 1
+            },
+            {
+                "text": "chegada das águas da transposição",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.611038,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Person",
+                "text": "Lula",
+                "sentiment": {
+                    "score": -0.843489,
+                    "label": "negative"
+                },
+                "relevance": 0.952849,
+                "count": 13,
+                "confidence": 1
+            },
+            {
+                "type": "Organization",
+                "text": "Bolsa Família",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.487987,
+                "count": 2,
+                "confidence": 0.827825
+            },
+            {
+                "type": "JobTitle",
+                "text": "presidente",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.446951,
+                "count": 3,
+                "confidence": 0.999917
+            },
+            {
+                "type": "Date",
+                "text": "últimos dias",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.407433,
+                "count": 1,
+                "confidence": 0.27147
+            },
+            {
+                "type": "Person",
+                "text": "Luiz Inácio Lula da Silva a Monteiro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.402962,
+                "count": 1,
+                "confidence": 0.306836
+            },
+            {
+                "type": "Location",
+                "text": "Sertânia",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.401041,
+                "count": 1,
+                "confidence": 0.33392
+            },
+            {
+                "type": "Date",
+                "text": "domingo (19",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.399663,
+                "count": 1,
+                "confidence": 0.311621
+            },
+            {
+                "type": "Person",
+                "text": "Michel Temer",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.391268,
+                "count": 1,
+                "confidence": 0.985842
+            },
+            {
+                "type": "Date",
+                "text": "último dia 10",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.388653,
+                "count": 1,
+                "confidence": 0.337372
+            },
+            {
+                "type": "Organization",
+                "text": "governo federal",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.366165,
+                "count": 1,
+                "confidence": 0.64045
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Luiz Inácio Lula da Silva",
+                "relevance": 0.993875,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Luiz_Inácio_Lula_da_Silva"
+            },
+            {
+                "text": "São Paulo",
+                "relevance": 0.993471,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Transposição do rio São Francisco",
+                "relevance": 0.974699,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Transposição_do_rio_São_Francisco"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.678214,
+                "label": "/law, govt and politics"
+            },
+            {
+                "score": 0.612229,
+                "label": "/law, govt and politics/government"
+            },
+            {
+                "score": 0.607245,
+                "label": "/law, govt and politics/government/heads of state"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.741874
+    },
+    "text": "Anunciada com estardalhaço nos últimos dias nas redes sociais, a visita do ex-presidente Luiz Inácio Lula da Silva a Monteiro (PB) e Sertânia (PE) neste domingo (19) correu de boca em boca nessas cidades como fato consumado antes mesmo de o petista confirmá-la.  Quando o presidente Michel Temer (PMDB) esteve na região no último dia 10 para inaugurar o eixo leste da transposição –num evento fechado para convidados, entrecortado por gritos de manifestantes do lado de fora–, os sertanejos ouvidos pela Folha já faziam planos para receber Lula.  No semiárido nordestino, a imagem do petista tem contornos quase míticos. A despeito da campanha publicitária maciça do governo federal sobre a chegada das águas da transposição, entre as dezenas de entrevistados feitas em uma semana (de 10 a 15/3), preponderou a opinião de que Lula é o responsável pela obra.  Da mesma forma, quase todos afirmaram que votariam no petista se a eleição fosse hoje. Na zona rural, não houve entre os entrevistados uma única voz dissonante. Nas áreas urbanas da região por que passa a transposição, ainda que Lula também seja majoritário, a reportagem ouviu vozes críticas à corrupção nas gestões petistas e eleitores desiludidos com a política.    A transposição contribuiu para a popularidade de Lula, mas é listada, como justificativa de apoio, ao lado de outras políticas que beneficiaram maciçamente os nordestinos, como o Bolsa Família, o aumento do salário mínimo, a geração de empregos e medidas menos vistosas contra a seca, como distribuição de cisternas.  Há quem nem saiba o nome do atual presidente, como o sapateiro aposentado João Soares de Souza, 76, de Monteiro. \"Estamos esperando vantagem [com a transposição]. Se não tiver, desvantagem não vai ter. A seca está malvada, os invernos meio poucos, com uma chuvinha de não fazer água. O povo sempre tem fé no Lula, foi ele quem começou a enfrentar isso, depois ele botou a Dilma. Diziam que ela fazia melhor do que o que entrou...\". Mas quem entrou no lugar dela? \"E eu sei lá. Não sei não.\"  A 65 quilômetros dali, num aglomerado de casas de uma mesma família chamado Cancelas, zona rural de Sertânia (PE), o lavrador Marcos Antônio de Siqueira, 46, e todos os seus parentes são lulistas.  Transposição do rio São Francisco  É um local de aridez extrema, onde dificilmente a água da transposição chegará (os canais e barragens mais próximos estão 30 quilômetros além), e o rio Moxotó, distante 2 quilômetros, está seco.  Os Siqueira têm cisternas, mas pegam água emprestada de vizinhos, pois não estão cadastrados no programa municipal que às vezes abastece a região com carros-pipa –o terreno onde vivem é íngreme e acidentado, o caminhão não chega.  \"O canal [da transposição] está cheio, mas a gente só vê água se for lá de moto. Para a gente, não vai servir de nada, é muito longe\", afirma Marcos.  Sem chuva nem água para plantar, ele e os parentes sobrevivem da criação de cabras, de dois bois (comprados com um salário-maternidade) e do Bolsa Família –R$ 230 no caso de Marcos e sua mulher, que têm um filho de 9 anos, Joran, na escola. \"Foi Lula quem deu esse comer a gente\", ele diz.  No sítio Formiga, zona rural de Salgueiro (PE), por onde passam canais do eixo norte, a agricultora aposentada Judite Epifânia de Jesus, 78, recorda que, antes de Lula, \"ninguém tinha uma cachorra para andar\". Ao seu lado, o neto Reginaldo, 25, explica que \"cachorra\" é moto, tão comum no sertão moderno quanto mandacaru.  Ela é semianalfabeta, ele tem ensino médio completo, mas está desempregado. \"Ruim ou bom, quem tirou nossa barriga da miséria foi Lula. Quando era ele, havia emprego\", diz Judite, para quem a corrupção é um problema sem partido. \"E os que não eram ladrões? Estão presos ou ainda vão ser. Pelo menos Lula lembrou da gente, os outros nem isso.\"  A advogada Larissa Lopes, 25, de Cabrobó (PE), votaria nulo ou em branco. \"Todos têm problemas, perdi a esperança com a política. Lula fez muitos projetos, mas muitos deles são a causa do afundamento do Brasil hoje.\"  BOLSONARO  Na cidade de Brejo Santo (CE), os namorados Riviele Teles, 19, estudante de educação física, e Vítor Macedo, 20, dono de lanchonete, se dividem. Ele é Lula: \"Roubou muito, mas fez muito. Tirou de quem tem, os outros tiram de quem não tem\". Ela concorda, mas, logo hesita. Gosta também de Jair Bolsonaro (PSC-RJ).  Entre um e outro, votaria em quem? \"Em Bolsonaro. Tem que ser uma coisa radical, para mudar logo\", diz Riviele. Mudar logo o quê? \"A criminalidade.\"  Em Sertânia (PE), quatro rapazes que mergulhavam na barragem Campos da transposição no sábado retrasado se declararam eleitores de Lula. Questionados sobre que outros políticos são citados como opção entre os jovens da cidade, respondem: Bolsonaro.  Além de Temer e Lula, o tucano Geraldo Alckmin, governador de São Paulo com pretensão de concorrer à Presidência, também buscou se associar à transposição, ao emprestar bombas da Sabesp para serem usadas num reservatório da transposição. Alckmin fez um evento para anunciar o empréstimo e depois foi ao Nordeste e sobrevoou a barragem onde foram instaladas as bombas.  Os apoios dos Estados à transposição também se guiaram pela bússola da política.  \"Bahia e Sergipe foram contra até que o PT conquistasse o poder nesse Estados. Você tem dúvidas de que o lobby da transposição ajudou nas eleições de Jaques Wagner [na Bahia] e Marcelo Déda [em Sergipe]? Não podemos desconsiderar a vinculação política dessa obra com o projeto de poder do PT\", observa o hidrólogo João Abner, professor titular aposentado da UFRN.",
+    "title": "Lula visita neste domingo região da transposição em que é idolatrado",
+    "category": "poder",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/poder/2017/03/1867770-lula-visita-neste-domingo-regiao-do-rio-sao-francisco-em-que-e-idolatrado.shtml"
+}

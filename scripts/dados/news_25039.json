@@ -1,0 +1,206 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 1010,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0,
+                "label": "neutral"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "biografia do bilionário americano",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.592222,
+                "count": 1
+            },
+            {
+                "text": "Bola de Neve",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.59123,
+                "count": 1
+            },
+            {
+                "text": "decisões econômicas",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.576096,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Person",
+                "text": "Warren Buffett",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.951255,
+                "disambiguation": {
+                    "subtype": [
+                        "BoardMember",
+                        "Celebrity",
+                        "CompanyShareholder"
+                    ],
+                    "name": "Warren_Buffett",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/Warren_Buffett"
+                },
+                "count": 2,
+                "confidence": 0.999968
+            },
+            {
+                "type": "JobTitle",
+                "text": "economista",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.904501,
+                "count": 1,
+                "confidence": 0.935891
+            },
+            {
+                "type": "JobTitle",
+                "text": "gestor financeiro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.892199,
+                "count": 1,
+                "confidence": 0.471825
+            },
+            {
+                "type": "Person",
+                "text": "Fernando Pinho",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.879785,
+                "count": 1,
+                "confidence": 0.989221
+            },
+            {
+                "type": "Organization",
+                "text": "Bola de Neve",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.866114,
+                "count": 1,
+                "confidence": 0.253276
+            },
+            {
+                "type": "Person",
+                "text": "Alice Schröeder",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.795229,
+                "count": 1,
+                "confidence": 0.980338
+            },
+            {
+                "type": "Organization",
+                "text": "EDITORA Sextante QUANTO",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.715799,
+                "count": 1,
+                "confidence": 0.610457
+            },
+            {
+                "type": "Money",
+                "text": "R$ 13,50",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.701671,
+                "count": 1,
+                "confidence": 0.994218
+            },
+            {
+                "type": "Organization",
+                "text": "Psicologia Econômica",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.679983,
+                "count": 1,
+                "confidence": 0.610466
+            },
+            {
+                "type": "Person",
+                "text": "Vera Rita de Mello Ferreira",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.648584,
+                "count": 1,
+                "confidence": 0.878007
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Economia",
+                "relevance": 0.991265,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Economia"
+            },
+            {
+                "text": "São Paulo",
+                "relevance": 0.984465,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Finanças",
+                "relevance": 0.964286,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Finanças"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.935564,
+                "label": "/finance/personal finance"
+            },
+            {
+                "score": 0.859368,
+                "label": "/finance/investing"
+            },
+            {
+                "score": 0.859368,
+                "label": "/finance/investing/beginning investing"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.683095
+    },
+    "text": "DE SÃO PAULO  Conheça alguns volumes que podem melhorar conhecimentos de finanças pessoais. As sugestões são do economista e gestor financeiro Fernando Pinho.  A Bola de Neve: Warren Buffett e o Negócio da Vida A biografia do bilionário americano, de Alice Schröeder, traz lições de como usar crises a seu favor e afiar o instinto empresarial EDITORA Sextante QUANTO R$ 13,50 (e-book)  Psicologia Econômica O livro de Vera Rita de Mello Ferreira ajuda a entender a lógica mental por trás das decisões econômicas e financeiras tomadas pelas pessoas EDITORA Campus QUANTO R$ 65,86  Rápido e Devagar O Nobel de Economia Daniel Kahneman apresenta as diferenças entre o pensamento rápido e intuitivo e o devagar e ponderado, e como empregá-los ao tomar decisões EDITORA Objetiva QUANTO R$ 37,60  O Investidor Inteligente O livro do consultor financeiro Benjamin Graham já influenciou nomes como Warren Buffett. Hoje, é considerado uma bíblia para quem quer aprender a investir EDITORA Nova Fronteira QUANTO R$ 49,30",
+    "title": "\n\t\tLivros para quem quer aprender a poupar ou investir melhor\n\t\t",
+    "category": "sobretudo",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/sobretudo/vida-pratica/2017/03/1867589-livros-para-quem-quer-aprender-a-poupar-ou-investir-melhor.shtml"
+}

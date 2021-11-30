@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 4245,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.658446,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "mercado de luxo",
+                "sentiment": {
+                    "score": 0.758906,
+                    "label": "positive"
+                },
+                "relevance": 0.647793,
+                "count": 2
+            },
+            {
+                "text": "empresas de menor porte",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.601779,
+                "count": 1
+            },
+            {
+                "text": "segmento de luxo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.572903,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Date",
+                "text": "ano passado",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.950015,
+                "count": 2,
+                "confidence": 0.990281
+            },
+            {
+                "type": "Money",
+                "text": "R$ 3,3 trilhões",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.629821,
+                "count": 1,
+                "confidence": 0.996585
+            },
+            {
+                "type": "Percent",
+                "text": "4%",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.627394,
+                "count": 1,
+                "confidence": 0.8
+            },
+            {
+                "type": "Organization",
+                "text": "Bain & Company",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.620274,
+                "count": 1,
+                "confidence": 0.180548
+            },
+            {
+                "type": "Person",
+                "text": "Carlos Ferreirinha",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.601232,
+                "count": 1,
+                "confidence": 0.997704
+            },
+            {
+                "type": "Organization",
+                "text": "MCF",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.593911,
+                "count": 1,
+                "confidence": 0.749964
+            },
+            {
+                "type": "Person",
+                "text": "Claudio Diniz",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.579408,
+                "count": 1,
+                "confidence": 0.999757
+            },
+            {
+                "type": "JobTitle",
+                "text": "diretor-executivo da consultoria",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.576244,
+                "count": 1,
+                "confidence": 0.244492
+            },
+            {
+                "type": "Person",
+                "text": "Maison du Luxe",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.573136,
+                "count": 1,
+                "confidence": 0.273768
+            },
+            {
+                "type": "Person",
+                "text": "Chocolat Du Jour",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.480229,
+                "count": 1,
+                "confidence": 0.459766
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Plano de negócios",
+                "relevance": 0.996286,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Plano_de_negócios"
+            },
+            {
+                "text": "São Paulo",
+                "relevance": 0.991552,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Embalagem",
+                "relevance": 0.97121,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Embalagem"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.744899,
+                "label": "/finance/investing"
+            },
+            {
+                "score": 0.744899,
+                "label": "/finance/investing/beginning investing"
+            },
+            {
+                "score": 0.709218,
+                "label": "/business and industrial/advertising and marketing/brand management"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.5637106666666667
+    },
+    "text": "O mercado de luxo é dos pequenos. São empresas de menor porte que têm capacidade de atender a demanda por produtos e serviços exclusivos em um setor que movimentou mundialmente R$ 3,3 trilhões e cresceu 4% no ano passado, segundo a consultoria americana Bain & Company. Mas que não passou incólume pela crise brasileira.  \"O país está em um momento no qual as pessoas perdem a vontade de consumir\", diz Carlos Ferreirinha, fundador e presidente da consultoria de luxo MCF. \"O impacto é diferente do que em um setor mais popular, mas ele existe e é severo\", completa.  Segundo Claudio Diniz, diretor-executivo da consultoria Maison du Luxe, é natural que o segmento de luxo sinta os problemas do país. \"Ainda mais neste momento, em que há uma crise de representatividade, de valores. Mesmo quem tem dinheiro repensa suas escolhas\", afirma.  Para enfrentar esse desafio, ele sugere que o empresário aposte na relação com o cliente. \"Não há mais uma fidelidade a determinada marca. A pessoa vai comprar onde for bem tratada, com quem atender melhor, inclusive nas redes sociais\", diz.  ATENDIMENTO Entre as recomendações estão o treinamento de funcionários, para que eles sejam capazes de explicar o uso de matérias-primas de qualidade, e o investimento no atendimento pela internet.  Foi isso que fez marca paulistana Chocolat Du Jour, que reformulou sua loja on-line e sua presença em redes sociais. \"Assim conseguimos fechar o ano passado quase no zero a zero\", afirma Patricia Landmann, 38, que toca a empresa ao lado da família.  Foi sua mãe, Claudia, 64, que começou o negócio há 30 anos depois de provar um chocolate belga que seu marido havia ganhado e notar que não existia nada semelhante no país.  \"Nosso plano era oferecer um produto superior aos que existiam. Isso acaba sendo naturalmente o luxo, mas não planejamos entrar nesse segmento, apenas aconteceu\", afirma Patricia.  Para atingir a qualidade exigida, a empresa cuida de todas as etapas do processo. O cacau sai de fazendas certificadas na Bahia e no Pará até a fábrica na Lapa (zona oeste de São Paulo), onde são feitos os doces que chegam a custar centenas de reais.  \"No mundo inteiro é possível encontrar marcas pequenas que estão no topo do luxo, de joalherias a marcas de chocolate\", afirma o consultor Ferreirinha  NICHO Para a consultora do Sebrae-SP Monica Lemes, as pequenas empresas conseguem atingir melhor alguns nichos de mercado.  \"Existe o desejo de um público de classe alta que não é atendido pelos grandes grupos. Então há um mercado a ser explorado\", diz ela.  A empresária Jeniffer Bresser, 40, estava de olho em clientes mais refinados quando há 17 anos fundou em São Paulo o ateliê de embalagens que leva seu nome, localizado nos Jardins (na zona oeste da cidade).  \"Minha primeira certeza era querer alcançar um público diferenciado, que fosse capaz de entender o que eu estava fazendo\", afirma ela.  Sua especialidade são caixas artesanais de madeira, usadas para embalar presentes em casamentos, batizados, encontros de empresas e outros eventos.  \"Em cada caso, pensamos em algo único. O que uma pessoa que tem acesso a tudo, já viajou pelo mundo, vai querer de presente?\", diz.  Além da embalagem, a empresa também é responsável por pensar no conteúdo, que é produzido por parceiros -os preços variam conforme o pedido do cliente.  CONSELHOS QUE VALEM OURO Dicas para quem quer empreender no luxo  Conheça o gosto Tradicionalmente, a análise do público-alvo leva em conta idade, gênero, localização e renda. No caso do luxo, é preciso pesar também outros aspectos, como se o cliente tem gosto mais clássico ou extravagante  Viva a diferença Empresas de sucesso neste mercado, mas de segmentos diferentes, devem servir como modelo. Uma loja de roupas, por exemplo, pode analisar a forma como uma joalheria famosa atende a seus clientes  Experimente Não é preciso ser um milionário para investir no segmento, mas o ideal é que o empreendedor tenha pelo menos alguma vivência com experiências de luxo, seja em viagens ou na visita a lojas de renome  Tudo a seu tempo O mercado de luxo tem um ritmo diferente de outros setores, e o plano de negócios precisa levar isso em conta. O retorno financeiro costuma demorar mais: o ideal é pensar a longo prazo",
+    "title": "Pequenos empresários formam a base do setor de luxo",
+    "category": "mercado",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/mercado/2017/03/1867432-pequenos-empresarios-formam-a-base-do-setor-de-luxo.shtml"
+}

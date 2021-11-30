@@ -1,0 +1,198 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 8896,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.581459,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "Presidente do clube",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.64323,
+                "count": 1
+            },
+            {
+                "text": "vida política do Vasco",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.568112,
+                "count": 1
+            },
+            {
+                "text": "pedido do João Havelange",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.560972,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Organization",
+                "text": "Vasco",
+                "sentiment": {
+                    "score": -0.402887,
+                    "mixed": "1",
+                    "label": "negative"
+                },
+                "relevance": 0.952225,
+                "count": 16,
+                "confidence": 1
+            },
+            {
+                "type": "Person",
+                "text": "Eurico Miranda",
+                "sentiment": {
+                    "score": 0.597783,
+                    "label": "positive"
+                },
+                "relevance": 0.551979,
+                "count": 2,
+                "confidence": 0.999267
+            },
+            {
+                "type": "Person",
+                "text": "Roberto Dinamite",
+                "sentiment": {
+                    "score": -0.680887,
+                    "label": "negative"
+                },
+                "relevance": 0.505007,
+                "count": 2,
+                "confidence": 0.999789
+            },
+            {
+                "type": "JobTitle",
+                "text": "cartola",
+                "sentiment": {
+                    "score": -0.597908,
+                    "label": "negative"
+                },
+                "relevance": 0.437074,
+                "count": 3,
+                "confidence": 0.966812
+            },
+            {
+                "type": "Organization",
+                "text": "futebol brasileiro",
+                "sentiment": {
+                    "score": -0.680705,
+                    "label": "negative"
+                },
+                "relevance": 0.43615,
+                "count": 2,
+                "confidence": 0.358744
+            },
+            {
+                "type": "Organization",
+                "text": "CPI do Futebol",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.425067,
+                "count": 2,
+                "confidence": 0.773143
+            },
+            {
+                "type": "Organization",
+                "text": "Ministério Público",
+                "sentiment": {
+                    "score": -0.709095,
+                    "label": "negative"
+                },
+                "relevance": 0.41084,
+                "count": 2,
+                "confidence": 0.984489
+            },
+            {
+                "type": "Organization",
+                "text": "Polícia Federal",
+                "sentiment": {
+                    "score": -0.786813,
+                    "label": "negative"
+                },
+                "relevance": 0.409294,
+                "count": 2,
+                "confidence": 0.985856
+            },
+            {
+                "type": "Person",
+                "text": "Eurico",
+                "sentiment": {
+                    "score": 0.800557,
+                    "label": "positive"
+                },
+                "relevance": 0.380083,
+                "count": 2,
+                "confidence": 0.999891
+            },
+            {
+                "type": "Duration",
+                "text": "50 anos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.339149,
+                "count": 1,
+                "confidence": 0.68093
+            }
+        ],
+        "concepts": [
+            {
+                "text": "São Paulo",
+                "relevance": 0.989748,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Eurico Miranda",
+                "relevance": 0.962414,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Eurico_Miranda"
+            },
+            {
+                "text": "Ministério Público",
+                "relevance": 0.945696,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Ministério_Público"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.761472,
+                "label": "/law, govt and politics"
+            },
+            {
+                "score": 0.636415,
+                "label": "/law, govt and politics/politics"
+            },
+            {
+                "score": 0.623557,
+                "label": "/society"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.6251136666666667
+    },
+    "text": "Um dos mais polêmicos dirigentes do futebol brasileiro, Eurico Miranda completa 50 anos na vida política do Vasco em 2017.  Presidente do clube pelo quarto mandato, o carioca de 72 anos faz um discurso na contramão da modernização do futebol. Ele diz que o esporte está pior do que nos anos 1960 e coloca a culpa na profissionalização.  \"Vejo esses executivos que vão pulando de um clube para outro e não entendo. Não existe mais a ligação que existia antigamente. Você estava no clube por sentimento, por amor à instituição\", disse Eurico, responsável por montar grandes times vascaínos, como os que venceram os Brasileiros de 1989, 1997 e 2000, e a Libertadores de 1998.  Fora do esporte, o dirigente colecionou denúncias. Na CPI do Futebol, concluída em 2001, o cartola foi indiciado por apropriação indébita do dinheiro do Vasco e falsidade ideológica por uso de \"laranja\" em desvios de recursos do clube. Ele rebate as acusações.  \"Aquilo foi uma briga política. Após a CPI, fui investigado pelo Ministério Público, pela Polícia Federal, mas o resultado quase ninguém publica. Fui absolvido em tudo\", defende-se o cartola, que diz estar recuperado de um câncer diagnosticado na bexiga e em parte do pulmão no início da década.  Fumando charuto durante a entrevista de uma hora e 40 minutos na sua sala em São Januário, Eurico não esconde ser um conservador.  Disse que proíbe jogadores de usarem brinco no Vasco, afirma que não gosta de \"veado\" e defende a nomeação dos seus filhos para cargos de comando no futebol do clube. Álvaro Miranda é diretor da base. Já Euriquinho é vice de futebol.  Ele atribuiu a falta de protagonismo do Vasco à situação financeira caótica que encontrou no clube após a saída de Roberto Dinamite do comando, mas afirma que a equipe vai se classificar para a Libertadores neste ano. Na quinta (16), no dia seguinte à entrevista, o time foi eliminado da Copa do Brasil ao ser derrotado pelo Vitória, por 1 a 0, em Salvador.  Deputado federal por dois mandatos, o cartola admitiu que o pagamento de propina existe na política e no mundo do futebol. Mas garante que nunca se beneficiou.  \"Tenho certeza que para Bangu não vou\", referindo-se ao complexo penitenciário do Rio que abriga políticos como o ex-governador Sérgio Cabral (PMDB), que em 2008 apoiou a eleição de Roberto Dinamite, adversário de Miranda.  *  Folha - O futebol melhorou ou piorou nos últimos 50 anos? Eurico Miranda - Está pior. Entendo o futebol, acima de tudo, como entretenimento. A célula principal do esporte é o clube. E vejo que a chamada \"profissionalização\", apregoada por alguns, não funciona. Vejo profissionais que vão pulando de um clube para outro. Não existe mais a ligação que existia antigamente. Você estava no clube por sentimento, por amor à instituição. Isso acabou.  Se o futebol está pior, o que fez o senhor voltar ao Vasco? Voltei porque o clube precisa. Saí daqui para me tratar [foi diagnosticado com câncer]. Dizem que perdi uma eleição e me afastei. Na verdade, não concorri. Não voltei para coroar a minha trajetória no futebol. Mas não aguentei ver o que acontecia no Vasco. Perdemos a condição de clube protagonista. O Vasco estava descendo a ladeira. Entreguei a presidência com uma dívida de R$ 109 milhões, que, depois, falaram que era R$ 300 milhões. Quatro anos depois, a dívida já estava R$ 700 milhões. Voltei porque achava que tinha condição de reverter o quadro.  O senhor continua no Vasco até quando? Fico aqui até o Vasco não precisar mais de mim. Ainda não sei [se vai tentar à reeleição no final do ano]. Pode ser. Mas se aparecer alguém aqui que consiga resolver os problemas, deixo o cargo na hora.  Se fosse na administração pública, o senhor seria acusado de nepotismo. O futebol do clube é comandado por seus dois filhos... Mas aqui não é administração pública. O Álvaro conhece muito bem os atletas de base. O Philippe Coutinho, o Alex Teixeira e muitos outros passaram pelas mãos dele. O meu outro filho é muito competente. Sei que deve ter outros profissionais competentes no mercado, mas a vantagem deles é que aprenderam comigo. Não sou modesto. Repito que sou competente. Além disso, eles são amadores e não ganham salário.  O senhor é um conservador. Os jogadores hoje usam tatuagem, brincos. O que acha disso? Jogador do Vasco não usa brinco. Se chegar, mando tirar. O Romário usava brinco e tirou aqui. Não tenho nada contra o brinco, mas usa fora daqui.  E tatuagem? Eu não contrato o cara nu. Hoje em dia a tatuagem não interfere. Mas é claro que o atleta não pode ter uma tatuagem do Flamengo. Isso não pode.  O senhor já contratou algum atleta gay? Vou te dar um frase polêmica. Não tenho nada contra homossexual, mas contra veado.  Como assim? Veado não precisa ser homossexual. É só olhar o que é veadagem no dicionário.  Mas pode jogar no Vasco? Não vou verificar se é ou não. Sou contra o gay espalhafatoso. Todos têm direito de ter a sua opção. Só não pode agredir o outro.  Ser homossexual é uma agressão? O cara espalhafatoso me agride. Mas acredito que nunca contratei um gay.  O senhor usou o clube para se eleger deputado federal duas vezes. O que o senhor achou de Brasília? Falo com tranquilidade. Nunca mexi com um centavo de dinheiro público. Nunca nomeei ou pedi nomeação de uma pessoa. Meu procedimento foi esse. Ao tomar posse, fui claro. Disse que estava lá para defender o Vasco. Nos oito anos [de mandato], participei das discussões do esporte, mas não de outros temas. Eu seguia as decisões do meu partido, o PP [um dos partidos mais citados na Lava Jato].  O senhor recebeu propina antes de alguma votação polêmica? Eles têm dificuldade de chegar perto de mim. Que isso existe, existe. Já ouvi insinuações, mas nunca dei chance de que as coisas chegassem ao ponto. Todos sabem que [propina] existe.  O senhor foi investigado pela CPI do Futebol. Em 2011, o relatório final apontou que o senhor cometeu uma série de crimes... Falaram de tudo na época. Depois daquilo, fui investigado pelo Ministério Público, pela Polícia Federal, mas o resultado quase ninguém publica. Fui absolvido. Me investigaram a fundo. Tanto no Brasil como fora. A conclusão foi que não deu em nada.  O futebol brasileiro foi protagonista no maior escândalo de corrupção envolvendo a Fifa. Dois ex-presidentes e o atual presidente da CBF foram denunciados fora do Brasil... Antes de você concluir a pergunta. Quero fazer uma declaração. Eu tenho certeza que para Bangu não vou. Disse isso aos dirigentes dos clubes aqui do Rio numa reunião na Federação de Futebol do Rio. Mas falo isso na frente deles [cartolas da CBF] também.  O senhor conheceu muitos desses personagens. Já lhe ofereceram \"dinheiro doce\", como o Eugenio Figueredo, ex-presidente da Conmenbol, chama a propina? Nunca me ofereceram e nem pediram. Neste setor, sou um cara complicado. Eles têm dificuldade de se aproximar.  O senhor trabalhou com o Ricardo Teixeira na CBF. É amigo dele? Não sou. Mas fui para a CBF em 1989 a pedido do João Havelange. Ele me queria ao lado do Ricardo, que era genro dele. Falei que iria ajudar, mas não deixaria o Vasco. Fui pelo respeito ao João Havelange, não quero saber o que aconteceu com ele [a Justiça suíça afirmou que o ex-presidente da Fifa recebeu propina]. Vou continuar respeitando o Havelange até o último dia da minha vida. Neste curto período, criei a Copa do Brasil, que é um sucesso até hoje, ganhamos a Copa América depois de um jejum de 40 anos e classificamos a seleção para a Copa de 1990. Antes do Mundial, tive que optar entre o Vasco e a CBF. Na hora, não hesitei cinco segundos. Voltei para o Vasco. Naquela época, o Ricardo não sabia nada de nada.  Você ficou surpreso com o escândalo da Fifa? Não. Só fiquei surpreso que o caso veio à tona. Sempre me manifestei contra [era crítico ao empresário J. Hawilla, um dos responsáveis por pagar propina aos cartolas]. Nunca fizeram transação comigo.  O senhor acha que o Marco Polo del Nero pode comandar a CBF sem deixar o Brasil? Cada um tem seu estilo. Eu não me encolheria. Ia enfrentar, mas não faço juízo de valor dos outros.  O senhor disse isso a ele? Questiono. E ele disse que prefere não enfrentar. Prefere dar tempo ao tempo. Ele diz que está com a consciência tranquila.  Qual foi a sua maior alegria? Esportivamente, tive muitas. Mas aquela vitória de virada contra o Palmeiras [por 4 a 3], na final da Copa Mercosul, em 2000, em São Paulo, foi a maior.  E a maior tristeza? Tristeza mesmo é perder do Flamengo. Quando isso acontece, eu deveria decretar luto por alguns dias.  Nos últimos anos, o Vasco foi rebaixado três vezes. Quanto tempo o senhor projeta para o time voltar a brigar pelo título do Brasileiro? Pode escrever. Este ano o time chega à Libertadores. Vai ter seis vagas. E se bobear, ganhamos o título.  RAIO-X  Nascimento 7 de junho de 1944 (72 anos), no Rio  Primeiro cargo no Vasco Diretor de cadastro, em 1967  Principais cargos",
+    "title": "'Para Bangu eu não vou', diz Eurico Miranda sobre acusações de corrupção",
+    "category": "esporte",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/esporte/2017/03/1867787-para-bangu-eu-nao-vou-diz-eurico-miranda-sobre-acusacoes-de-corrupcao.shtml"
+}

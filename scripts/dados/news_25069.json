@@ -1,0 +1,198 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 5443,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.515974,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "ano passado",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.582307,
+                "count": 2
+            },
+            {
+                "text": "Marcelo Serrado",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.575586,
+                "count": 1
+            },
+            {
+                "text": "Futuras interpretações de Moro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.558492,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Person",
+                "text": "Serrado",
+                "sentiment": {
+                    "score": 0.26878,
+                    "mixed": "1",
+                    "label": "positive"
+                },
+                "relevance": 0.952686,
+                "count": 9,
+                "confidence": 1
+            },
+            {
+                "type": "JobTitle",
+                "text": "ator",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.455315,
+                "count": 7,
+                "confidence": 1
+            },
+            {
+                "type": "JobTitle",
+                "text": "magistrado",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.409235,
+                "count": 2,
+                "confidence": 0.995916
+            },
+            {
+                "type": "Organization",
+                "text": "Lava Jato",
+                "sentiment": {
+                    "score": -0.554087,
+                    "label": "negative"
+                },
+                "relevance": 0.344087,
+                "count": 3,
+                "confidence": 0.981739
+            },
+            {
+                "type": "JobTitle",
+                "text": "juiz",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.277304,
+                "count": 3,
+                "confidence": 0.99998
+            },
+            {
+                "type": "Organization",
+                "text": "Polícia Federal",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.248258,
+                "count": 2,
+                "confidence": 0.898456
+            },
+            {
+                "type": "Person",
+                "text": "Marcelo Serrado",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.238709,
+                "count": 1,
+                "confidence": 0.994741
+            },
+            {
+                "type": "Duration",
+                "text": "duas semanas",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.237116,
+                "count": 1,
+                "confidence": 0.748094
+            },
+            {
+                "type": "Person",
+                "text": "Sergio Moro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.232892,
+                "count": 1,
+                "confidence": 0.985382
+            },
+            {
+                "type": "Organization",
+                "text": "Operação Lava Jato",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.231333,
+                "count": 1,
+                "confidence": 0.689538
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Operação Lava Jato",
+                "relevance": 0.990595,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Operação_Lava_Jato"
+            },
+            {
+                "text": "PT",
+                "relevance": 0.96698,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/PT"
+            },
+            {
+                "text": "YouTube",
+                "relevance": 0.940426,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/YouTube"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.748268,
+                "label": "/art and entertainment/movies and tv/movies"
+            },
+            {
+                "score": 0.723241,
+                "label": "/art and entertainment/movies and tv/movies/reviews"
+            },
+            {
+                "score": 0.678092,
+                "label": "/law, govt and politics"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.593834
+    },
+    "text": "Marcelo Serrado, 50, virou magistrado em duas semanas. Esse foi o tempo que o ator teve de preparação para viver a versão cinematográfica do juiz Sergio Moro, que julga as ações da Operação Lava Jato em primeira instância.  *  \"Parece que esse caminho estava me perseguindo. Me interessa muito fazer essa figura tão emblemática e controversa\", disse Serrado à repórter Letícia Mori.  *  Inicialmente, o juiz no filme \"Polícia Federal — A Lei é Para Todos\" seria Rodrigo Lombardi, mas o ator teve que cancelar por questões de agenda. Serrado, que já tinha sido convidado para fazer o papel na série do Netflix sobre o mesmo assunto, dirigida por José Padilha, assumiu.  *  Para compensar o pouco tempo, a preparação foi intensa. Focada nas ações da PF, a produção teve amplo acesso aos bastidores da operação em Curitiba. E embora o personagem de Serrado seja \"só um coadjuvante\", os produtores conseguiram um almoço do ator com o juiz.  *  Moro foi pontual e conversou sobre coisas leves -o filme \"Spotlight\", do qual é fã, e hobbies como jogar tênis. Segundo o ator, o magistrado foi simpático, mas \"fechadão\". \"Ele não fala muito, é muito sério. Tentei ficar amigo dele no WhatsApp, mas ele me ignorou\", conta sorrindo.  *  O almoço foi um encontro único. \"Eu peguei alguns trejeitos, mas aprendi mais vendo palestras dele no YouTube. O [diretor] Marcelo Antunez pediu para que seja uma atuação com muita verdade, uma coisa sutil.\"  *  O ator terminou de gravar suas cenas antes do Carnaval. Mas a filmagem do longa continuou. O filme terminará com a condução coercitiva do ex-presidente Lula -portanto deixando de fora a prisão da maioria dos empresários e políticos. A ideia, diz o produtor Tomislav Blazic, é completar uma trilogia sobre a Lava Jato.  Lava Jato  *  Serrado defende a operação de quem a acusa de ter motivação político-partidária. \"Tenho amigos que diziam que era perseguição. Mas aí o governo do PT caiu e a Lava Jato continuou prendendo as pessoas, e eles viram que não era isso. Agora são a favor também.\"  *  Não diz quem são esses amigos. \"São os de esquerda. Eu convivo com pessoas que pensam de vários jeitos, e muitos são de esquerda. Eu também. Eu sou um cara de esquerda, sempre fui. Nem todo mundo que foi a favor do impeachment é a favor desse governo.\"  *  Serrado estava no grupo de atores que foi para os protestos contra a corrupção no ano passado —uma foto deles na van com camisetas do \"Bloco do Moro\" foi uma das mais compartilhadas na época.  *  Diz que não se arrepende de ter pedido o impeachment, mas admite ter mudado de opinião sobre algumas coisas. A figura que vai interpretar no filme é uma delas. Serrado chegou a dizer que seria como fazer um \"herói nacional\".  *  \"Eu mudei um pouco de pensamento. A gente tá o tempo todo evoluindo. Essa figura que as pessoas colocaram pro Moro, de herói... O herói me parece ser uma pessoa infalível, entendeu? E eu não vejo isso. Ele é uma pessoa normal, que pode errar.\"  *  O ator ficou em dúvida se aceitaria o papel quando leu o roteiro. \"Pensei: será que vou fazer um filme agora, com toda essa efervescência, com os ânimos acirrados?\"  *  Diz ficar inconformado com radicalismos \"de um lado e de outro\". \"O que aconteceu com a Letícia Sabatella [xingada em um protesto por defender o governo Dilma] é absurdo, ela tem o direito de se posicionar. Assim como Zé de Abreu tem o direito de dizer o que pensa. Vivemos numa democracia.\"  *  Serrado mesmo nunca foi agredido na rua, mas ouviu xingamentos on-line por apoiar o impeachment. \"Algumas pessoas são imbecis e usam internet pra atacar. Antes eu lia, mas depois pensei: \"tô deixando de decorar cena pra discutir aqui? Não tenho tempo pra isso!\"  *  \"Gosto muito da Marina Silva. Votei no Freixo no Rio. Fiz campanha pro Lula. Conheci o Lula. O problema não é o PT. É o PT, o PMDB, todos os partidos. Cada semana é um novo escândalo\", diz.  *  Por causa de seu papel na novela épica \"Velho Chico\" (Globo), no ano passado, começou a ler mais sobre a história do país. \"Lendo [livros dos jornalistas] Eduardo Bueno, Laurentino Gomes, você vê que a corrupção é herança antiga. Os latifúndios, coronéis. Você vê que o buraco é mais embaixo. É preciso cuidado ao vestir uma camisa.\"  *  Serrado diz que espera de 2017 um ano com menos tristezas na vida pessoal -ele foi colega de Domingos Montagner, que morreu durante as filmagens de \"Velho Chico\". \"A gente convive com os atores mais do que com a família\", diz ele, que é casado com a bailarina Roberta Fernandes e tem três filhos. \"Ficamos sem chão\", afirma.  *  Futuras interpretações de Moro são incertas para o ator, que não sabe se vai conseguir fazer a série do Netflix sobre a Lava Jato. \"Adoraria, mas precisa ver se não vai ter conflito [com seus compromissos com a Globo, concorrente do serviço de streaming]\", afirma. Também tem dúvidas se fará as sequências do filme \"Polícia Federal\" planejadas pelo produtor.  *  \"Tem que ver como será a repercussão e se vou ter tempo\", diz ele, que está escalado para ser um vilão na nova novela das sete da Globo, \"Pega Ladrão\", e para \"O Sétimo Guardião\", em 2018. Também vai fazer um segundo filme sobre seu personagem mais famoso: o mordomo gay \"Crô\", que surgiu em \"Fina Estampa\" (2011).  *  Serrado encerra a conversa otimista. \"Dessa confusão toda nos últimos anos, uma coisa boa é que as pessoas estão se interessando mais por política. A gente tem que acreditar que o Brasil vai melhorar, né?\"",
+    "title": "Ter apoiado o impeachment não é ser a favor do Temer, diz Marcelo Serrado",
+    "category": "colunas",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/colunas/monicabergamo/2017/03/1867554-ter-apoiado-o-impeachment-nao-e-ser-a-favor-do-temer-diz-marcelo-serrado.shtml"
+}

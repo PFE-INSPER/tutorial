@@ -1,0 +1,193 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 7053,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.661664,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "onça-parda",
+                "sentiment": {
+                    "score": -0.761747,
+                    "label": "negative"
+                },
+                "relevance": 0.730699,
+                "count": 6
+            },
+            {
+                "text": "Parte da lista de espécies",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.578199,
+                "count": 1
+            },
+            {
+                "text": "avistamentos de onças",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.553064,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "JobTitle",
+                "text": "engenheiro",
+                "sentiment": {
+                    "score": -0.622698,
+                    "label": "negative"
+                },
+                "relevance": 0.949887,
+                "count": 3,
+                "confidence": 0.999991
+            },
+            {
+                "type": "JobTitle",
+                "text": "ambientalistas",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.784035,
+                "count": 2,
+                "confidence": 0.991962
+            },
+            {
+                "type": "Location",
+                "text": "Araras",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.74265,
+                "count": 2,
+                "confidence": 0.99102
+            },
+            {
+                "type": "Person",
+                "text": "Marcos Ramos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.67539,
+                "count": 1,
+                "confidence": 0.998361
+            },
+            {
+                "type": "Location",
+                "text": "região serrana do Rio de Janeiro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.666253,
+                "count": 1,
+                "confidence": 0.444478
+            },
+            {
+                "type": "Date",
+                "text": "final de 2016",
+                "sentiment": {
+                    "score": -0.778887,
+                    "label": "negative"
+                },
+                "relevance": 0.640535,
+                "count": 1,
+                "confidence": 0.529391
+            },
+            {
+                "type": "Location",
+                "text": "região serrana do Rio",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.629515,
+                "count": 1,
+                "confidence": 0.24287
+            },
+            {
+                "type": "Date",
+                "text": "Dias mais tarde",
+                "sentiment": {
+                    "score": -0.838896,
+                    "label": "negative"
+                },
+                "relevance": 0.625429,
+                "count": 1,
+                "confidence": 0.14805
+            },
+            {
+                "type": "Measure",
+                "text": "poucos metros",
+                "sentiment": {
+                    "score": -0.838896,
+                    "label": "negative"
+                },
+                "relevance": 0.617773,
+                "count": 1,
+                "confidence": 0.548521
+            },
+            {
+                "type": "Time",
+                "text": "à noite",
+                "sentiment": {
+                    "score": -0.757963,
+                    "label": "negative"
+                },
+                "relevance": 0.593901,
+                "count": 1,
+                "confidence": 0.612947
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Meio ambiente",
+                "relevance": 0.988149,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Meio_ambiente"
+            },
+            {
+                "text": "Rio de Janeiro",
+                "relevance": 0.987342,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Rio_de_Janeiro"
+            },
+            {
+                "text": "Petrópolis",
+                "relevance": 0.918738,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Petrópolis"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.990662,
+                "label": "/pets/dogs"
+            },
+            {
+                "score": 0.793307,
+                "label": "/pets/large animals"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.662752
+    },
+    "text": "A primeira reação de Marcos Ramos ao se deparar com o cadáver de um de seus cães em sua casa em Araras, distrito de Petrópolis, na região serrana do Rio de Janeiro, foi imaginar que o animal morrera em uma briga com outros que ele cria em seu sítio.  No entanto, ao examinar a carcaça mais de perto, o engenheiro teve um sobressalto.  \"O bicho tinha sido dilacerado. Não era algo que um dos cachorros que tenho poderia ter feito\", conta o engenheiro.  O episódio ocorreu no final de 2016. Um veterinário analisou as feridas e disse acreditar que pudesse ter sido um ataque de felino de grande porte. No caso da região serrana do Rio, só poderia ser uma onça-parda.  Dias mais tarde, ao ouvir os cães latindo na madrugada, Ramos foi ao quintal e flagrou uma onça a poucos metros de distância. O felino fugiu para o mato depois de o engenheiro gritar e fazer barulho, além de atirar uma escada e tijolos ao chão.  O sítio de Ramos fica em uma parte relativamente urbanizada de Araras, e nas proximidades de uma reserva biológica. Ele continua alimentando os cachorros à noite, mas já não caminha pelo sítio sem ao menos dois ou três animais.  \"Eu não a vi mais depois, mas estou totalmente ressabiado desde o encontro. Isso porque a onça agiu calmamente, até na hora de ir embora.\"  MAIS PERTO  É um encontro ainda raro, mas que tende a se tornar corriqueiro. Biólogos e ambientalistas alertam que as distâncias separando mata e ocupações humanas na região têm diminuído e poderão tornar os avistamentos de onças mais comuns, a exemplo do que ocorre em outros pontos do país e do mundo.  \"A onça-parda é o que chamamos de bicho vagabundo. Pode resistir mais a alterações em seu habitat do que outros bichos, como a onça-pintada. Ela foi muito caçada, mas mostra uma capacidade de ressurgimento impressionante. E vai se atrevendo se recebe espaço. Nos subúrbios de Los Angeles, por exemplo, onças-pardas, que nos EUA são chamadas de pumas, já foram vistas revirando latas de lixo e atacando animais domésticos\", explica o paraense Carlos Peres, professor de Ciências Ambientais da Universidade de East Anglia, no Reino Unido.  Perigoso? Sim. Mas muito mais para os animais, segundo os especialistas.  Parte da lista de espécies ameaçadas, a onça-parda (Puma concolor), também conhecida no Brasil como suçuarana, habita praticamente todo o território nacional. Adapta-se até a ambientes mais impactados pela ação humana, como plantações - canaviais, pela presença de ratos, são áreas atraentes.  Mas o felino tem medo do homem, e os casos de ataques a humanos são raros. As pardas têm porte menor do que a temida onça-pintada, essa, sim, robusta o suficiente para \"encarar\" humanos - a pintada pode medir até 2,10 m de comprimento e pesa 150 kg, quase duas vezes maior que a parda.  \"Em 14 anos de profissão, eu nunca fui informada de ataques de suçuarana a humanos. Elas não têm porte para atacar adultos, a não ser que se sintam acuadas. Alimentam-se de animais como cotias e pacas. Na verdade, as onças-pardas é que correm o maior perigo nesses encontros\", explica Cecília Cronemberger, bióloga e analista ambiental do Parque Nacional da Serra dos Órgãos, em Teresópolis (RJ).  Especialistas estimam que a população de onças-pardas no Brasil gire em torno de 30 mil a 40 mil indivíduos. É difícil dizer com precisão porque, além da dificuldade em rastrear espécies, as suçuaranas não apresentam diferenças marcantes entre si, ao contrário das onças-pintadas, cujo padrão de manchas é único individualmente.  Outra dificuldade é que suçuaranas têm atividades noturnas e circulando por áreas extensas - seu território pode chegar aos 200 km².  ISOLAMENTO  Apesar de os números ainda não conferirem à parda o status de animal perigosamente ameaçado de extinção, especialistas se preocupam com outro efeito da redução de território das onças - o isolamento de grupos populacionais.  A longo prazo, isso reduz a troca de material genético entre as populações e afeta a capacidade da espécie de se reproduzir, algo complicado diante do fato de que as onças-pardas têm reposição de indivíduos lenta.  Um estudo publicado em 2013 pelo Instituto Chico Mendes, em parceria com o Ministério do Meio Ambiente, lista uma série de ameaças para as onças-pardas, como expansão agropecuária e atropelamentos.  Mas a lista inclui uma causa mortis que vem à mente de ambientalistas todas as vezes em que há notificação de um avistamento - a retaliação humana.  \"É comum ouvirmos falar de uma onça-parda sendo avistada e depois nunca mais dando sinal de vida. Isso é sempre um mau sinal, especialmente em áreas rurais, pois o animal pode ter sido morto depois de ataques a rebanhos, apesar de ser crime ambiental. Também enfrentamos o problema da caça ilegal\", diz Cronemberger.  As estatísticas mostram uma disparidade nos ataques: nos EUA, por exemplo, houve menos de cem ataques desses felinos a humanos desde 1890, e não mais que 20 mortes. Apenas em um Estado americano, o Colorado, estima-se que 467 onças sejam mortas anualmente.  Peter Crawshaw, um dos mais conceituados especialistas em felinos no Brasil, afirma que o principal problema é a redução da disponibilidade de alimento, que vem junto com a perda de terreno.  \"As onças estão se habituando a viver mais próximas às pessoas, o que é a resposta de um animal inteligente à perda ou alteração do seu habitat para poder sobreviver.\"  Isso ajuda a explicar por que o fotógrafo Antônio Carlos Barros se deparou com uma suçuarana no meio da rua em Petrópolis, em 2014. A câmera que ele levara para fotografar a caminhada acabou registrando um flagrante - tremido, por razões compreensíveis - de um felino caminhando pelo piso de paralelepípedos.  \"O que mais me chamou a atenção é que a onça estava totalmente à vontade. Parecia despreocupada. Ela caminhou em minha direção e eu entrei no carro para fotografá-la. Na época, disseram que queimadas e obras de construção de uma nova estrada explicavam a aparição. Espero que ela não tenha sido morta\", diz Barros.  Existem conselhos para situações deste tipo. Cecília Cronemberger, do Parque Nacional da Serra dos Órgãos, diz que a principal dica é levantar os braços e dar a impressão de maior altura ao animal, além de gritar e atirar objetos - não se deve correr ou fingir de morto.  \"Quem tem animais em áreas urbanas deve ainda deixá-los protegidos, porque a onça-parda é oportunista e busca alimentos mais perto do ser humano se houcer necessidade. Mas é preciso termos consciência de que nós, humanos, é que estamos cada vez mais invadindo o espaço do animal. A região serrana cresceu tanto que hoje é quase parte da região metropolitana do Rio.\"  Avistamentos de suçuaranas também trazem certo alívio a biólogos. A presença dos animais indica que encontraram boas condições ambientais, em especial abrigo e alimento. É como uma espécie de atestado de equilíbrio do ecossistema local.  A onça-parda tem um papel importante na cadeia alimentar, pois controla espécies que estão abaixo dela. E que também podem causar transtornos se a população crescer muito.",
+    "title": "Como onças-pardas 'perderam o medo' de vizinhos humanos no Rio",
+    "category": "ambiente",
+    "data": "2017-03-18",
+    "link": "http://www1.folha.uol.com.br/ambiente/2017/03/1867841-como-oncas-pardas-perderam-o-medo-de-vizinhos-humanos-no-rio.shtml"
+}

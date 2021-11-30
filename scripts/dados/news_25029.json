@@ -1,0 +1,205 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 3295,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.384748,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "Empresas do ramo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.692758,
+                "count": 1
+            },
+            {
+                "text": "Pequenos empresários",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.67265,
+                "count": 1
+            },
+            {
+                "text": "meio tempo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.59587,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Organization",
+                "text": "Jazz Side",
+                "sentiment": {
+                    "score": -0.625422,
+                    "label": "negative"
+                },
+                "relevance": 0.94975,
+                "count": 3,
+                "confidence": 0.940613
+            },
+            {
+                "type": "Person",
+                "text": "Ópice",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.598198,
+                "count": 2,
+                "confidence": 0.996046
+            },
+            {
+                "type": "JobTitle",
+                "text": "empresários",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.576207,
+                "count": 2,
+                "confidence": 0.995176
+            },
+            {
+                "type": "Location",
+                "text": "Los Angeles",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.50586,
+                "count": 1,
+                "confidence": 0.951224
+            },
+            {
+                "type": "Person",
+                "text": "Paul McCartney",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.50043,
+                "count": 1,
+                "confidence": 0.990153
+            },
+            {
+                "type": "Location",
+                "text": "República Tcheca",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.488671,
+                "disambiguation": {
+                    "subtype": [
+                        "Country",
+                        "GovernmentalJurisdiction"
+                    ],
+                    "name": "República_Checa",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/República_Checa"
+                },
+                "count": 1,
+                "confidence": 0.821706
+            },
+            {
+                "type": "Date",
+                "text": "nesta década",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.454061,
+                "count": 1,
+                "confidence": 0.448272
+            },
+            {
+                "type": "Location",
+                "text": "São Paulo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.449851,
+                "count": 1,
+                "confidence": 0.747532
+            },
+            {
+                "type": "Person",
+                "text": "JR Duran",
+                "sentiment": {
+                    "score": -0.434954,
+                    "label": "negative"
+                },
+                "relevance": 0.42599,
+                "count": 1,
+                "confidence": 0.842713
+            },
+            {
+                "type": "Duration",
+                "text": "três meses",
+                "sentiment": {
+                    "score": -0.434954,
+                    "label": "negative"
+                },
+                "relevance": 0.423078,
+                "count": 1,
+                "confidence": 0.596241
+            }
+        ],
+        "concepts": [
+            {
+                "text": "São Paulo",
+                "relevance": 0.992458,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Thaeme Mariôto",
+                "relevance": 0.90707,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Thaeme_Mariôto"
+            },
+            {
+                "text": "Paul McCartney",
+                "relevance": 0.894373,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Paul_McCartney"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.75478,
+                "label": "/business and industrial"
+            },
+            {
+                "score": 0.735864,
+                "label": "/business and industrial/business operations/business plans"
+            },
+            {
+                "score": 0.730737,
+                "label": "/finance/financial news"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.6694416666666667
+    },
+    "text": "Pequenos empresários têm virado \"gênios\" e tirado da lâmpada um pacote de serviços para realizar desejos considerados impossíveis.  Empresas do ramo já colocaram um casal na festa de premiação do Oscar, em Los Angeles, promoveram encontros com Paul McCartney e possibilitaram a um fã reproduzir cenas do agente 007 em Praga, na República Tcheca.  Os empresários decidiram apostar no ramo de realização de \"experiências\" porque sempre tinham dicas na manga de lugares e bons serviços para amigos. Todos deixaram seus empregos em bancos e multinacionais e abriram seus negócios nesta década.  A Jazz Side, de São Paulo, está no setor desde 2009. O primeiro dos 500 sonhos que a empresa diz ter realizado foi o de uma mulher que queria fazer um ensaio sensual com o fotógrafo JR Duran. \"Levamos três meses para convencer o Duran. Nesse meio tempo, alimentamos o sonho dela com seções de spa, presentes, motorista e camarim\", diz Pedro Ópice, sócio da Jazz Side.    A cliente proibiu a empresa de revelar o valor do ensaio. Ópice diz que o tíquete médio dos projetos beira os R$ 30 mil. \"O cliente vem com a ideia, pegamos a história e criamos as experiências.\"  Foi assim com Luciano Amado, 55, diretor-executivo da Feltros Santa Fé, empresa do setor têxtil em Guarulhos (Grande São Paulo). Ele queria viver como um ribeirinho. \"Passei um mês sem luz e tomando banho gelado em uma comunidade na Bahia com 20 pessoas\", diz Amado.  O executivo fotografou a rotina dos ribeirinhos, pescou, colheu caranguejos e teve a companhia de guia e biólogo, além de um barco. Tudo saiu por R$ 15 mil.  A Jazz Side também cria \"experiências\" em ações de marketing para grandes companhias. É esse serviço que garante 70% dos ganhos. Em 2016, o negócio faturou R$ 4,5 milhões, alta de 5% em relação ao ano anterior. \"O que nos mantém é a propaganda boca a boca\", diz Ópice.  UM VELEIRO E 12 AMIGAS  Bem acima dos padrões foi a vontade de uma brasileira realizada pela Bespoke, empresa paulistana que também promove \"experiências\". Segundo a cliente, que não quis se identificar, em 2012, ela e mais doze amigas velejaram entre a costa Amalfitana e a Riviera Francesa, por um período de dez dias.  A viagem foi realizada para comemorar a despedida de solteira. O sonho incluiu itens personalizados, como roupas de banho, além de champanhe e pratos requintados. A festa em alto-mar custou € 170 mil (R$ 571 mil). Ela se casou com um empresário árabe do setor automotivo. \"Foi uma produção bem fora do padrão. Colocamos no barco dois tripulantes para atender cada passageira\", diz Márcia Costa, da Bespoke.  A empresa também possui um concierge que caça qualquer produto de luxo pelo mundo. Cada hora em busca pelo item custa R$ 375. \"A gente cuida de pessoas e das suas vaidades\", diz Costa.  Indústria dos mimos  Outra companhia que tira sonhos da cartola é a The Royal Group, de Curitiba. Segundo o proprietário, Bruno Pamplona, a maior dificuldade está na logística. \"Eu só promovo experiências testadas por mim e, mesmo assim, imprevistos acontecem.\"  Para Silvio Passareli, consultor do mercado de alto padrão, um desejo caro nem sempre pode ser de luxo. \"Geralmente, essa prestação de serviços excêntricos existe para satisfazer vontades de gente mimada. Luxo é uma relação com o consumo marcada pela estética.\"",
+    "title": "'Indústria do mimo' faz encontro com famosos, viagens e caça itens de luxo",
+    "category": "mercado",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/mercado/2017/03/1867449-industria-do-mimo-faz-encontro-com-famosos-viagens-e-caca-itens-de-luxo.shtml"
+}

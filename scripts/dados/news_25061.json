@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 3359,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.64947,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "qualidade das novelas da Globo",
+                "sentiment": {
+                    "score": 0.63148,
+                    "label": "positive"
+                },
+                "relevance": 0.669926,
+                "count": 1
+            },
+            {
+                "text": "momento de rebaixamento visível",
+                "sentiment": {
+                    "score": 0.63148,
+                    "label": "positive"
+                },
+                "relevance": 0.632625,
+                "count": 1
+            },
+            {
+                "text": "Leo Regis",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.62698,
+                "count": 2
+            }
+        ],
+        "entities": [
+            {
+                "type": "Person",
+                "text": "Leo Regis",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.950901,
+                "count": 3,
+                "confidence": 0.999997
+            },
+            {
+                "type": "Person",
+                "text": "Maria Helena Nascimento",
+                "sentiment": {
+                    "score": 0.631382,
+                    "label": "positive"
+                },
+                "relevance": 0.731656,
+                "count": 1,
+                "confidence": 0.932604
+            },
+            {
+                "type": "Person",
+                "text": "Vladimir Brichta",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.705394,
+                "count": 2,
+                "confidence": 0.999599
+            },
+            {
+                "type": "Organization",
+                "text": "Rock Story",
+                "sentiment": {
+                    "score": 0.803335,
+                    "label": "positive"
+                },
+                "relevance": 0.673743,
+                "count": 2,
+                "confidence": 0.901501
+            },
+            {
+                "type": "Person",
+                "text": "Rafael Vitti",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.671441,
+                "count": 2,
+                "confidence": 0.999975
+            },
+            {
+                "type": "Person",
+                "text": "Gui Santiago",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.637341,
+                "count": 1,
+                "confidence": 0.956052
+            },
+            {
+                "type": "Person",
+                "text": "Diana",
+                "sentiment": {
+                    "score": -0.555037,
+                    "label": "negative"
+                },
+                "relevance": 0.61381,
+                "count": 3,
+                "confidence": 1.0
+            },
+            {
+                "type": "Person",
+                "text": "Alinne Moraes",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.572916,
+                "count": 2,
+                "confidence": 0.999989
+            },
+            {
+                "type": "JobTitle",
+                "text": "cantor",
+                "sentiment": {
+                    "score": 0.809828,
+                    "label": "positive"
+                },
+                "relevance": 0.535101,
+                "count": 3,
+                "confidence": 0.999977
+            },
+            {
+                "type": "Date",
+                "text": "1980",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.417118,
+                "count": 1,
+                "confidence": 0.538588
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Raul Seixas",
+                "relevance": 0.985737,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Raul_Seixas"
+            },
+            {
+                "text": "Vladimir Brichta",
+                "relevance": 0.969105,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Vladimir_Brichta"
+            },
+            {
+                "text": "Alinne Moraes",
+                "relevance": 0.966369,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Alinne_Moraes"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.83625,
+                "label": "/art and entertainment/shows and events"
+            },
+            {
+                "score": 0.716265,
+                "label": "/art and entertainment/comics and animation/comics"
+            },
+            {
+                "score": 0.713162,
+                "label": "/art and entertainment/music/music reference"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.635911
+    },
+    "text": "Num momento de rebaixamento visível e, creio, intencional da qualidade das novelas da Globo, uma comédia romântica se destaca por simplesmente fazer o básico. Apesar de leve e despretensiosa, \"Rock Story\", de Maria Helena Nascimento, mostra que é possível produzir bom entretenimento sem tratar o espectador como idiota.  A novela chama a atenção, desde o primeiro capítulo, por um aspecto elementar, hoje moeda corrente mesmo em séries medíocres: os seus personagens não são tipos chapados, exclusivamente bons ou maus. Tanto os protagonistas quanto os \"vilões\" da trama têm qualidades e defeitos, são contraditórios e multidimensionais.  Como indica o título, \"Rock Story\" trata do universo musical. O protagonista é Gui Santiago (Vladimir Brichta), um roqueiro famoso dos anos 1980, hoje na fase descendente da carreira. O seu antagonista é um jovem cantor romântico, Leo Regis (Rafael Vitti), cuja carreira é medida pelos \"likes\" e \"curtidas\" de suas fãs nas redes sociais.  Por mais simpatia que a autora tenha pelo roqueiro, ele é retratado como um quarentão imaturo, amoroso, mas irresponsável com os filhos, bem-intencionado, mas desastrado nas suas relações sociais.  Já o jovem cantor, de origem humilde, lida mal com a fama e o dinheiro recém-adquiridos, mostra-se um tipo desprezível com as mulheres, mas parece disposto a se tornar uma pessoa melhor.  Entre os dois, está Diana (Alinne Moraes), a personagem mais complexa da novela. Ela trabalha na gravadora decadente do pai, dedicada a artistas do universo do rock, foi casada com Gui e chegou a ser noiva de Leo, até abandoná-lo no altar. Diana comete maldades, como uma típica vilã de novela, mas está o tempo todo em conflito com os próprios atos.  Num momento em que a música sertaneja e o funk ocupam quase todos os programas de TV, inclusive a trilha sonora de novelas, \"Rock Story\" parece de outro mundo quando põe para tocar Raul Seixas, Mutantes, Secos & Molhados, Milton Nascimento, Legião Urbana, Titãs, Cazuza... Além do pé na nostalgia, a novela não afaga o público mais jovem –o mais desejado pelos executivos da televisão. Ao contrário, o provoca.  O anti-herói Leo Regis tem sido usado como exemplo de comportamentos condenáveis e criminosos. Ferido após ter sido rejeitado por Diana, divulgou fotos íntimas dela na internet. Em outro episódio, agarra uma jovem DJ, sob a justificativa de que ela \"deu mole\" para ele ao tomar sol na praia sem a parte de cima do biquíni.  O escândalo com a DJ ocorreu depois que Lázaro (João Vicente de Castro), empresário de Leo, combinou com a revista \"Famosos\" que o cantor passaria uns dias no resort da publicação para melhorar a sua imagem. \"E o editor adorou a ideia. Vai ser assim: 'Leo Regis se recompõe depois da separação e do escândalo de vazamento de nudes ao lado do seu clã'. Você vai ganhar cachê por isso, moleque\", explica o empresário.  Personagens menos chapados oferecem mais chances aos atores, mesmo em uma comédia romântica sem maiores ambições. Em meio a atores mais qualificados, como Vladimir Brichta, Alinne Moraes e Rafael Vitti estão aproveitando bem esta oportunidade oferecida pela novela.  Exibida na sequência de \"Totalmente Demais\" e \"Haja Coração\", duas novelas que fizeram enorme sucesso com propostas bem infantis, \"Rock Story\" está entrando em sua reta final com boa audiência e, acho, uma missão cumprida.",
+    "title": "'Rock Story' é comédia romântica que não trata o espectador como idiota",
+    "category": "colunas",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/colunas/mauriciostycer/2017/03/1867779-rock-story-e-comedia-romantica-que-nao-trata-o-espectador-como-idiota.shtml"
+}

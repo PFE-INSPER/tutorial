@@ -1,0 +1,205 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 2961,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.392308,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "Freddy Rabbat",
+                "sentiment": {
+                    "score": 0.773869,
+                    "label": "positive"
+                },
+                "relevance": 0.685703,
+                "count": 2
+            },
+            {
+                "text": "presidente da Tag Heuer",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.681625,
+                "count": 1
+            },
+            {
+                "text": "negócio sustentável",
+                "sentiment": {
+                    "score": 0.527221,
+                    "label": "positive"
+                },
+                "relevance": 0.637252,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Organization",
+                "text": "Mont Blanc",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.951111,
+                "count": 2,
+                "confidence": 0.758255
+            },
+            {
+                "type": "Organization",
+                "text": "Tag Heuer",
+                "sentiment": {
+                    "score": 0.691401,
+                    "label": "positive"
+                },
+                "relevance": 0.895864,
+                "disambiguation": {
+                    "subtype": [
+                        "Company",
+                        "FashionLabel"
+                    ],
+                    "name": "TAG_Heuer",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/TAG_Heuer"
+                },
+                "count": 3,
+                "confidence": 0.989356
+            },
+            {
+                "type": "Date",
+                "text": "1989",
+                "sentiment": {
+                    "score": 0.940012,
+                    "label": "positive"
+                },
+                "relevance": 0.720945,
+                "count": 2,
+                "confidence": 0.994212
+            },
+            {
+                "type": "Person",
+                "text": "Freddy Rabbat",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.67677,
+                "count": 1,
+                "confidence": 0.876756
+            },
+            {
+                "type": "Percent",
+                "text": "1.700%",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.652783,
+                "count": 1,
+                "confidence": 0.8
+            },
+            {
+                "type": "Money",
+                "text": "R$ 9",
+                "sentiment": {
+                    "score": 0.977214,
+                    "label": "positive"
+                },
+                "relevance": 0.583916,
+                "count": 1,
+                "confidence": 0.932886
+            },
+            {
+                "type": "Money",
+                "text": "R$ 500 mil",
+                "sentiment": {
+                    "score": -0.7461,
+                    "label": "negative"
+                },
+                "relevance": 0.538272,
+                "count": 1,
+                "confidence": 0.968183
+            },
+            {
+                "type": "Date",
+                "text": "Naquela época",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.495087,
+                "count": 1,
+                "confidence": 0.378873
+            },
+            {
+                "type": "Organization",
+                "text": "Dunhill",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.448255,
+                "count": 1,
+                "confidence": 0.559247
+            },
+            {
+                "type": "JobTitle",
+                "text": "presidente",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.304461,
+                "count": 1,
+                "confidence": 0.974747
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Telefone",
+                "relevance": 0.875692,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Telefone"
+            },
+            {
+                "text": "Relógio",
+                "relevance": 0.8638,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Relógio"
+            },
+            {
+                "text": "Internet",
+                "relevance": 0.83421,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Internet"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.745469,
+                "label": "/automotive and vehicles/vehicle brands"
+            },
+            {
+                "score": 0.734591,
+                "label": "/automotive and vehicles/cars/sedan"
+            },
+            {
+                "score": 0.699445,
+                "label": "/automotive and vehicles/auto parts"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.5464975000000001
+    },
+    "text": "Freddy Rabbat entrou no mercado de luxo como importador de canetas e isqueiros em 1989, ano em que a inflação acumulada ultrapassou os 1.700%. Após longa passagem à frente da Mont Blanc, é hoje o presidente da Tag Heuer no Brasil, tradicional marca suíça de relógios.  *  Folha - O que faz algo ser parte do mercado de luxo? Freddy Rabbat - Esse segmento tem a ver com qualificação do que se oferece, é a cereja do bolo que faz todo o resto evoluir. Há algum tempo era possível comprar um macarron de R$ 9 da Ladurée, nada mais do que dois suspiros colados por um docinho, e isso era uma experiência de altíssimo luxo, com uma receita fantástica e uma equipe bem treinada de funcionários. Muitas vezes a compra de um automóvel de R$ 500 mil não irá proporcionar essa experiência, pela falta de pessoas qualificadas para o atendimento ao cliente.  O que era luxo em 1989? Hoje você chega ao restaurante e põe um telefone bacana sobre a mesa. Naquela época, colocava-se o maço de cigarros e um isqueiro Dupont. Isso era luxo, um assunto sobre o qual conversar. Comecei importando esses isqueiros e também os da Dunhill. Trazia também canetas dessas empresas, até que a Dunhill comprou a Mont Blanc. Comecei a importar artigos dessa marca também.  Havia muito deslumbre com artigos que vinham de fora. Entendia-se que tudo o que era importado era bom. A gente deve essa quebra de paradigma à chegada da Lada [fabricante russa de carros]. O público viu que coisa importada pode ser porcaria.  Como sobreviver em um mercado que, por característica, produz bens longevos? Essa é uma grande dificuldade. Há muita gente a ser alcançada por um momento, mas não se pode ter um negócio sustentável se houver o objetivo de crescer o tempo todo. Buscar isso no segmento de luxo significa destruir o planeta ou se vulgarizar. O mercado tem o seu tamanho.  Mas toda empresa tem o objetivo de continuar a crescer. Sim, o pequeno sonha em ser médio, o médio quer ser grande. A Tag Heuer, por exemplo, faz relógios esportivos. Se quer crescer, investe em modelos clássicos e em opções totalmente modernas, como os smartwatches [relógios inteligentes, com acesso à internet]. Dessa forma atinge-se o mesmo público de maneiras diferentes.  Há como expandir as atividades sem perder a qualidade ou vulgarizar seu produto. Temos que lembrar que as gerações vão mudando, e suas demandas, também. Minha geração estava em busca da posse, a atual é mais ligada na experiência, que precisa ser durável. Se as marcas não se adaptarem a isso, não irão a lugar nenhum.  A Tag Heuer investe alto no smartwatch, mas empresas de tecnologia parecem insatisfeitas com as vendas desses itens. É uma aposta arriscada? A questão é o tamanho das coisas. Uma empresa como a Apple, que comercializa 200 milhões de telefones por ano, pode considerar um fiasco vender 7 milhões de smartwatches. Para a Tag, vender essa quantidade significaria se tornar a segunda maior marca de relógios de luxo do mundo.",
+    "title": "Há como expandir sem vulgarizar, diz executivo de relógio de luxo",
+    "category": "mercado",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/mercado/2017/03/1867460-ha-como-expandir-sem-vulgarizar-diz-executivo-de-relogio-de-luxo.shtml"
+}

@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 7464,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.295021,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "casamento civil",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.590353,
+                "count": 1
+            },
+            {
+                "text": "Valet R",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.582069,
+                "count": 1
+            },
+            {
+                "text": "R. Dr",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.579181,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Date",
+                "text": "2017",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.950148,
+                "count": 11,
+                "confidence": 1
+            },
+            {
+                "type": "Date",
+                "text": "sábados",
+                "sentiment": {
+                    "score": 0.736685,
+                    "label": "positive"
+                },
+                "relevance": 0.882453,
+                "count": 13,
+                "confidence": 1.0
+            },
+            {
+                "type": "Duration",
+                "text": "seis meses",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.762259,
+                "count": 5,
+                "confidence": 0.999098
+            },
+            {
+                "type": "Date",
+                "text": "2018",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.711692,
+                "count": 6,
+                "confidence": 0.999997
+            },
+            {
+                "type": "Money",
+                "text": "R$ 1.000",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.579808,
+                "count": 2,
+                "confidence": 0.999965
+            },
+            {
+                "type": "Location",
+                "text": "Higienópolis",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.553099,
+                "count": 3,
+                "confidence": 0.994931
+            },
+            {
+                "type": "Time",
+                "text": "20h e 21h",
+                "sentiment": {
+                    "score": 0.713083,
+                    "label": "positive"
+                },
+                "relevance": 0.513138,
+                "count": 2,
+                "confidence": 0.716708
+            },
+            {
+                "type": "Time",
+                "text": "20h",
+                "sentiment": {
+                    "score": 0.736685,
+                    "label": "positive"
+                },
+                "relevance": 0.504773,
+                "count": 8,
+                "confidence": 0.99973
+            },
+            {
+                "type": "Person",
+                "text": "Pça",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.495151,
+                "count": 4,
+                "confidence": 0.947815
+            },
+            {
+                "type": "Time",
+                "text": "19h",
+                "sentiment": {
+                    "score": 0.759275,
+                    "label": "positive"
+                },
+                "relevance": 0.477515,
+                "count": 7,
+                "confidence": 0.999702
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Santa Casa de Misericórdia",
+                "relevance": 0.995066,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Santa_Casa_de_Misericórdia"
+            },
+            {
+                "text": "São Paulo",
+                "relevance": 0.980346,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Sábado",
+                "relevance": 0.974917,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Sábado"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.630192,
+                "label": "/society/social institution"
+            },
+            {
+                "score": 0.630192,
+                "label": "/society/social institution/marriage"
+            },
+            {
+                "score": 0.594992,
+                "label": "/society/dating"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.7431534
+    },
+    "text": "LUIZA WOLF COLABORAÇÃO PARA A sãopaulo  No geral, as igrejas pedem para que os noivos agendem a data desejada da cerimônia com antecedência de seis meses a um ano. Mesmo assim, catedrais, paróquias e capelas ainda têm datas disponíveis para 2017 —e também já abriram a agenda de 2018.    -  CAPELA DA SANTA CASA DE MISERICÓRDIA A capela foi erguida entre 1900 e 1901, em estilo gótico, dentro de um hospital. Para 2017, há datas disponíveis a partir de março. Realiza uma cerimônia por dia, aos sábados, às 11h ou às 18h. Acomoda 180 pessoas e a taxa é de R$ 1.000. Com casamento civil, o valor sobe para R$ 1.200. Pede três meses de antecedência.  santacasasp.org.br/capela. R. Dr. Cesário Mota Jr., 112, Santa Cecília, região central, tel. 2176-7000. 132 lugares. Seg. a sex.: 9h às 11h30 e 15h às 17h30. Estac. a partir de R$ 16.  *  CAPELA DE SÃO MIGUEL ARCANJO Construída em 1580 (e reconstruída em 1622), a igreja é considerada o templo religioso mais antigo da cidade (veja na arte ao lado) e foi fundada para converter índios. Devido ao valor histórico e ao tamanho reduzido, não é permitido fotografar a cerimônia com flash e só é possível ter dois casais de padrinhos. É necessário agendar a data com seis meses de antecedência e a taxa é, em média, R$ 1.000.  facebook.com/capeladesao.miguel. Pça. Pe. Aleixo Monteiro Mafra, 10, fundos, São Miguel Paulista, região leste, tel. 2032-3921. 120 pessoas. Qui. e sex.: 10h às 15h. Sáb.: 10h às 16h e 19h às 20h30.  *  CAPELA DO SION De segunda a sexta, cerimônias são realizada às 20h e às 21h e, aos sábados, às 18h, 19h, 20h e 21h. Aos domingos, após às 15h. Tem capacidade para até 350 convidados e a taxa para 2017 é de R$ 3.500 -em 2018, R$ 4.000. Há poucas datas para este ano. Entrar em contato com um ano de antecedência.  capeladosion.com.br. Av. Higienópolis, 983, Higienópolis, região central, tel. 3825-6966. Ter. a sex.: 14h30 às 17h.  *  CATEDRAL ANGLICANA Inaugurado em 1967, no Alto da Boa Vista, o local realiza cerca de 350 casamentos por ano -de segunda a segunda, 20h e 21h, aos sábados, às 11h, 13h, 17h, 18h30 e 20h. A igreja tem capacidade para abrigar até 550 pessoas e o reverendo celebra casamentos de noivos de qualquer religião. A taxa, de R$ 2.500, pode ser dividida em até cinco parcelas e ainda há datas disponíveis para 2017 e 2018.  catedral-anglicana.org.br. R. Com. Elias Zarzur, 1.239, Santo Amaro, região sul, tel. 5686-2180. 450 lugares. Seg. a sex.: 10h às 18h. Sáb.: 9h às 13h e 14h às 19h. Estac. (grátis).  *  CATEDRAL DA SÉ A igreja pede que a reserva da data seja feita com, pelo menos, seis meses de antecedência. As celebrações são realizadas às sextas, às 19h, e aos sábados (17h, 18h e 19h). A taxa cobrada é de R$ 3.000 e a catedral acomoda até 800 pessoas sentadas.  catedraldase.org.br. Pça. da Sé, s/ nº, Sé, região central, tel. 3107-6832. 800 lugares. Seg. a sex.: 8h às 17h30. Sáb.: 8h às 12h e 13h às 17h.  *  MOSTEIRO DE SÃO BENTO Para marcar o casamento, o casal deve comparecer ao local às quintas-feiras. Há vagas para 2017 e a agenda de 2018 já foi aberta. Cerimônias acontecem aos sábados, às 18h30 e às 19h30. Capacidade para até 600 pessoas. A taxa é de R$ 6.000, com direito ao uso do órgão de 7.000 tubos e assessoria profissional no cerimonial.  mosteiro.org.br. Lgo. São Bento, s/ nº, Centro, região central, tel. 3328-8799. Qui.: 14h às 17h.  *  NOSSA SENHORA DO BRASIL De estilo arquitetônico colonial, o local acomoda 300 pessoas sentadas. A paróquia abre a agenda para reserva com dois anos de antecedência -para 2017, há só horários às 22h do sábado; ainda há disponibilidade para 2018. As cerimônias são realizadas às sextas, às 19h30, às 20h30 e às 21h30, e aos sábados, das 17h às 22h, de hora em hora. A taxa é de R$ 4.400.  nossasenhoradobrasil.com.br. Pça. Nossa Senhora do Brasil, s/nº, Jardim América, região oeste, tel. 3082-9786. 300 lugares. Seg. a sex.: 8h às 19h. Sáb.: 9h às 13h. Valet R$ 25.  *  PARÓQUIA CORAÇÃO IMACULADO DE MARIA A capela da PUC foi construída em 1965, tombada em 2002 passou por restaurações. O local abriga até 180 pessoas sentadas. As cerimônias acontecem às sextas, às 19h, 20h e 21h, e aos sábados, às 13h, 17h, 18h, 19h, 20h e 21h. Para as celebrações é cobrada a taxa de R$ 2.700 e ainda há vagas para este ano. Pede seis meses de antecedência para reservar a data.  capelapuc.org.br. R. Mte. Alegre, 948, Perdizes, tel. 2659-0896. 180 lugares. Ter. a sáb.: 14h às 18h. CC: V, M.  *  PARÓQUIA NOSSA SENHORA APARECIDA Tem capacidade para até 550 pessoas. Ainda há vagas para 2017 e a taxa é de R$ 2.500. Às quintas e às sextas, as celebrações ocorrem às 20h30 e, aos sábados, entre 18h, 19h15 e 20h30. A paróquia pede para que os noivos iniciem o processo da cerimônia com, pelo menos, seis meses de antecedência.  paroquiamoema.org.br. Pça. Nossa Senhora Aparecida, s/nº, Indianópolis, região sul, tel. 5052-4918. 550 lugares. Seg. a sex.: 9h às 18h. Sáb.: 10h às 15h. CC: V, M, AE, E, D.  *  PARÓQUIA NOSSA SENHORA MÃE DO SALVADOR CRUZ TORTA Erguido em 1958 e constituído como paróquia em 1962, o local comporta até 270 pessoas. De segunda a sexta, celebra casamentos às 20h e, aos sábados, às 11h, 17h30, 19h e às 20h30. A taxa é de R$ 1.900. Ainda há datas para 2017, mas a igreja recomenda que os noivos agendem a data com um ano de antecedência.  cruztorta.org.br. Av. Prof. Frederico Herman Jr., 105, Alto de Pinheiros, região oeste, tel. 3032-2336. 270 lugares. Seg. a sex.: 9h às 11h30 e 13h às 18h30. Sáb.: 14h às 19h.  *  PARÓQUIA NOSSA SENHORA DO PERPÉTUO SOCORRO Atrai os noivos pela beleza: tem um conjunto de pinturas, do franco-brasileiro Samson Flexor, em murais com cerca de 300 metros e 196 personagens. A igreja realiza casamentos durante a semana, das 18h às 21h e, aos sábados, entre 16h e 21h. Já aos domingos há horários às 11h e das 13h às 18h. Acomoda até 320 pessoas e cobra taxa de R$ 2.500. Há vagas para 2017.  paroquiaperpetuosocorro.net. R. Honório Líbero, 100, Jardim Paulistano, região oeste, tel. 3083-0033. 300 lugares. Seg. a sex.: 8h às 20h. Sáb.: 8h às 18h.  *  PARÓQUIA SANTA TEREZINHA É uma das mais procuradas para casamentos. Tem capacidade para 350 pessoas. Pede seis meses de antecedência para documentação e curso de noivos. As celebrações ocorrem de segunda a sexta, às 20h e às 21h, e aos sábados, às 17h, 18h, 19h, 20h e 21h. A taxa para 2017 e para 2018 é de R$ 2.200.  santateresinhahigienopolis.org.br. R. Maranhão, 617, Higienópolis, região central, tel. 3660-1220. 400 lugares. Ter. a sáb.: 8h às 11h30 e 14h às 17h.  *  PARÓQUIA SÃO JOSÉ DO JARDIM EUROPA Tem capacidade para até 200 pessoas. Há diversas opções de horários para a realização das cerimônias: terças, quartas e quintas, às 18h, às 19h e às 20h; sextas, também às 21h; e sábados, às 11h e de hora em hora, das às 21h. A taxa para 2017 custa R$ 3.000.  http://saojosedojardimeuropa.com.br/. R. Dinamarca, 32, Jardim Europa, região oeste, s/tel. 200 lugares. Ter. a sáb.: 8h30 às 11h30 e 14h às 16h. CC: V, M, E, D.  *  PARÓQUIA SÃO PEDRO E SÃO PAULO Com fachada marcante de concreto, a capela foi fundada, em 1976. Hoje, a paróquia tem dois espaços para a realização de cerimônias: o maior abriga até 250 pessoas e o menor, até 150. Há celebrações de terça a sexta-feira, às 20h30, e, aos sábados, às 18h, às 19h30 e às 21h. A taxa é de R$ 2.550.  paroquiaspsp.com.br. R. Circular do Bosque, 31, Jardim Guedala, região oeste, tel. 3813-4183. Ter. a sex.: 7h às 12h e 13h às 16h.",
+    "title": "Confira 14 igrejas paulistanas com datas disponíveis para casamentos em 2017",
+    "category": "o-melhor-de-sao-paulo",
+    "data": "2017-03-18",
+    "link": "http://www1.folha.uol.com.br/o-melhor-de-sao-paulo/noivas-e-casamentos/2017/03/1866696-confira-14-igrejas-paulistanas-com-datas-disponiveis-para-casamentos-em-2017.shtml"
+}

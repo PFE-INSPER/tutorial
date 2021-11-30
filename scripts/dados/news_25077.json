@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 3891,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.469151,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "pacote de carne",
+                "sentiment": {
+                    "score": -0.65392,
+                    "label": "negative"
+                },
+                "relevance": 0.631261,
+                "count": 1
+            },
+            {
+                "text": "vinhos gregos",
+                "sentiment": {
+                    "score": 0.895608,
+                    "label": "positive"
+                },
+                "relevance": 0.62786,
+                "count": 1
+            },
+            {
+                "text": "vinhos brancos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.585048,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Location",
+                "text": "Balcãs",
+                "sentiment": {
+                    "score": 0.55645,
+                    "label": "positive"
+                },
+                "relevance": 0.949037,
+                "count": 1,
+                "confidence": 0.905484
+            },
+            {
+                "type": "Person",
+                "text": "Tintim",
+                "sentiment": {
+                    "score": 0.55645,
+                    "label": "positive"
+                },
+                "relevance": 0.939945,
+                "count": 1,
+                "confidence": 0.958573
+            },
+            {
+                "type": "Location",
+                "text": "Paris-Brest",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.879892,
+                "count": 1,
+                "confidence": 0.352413
+            },
+            {
+                "type": "Person",
+                "text": "Monsieur Durand",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.85614,
+                "count": 1,
+                "confidence": 0.956649
+            },
+            {
+                "type": "Location",
+                "text": "Maisons-Laffitte",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.848609,
+                "count": 1,
+                "confidence": 0.266452
+            },
+            {
+                "type": "Location",
+                "text": "Brest",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.832163,
+                "count": 1,
+                "confidence": 0.756919
+            },
+            {
+                "type": "Location",
+                "text": "parisienses",
+                "sentiment": {
+                    "score": -0.946348,
+                    "label": "negative"
+                },
+                "relevance": 0.809727,
+                "count": 1,
+                "confidence": 0.535358
+            },
+            {
+                "type": "Location",
+                "text": "Mediterrâneo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.710309,
+                "count": 1,
+                "confidence": 0.916005
+            },
+            {
+                "type": "Location",
+                "text": "península balcânica",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.705966,
+                "count": 1,
+                "confidence": 0.197703
+            },
+            {
+                "type": "Person",
+                "text": "Táki",
+                "sentiment": {
+                    "score": 0.750514,
+                    "label": "positive"
+                },
+                "relevance": 0.691139,
+                "count": 1,
+                "confidence": 0.995923
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Grécia",
+                "relevance": 0.993093,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Grécia"
+            },
+            {
+                "text": "São Paulo",
+                "relevance": 0.991283,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Carne",
+                "relevance": 0.982229,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Carne"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.932038,
+                "label": "/food and drink/desserts and baking"
+            },
+            {
+                "score": 0.927795,
+                "label": "/food and drink/cuisines"
+            },
+            {
+                "score": 0.926516,
+                "label": "/food and drink/food"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.7671373333333333
+    },
+    "text": "Nem vou falar exatamente sobre os Balcãs, mas gostei do título parecendo aventura de Tintim. Resolvi pesquisar moussaka —ou \"mussaká\" ou \"mousaqa\" (espero que não apareça a versão \"muçacá\", mas tudo é possível no mundo atual).  Receitas com local de nascimento, atestado de batismo e autor conhecido são bem raras. E, quanto mais remotas, mais complicado traçar sua gênese.  Lembro da famosa sobremesa francesa Paris-Brest (basicamente, uma bomba de massa choux com creme pralinê, em formato redondo). Ela foi criada pela por um certo Monsieur Durand, na sua confeitaria de Maisons-Laffitte, em 1910, celebrando a famosa corrida de bicicletas com o trajeto Paris a Brest (a original tinha a forma de um pneu de bicicleta).  A confeitaria ainda existe. Estive lá, nos subúrbios parisienses, tão decadente, uma tristeza. O doce ganhou o mundo e ficou só uma memória ali. Mas é receita com autor e aniversário e um pin no mapa marcando seu exato local de surgimento.  O moussaka é exatamente o contrário. Não se sabe quando apareceu e tem as mais diferentes receitas, com berinjela, com abobrinha, até com couve-flor. O nome é sempre o mesmo, mudando a grafia conforme o país. A receita reivindicada como prato turco, búlgaro, romeno, grego: de algum ponto ali entre Mediterrâneo e a península balcânica, amplo território onde se come moussaka.  Como meu amigo Táki —que é enófilo, gourmand e grego— não admitiria que eu considerasse de outra forma e por ter comido a iguaria pela primeira vez num restaurante grego de São Paulo, fico com a versão de que é sim da Grécia.  O plano era tentar refazer a receita citada, do Acrópoles do Bom Retiro. Mas não tinha berinjela em casa. Fui ler sobre alternativas e ocorreu essa vertigem de versões que contei acima (a coluna começa aqui e termina lá).  Parti para um exercício da arte da improvisação. Tinha um pacote de carne moída de cordeiro na geladeira (comprei já moída na Quirós, que foi assunto de uma coluna anterior). Com a carne de cordeiro marquei um grande ponto na autenticidade, pois é a carne que mais aparece em receitas. Depois, perderia esse ponto, pois tive preguiça de fazer um bechamel. Fiz um purê de batatas no lugar. Carne moída coberta com purê de batatas e levada ao forno muda de nome, é um parmentier, algo parecido com o escondidinho brasileiro. A intenção foi boa, o resultado também.  Mas chamei um táxi e voei para o Bom Retiro. Tem coisas que só o original convence.  *  Os vinhos gregos  Esqueça o retsina. Melhor, prove. É preciso conhecer essa curiosidade, feita assim por 2.000 anos. Como diz o nome, são vinhos brancos \"temperados\" com uma resina de pinheiro. Não são bons, têm gosto de sauna e ainda estragam a reputação do país, que produz excelentes tintos e brancos maravilhosos, secos, ideais com comida do mar. Mas estamos numa época estranha, de nostalgia do que era ruim. Basta ser feito em ânforas e ter uma história grudada, para ter consumidores. Prove e esqueça, vamos aos bons vinhos gregos modernos.  Houve uma voga de vinhos gregos anos atrás, como os brancos austríacos. Eles são muito amigáveis com a comida contemporânea e caíram no gosto dos sommeliers nova-iorquinos e, depois, no do mundo todo. Provei muitos no Brasil, mas sua aceitação foi menor, pelo preço e pela estranheza (\"A Grécia tem vinhos?\"). Já não é tão fácil encontrá-los, mas salivo quando vejo uma garrafa de um Assyrtiko de Santorini. A uva branca naquela ilha resulta em vinhos sequíssimos, \"bone dry\" e que, com um pouco de imaginação, lembram o sol, a praia, a salinidade do mar. Os vinhos da ilha de Santorini me fazem ter saudade de lá, mesmo nunca tendo visitado o lugar. Os tintos, também de uvas locais, como a Agiorgitiko, são densos e minerais.  *  Vinhos da semana  1. Sigalas Assyrtiko Santorini, R$ 185 (Decanter) 2. Notios Red Gaía, R$ 146 (Mistral) 3. Nemea tinto, R$ 49 (Vinci) 4. Cambas Rouge, R$ 32 (Vinci)",
+    "title": "O mistério dos Balcãs",
+    "category": "colunas",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/colunas/luiz-horta/2017/03/1866866-o-misterio-dos-balcas.shtml"
+}

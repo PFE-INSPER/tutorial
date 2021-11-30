@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 4667,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.403203,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "bons vinhos",
+                "sentiment": {
+                    "score": 0.852168,
+                    "label": "positive"
+                },
+                "relevance": 0.638129,
+                "count": 1
+            },
+            {
+                "text": "meio de nota",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.573798,
+                "count": 1
+            },
+            {
+                "text": "procurador-geral da República",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.572145,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Person",
+                "text": "Rodrigo Janot",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.949499,
+                "count": 2,
+                "confidence": 0.999956
+            },
+            {
+                "type": "JobTitle",
+                "text": "executivos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.82447,
+                "count": 2,
+                "confidence": 0.973157
+            },
+            {
+                "type": "Organization",
+                "text": "Lava Jato",
+                "sentiment": {
+                    "score": 0.908683,
+                    "label": "positive"
+                },
+                "relevance": 0.714632,
+                "count": 3,
+                "confidence": 0.941915
+            },
+            {
+                "type": "Organization",
+                "text": "STF",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.609708,
+                "count": 3,
+                "confidence": 0.999999
+            },
+            {
+                "type": "Duration",
+                "text": "três anos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.609332,
+                "count": 1,
+                "confidence": 0.692952
+            },
+            {
+                "type": "Date",
+                "text": "últimos meses",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.601058,
+                "count": 1,
+                "confidence": 0.391069
+            },
+            {
+                "type": "Organization",
+                "text": "construtora Odebrecht",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.585775,
+                "count": 1,
+                "confidence": 0.309099
+            },
+            {
+                "type": "JobTitle",
+                "text": "jornalistas",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.581256,
+                "count": 3,
+                "confidence": 0.998964
+            },
+            {
+                "type": "Date",
+                "text": "terça (14",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.569439,
+                "count": 1,
+                "confidence": 0.358255
+            },
+            {
+                "type": "JobTitle",
+                "text": "procurador-geral da República",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.566789,
+                "count": 1,
+                "confidence": 0.287541
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Operação Lava Jato",
+                "relevance": 0.991597,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Operação_Lava_Jato"
+            },
+            {
+                "text": "Supremo Tribunal Federal",
+                "relevance": 0.989913,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Supremo_Tribunal_Federal"
+            },
+            {
+                "text": "Ministro",
+                "relevance": 0.97861,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Ministro"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.883423,
+                "label": "/law, govt and politics"
+            },
+            {
+                "score": 0.790782,
+                "label": "/law, govt and politics/government"
+            },
+            {
+                "score": 0.677039,
+                "label": "/society/unrest and war"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.56949975
+    },
+    "text": "A operação Lava Jato, a maior investigação já feita no país, completou três anos. É também o maior desafio jornalístico da história recente.  Nos últimos meses, o noticiário político girou em torno da expectativa do acordo de colaboração premiada de 77 executivos e ex-dirigentes da construtora Odebrecht. Recebeu o batismo de \"delação do fim do mundo\" para marcar a extensão de seus danos entre os frequentadores das rodas do poder.  Na terça (14), o procurador-geral da República, Rodrigo Janot, enviou ao Supremo Tribunal Federal 83 pedidos de abertura de inquérito.  Oficialmente, por meio de nota, a Procuradoria-Geral informou: \"Não é possível divulgar detalhes sobre os termos de depoimentos, inquéritos e demais peças enviadas ao STF por estarem em segredo de Justiça\". Rodrigo Janot pediu ao relator do caso no STF, ministro Edson Fachin, a retirada do sigilo de parte desse material, considerando a necessidade \"de promover transparência e garantir o interesse público\". Fachin ainda decidirá sobre tal pedido.  A surpresa foi a constatação de que a cobertura dos principais órgãos de comunicação -impressos, televisivos e eletrônicos- trazia versões inacreditavelmente harmoniosas umas com as outras. Um jato de água fria em quem acredita na independência da imprensa.  Das dezenas de envolvidos na investigação, vazaram para os jornalistas os mesmos 16 nomes de políticos -cinco ministros do atual governo, os presidentes da Câmara e do Senado, cinco senadores, dois ex-presidentes e dois ex-ministros. Eles estavam nas manchetes dos telejornais, das rádios, dos portais de internet e nas páginas da Folha e dos seus concorrentes \"O Estado de S. Paulo\", \"O Globo\" e \"Valor\".  Por que tanta coincidência? A ombudsman apurou que a divulgação da chamada segunda lista de Janot se deu por meio do que, no mundo jornalístico, se convencionou chamar de \"entrevista coletiva em off\".  Em geral, a informação em \"off\", aquela que determinada fonte passa ao jornalista com o gravador desligado e com proteção de anonimato, não se coaduna com a formalidade de uma entrevista coletiva -para a qual os jornalistas são convocados protocolarmente a ouvir determinada autoridade.  Após receberem a garantia de que não seriam identificados, representantes do Ministério Público Federal se reuniram com jornalistas, em conjunto, para passar informações sobre os pedidos de inquérito, sob segredo, baseados nas delações de executivos da Odebrecht.  A lei que regula a delação premiada prevê sigilo do seu conteúdo até a apresentação da denúncia.  No dia seguinte, a corrida jornalística por notícia voltou ao normal, com vários veículos obtendo informações exclusivas de partes não divulgadas dos inquéritos sob sigilo.  Foi publicado que mais um ministro, quatro senadores e cinco deputados estão entre os que tiveram pedidos de inquérito apresentados pelo procurador e não haviam sido antes mencionados. Depois se soube que pelo menos dez governadores, cinco deles identificados, são mencionados no processo.  Qual o sentido de se deixar conhecer só alguns dos envolvidos? Qual a estratégia dos procuradores, parte interessada do processo, ao divulgar uns e omitir outros? Por que não liberar, por exemplo, os que estão nos pedidos de arquivamento?  Para o leitor, resulta em história contada pela metade. Informação passada a conta-gotas tira o entendimento do todo e levanta a desconfiança de manipulação.  O resultado desse tipo de acordo subterrâneo é que o jornalista se submete a critérios não claros da fonte, que fornecerá as informações que tiver, quiser ou puder. O repórter concorda em parar de fazer perguntas em determinado momento.  Não foi a primeira vez, porém, que tal procedimento ocorreu. A prática já se repetiu no Palácio do Planalto, no Congresso e até no STF.  Tudo isso resulta numa desconfortável uniformidade de narrativa jornalística, que exala tom oficial.  Nos muitos escândalos que assombraram o país desde a redemocratização de 1985, a imprensa manteve, até muito recentemente, posição dianteira e relevante na investigação de ilícitos públicos.  Na intrincada narrativa da Lava Jato, a dependência dos repórteres para com fontes e investigações oficiais tem sido grande demais.  O ideal é que o jornal tenha linhas investigativas próprias e independentes. Mas tem sido difícil -para não dizer impossível- sobreviver sem a colaboração oficiosa de órgãos envolvidos na Lava Jato.  Diante disso, o jornal deve, no mínimo, transparência ao leitor, que tem o direito de saber de onde vem a informação que consome. Procurada, a direção da Folha não quis comentar. Como nos bons vinhos, denominação de origem é boa forma de controle de qualidade.",
+    "title": "Um jato de água fria",
+    "category": "colunas",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/colunas/paula-cesarino-costa-ombudsman/2017/03/1867852-um-jato-de-agua-fria.shtml"
+}

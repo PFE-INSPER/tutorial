@@ -1,0 +1,201 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 3181,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.298522,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "Laura Carvalho",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.854289,
+                "count": 1
+            },
+            {
+                "text": "expectativa de vida da população",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.612076,
+                "count": 1
+            },
+            {
+                "text": "grande parte dos benefícios",
+                "sentiment": {
+                    "score": 0.685461,
+                    "label": "positive"
+                },
+                "relevance": 0.594343,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Organization",
+                "text": "Previdência",
+                "sentiment": {
+                    "score": -0.834511,
+                    "label": "negative"
+                },
+                "relevance": 0.950901,
+                "count": 3,
+                "confidence": 0.9897
+            },
+            {
+                "type": "Person",
+                "text": "Laura",
+                "sentiment": {
+                    "score": -0.593327,
+                    "label": "negative"
+                },
+                "relevance": 0.776304,
+                "count": 6,
+                "confidence": 1
+            },
+            {
+                "type": "Organization",
+                "text": "OCDE",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.650102,
+                "disambiguation": {
+                    "name": "Organização_para_a_Cooperação_e_Desenvolvimento_Económico",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/Organização_para_a_Cooperação_e_Desenvolvimento_Económico"
+                },
+                "count": 2,
+                "confidence": 0.999921
+            },
+            {
+                "type": "Person",
+                "text": "Laura Carvalho",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.568537,
+                "count": 1,
+                "confidence": 0.997323
+            },
+            {
+                "type": "Duration",
+                "text": "63,1 anos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.512338,
+                "count": 1,
+                "confidence": 0.671217
+            },
+            {
+                "type": "Duration",
+                "text": "65 anos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.502433,
+                "count": 2,
+                "confidence": 0.827177
+            },
+            {
+                "type": "Duration",
+                "text": "20 anos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.499141,
+                "count": 2,
+                "confidence": 0.763973
+            },
+            {
+                "type": "Duration",
+                "text": "55 anos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.452057,
+                "count": 1,
+                "confidence": 0.535489
+            },
+            {
+                "type": "Location",
+                "text": "Brasil",
+                "sentiment": {
+                    "score": -0.342719,
+                    "label": "negative"
+                },
+                "relevance": 0.367822,
+                "count": 5,
+                "confidence": 1
+            },
+            {
+                "type": "Duration",
+                "text": "75 anos",
+                "sentiment": {
+                    "score": -0.342719,
+                    "label": "negative"
+                },
+                "relevance": 0.360792,
+                "count": 1,
+                "confidence": 0.591183
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Mortalidade infantil",
+                "relevance": 0.962913,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Mortalidade_infantil"
+            },
+            {
+                "text": "Idade Média",
+                "relevance": 0.940025,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Idade_Média"
+            },
+            {
+                "text": "Brasil",
+                "relevance": 0.925985,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Brasil"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.832373,
+                "label": "/society/work"
+            },
+            {
+                "score": 0.818921,
+                "label": "/society/work/unemployment"
+            },
+            {
+                "score": 0.7895,
+                "label": "/society/work/retirement"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.596605
+    },
+    "text": "Laura Carvalho, minha colega que ocupa este espaço às quintas-feiras, criticou diversos aspectos da reforma da Previdência que o presidente Temer enviou ao Congresso.  Segundo Laura, \"quanto aos efeitos da reforma proposta, seu impacto é mesmo maior sobre quem começou a trabalhar mais cedo e nas piores condições. Afinal, nos centros urbanos, a aposentadoria por idade já é de 63,1 anos em média, um patamar próximo ao dos países desenvolvidos\".  Laura não notou que a aposentadoria por idade ocorre somente para as pessoas mais pobres que se aposentam pelo salário mínimo, em geral na zona rural. Uma grande parte dos benefícios nas cidades é concedida por tempo de contribuição. A idade média de concessão do benefício por tempo de contribuição foi, em 2015, de 55 anos.  Adicionalmente, o benefício médio da aposentadoria por tempo de contribuição é o dobro da aposentadoria por idade. Não é claro que a reforma aumente a desigualdade, já que ela afeta a aposentadoria por tempo de contribuição, que são os maiores benefícios.  De acordo com Laura, \"entender a idade mínima exigida como uma simples convergência para o padrão de países da OCDE é ignorar que na França, por exemplo, onde a idade de aposentadoria já é de 65 anos, a expectativa de vida da população supera os 82. No Brasil, a expectativa média é de 75 anos, e, nas áreas rurais, muito menos\".  Laura emprega a expectativa de vida ao nascer para discutir a Previdência. Não faz sentido. A menor expectativa de vida ao nascer no Brasil em comparação aos países da OCDE deve-se basicamente à maior mortalidade infantil e à maior violência, que vitimiza principalmente homens jovens. O tempo de sobrevida para as pessoas que chegaram aos 60 anos é no Brasil praticamente igual ao valor europeu: 21, ante 22 anos na Europa (estimativa da ONU).  A reforma prevê transição de 20 anos. Em 20 anos, essa diferença de expectativa de sobrevida será ainda menor.  Ou seja, Laura defende que o gasto com Previdência seja maior no Brasil, pois temos valores maiores de mortalidade infantil e problemas com criminalidade. Não faz sentido. O gasto previdenciário cresceu de 51% da despesa total em 2000 para 58% em 2016. Essa política acaba por reduzir o orçamento disponível para saúde, saneamento básico e segurança.  A diferença de sobrevida aos 60 ou 65 anos entre os Estados da Federação brasileira e entre a zona rural e urbana no Brasil também é muito baixa. Expectativa de vida aos 65 anos não muda muito em diferentes áreas do território nacional.  Laura aponta que o problema é o desemprego. É verdade que o desemprego está elevado. No entanto, o gasto previdenciário como proporção do PIB cresce há décadas.  As projeções que indicam forte aumento do gasto como proporção do PIB nas próximas décadas supõem condições normais de funcionamento do mercado de trabalho. Não é daí que segue o resultado. São as regras de elegibilidade ao benefício que produzem a forte elevação do gasto.  Como apontei no domingo passado, gastamos com Previdência 13% do PIB. Esse gasto é o triplo daquele de países com a mesma demografia que a nossa. E vai crescer para 22% nas próximas décadas. O gasto é exagerado sob qualquer critério.",
+    "title": "Falácias previdenciárias",
+    "category": "colunas",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/colunas/samuelpessoa/2017/03/1867807-falacias-previdenciarias.shtml"
+}

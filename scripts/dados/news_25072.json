@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 794,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.638819,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "Rio de Janeiro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.715245,
+                "count": 1
+            },
+            {
+                "text": "meio de um bloco de Carnaval",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.678536,
+                "count": 1
+            },
+            {
+                "text": "estilista Thaíssa Becho",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.647707,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Location",
+                "text": "Rio de Janeiro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.94975,
+                "count": 1,
+                "confidence": 0.677175
+            },
+            {
+                "type": "JobTitle",
+                "text": "produtora de moda",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.929861,
+                "count": 1,
+                "confidence": 0.26982
+            },
+            {
+                "type": "Person",
+                "text": "Paloma Borges",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.914871,
+                "count": 1,
+                "confidence": 0.771852
+            },
+            {
+                "type": "Number",
+                "text": "26",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.891884,
+                "count": 3,
+                "confidence": 0.992
+            },
+            {
+                "type": "Person",
+                "text": "Thaíssa Becho",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.880532,
+                "count": 1,
+                "confidence": 0.985095
+            },
+            {
+                "type": "JobTitle",
+                "text": "estilista",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.565285,
+                "count": 1,
+                "confidence": 0.83705
+            },
+            {
+                "type": "Date",
+                "text": "neste ano",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.489733,
+                "count": 1,
+                "confidence": 0.6509
+            },
+            {
+                "type": "Person",
+                "text": "Borges",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.399035,
+                "count": 1,
+                "confidence": 0.994304
+            },
+            {
+                "type": "URL",
+                "text": "facebook.com/pochpochetes",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.382895,
+                "count": 1,
+                "confidence": 0.8
+            },
+            {
+                "type": "Date",
+                "text": "2015",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.306313,
+                "count": 1,
+                "confidence": 0.830251
+            }
+        ],
+        "concepts": [
+            {
+                "text": "São Paulo",
+                "relevance": 0.978148,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Rio de Janeiro",
+                "relevance": 0.943955,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Rio_de_Janeiro"
+            },
+            {
+                "text": "Bloco carnavalesco",
+                "relevance": 0.848588,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Bloco_carnavalesco"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.861437,
+                "label": "/food and drink/food"
+            },
+            {
+                "score": 0.78537,
+                "label": "/style and fashion"
+            },
+            {
+                "score": 0.705524,
+                "label": "/style and fashion/clothing"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.789928
+    },
+    "text": "DE SÃO PAULO  A Poch, empresa criada no Rio de Janeiro pela produtora de moda Paloma Borges, 26, e pela estilista Thaíssa Becho, 26, faz pochetes em formatos inusitados, como olho, ovo frito e lagosta.  A ideia surgiu no meio de um bloco de Carnaval no Rio, quando Borges viu foliões usando fantasias elaboradas acompanhadas de doleiras de pano. \"Ninguém merece usar uma coisa daquelas\", afirma.  Os primeiros quatro modelos surgiram em 2015, mas as vendas explodiram neste ano. Hoje, a linha tem 26 itens. As sócias vendem, pelo Facebook (facebook.com/pochpochetes), 150 pochetes por mês e já têm parcerias com marcas como a Farm e a multimarcas Void. Cada bolsinha custa a partir de R$ 90.  A meta agora é aumentar as vendas: além de encontrar fornecedores, elas planejam abrir um e-commerce.",
+    "title": "\n\t\tEmpresa carioca cria pochetes divertidas\n\t\t",
+    "category": "sobretudo",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/sobretudo/vida-pratica/2017/03/1867566-empresa-carioca-cria-pochetes-divertidas.shtml"
+}

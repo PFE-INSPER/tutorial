@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 3327,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.448343,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "canteiros de obras de edifícios",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.618769,
+                "count": 1
+            },
+            {
+                "text": "Eduardo Xavier Dias",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.56997,
+                "count": 1
+            },
+            {
+                "text": "moradores do bairro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.563887,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "GeographicFeature",
+                "text": "rio Pinheiros",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.949265,
+                "count": 2,
+                "confidence": 0.993233
+            },
+            {
+                "type": "Date",
+                "text": "século passado",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.610867,
+                "count": 1,
+                "confidence": 0.721875
+            },
+            {
+                "type": "Location",
+                "text": "Vila Olímpia",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.608303,
+                "count": 1,
+                "confidence": 0.52982
+            },
+            {
+                "type": "Facility",
+                "text": "avenida Faria Lima",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.501098,
+                "count": 1,
+                "confidence": 0.921371
+            },
+            {
+                "type": "Duration",
+                "text": "cinco meses",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.483598,
+                "count": 1,
+                "confidence": 0.753145
+            },
+            {
+                "type": "Person",
+                "text": "Viviane Pereira",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.473973,
+                "count": 1,
+                "confidence": 0.925896
+            },
+            {
+                "type": "Money",
+                "text": "R$ 8,50",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.451642,
+                "count": 1,
+                "confidence": 0.9969
+            },
+            {
+                "type": "Organization",
+                "text": "Moka Clube",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.447318,
+                "count": 1,
+                "confidence": 0.543042
+            },
+            {
+                "type": "Person",
+                "text": "Vivi",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.441617,
+                "count": 2,
+                "confidence": 0.999839
+            },
+            {
+                "type": "Number",
+                "text": "402",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.416492,
+                "count": 1,
+                "confidence": 0.8
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Cerveja",
+                "relevance": 0.918404,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Cerveja"
+            },
+            {
+                "text": "Rua",
+                "relevance": 0.861029,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Rua"
+            },
+            {
+                "text": "Vila Olímpia",
+                "relevance": 0.818547,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Vila_Olímpia"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.621842,
+                "label": "/automotive and vehicles/bicycles and accessories"
+            },
+            {
+                "score": 0.609257,
+                "label": "/sports/bicycling"
+            },
+            {
+                "score": 0.583471,
+                "label": "/food and drink"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.8227216666666667
+    },
+    "text": "PERI PANE COLABORAÇÃO PARA A FOLHA  No início do século passado, a Vila Olímpia era dividida em chácaras, com uma imensa área de várzea próxima ao rio Pinheiros. Hoje, o bairro é um dos grandes centros comerciais da cidade, com escritórios de multinacionais, um número irrisório de praças e um congestionamento de carros cada vez mais constante.  Entre os canteiros de obras de edifícios que não param de subir, há lugares mais sossegados, como um pitoresco clube de bocha, um novíssimo café para ciclistas e um bar \"pé na rua\" à sombra de uma goiabeira. Nesses locais, sugeridos por moradores do bairro, o cliente ainda chama o dono pelo nome. Edu, Vivi, Marconi e Chico estão logo ali, atrás do balcão.  *  MUSETTE CAFÉ Na rota das ciclovias da avenida Faria Lima e do rio Pinheiros, esse café atrai grupos de bikers e amantes do grão. Aberto há cerca de cinco meses, o lugar foi concebido e é tocado pela dona Viviane Pereira, 35, a Vivi, que atende no balcão, prepara o café e faz quitutes artesanais. Servido de várias formas, inclusive gelado (R$ 8,50), o café vem do Moka Clube, que seleciona grãos especiais em fazendas brasileiras. Também vende acessórios para bicicletas e oferece água de dois filtros de barro de graça  ENDEREÇO rua Nova Cidade, 402 HORÁRIO Seg. a sex.: das 8h às 19h. Sáb.: 9h às 14h. SITE musettecafe.com.br  *  CLUBE DA BOCHA Há mais de 20 anos no bairro, o Clube da Bocha da Vila Olímpia é como um portal que transporta o visitante para outra época. Com ambiente familiar, o espaço conta com duas canchas e um salão de jogos. Os sócios contribuem com R$ 40 por mês, mas qualquer pessoa pode entrar para tomar uma cerveja no bar e curtir as competições do esporte  ENDEREÇO rua Hélion Povoa, 151 HORÁRIO Seg. a dom.: das 12h às 22h    *  BAR DO EDU Na esquina entre as ruas Doutor Andrade Pertence e Baluarte, à sombra de uma goiabeira, esse bar arejado é um dos pontos de encontro preferidos dos moradores da região. O dono, Eduardo Xavier Dias, 49, o Edu, garimpou objetos antigos e fez toda a decoração do lugar, que serve bons cortes uruguaios na grelha, cervejas artesanais e uma famosa porção de bolinho de arroz (R$ 36), ao som de blues  ENDEREÇO rua Dr. Andrade Pertence, 209 HORÁRIO Seg. a sex.: das 12h30 às 23h. Sáb.: das 12h30 às 22h TELEFONE (11) 3045-2603  *  PACHAMAMA No lado mais agitado e comercial do bairro, o restaurante self-service é uma boa opção para o almoço do dia a dia. O quilo sai por R$ 42,90. Para comer à vontade: R$ 23,90 (homem) e R$ 19,90 (mulher). \"A quinta árabe é o dia mais agitado\", diz o dono Francisco Fernades Maia, 30, o Chico. Os clientes chegam a fazer fila na porta para provar pratos como a kafta, o homus, o tabule e o quibe de forno  ENDEREÇO rua Gomes de Carvalho, 1.090 HORÁRIO Seg. a sex.: 11h30 às 15h TELEFONE(11) 2776-7024  *  TABULEIRO DO MARCONI O baiano Marconi Silva, 40, começou vendendo acarajé no tabuleiro em frente ao número 319 da Ribeirão Claro. O sucesso foi tanto que, há 12 anos, abriu ali mesmo um pequeno e simpático restaurante. Além do famoso acarajé (R$ 21), Marconi serve outras receitas de sua \"mainha\". Tem até uma rede para a soneca depois de comer. Todos os objetos da decoração estão à venda  ENDEREÇO rua Ribeirão Claro, 319 HORÁRIO Qua. a sáb.: 12h às 16h e 19h às 22h30. Dom.: 12h às 16h TELEFONE (11) 3846-9593",
+    "title": "\n\t\tVila Olímpia esconde de clube de bocha a bar com objetos antigos\n\t\t",
+    "category": "sobretudo",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/sobretudo/morar/2017/03/1867560-vila-olimpia-esconde-de-clube-de-bocha-a-bar-com-objetos-antigos.shtml"
+}

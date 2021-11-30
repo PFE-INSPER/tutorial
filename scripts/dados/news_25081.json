@@ -1,0 +1,195 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 5209,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.276415,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "Chuck Berry",
+                "sentiment": {
+                    "score": 0,
+                    "mixed": "1",
+                    "label": "neutral"
+                },
+                "relevance": 0.713688,
+                "count": 6
+            },
+            {
+                "text": "família do artista",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.57724,
+                "count": 1
+            },
+            {
+                "text": "primeiro álbum",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.561081,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Person",
+                "text": "Chuck Berry",
+                "sentiment": {
+                    "score": 0,
+                    "mixed": "1",
+                    "label": "neutral"
+                },
+                "relevance": 0.949634,
+                "count": 6,
+                "confidence": 1
+            },
+            {
+                "type": "Person",
+                "text": "Berry",
+                "sentiment": {
+                    "score": 0.833464,
+                    "label": "positive"
+                },
+                "relevance": 0.765239,
+                "count": 9,
+                "confidence": 1
+            },
+            {
+                "type": "Date",
+                "text": "1958",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.584809,
+                "count": 3,
+                "confidence": 0.907781
+            },
+            {
+                "type": "Person",
+                "text": "Ringo Starr",
+                "sentiment": {
+                    "score": 0.642151,
+                    "label": "positive"
+                },
+                "relevance": 0.56508,
+                "count": 2,
+                "confidence": 0.999998
+            },
+            {
+                "type": "Person",
+                "text": "Johnny B. Goode",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.496571,
+                "count": 3,
+                "confidence": 0.885998
+            },
+            {
+                "type": "Person",
+                "text": "Stephen King",
+                "sentiment": {
+                    "score": 0.691821,
+                    "label": "positive"
+                },
+                "relevance": 0.467434,
+                "count": 2,
+                "confidence": 0.999837
+            },
+            {
+                "type": "Person",
+                "text": "Nat King Cole",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.449912,
+                "count": 2,
+                "confidence": 0.962077
+            },
+            {
+                "type": "Organization",
+                "text": "polícia",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.442963,
+                "count": 3,
+                "confidence": 0.925509
+            },
+            {
+                "type": "Person",
+                "text": "Elvis Presley",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.424648,
+                "count": 3,
+                "confidence": 0.999999
+            },
+            {
+                "type": "Date",
+                "text": "1957",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.422601,
+                "count": 2,
+                "confidence": 0.862798
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Estados Unidos",
+                "relevance": 0.993169,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Estados_Unidos"
+            },
+            {
+                "text": "The Beatles",
+                "relevance": 0.988192,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/The_Beatles"
+            },
+            {
+                "text": "Chuck Berry",
+                "relevance": 0.988086,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Chuck_Berry"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.982639,
+                "label": "/art and entertainment/music/music genres/blues"
+            },
+            {
+                "score": 0.912923,
+                "label": "/art and entertainment/music/music genres/rock music"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.75286125
+    },
+    "text": "O guitarrista, cantor e compositor americano Chuck Berry morreu neste sábado (18), nos Estados Unidos. Ele tinha 90 anos.  A informação foi confirmada pela polícia do condado de Saint Charles, no Estado norte-americano do Missouri, onde o roqueiro vivia, em um post do Facebook. Ele foi encontrado desacordado em casa e, segundo a polícia, os médicos ainda tentaram ressuscitá-lo, mas Berry não resistiu. Ele foi declarado morto às 14h26, no horário de Brasília.  Em comunicado, a polícia também afirmou que a família do artista \"pede privacidade\" nesse momento.  O músico havia anunciado, em 2016, que preparava um novo disco para lançar neste ano. Seria seu primeiro álbum em quase quatro décadas. O último havia sido \"Rock It\", de 1979.  Artistas pelo mundo lamentaram a morte do roqueiro. \"Paz e amor para Chuck Berry\", escreveu Ringo Starr em seu perfil no Twitter. Na mesma rede social, o escritor Stephen King comentou: \"A notícia parte meu coração. Chuck Berry não era nada mau no rock and roll\".  Ringo Starr  Enquanto Elvis Presley foi o primeiro grande sucesso do rock and roll, Berry foi quem ajudou a consolidar o ritmo como uma linguagem musical, com canções sobre garotas, carros e festas. A publicação norte-americana \"Rolling Stone\" o elegeu como o quinto maior artista de música de todos os tempos e o sétimo maior guitarrista.  Charles Edward Anderson Berry nasceu em Saint Louis (Missouri, nos EUA) e foi influenciado por Nat King Cole, Louis Jordan e Muddy Waters. Este último acabaria levando o jovem músico para a Chess –icônica gravadora que lançou artistas como Willie Dixon, Howlin' Wolf, Etta James e Bo Diddley.  Despojado e com um talento incrível, Berry misturou blues com country music e deu uma cara nova ao rock 'n' roll, com excelentes solos de guitarra. Seu primeiro sucesso foi \"Maybellene\", gravada em 1955 e que marcou presença nas paradas de sucesso por 11 semanas.  Depois de rodar os EUA em turnê, Berry começou a emplacar um sucesso atrás do outro. Suas mais conhecidas canções (tocadas em mais de 230 filmes, incluindo séries de TV) foram gravadas num espaço de três anos: \"Roll Over Beethoven\" (1956), \"School Day\" (1957), \"Rock and Roll Music\" (1957), \"Sweet Little Sixteen\" (1958), \"Johnny B. Goode\" (1958) e \"Reelin' and Rockin\" (1958).  Esses hits perduram até hoje, introduzidos em filmes e desenhos, como a versão de \"Route 66\" (1961) tocada em \"Carros\" (2006) e gravada originalmente por Nat King Cole em 1946. Ou a tão famosa cena com Marty McFly (Michael J. Fox) tocando \"Johnny B. Goode\" em \"De Volta Para o Futuro\" (1985), onde o líder da banda liga para seu \"primo\" Chuck e diz que achou o som que ele estava procurando.  Stephen King  Apesar de sucessos vigorosos e longevos, Berry contrabalanceava seu talento com um prontuário policial que deu o que falar. Em 1959, no auge do seu sucesso, pegou quatro anos de prisão por ter levado uma índia apache de 14 anos do México para seu clube noturno em Saint Louis.  Também teve problemas com o Departamento do Tesouro dos EUA por receber seus shows em dinheiro e não declará-los. Foi acusado de evasão de divisas e pegou 100 dias de prisão. E, em 1988, pagou uma multa para dar fim a um processo de US$ 5 milhões que Marilyn O'Brien Boteler moveu contra ele.  Esses eventos não tiraram o brilho de sua obra e de seu talento. Só em 1964 ele conseguiu gravar e emplacar mais três sucessos: \"You Never Can Tell\", \"No Particular Place To Go\" e \"Nadine\". Em 1972, alcançou o primeiro lugar das paradas com o hit \"My Ding-A-Ling\".  Chuck Berry  Em 1977, a Nasa incluiu \"Johnny B. Goode\" entre 27 músicas e diversos outros sons que a nave Voyager 1 levou numa missão à Júpiter.  No primeiro ano do Hall da Fama do Rock, em 1986, foi incluído ao lado de nomes como Elvis Presley, Buddy Holly, Fats Domino, Ray Charles e Robert Johnson. No mesmo ano, Keith Richards, fã confesso de Berry, organizou uma festa para seus 60 anos em Saint Louis, onde foi filmado o documentário \"Hail! Hail! Rock 'n' Roll\".  Berry esteve no Brasil algumas vezes. Em 1993, durante o Free Jazz Festival, no Rio de Janeiro, realizou um show histórico ao lado de Little Richard. Na ocasião a Folha publicou \"Rock toma conta do último dia do Free Jazz\". O sucesso do encontro fez com que os organizadores programassem um show extra para o Pacaembu.  Quase dez anos depois, em maio de 2002, voltou ao Brasil. Desta vez para um show no rodeio de Jaguariúna (SP), e a crítica foi positiva ao músico, então com 75 anos. Já em 2008, nem tanto. Foi econômico, protagonizando apenas 55 minutos de show, e os comentários foram duros.  Chuck Berry deixa a mulher, Themetta \"Toddy\" Suggs, e os filhos Ingrid, Aloha, Charles Jr. e Melody.  *  Veja os artistas que foram influenciados por Chuck Berry:  Elvis Presley  Além de ter gravado diversas canções de Berry, Elvis foi acusado de ter se apropriado da música de artistas negros, tornando-a palatável para um público branco  The Beatles  Além de ter gravado \"Roll Over Beethoven\", a música \"Back in the U.S.S.R.\" é uma referência a \"Back in the USA\"  The Rolling Stones  Em sua conta no Twitter, a banda apontou Berry como uma influência. O grupo gravou covers de \"Come On\" e \"Carol\", entre outras",
+    "title": "Lenda do rock, Chuck Berry morre aos 90 anos nos Estados Unidos",
+    "category": "ilustrada",
+    "data": "2017-03-18",
+    "link": "http://www1.folha.uol.com.br/ilustrada/2017/03/1867810-lenda-do-rock-chuck-berry-morre-aos-90-anos-nos-estados-unidos.shtml"
+}

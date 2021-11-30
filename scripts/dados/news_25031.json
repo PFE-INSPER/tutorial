@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 2269,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.583442,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "crescimento da quantidade de restaurantes",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.657082,
+                "count": 1
+            },
+            {
+                "text": "nova leva de residenciais",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.629295,
+                "count": 1
+            },
+            {
+                "text": "ruas Guaraiúva",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.613895,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Organization",
+                "text": "Brooklin Novo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.95056,
+                "count": 2,
+                "confidence": 0.751409
+            },
+            {
+                "type": "Date",
+                "text": "meados dos anos 1970",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.83659,
+                "count": 1,
+                "confidence": 0.228928
+            },
+            {
+                "type": "Location",
+                "text": "São Paulo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.807012,
+                "count": 1,
+                "confidence": 0.590237
+            },
+            {
+                "type": "Facility",
+                "text": "avenida Engenheiro Luís Carlos Berrini",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.753926,
+                "count": 1,
+                "confidence": 0.825717
+            },
+            {
+                "type": "Facility",
+                "text": "avenida Padre Antônio José dos Santos",
+                "sentiment": {
+                    "score": 0.851938,
+                    "label": "positive"
+                },
+                "relevance": 0.680585,
+                "count": 1,
+                "confidence": 0.890856
+            },
+            {
+                "type": "Person",
+                "text": "Maria Eugênia Gouveia",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.621754,
+                "count": 1,
+                "confidence": 0.820251
+            },
+            {
+                "type": "Facility",
+                "text": "ruas Guaraiúva",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.61254,
+                "count": 1,
+                "confidence": 0.764278
+            },
+            {
+                "type": "Location",
+                "text": "Ribeiro do Vale",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.606981,
+                "count": 1,
+                "confidence": 0.43445
+            },
+            {
+                "type": "Facility",
+                "text": "avenida Portugal",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.600043,
+                "count": 1,
+                "confidence": 0.884126
+            },
+            {
+                "type": "Person",
+                "text": "Carolina Haddad",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.553279,
+                "count": 1,
+                "confidence": 0.900185
+            }
+        ],
+        "concepts": [
+            {
+                "text": "São Paulo",
+                "relevance": 0.977481,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Avenida Engenheiro Luís Carlos Berrini",
+                "relevance": 0.887199,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Avenida_Engenheiro_Luís_Carlos_Berrini"
+            },
+            {
+                "text": "Maria Eugênia",
+                "relevance": 0.86203,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Maria_Eugênia"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.651611,
+                "label": "/real estate/buying and selling homes"
+            },
+            {
+                "score": 0.617018,
+                "label": "/business and industrial/business operations/business plans"
+            },
+            {
+                "score": 0.586037,
+                "label": "/food and drink/food"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.6358254999999999
+    },
+    "text": "BIA SOUZA COLABORAÇÃO PARA A FOLHA  Estritamente residencial até meados dos anos 1970, o Brooklin Novo passou por uma transição que o transformou num dos cartões postais de São Paulo. Agora, vê surgir uma nova leva de residenciais e mais uma mudança no comércio e nos serviços do bairro.  Se o aumento de prédios comerciais na região da avenida Engenheiro Luís Carlos Berrini provocou o crescimento da quantidade de restaurantes e bares em seu entorno, o surgimento mais recente de novas unidades residenciais dá fôlego a pequenos estabelecimentos.  Estes se concentram na avenida Padre Antônio José dos Santos. \"A via parece um shopping a céu aberto, oferece todos os tipos de loja e serviços. Não preciso sair do bairro para nada\", afirma a relações públicas Maria Eugênia Gouveia, 29.  As ruas Guaraiúva, Ribeiro do Vale e a avenida Portugal também atendem aos moradores com padarias, mercados, sapateiros, lavanderias, lojas de roupa e pet shops.  A arquiteta Carolina Haddad, 28, que mora no bairro desde que nasceu, diz que usa com grande frequência a rede local de serviços.  \"Tenho tudo que preciso perto de mim. Estabeleci minha vida pela região, não falta nada\", afirma Carolina, que destaca as transformações recentes, sobretudo nas áreas mais distantes da Berrini. \"Há muitos prédios residenciais surgindo nas avenidas que cercam a região. São edifícios focados em um público mais jovem, e com isso o perfil do bairro vem mudando aos poucos\", conta Haddad.  RESTAURANTES  Já o foco dos restaurantes está na multidão que frequenta o bairro para trabalhar: abrem no almoço e funcionam até o happy hour.  Esse é ainda o tipo de comércio que mais cresce na região, segundo Luiz Augusto Gonçalves Barbosa, vice-superintendente da Distrital Sul da Associação Comercial de São Paulo.  Morador do bairro desde a infância, Barbosa conta que foi a partir de 1975 que o Brooklin Novo começou a receber empreendimentos corporativos.  Atraída por terrenos baratos e com potencial, a construtora Bratke Collet foi a responsável pela mudança no perfil do bairro.  Num período de 20 anos, foram construídos 60 edifícios em mais de 800 mil metros quadrados –e os novos espigões espelhados deram cara a um cartão-postal paulistano que funciona sobretudo em horário comercial.",
+    "title": "\n\t\tComércio do Brooklin se diversifica com aumento do número de prédios\n\t\t",
+    "category": "sobretudo",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/sobretudo/morar/2017/03/1867610-comercio-do-brooklin-se-diversifica-com-aumento-do-numero-de-predios.shtml"
+}

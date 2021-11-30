@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 1972,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0,
+                "label": "neutral"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "cidades da região",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.74516,
+                "count": 1
+            },
+            {
+                "text": "redes sociais",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.681831,
+                "count": 1
+            },
+            {
+                "text": "Moradores das cidades de Bertioga",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.680722,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Organization",
+                "text": "Defesa Civil",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.94975,
+                "count": 2,
+                "confidence": 0.990243
+            },
+            {
+                "type": "Location",
+                "text": "Baixada Santista",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.884968,
+                "count": 1,
+                "confidence": 0.645262
+            },
+            {
+                "type": "Time",
+                "text": "tarde desta sexta-feira",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.875325,
+                "count": 1,
+                "confidence": 0.14503
+            },
+            {
+                "type": "Date",
+                "text": "sábado (18",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.847366,
+                "count": 1,
+                "confidence": 0.344773
+            },
+            {
+                "type": "Duration",
+                "text": "72 horas",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.793286,
+                "count": 1,
+                "confidence": 0.664573
+            },
+            {
+                "type": "Measure",
+                "text": "260,4 mm",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.780245,
+                "count": 1,
+                "confidence": 0.996608
+            },
+            {
+                "type": "Date",
+                "text": "início do mês",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.759154,
+                "count": 1,
+                "confidence": 0.507537
+            },
+            {
+                "type": "Measure",
+                "text": "319 mm",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.748206,
+                "count": 1,
+                "confidence": 0.987482
+            },
+            {
+                "type": "Measure",
+                "text": "280 mm",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.725665,
+                "count": 1,
+                "confidence": 0.982033
+            },
+            {
+                "type": "GeographicFeature",
+                "text": "Morro da Boa Vista",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.713872,
+                "count": 1,
+                "confidence": 0.571035
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Santos",
+                "relevance": 0.926847,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Santos"
+            },
+            {
+                "text": "Região Metropolitana da Baixada Santista",
+                "relevance": 0.883212,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Região_Metropolitana_da_Baixada_Santista"
+            },
+            {
+                "text": "Morro da Boa Vista",
+                "relevance": 0.860745,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Morro_da_Boa_Vista"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.696172,
+                "label": "/science/weather"
+            },
+            {
+                "score": 0.684518,
+                "label": "/science/weather/meteorological disaster/flood"
+            },
+            {
+                "score": 0.576599,
+                "label": "/law, govt and politics"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.6805965
+    },
+    "text": "A forte chuva que cai sobre a Baixada Santista desde a tarde desta sexta-feira (17) deixou ruas e avenidas alagadas em cidades da região neste sábado (18). A água chegou a invadir casas e estabelecimentos comerciais, e pessoas ficaram ilhadas em diferentes regiões.  O índice de chuva nas últimas 72 horas na cidade de Santos foi de 260,4 mm, segundo informações da Defesa Civil. Desde o início do mês, foram registrados 319 mm de chuva na cidade. A média para o mês de março é de 280 mm.  Uma moradora do Morro da Boa Vista, na cidade, precisou ser socorrida por vizinhos após ficar presa dentro de casa devido a queda de barreira no local neste sábado. Também houve queda de barreira na rodovia Cônego Domênico Rangoni, na divisa com Cubatão, e deslizamento de terra no morro Santa Maria.  Segundo a CET de Santos, a avenida Nossa Senhora de Fátima permanecia bloqueada nos dois sentidos durante a tarde devido a alagamento, prejudicando o trânsito na avenida Anchieta. A avenida Martins Fontes também tinha a pista local interditada para carros.  Cerca de 47 funcionários da Secretaria de Serviços Públicos trabalhavam nos locais de alagamentos na cidade, fazendo a limpeza das galerias e canal e auxiliando nos trabalhos de limpeza de deslizamentos de terras nos morros.  Moradores das cidades de Bertioga e Mongaguá também sofreram com a chuva dos últimos dias na região.  Em Bertioga, o prefeito Caio Matheus (PSDB) convocou uma reunião emergencial com técnicos da Defesa Civil na manhã deste sábado, onde foi criada uma comissão para avaliar os impactos da chuva na cidade. Segundo a prefeitura, choveram 147 mm nesta sexta-feira. O índice total esperado para o mês de março era de 100 mm.  Já na cidade de Mongaguá,de acordo com a prefeitura, foram registrados mais de 245 mm de chuva nas últimas 24 horas. Em seu perfil nas redes sociais, a prefeitura orienta os moradores a não transitar por pontos de alagamento e evitar o contato com a água acumulada nas vias.",
+    "title": "Forte chuva causa alagamentos em cidades da Baixada Santista",
+    "category": "cotidiano",
+    "data": "2017-03-18",
+    "link": "http://www1.folha.uol.com.br/cotidiano/2017/03/1867792-forte-chuva-causa-alagamentos-em-cidades-da-baixada-santista.shtml"
+}

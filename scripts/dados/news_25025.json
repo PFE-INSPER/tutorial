@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 5493,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.30574,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "maioria jovens",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.583308,
+                "count": 1
+            },
+            {
+                "text": "Verão do Amor",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.561747,
+                "count": 3
+            },
+            {
+                "text": "berço da cultura hippie",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.560279,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Location",
+                "text": "San Francisco",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.950126,
+                "count": 5,
+                "confidence": 0.998503
+            },
+            {
+                "type": "Facility",
+                "text": "Golden Gate Park",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.750656,
+                "count": 4,
+                "confidence": 0.991818
+            },
+            {
+                "type": "Duration",
+                "text": "50 anos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.480365,
+                "count": 2,
+                "confidence": 0.874735
+            },
+            {
+                "type": "Person",
+                "text": "Janis Joplin",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.372337,
+                "count": 2,
+                "confidence": 0.991309
+            },
+            {
+                "type": "Facility",
+                "text": "Colina Hippie",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.347181,
+                "count": 1,
+                "confidence": 0.468843
+            },
+            {
+                "type": "Duration",
+                "text": "52 anos",
+                "sentiment": {
+                    "score": -0.441699,
+                    "label": "negative"
+                },
+                "relevance": 0.325437,
+                "count": 1,
+                "confidence": 0.722676
+            },
+            {
+                "type": "Person",
+                "text": "Jimmy Na Estrada",
+                "sentiment": {
+                    "score": -0.441699,
+                    "label": "negative"
+                },
+                "relevance": 0.322037,
+                "count": 1,
+                "confidence": 0.316361
+            },
+            {
+                "type": "Person",
+                "text": "San Francisco",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.315125,
+                "count": 1,
+                "confidence": 0.183414
+            },
+            {
+                "type": "Date",
+                "text": "14 de janeiro de 1967",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.308091,
+                "count": 1,
+                "confidence": 0.798256
+            },
+            {
+                "type": "Number",
+                "text": "15 mil",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.306847,
+                "count": 1,
+                "confidence": 0.8
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Hippie",
+                "relevance": 0.990109,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Hippie"
+            },
+            {
+                "text": "LSD",
+                "relevance": 0.987455,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/LSD"
+            },
+            {
+                "text": "Guerra do Vietnã",
+                "relevance": 0.955939,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Guerra_do_Vietnã"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.630525,
+                "label": "/art and entertainment/shows and events"
+            },
+            {
+                "score": 0.621276,
+                "label": "/food and drink/food"
+            },
+            {
+                "score": 0.617724,
+                "label": "/society"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.7235895
+    },
+    "text": "A poucos passos da chamada Colina Hippie, no Golden Gate Park, em San Francisco, um sujeito de longa cabeleira grisalha, cavanhaque, boina e casaco de camurça, com jeito de saído do filme \"Easy Rider\", tirava da lixeira o resto de um sanduíche.  \"Se me considero um hippie? Acho que sim\", diz, deixando a comida de lado. \"A maioria dos meus amigos são hippies. Pelo menos, a erva deles é boa\", afirma o sujeito de 52 anos, que não dá o sobrenome: \"Bote aí que me chamo Jimmy Na Estrada\".  Dormindo na caminhonete \"ou ao relento, se o tempo deixar\", Jimmy é um dos andarilhos que ainda vêm a San Francisco embalados pela fama que a cidade da Califórnia conquistou há 50 anos: a de berço da cultura hippie.  Em 14 de janeiro de 1967, entre 15 mil e 30 mil pessoas, a maioria jovens brancos de classe média, atenderam ao chamado dos poetas beats Allen Ginsberg e Gary Snyder e se aglomeraram no primeiro encontro Human Be-In, realizado naquela mesma grama do Golden Gate Park.  Entre shows do Jefferson Airplane, discursos sobre ecologia e entoação coletiva de mantras puxados por Ginsberg, os jovens protestaram contra a lei californiana que bania o LSD no Estado.  O evento foi chamariz para que, naquele mesmo ano, cerca de 100 mil pessoas migrassem para San Francisco, na temporada que ficou conhecida como o Verão do Amor e popularizou o termo \"hippie\" –jovens com \"fascinação quase infantil\" por \"música de romper os tímpanos, roupas exóticas e slogans eróticos\", como descrevia reportagem de capa da revista \"Time\" à época.  Contribuiu também a atmosfera tradicionalmente liberal da região, particularmente o ambiente universitário de Berkeley, ali próxima, que fez da área um oásis de abertura numa América que ia à guerra no Vietnã.  Foi no mesmo 1967 que nomes notórios do rock lançaram seus primeiros discos: Janis Joplin, Grateful Dead e Country Joe & The Fish, todos sediados em San Francisco.  A trajetória do Grateful Dead será foco de um documentário de quatro horas produzido por Martin Scorsese. \"Long Strange Trip\" foi arrematado por US$ 6 milhões (equivalente a R$ 18,7 milhões) pela Amazon e deve entrar no serviço de vídeo sob demanda Amazon Prime Video a partir de maio.  Em abril começa uma exposição de fotos, pôsteres, roupas e filmes sobre o Verão do Amor no Museu De Young, em San Francisco. Já o Museu de Arte de Berkeley tem em cartaz até 21 de maio uma mostra sobre o modernismo hippie: o impacto da contracultura na arquitetura e no design.  'GAROTOS SUJOS'  Mas 50 anos depois do Verão do Amor, a cidade que é hoje a segunda mais cara dos EUA -perde apenas para Nova York- vive a nostalgia hippie como caricata atração turística e entra numa cruzada contra os atuais cabeludos que dormem na rua.    O cruzamento das ruas Haight e Ashbury, outrora epicentro da cultura da paz e amor, hoje abriga uma sorveteria que cobra US$ 5,50 pelo sorvete (R$ 17) a um passo de onde turistas fazem fila para tirar selfies sob a placa que assinala a esquina.  Uma mulher riponga pede moedas enquanto toca violão, e uma loja atulha a vitrine com camisetas de tie-dye.  Há um cheiro onipresente de maconha e jovens nas calçadas que interpelam a toda hora para oferecer \"weed, acid or shabs\" (erva, ácido lisérgico ou metanfetamina).  A quatro quadras dali, no Golden Gate Park, reza a lenda que uma das árvores foi plantada por Janis Joplin. Outra versão diz que a cantora caiu de um de seus galhos sob o efeito de LSD.  Ali perto, um cabeludo de 25 anos está estirado na grama. Chama-se Aaron Briggs e viajou de carona até San Francisco. \"Odeio a Califórnia. Aqui toda a cena hippie é estereotipada\", diz ele, que se descreve como um \"dirty kid\" (um garoto sujo), \"versão modernizada dos hippies\", segundo suas palavras.  \"Espalhamos sorrisos, tocamos música, tentamos aproveitar o melhor de morar na rua\", diz ele. Ao seu lado estão seus companheiros de viagem, Bobby e Kelly Oliver, que se casaram num dos chamados Rainbow Gatherings -encontros comunais que pregam paz e harmonia e nos quais se faz \"12 horas de silêncio\", segundo conta Kelly.  Jovens sem-teto como os três estão na mira das associações de bairro da região desde que, em outubro de 2015, uma turista canadense de 23 anos foi morta a tiros no Golden Gate Park. Uma dessas agremiações apoiou uma lei municipal que proíbe pessoas de sentar ou deitar na calçada após certa hora.  Hoje, estima-se que entre 200 e 300 pessoas sem residência fixa perambulem pelo entorno, segundo a Homeless Youth Alliance, que oferece apoio, como diz o nome, a jovens sem-teto.  O passado hippie é um dos fatores que contribuem para esse afluxo, segundo Christian Calinsky, que trabalha numa ONG com os sem-teto. Ele espera uma migração ainda maior com a aproximação do cinquentenário do Verão do Amor. \"Espero que venham celebrar o amor numa época em que estamos tão cercados por ódio\", diz, referindo-se ao governo de Donald Trump.  Autor do livro \"The Hippies and the American Values\" (os hippies e os valores americanos), Timothy Miller também crê que o governo Trump possa fomentar alguma resistência jovem, a exemplo da que houve nos anos 1960. \"É tão ultrajante que pode criar a mesma oposição que a Guerra do Vietnã\", afirma.  Miller endossa a tese de que os hippies deixaram suas sementes bem ao sul da cidade, mais precisamente no Vale do Silício. Ele diz que os valores de colaboração da contracultura acabaram influenciando toda a filosofia de compartilhamento da cibercultura. \"Eles estiveram envolvidos desde o começo.\"",
+    "title": "San Francisco embarca na nostalgia nos 50 anos do movimento hippie",
+    "category": "ilustrada",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/ilustrada/2017/03/1867242-nos-50-anos-do-movimento-hippie-san-francisco-repele-andarilhos.shtml"
+}

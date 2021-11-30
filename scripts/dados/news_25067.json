@@ -1,0 +1,198 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 2482,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.56374,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "ano passado",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.750715,
+                "count": 1
+            },
+            {
+                "text": "poder público",
+                "sentiment": {
+                    "score": -0.278269,
+                    "label": "negative"
+                },
+                "relevance": 0.622231,
+                "count": 1
+            },
+            {
+                "text": "Sistema Único de Saúde",
+                "sentiment": {
+                    "score": 0.650228,
+                    "label": "positive"
+                },
+                "relevance": 0.610776,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Date",
+                "text": "dia seguinte",
+                "sentiment": {
+                    "score": 0,
+                    "mixed": "1",
+                    "label": "neutral"
+                },
+                "relevance": 0.954265,
+                "count": 3,
+                "confidence": 0.916193
+            },
+            {
+                "type": "Organization",
+                "text": "Sistema Único de Saúde",
+                "sentiment": {
+                    "score": 0.650228,
+                    "label": "positive"
+                },
+                "relevance": 0.57269,
+                "count": 1,
+                "confidence": 0.445645
+            },
+            {
+                "type": "Percent",
+                "text": "55%",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.534122,
+                "count": 1,
+                "confidence": 0.8
+            },
+            {
+                "type": "Date",
+                "text": "ano passado",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.516846,
+                "count": 1,
+                "confidence": 0.918868
+            },
+            {
+                "type": "Number",
+                "text": "431 mil",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.514671,
+                "count": 1,
+                "confidence": 0.8
+            },
+            {
+                "type": "Percent",
+                "text": "21%",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.512096,
+                "count": 1,
+                "confidence": 0.8
+            },
+            {
+                "type": "Duration",
+                "text": "19 anos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.501349,
+                "count": 1,
+                "confidence": 0.429662
+            },
+            {
+                "type": "JobTitle",
+                "text": "servidores",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.280922,
+                "count": 2,
+                "confidence": 0.927516
+            },
+            {
+                "type": "Duration",
+                "text": "três dias",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.184461,
+                "count": 1,
+                "confidence": 0.70755
+            },
+            {
+                "type": "Location",
+                "text": "Brasil",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.15604,
+                "count": 1,
+                "confidence": 0.988849
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Contracepção",
+                "relevance": 0.99453,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Contracepção"
+            },
+            {
+                "text": "Gravidez",
+                "relevance": 0.96942,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Gravidez"
+            },
+            {
+                "text": "Aborto",
+                "relevance": 0.926466,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Aborto"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.822253,
+                "label": "/society/sex"
+            },
+            {
+                "score": 0.816245,
+                "label": "/society/sex/sex education"
+            },
+            {
+                "score": 0.757176,
+                "label": "/health and fitness"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.6207535
+    },
+    "text": "O Sistema Único de Saúde põe à disposição das brasileiras um meio simples, gratuito e eficaz de evitar uma gestação acidental, a pílula do dia seguinte. Contudo, a situação ainda ocorre com frequência alarmante: 55% das mulheres engravidam sem planejar.  O problema é mais sério entre jovens. No ano passado, 431 mil bebês (21% do total) nascidos no Brasil tinham mães de até 19 anos —e pode-se presumir que a maioria dos casos é de gravidez indesejada.  Mais da metade delas também está fora da escola e sem emprego.  A contracepção de emergência, ao que tudo indica, não tem emprego tão difundido quanto seria recomendável. As razões para tal falha são várias, nenhuma impossível de enfrentar, desde que o poder público lhes dê a devida atenção.  Em especial no caso das muito moças, pode ser constrangedor ter de justificar-se no posto de saúde para obter a pílula do dia seguinte. Muitas acabam recorrendo à compra discreta em farmácias, recurso indisponível para as mais pobres.  Neste caso, cabe às autoridades de saúde orientar seus funcionários para erradicar exigências descabidas. Aqui e ali ainda se tem notícia de que servidores requerem a apresentação de prescrição médica, um procedimento incorreto.  Restrições morais também podem estar por trás da dificuldade para a mulher pedir (ou o profissional de saúde fornecer) o comprimido, que tem fama de ser abortivo.  Trata-se, para boa parte dos especialistas, de um equívoco: o hormônio contido na pílula dificulta tanto a ovulação quanto a eventual fixação de um óvulo já fecundado na parede do útero. Só depois dessa implantação é que se deveria falar em gravidez.  Por fim, há que prevenir um engano comum induzido pelo nome popular do método: a contracepção de emergência não funciona apenas no dia seguinte, mas pelo menos três dias após a relação sexual, ou mesmo cinco.  Tudo isso se resolve com mais esclarecimentos dirigidos às mulheres e aos servidores do SUS. É crucial fazer campanhas para divulgar o método, inclusive entre homens, ainda que não para incentivar o uso indiscriminado da pílula emergencial, que deve permanecer como último recurso, não como contraceptivo preferencial.  Ela, afinal, utiliza dose alta de hormônios, e seu uso repetido pode perturbar o ciclo fértil da mulher.  Faz mais sentido disseminar anticoncepcionais de longa duração, como implantes e DIU, que impedem a própria emergência, e preservativos, para evitar as doenças sexualmente transmitidas.  editoriais@grupofolha.com.br",
+    "title": "Em caso de emergência",
+    "category": "opiniao",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/opiniao/2017/03/1867725-em-caso-de-emergencia.shtml"
+}

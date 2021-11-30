@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 5257,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.290581,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "Marcela Temer",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.603879,
+                "count": 1
+            },
+            {
+                "text": "primeiro presidente",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.578023,
+                "count": 1
+            },
+            {
+                "text": "Palácio da Alvorada",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.568586,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "JobTitle",
+                "text": "presidente",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.950146,
+                "count": 6,
+                "confidence": 1
+            },
+            {
+                "type": "Person",
+                "text": "Temer",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.869075,
+                "count": 5,
+                "confidence": 1
+            },
+            {
+                "type": "Person",
+                "text": "João Figueiredo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.699219,
+                "count": 2,
+                "confidence": 0.999475
+            },
+            {
+                "type": "Person",
+                "text": "Reagan",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.693852,
+                "count": 2,
+                "confidence": 0.999885
+            },
+            {
+                "type": "Person",
+                "text": "Michel Temer",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.564453,
+                "count": 1,
+                "confidence": 0.999426
+            },
+            {
+                "type": "Facility",
+                "text": "Palácio da Alvorada",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.557431,
+                "count": 1,
+                "confidence": 0.93054
+            },
+            {
+                "type": "Date",
+                "text": "1982",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.555969,
+                "count": 1,
+                "confidence": 0.932807
+            },
+            {
+                "type": "Person",
+                "text": "Ronald Reagan",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.552285,
+                "count": 1,
+                "confidence": 0.994828
+            },
+            {
+                "type": "Location",
+                "text": "Alvorada",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.548729,
+                "count": 3,
+                "confidence": 0.646795
+            },
+            {
+                "type": "Date",
+                "text": "semana passada",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.521134,
+                "count": 1,
+                "confidence": 0.806422
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Oscar Niemeyer",
+                "relevance": 0.994443,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Oscar_Niemeyer"
+            },
+            {
+                "text": "Palácio da Alvorada",
+                "relevance": 0.975241,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Palácio_da_Alvorada"
+            },
+            {
+                "text": "Juscelino Kubitschek",
+                "relevance": 0.971363,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Juscelino_Kubitschek"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.650178,
+                "label": "/law, govt and politics/government/heads of state"
+            },
+            {
+                "score": 0.588074,
+                "label": "/society/unrest and war"
+            },
+            {
+                "score": 0.549539,
+                "label": "/law, govt and politics/politics/elections/presidential elections"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.63233275
+    },
+    "text": "Michel Temer não foi o primeiro presidente a sentir \"uma coisa estranha\" no Palácio da Alvorada. Em 1982, em visita ao país, o americano Ronald Reagan se hospedou na residência oficial dos mandatários brasileiros e saiu de lá assombrado.  Não pelos fantasmas que Temer sugeriu, rindo, rondarem aquele lar que, apesar de \"muito amplo\" e \"bonito\", tinha uma energia \"não boa\" que atrapalhava seu sono e que até sua esposa, Marcela, sentiu, como o presidente contou à revista \"Veja\" na semana passada.  Espantado mesmo Reagan ficou com a estética modernista do palácio projetado por Oscar Niemeyer nos anos 1950, a pedido de Juscelino Kubitschek. Registrou em seu diário não culpar o então presidente João Figueiredo por preferir a Granja do Torto ao Alvarado (sic), que comparou a uma \"sede de uma companhia de seguros\".  A passagem de Temer pela morada foi marcada pela brevidade –duas semanas após se mudar, ele voltou ao Palácio do Jaburu, casa do vice-presidente, seu cargo até o impeachment de Dilma Rousseff. Na terça (14), a presidente destronada alfinetou seu ex-aliado: \"Morei lá [de 2011 a 2016] e nunca teve nada disso, não Nunca vi fantasma nenhum\".  O filho Michelzinho, \"que ficava correndo de um lado para o outro\", era o único que parecia gostar do Alvorada, afirmou o presidente. Uma tela de proteção foi instalada para recebê-lo, num pacote de reformas orçado em mais de R$ 20 mil.  Especialistas criticaram a intervenção, por descaracterizar a fachada do prédio, tombado.  Temer não foi o primeiro a alterar o projeto de Niemeyer, aponta o historiador Claudio Rocha, curador do Alvorada nas gestões FHC, Lula e Dilma.  O protestante Ernesto Geisel mandou pintar de branco o teto da capela –sua fé veta o culto a imagens sacras, como as que ornavam o afresco de Athos Bulcão. Só nos anos 2000 a obra foi restaurada.  O militar também expulsou as famosas emas da Alvorada, pois elas perturbavam seus dálmatas. \"Só que elas comem animais peçonhentos. No dia seguinte, apareceu uma cobra-coral no caminho da piscina\", diz Rocha. Foi o retorno triunfante das emas.  O curador cita predileções de primeiras-damas em decoração. Dulce Figueiredo, por exemplo, gostava de plumas brancas e veludo rosa. Já Scila Médici \"achava aqueles móveis [do projeto original] simples\" e \"exagerou\" na \"coisa francesa com seda\".  Rocha conta que foi chamado para \"dar dicas\" aos novos inquilinos, que têm preferência pelo tom bege e \"queriam tirar todos os tapetes vermelhos, porque dona Marcela não gosta de vermelho\".  Conseguiu poupar os da rampa de entrada ao mostrar fotos dos anos 1960 e provar que os carpetes sempre foram daquela cor, diz. \"Respeitaram\", afirma o ex-funcionário do Alvorada, exonerado em 2016.  A assessoria de imprensa da Presidência nega: \"Não há veracidade na informação de que Marcela Temer não goste de vermelho\".  Como Temer, alguns presidentes dispensaram o Alvorada. Fernando Collor optou pela famosa Casa da Dinda, palco de rituais de magia negra com sacrifício de animais, segundo Rosane Collor, ex-mulher do hoje senador.  João Figueiredo morou no Torto, a casa de veraneio da Presidência, por lá haver uma cocheira para seus cavalos, lembra o cientista político David Fleischer, da Universidade de Brasília.  O general chegou a doar um de seus cavalos favoritos, o Gymnich, para Reagan –que o rejeitou, já que a lei americana não permite que o presidente receba presentes acima de US$ 150.  ELES GOSTARAM  Os três antecessores de Temer se afeiçoaram ao Alvorada. Em 1997, FHC escreveu em seu diário: \"Raramente registro questões relativas às sensações da natureza, mas hoje, perdido neste enorme jardim do Alvorada, tive vontade de registrar.\" Estava perto do laguinho que separa público e gramado do palácio, \"único do mundo sem muro\".  Também relata um \"jantar excelente\" com Bill e Hillary Clinton e um encontro com Paulo Maluf na biblioteca que, quatro décadas antes, foi criada com curadoria de Carlos Drummond, Manoel Bandeira e Antonio Houaiss.  Gilberto Carvalho fala com saudosismo das noites de domingo na mesma biblioteca, só que na era Lula. Seu ex-conselheiro (e depois ministro de Dilma) recorda que o petista se reunia com aliados em reuniões tensas \"sobretudo no tempo do mensalão\". Digeriam a crise com pastéis de carne moída e queijo \"extremamente saborosos\" e, às vezes, um \"uisquezinho\" Red Label.  Morta em janeiro, sua esposa, Marisa Letícia, \"fez uma bela de uma horta orgânica\" no palácio, conta. Outra plantação gerou polêmica: um canteiro de sálvias vermelhas no formato da estrela do PT.  No mesmo 2004, Luís Cláudio, filho de Lula então com 18 anos, chamou amigos para férias em Brasília, com custos pagos pela União. Fotos da viagemforam parar na internet. Numa delas, um colega narra um salto que a turma deu na piscina do Alvorada: \"Aí tá eu, o Lula [Luís Cláudio] e o Gringo pulando na piscina lá de cima!!! Era muito bacana pular de lá, uahuhauahahuuauhahuaa!\".  Dilma levou para morar com ela a mãe, Dilma Jane, e a tia Arilda. Derramava-se sobre visitas do neto Gabriel, 6. Em 2014, cantarolou para jornalistas em jantar no Alvorada trechos de músicas infantis como \"Chaves, Chaves, Chaves\", tema do seriado mexicano. Revelou que o professor Girafales era seu personagem favorito da atração.",
+    "title": "Desprezado por Temer, Alvorada teve de emas expulsas a 'Chaves' no jantar",
+    "category": "poder",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/poder/2017/03/1867600-desprezado-por-temer-alvorada-ja-teve-de-emas-expulsas-a-chaves-no-jantar.shtml"
+}

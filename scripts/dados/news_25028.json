@@ -1,0 +1,218 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 657,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.675702,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "Massacre Em Guernica",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.808477,
+                "count": 1
+            },
+            {
+                "text": "Minority Report",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.781679,
+                "count": 1
+            },
+            {
+                "text": "bombardeio da cidade de Guernica",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.715539,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Person",
+                "text": "Minority Report",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.950753,
+                "count": 1,
+                "confidence": 0.661925
+            },
+            {
+                "type": "Location",
+                "text": "Guernica",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.772087,
+                "count": 2,
+                "confidence": 0.97524
+            },
+            {
+                "type": "Time",
+                "text": "12h45",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.537321,
+                "count": 1,
+                "confidence": 0.430662
+            },
+            {
+                "type": "Duration",
+                "text": "14 anos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.525819,
+                "count": 1,
+                "confidence": 0.468474
+            },
+            {
+                "type": "Date",
+                "text": "2002",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.462422,
+                "count": 1,
+                "confidence": 0.894184
+            },
+            {
+                "type": "Date",
+                "text": "1937",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.356211,
+                "count": 1,
+                "confidence": 0.863016
+            },
+            {
+                "type": "Location",
+                "text": "EUA",
+                "sentiment": {
+                    "score": -0.702907,
+                    "label": "negative"
+                },
+                "relevance": 0.326085,
+                "disambiguation": {
+                    "subtype": [
+                        "Region",
+                        "AdministrativeDivision",
+                        "Country",
+                        "GovernmentalJurisdiction",
+                        "FilmEditor"
+                    ],
+                    "name": "Estados_Unidos",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/Estados_Unidos"
+                },
+                "count": 1,
+                "confidence": 0.822968
+            },
+            {
+                "type": "JobTitle",
+                "text": "repórter",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.171772,
+                "count": 1,
+                "confidence": 0.881022
+            },
+            {
+                "type": "Location",
+                "text": "Espanha",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.124736,
+                "disambiguation": {
+                    "subtype": [
+                        "AdministrativeDivision",
+                        "Country",
+                        "GovernmentalJurisdiction",
+                        "Kingdom"
+                    ],
+                    "name": "Espanha",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/Espanha"
+                },
+                "count": 1,
+                "confidence": 0.986643
+            },
+            {
+                "type": "Person",
+                "text": "Max",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.013347,
+                "count": 1,
+                "confidence": 0.977987
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Jornalismo",
+                "relevance": 0.943684,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Jornalismo"
+            },
+            {
+                "text": "Imprensa",
+                "relevance": 0.925609,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Imprensa"
+            },
+            {
+                "text": "Censura",
+                "relevance": 0.838727,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Censura"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.937984,
+                "label": "/society/crime"
+            },
+            {
+                "score": 0.768955,
+                "label": "/society/unrest and war"
+            },
+            {
+                "score": 0.724178,
+                "label": "/society/crime/personal offense/homicide"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.511414
+    },
+    "text": "\"Minority Report\" trouxe um debate ético: as pessoas deveriam ser presas só porque seres místicos —os chamados precogs— previam que elas cometeriam um crime?  No longa de 2002, a resposta foi \"sim\", o que eliminou os assassinatos nos EUA. Mas os problemas começam quando os precogs adivinham um crime cometido por pessoas poderosas.  Megapix, 12h45, 14 anos  *  VEJA TAMBÉM  \"O Massacre Em Guernica\"  Durante o bombardeio da cidade de Guernica pelos alemães, em 1937, um repórter e a responsável pela censura do jornalismo na Espanha se unem para lutar pela ética e pela liberdade de imprensa para contar o que estava se passando no país.  Max, 21h, 14 anos",
+    "title": "'Multitela': Filme 'Minority Report' alimenta debate sobre prisões",
+    "category": "ilustrada",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/ilustrada/2017/03/1867641-multitela-filme-minority-report-alimenta-debate-sobre-prisoes.shtml"
+}

@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 1561,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.524136,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "Bolsa Ditadura",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.658912,
+                "count": 1
+            },
+            {
+                "text": "VOTO DE LISTA",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.647524,
+                "count": 2
+            },
+            {
+                "text": "anos da ditadura brasileira",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.647518,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Organization",
+                "text": "Bolsa Ditadura",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.949248,
+                "count": 1,
+                "confidence": 0.571133
+            },
+            {
+                "type": "Money",
+                "text": "R$ 6.000",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.937231,
+                "count": 1,
+                "confidence": 0.992384
+            },
+            {
+                "type": "Duration",
+                "text": "31 dias",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.916416,
+                "count": 1,
+                "confidence": 0.626183
+            },
+            {
+                "type": "Person",
+                "text": "Nosso Guia",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.893842,
+                "count": 1,
+                "confidence": 0.633953
+            },
+            {
+                "type": "Money",
+                "text": "R$ 1,5 milhão",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.878664,
+                "count": 1,
+                "confidence": 0.996348
+            },
+            {
+                "type": "Organization",
+                "text": "Viúva brasileira",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.849033,
+                "count": 1,
+                "confidence": 0.449523
+            },
+            {
+                "type": "Date",
+                "text": "21 anos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.819253,
+                "count": 1,
+                "confidence": 0.35337
+            },
+            {
+                "type": "Location",
+                "text": "Alemanha Oriental",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.782848,
+                "count": 1,
+                "confidence": 0.857424
+            },
+            {
+                "type": "Number",
+                "text": "250 mil",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.760848,
+                "count": 1,
+                "confidence": 0.8
+            },
+            {
+                "type": "Money",
+                "text": "R$ 1.000",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.709469,
+                "count": 1,
+                "confidence": 0.997579
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Partido da Social Democracia Brasileira",
+                "relevance": 0.906124,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Partido_da_Social_Democracia_Brasileira"
+            },
+            {
+                "text": "Partido do Movimento Democrático Brasileiro",
+                "relevance": 0.892413,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Partido_do_Movimento_Democrático_Brasileiro"
+            },
+            {
+                "text": "Político",
+                "relevance": 0.8871,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Político"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.892394,
+                "label": "/law, govt and politics"
+            },
+            {
+                "score": 0.79468,
+                "label": "/law, govt and politics/politics/political parties"
+            },
+            {
+                "score": 0.761442,
+                "label": "/law, govt and politics/government"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 3.954776
+    },
+    "text": "BOLSA DITADURA  Outro dia Lula revelou que desde 1996 recebe uma Bolsa Ditadura que hoje vale R$ 6.000 mensais. É a indenização devida por 31 dias que passou na cadeia.  Feita a conta, Nosso Guia embolsou algo como R$ 1,5 milhão.  Não se pode comparar o tamanho da bolsa da Viúva brasileira com a da alemã. Também não se pode comparar os 21 anos da ditadura brasileira com os 44 da ditadura comunista da Alemanha Oriental, durante a qual foram presas 250 mil pessoas.  Na Alemanha, as vítimas da repressão receberam uma indenização equivalente a R$ 1.000 para cada mês de prisão. Se o cidadão passou mais de 180 dias na cadeia e depois da unificação vivia com necessidades financeiras, habilitava-se para uma pensão mensal de uns R$ 900.  A Bolsa Ditadura de Lula rendeu-lhe R$ 41 mil para cada dia que passou na cadeia.  VOTO DE LISTA  Com a ajuda do ministro Gilmar Mendes, presidente do Tribunal Superior Eleitoral, políticos de diversos partidos voltaram a cabalar uma reforma eleitoral que institua o voto de lista. Trata-se de um sistema pelo qual o eleitor vota no partido e as caciquias influem na ordem em que serão elencados os candidatos determinando o acesso aos mandatos. No PMDB, por exemplo, brilharia o discernimento do seu presidente, o senador Romero Jucá. No PSDB, de Aécio Neves.  Vale a pena resgatar o argumento de um grão-tucano durante a última tentativa de adoção do voto de lista: \"Estou cansado de pedir votos\".  A manobra falhou, mas ele se deu bem, tornando-se suplente de senador.  *  Leia mais textos da coluna deste domingo (19):",
+    "title": "As diferenças da bolsa ditadura paga a Lula e às vítimas da repressão alemã",
+    "category": "colunas",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/colunas/eliogaspari/2017/03/1867761-as-diferencas-da-bolsa-ditadura-paga-a-lula-e-as-vitimas-da-repressao-alema.shtml"
+}

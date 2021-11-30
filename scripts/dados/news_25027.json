@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 3082,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.356738,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "único empate",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.617751,
+                "count": 1
+            },
+            {
+                "text": "últimos resquícios de uma época",
+                "sentiment": {
+                    "score": -0.350608,
+                    "label": "negative"
+                },
+                "relevance": 0.60203,
+                "count": 1
+            },
+            {
+                "text": "Gabriel Jesus",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.585948,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Organization",
+                "text": "Palmeiras",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.952413,
+                "count": 9,
+                "confidence": 1
+            },
+            {
+                "type": "Person",
+                "text": "Dudu",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.920944,
+                "count": 10,
+                "confidence": 1
+            },
+            {
+                "type": "Date",
+                "text": "janeiro de 2015",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.601867,
+                "count": 1,
+                "confidence": 0.931747
+            },
+            {
+                "type": "Location",
+                "text": "Vila Belmiro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.593768,
+                "count": 1,
+                "confidence": 0.376022
+            },
+            {
+                "type": "Organization",
+                "text": "Campeonato Paulista",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.580433,
+                "count": 1,
+                "confidence": 0.728722
+            },
+            {
+                "type": "Date",
+                "text": "ano passado",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.577344,
+                "count": 1,
+                "confidence": 0.763177
+            },
+            {
+                "type": "Duration",
+                "text": "cinco anos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.568607,
+                "count": 1,
+                "confidence": 0.737015
+            },
+            {
+                "type": "JobTitle",
+                "text": "atacante",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.564198,
+                "count": 3,
+                "confidence": 0.98838
+            },
+            {
+                "type": "Duration",
+                "text": "dois anos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.554587,
+                "count": 2,
+                "confidence": 0.924706
+            },
+            {
+                "type": "Organization",
+                "text": "Crefisa",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.523557,
+                "count": 1,
+                "confidence": 0.691058
+            }
+        ],
+        "concepts": [
+            {
+                "text": "São Paulo",
+                "relevance": 0.975876,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Sociedade Esportiva Palmeiras",
+                "relevance": 0.954895,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Sociedade_Esportiva_Palmeiras"
+            },
+            {
+                "text": "Campeonato Brasileiro de Futebol",
+                "relevance": 0.918584,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Campeonato_Brasileiro_de_Futebol"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.767966,
+                "label": "/sports/soccer"
+            },
+            {
+                "score": 0.695688,
+                "label": "/sports/tennis"
+            },
+            {
+                "score": 0.667714,
+                "label": "/careers/job fairs"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 1.9911234375000002
+    },
+    "text": "Dudu chegou ao Palmeiras em janeiro de 2015 e desde então jogou quatro vezes na Vila Belmiro. Perdeu todas. No único empate desde sua chegada, na semifinal do Campeonato Paulista do ano passado, o atacante não pôde jogar por lesão.  Há cinco anos, o Santos não perde do Palmeiras em sua casa, jejum de onze partidas com nove vitórias e dois empates. Para os palmeirenses, é um dos últimos resquícios de uma época sem esperança, sem troféus.  Muita gente atribui o sucesso recente do Palmeiras ao dinheiro da Crefisa, mas o nome da empresa já estava estampado no uniforme em 2014, ano em que só a última rodada salvou do rebaixamento. Não é possível falar em uma época atrelada à Crefisa, como se dizia sobre a \"era Parmalat\".  Mas existe um ponto comum a todos os capítulos da reconstrução palmeirense: Dudu.  Sua chegada, há dois anos, ficou famosa pelo chapéu dado em Corinthians e São Paulo, que brigavam publicamente pela contratação do atacante. O Palmeiras atravessou o negócio numa tentativa de mostrar que estava de volta ao mercado dos grandes e de recuperar a autoestima da torcida.  Demorou um tempo até se firmar. Houve a suspensão pelo empurrão no árbitro Guilherme Cereta de Lima na decisão do Paulista de 2015.  Depois disso, a vida melhorou.  Dudu fez os dois gols da vitória na final da Copa do Brasil contra o Santos, em 2015, e foi o melhor jogador do Brasileirão de 2016. Quando Gabriel Jesus diminuiu o número de gols, no segundo turno, Dudu compensou com o recorde de assistências do campeonato. Foram dez.  Foi o jogador fundamental de dois torneios que o Palmeiras não começou como favorito, e venceu. Hoje, ele disputa com Diego, do Flamengo, o posto de melhor jogador em atividade no Brasil.    Neste início de ano, o Palmeiras de Eduardo Baptista disputou dez jogos e marcou 19 gols. Dudu fez dois e é um dos goleadores da equipe. Também é o líder de assistências outra vez, com seis.  Significa que 42% do ataque passa por seu pé. \"Meu sonho é conquistar mais títulos pelo Palmeiras e marcar meu nome na história do clube\", diz. \"Se continuar trabalhando bem, também posso ter a oportunidade de disputar a Copa do Mundo pela seleção.\"  Dudu já jogou na Europa, pelo Dínamo de Kiev, e voltou de lá aos 23 anos. Num tempo em que os jogadores nascem pensando em transferências para o exterior, o atacante do Palmeiras pode pensar na consagração aqui dentro.  Neste ano, só Dudu e Fernando Prass começaram todas as dez partidas oficiais. Nas campanhas de títulos da Copa do Brasil de 2015 e do Brasileiro de 2016, só Dudu e Vitor Hugo foram titulares sempre.  Os técnicos mudaram três vezes em dois anos. De Oswaldo de Oliveira para Marcelo Oliveira, para Cuca e agora Eduardo Baptista. O presidente era Paulo Nobre e agora é Maurício Galiotte.  É tudo diferente do passado. A era Parmalat teve Edmundo e Evair no bi brasileiro, mas era totalmente diferente na Libertadores de 1999. Entre as duas academias, de 1965 e 1972/73, havia somente uma dupla em comum: Dudu e Ademir da Guia.  Se a época de títulos do Palmeiras continuar, Dudu pode virar um símbolo.",
+    "title": "A era Dudu melhorou o Palmeiras",
+    "category": "colunas",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/colunas/pvc/2017/03/1867800-a-era-dudu-melhorou-o-palmeiras.shtml"
+}

@@ -1,0 +1,204 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 1720,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.262392,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "releitura de Suetônio",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.623998,
+                "count": 1
+            },
+            {
+                "text": "lugar-comum",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.610699,
+                "count": 1
+            },
+            {
+                "text": "RIO DE JANEIRO",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.601019,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Person",
+                "text": "Calígula",
+                "sentiment": {
+                    "score": 0.511418,
+                    "label": "positive"
+                },
+                "relevance": 0.952258,
+                "count": 2,
+                "confidence": 0.999719
+            },
+            {
+                "type": "Person",
+                "text": "Tibério",
+                "sentiment": {
+                    "score": 0.57142,
+                    "label": "positive"
+                },
+                "relevance": 0.944724,
+                "count": 2,
+                "confidence": 0.999451
+            },
+            {
+                "type": "Location",
+                "text": "RIO DE JANEIRO",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.781265,
+                "count": 1,
+                "confidence": 0.338243
+            },
+            {
+                "type": "Person",
+                "text": "Suetônio",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.717904,
+                "disambiguation": {
+                    "subtype": [
+                        "Writer"
+                    ],
+                    "name": "Suetónio",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/Suetónio"
+                },
+                "count": 1,
+                "confidence": 0.983148
+            },
+            {
+                "type": "Date",
+                "text": "1889",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.659859,
+                "count": 1,
+                "confidence": 0.867384
+            },
+            {
+                "type": "Person",
+                "text": "Nero",
+                "sentiment": {
+                    "score": 0.511418,
+                    "label": "positive"
+                },
+                "relevance": 0.642105,
+                "count": 2,
+                "confidence": 0.998343
+            },
+            {
+                "type": "Location",
+                "text": "Brasil",
+                "sentiment": {
+                    "score": 0.622488,
+                    "label": "positive"
+                },
+                "relevance": 0.578228,
+                "count": 3,
+                "confidence": 0.999875
+            },
+            {
+                "type": "Number",
+                "text": "Doze",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.434624,
+                "count": 1,
+                "confidence": 0.8
+            },
+            {
+                "type": "Person",
+                "text": "Marco Aurélio",
+                "sentiment": {
+                    "score": -0.749974,
+                    "label": "negative"
+                },
+                "relevance": 0.38351,
+                "count": 1,
+                "confidence": 0.928761
+            },
+            {
+                "type": "Location",
+                "text": "República",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.277491,
+                "count": 1,
+                "confidence": 0.605184
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Império Romano",
+                "relevance": 0.986188,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Império_Romano"
+            },
+            {
+                "text": "Transposição do rio São Francisco",
+                "relevance": 0.984364,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Transposição_do_rio_São_Francisco"
+            },
+            {
+                "text": "Vidas dos Doze Césares",
+                "relevance": 0.916687,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Vidas_dos_Doze_Césares"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.838107,
+                "label": "/society/unrest and war"
+            },
+            {
+                "score": 0.771117,
+                "label": "/law, govt and politics/politics"
+            },
+            {
+                "score": 0.740257,
+                "label": "/law, govt and politics/government"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.6382075
+    },
+    "text": "RIO DE JANEIRO - O Brasil está atravessando, de maneira um pouco avacalhada, aquele lugar-comum que garante que a história repetida transforma-se numa farsa. Basta uma releitura de Suetônio (\"A Vida dos Doze Césares\") para notarmos os pontos comuns entre o início da queda do império romano e o fim dos pruridos republicanos do Brasil, em 1889.  Bem verdade que ainda não tivemos a loucura de Nero, Calígula e Tibério. Mesmo sem alimentar o delírio de se transformar num \"caput mundi\", o Brasil vem tateando em busca de um lugar poderoso entre os países poderosos do mundo.  Aos poucos, a nação está se reduzindo a um colégio interno em que prevalece a delação, a modificação súbita e contraditória dos regulamentos que deviam estabelecer, pelo menos, a ordem e o progresso sonhados pela República.  Se também não temos ainda um Nero, um Calígula e um Tibério, temos alguns pigmeus de baixa extração que atualmente estão bem alojados no Executivo, no Legislativo e no Judiciário. Falta-nos um Marco Aurélio e um Cícero para contrabalançar a mediocridade política dos nossos dirigentes.  Não temos guerras nem ambições territoriais, mas nos orgulhamos de não termos vulcões, tsunamis e terremotos. E nossos esporádicos tremores de terra nem podem ser medidos em escala Richter.  Ao longo da história, alguns países em situações análogas recorriam aos exércitos, nem todos se comportavam como o Grande Mudo, tomavam o poder e promoviam mortes, torturas e exílios. Em compensação, temos grandes parlapatões que diariamente se acusam uns aos outros para proteger o uso e o abuso da corrupção nacional.  Apesar de tudo, o início da transposição do rio São Francisco não deixa de ser um fio de esperança para um futuro melhor.",
+    "title": "Em meio ao caos, há um fio de esperança",
+    "category": "colunas",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/colunas/carlosheitorcony/2017/03/1867731-em-meio-ao-caos-ha-um-fio-de-esperanca.shtml"
+}

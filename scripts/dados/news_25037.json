@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 3373,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.894433,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "zagueiro Yerry Mina",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.607301,
+                "count": 1
+            },
+            {
+                "text": "autor do gol",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.601436,
+                "count": 1
+            },
+            {
+                "text": "lado palmeirense",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.598102,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Person",
+                "text": "Copete",
+                "sentiment": {
+                    "score": 0.397655,
+                    "label": "positive"
+                },
+                "relevance": 0.950156,
+                "count": 4,
+                "confidence": 0.999998
+            },
+            {
+                "type": "Organization",
+                "text": "futebol brasileiro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.729293,
+                "count": 2,
+                "confidence": 0.302171
+            },
+            {
+                "type": "Person",
+                "text": "Vladimir Hernández",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.642568,
+                "count": 2,
+                "confidence": 0.999998
+            },
+            {
+                "type": "Organization",
+                "text": "Palmeiras",
+                "sentiment": {
+                    "score": 0.725184,
+                    "label": "positive"
+                },
+                "relevance": 0.628286,
+                "count": 6,
+                "confidence": 1
+            },
+            {
+                "type": "Location",
+                "text": "Vila Belmiro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.602515,
+                "count": 2,
+                "confidence": 0.612451
+            },
+            {
+                "type": "JobTitle",
+                "text": "promissores",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.600719,
+                "count": 1,
+                "confidence": 0.544311
+            },
+            {
+                "type": "Organization",
+                "text": "Campeonato Brasileiro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.574212,
+                "count": 1,
+                "confidence": 0.846364
+            },
+            {
+                "type": "Date",
+                "text": "domingo (19",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.57051,
+                "count": 1,
+                "confidence": 0.36391
+            },
+            {
+                "type": "Person",
+                "text": "Yerry Mina",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.541514,
+                "count": 1,
+                "confidence": 0.951621
+            },
+            {
+                "type": "Person",
+                "text": "Miguel Borja",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.537723,
+                "count": 1,
+                "confidence": 0.997638
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Colômbia",
+                "relevance": 0.969473,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Colômbia"
+            },
+            {
+                "text": "Futebol",
+                "relevance": 0.967976,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Futebol"
+            },
+            {
+                "text": "Brasileiros",
+                "relevance": 0.855366,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Brasileiros"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.741254,
+                "label": "/sports/soccer"
+            },
+            {
+                "score": 0.677141,
+                "label": "/society/unrest and war"
+            },
+            {
+                "score": 0.636995,
+                "label": "/law, govt and politics"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.6271089999999999
+    },
+    "text": "Irreverentes, promissores e simpáticos. É dessa maneira que os colombianos ganham cada vez mais espaço no futebol brasileiro. Atualmente, 14 jogadores do país defendem equipes da Série A do Campeonato Brasileiro.  Neste domingo (19), quatro deles estarão em campo para o clássico entre Santos e Palmeiras, na Vila Belmiro, às 18h30, em partida válida pela nona rodada do Paulista.  Do lado palmeirense, o zagueiro Yerry Mina e o atacante Miguel Borja tentam quebrar um jejum de quase seis anos sem vitória alviverde no estádio rival. No período, foram nove triunfos santista e dois empates.  \"É muito importante ganhar o clássico e seguir nesse caminho de vitória. Importante para a gente melhorar e seguir melhorando\", afirmou Mina, autor do gol na vitória do Palmeiras sobre o Jorge Wilstermann pela Libertadores, na última quarta (15).  Já do lado do Santos, Jonathan Copete e Vladimir Hernández precisam de um resultado positivo para aliviar a situação de sua equipe no Estadual. Na terceira posição do Grupo D, o clube está fora da zona de classificação.  \"Temos uma expectativa muito grande. Estamos trabalhando muito bem para fazer uma grande partida\", disse Copete à Folha.  O atacante de 29 anos foi o autor do gol da última vitória santista sobre o Palmeiras, em outubro do ano passado.  Rivalidade à parte, os atletas mantém um bom relacionamento fora de campo. Ainda com dificuldades para falar português, eles se comunicam rotineiramente.  \"Nos falamos bastante, principalmente quando a gente se encontra na seleção. Jogamos videogame, muitas vezes on-line. É bom poder ter essa amizade com eles\", afirmou Copete.  Em meio a essas conversas, também aparecem os conselhos. E um deles ajudou o Palmeiras a realizar a sua maior contratação da história.  Com propostas da China e da equipe alviverde, Borja estava em dúvida sobre vir para o Brasil ou se aventurar no futebol chinês. Ele então recorreu ao seu companheiro de ataque na seleção colombiana, que está desde maio de 2016 no Santos, para saber como era viver no país.  \"Falei que era um lugar de pessoas muito boas, alegres e que querem sempre o melhor para nós\", disse.  No dia 23 de março, Mina e Borja estarão defendendo sua seleção em jogo contra a Bolívia, pelas eliminatórias. Copete e Vladimir Hernández foram preteridos pelo técnico José Pékerman.  DANÇA E CARNE  Apesar da dificuldade com a língua, os colombianos se sentem bem no futebol brasileiro. O estilo de jogo e os costumes semelhantes ajudam na rápida adaptação.  No caso de Copete, uma coisa em especial o fez se sentir mais a vontade: a culinária. Ainda tímido para falar e sempre à procura das melhores palavras para não se complicar, ele se solta quando o assunto é churrasco.  \"A carne aqui no Brasil é muito boa. Uma das melhores do mundo. Isso me impressionou\", afirmou.  Já Mina se descontrai com a dança. Um dos mais animados do elenco, o zagueiro comemora seus gols com a Salsa Choke, um estilo musical típico de Tumaco, na Colômbia.  Se balançar as redes no domingo, repetirá o compatriota Armero. Pelo Palmeiras, o lateral esquerdo, hoje no Bahia, marcou um gol na Vila Belmiro e dançou o \"armeration\", que ficou marcado na memória palmeirense.  \"Para mim é importante, porque com isso demonstro minha alegria, a alegria da nossa equipe e a alegria de onde eu venho\", disse Mina.  NA TV Santos x Palmeiras 18h30 Pay-per-view",
+    "title": "Jogo entre Palmeiras e Santos expõe ascensão de colombianos no Brasil",
+    "category": "esporte",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/esporte/2017/03/1867785-jogo-entre-palmeiras-e-santos-expoe-ascensao-de-colombianos-no-brasil.shtml"
+}

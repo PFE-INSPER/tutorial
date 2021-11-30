@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 3631,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.443414,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "carros antigos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.663097,
+                "count": 1
+            },
+            {
+                "text": "modelos temáticos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.633927,
+                "count": 1
+            },
+            {
+                "text": "DANTE FORESTIERI Atua",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.615049,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Money",
+                "text": "R$ 2.000",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.949143,
+                "count": 2,
+                "confidence": 0.999989
+            },
+            {
+                "type": "Duration",
+                "text": "quatro horas",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.834006,
+                "count": 2,
+                "confidence": 0.973067
+            },
+            {
+                "type": "Date",
+                "text": "1941",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.688504,
+                "count": 1,
+                "confidence": 0.691038
+            },
+            {
+                "type": "Organization",
+                "text": "Fusca Rosa Conversível",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.679599,
+                "count": 1,
+                "confidence": 0.562857
+            },
+            {
+                "type": "Money",
+                "text": "R$ 1.500",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.672927,
+                "count": 1,
+                "confidence": 0.994404
+            },
+            {
+                "type": "Facility",
+                "text": "Kombi Hippie",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.653069,
+                "count": 1,
+                "confidence": 0.633181
+            },
+            {
+                "type": "Facility",
+                "text": "Yellow Cab",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.650209,
+                "count": 1,
+                "confidence": 0.450781
+            },
+            {
+                "type": "Duration",
+                "text": "seis meses",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.637985,
+                "count": 1,
+                "confidence": 0.808812
+            },
+            {
+                "type": "Location",
+                "text": "São Caetano do Sul",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.620905,
+                "count": 1,
+                "confidence": 0.53156
+            },
+            {
+                "type": "Date",
+                "text": "99987-0081",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.61706,
+                "count": 1,
+                "confidence": 0.471215
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Automóvel",
+                "relevance": 0.989211,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Automóvel"
+            },
+            {
+                "text": "Veículo",
+                "relevance": 0.951751,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Veículo"
+            },
+            {
+                "text": "Chevrolet",
+                "relevance": 0.868251,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Chevrolet"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.995497,
+                "label": "/automotive and vehicles/cars"
+            },
+            {
+                "score": 0.969639,
+                "label": "/automotive and vehicles/cars/performance vehicles"
+            },
+            {
+                "score": 0.958885,
+                "label": "/automotive and vehicles/cars/car culture"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.8277006666666665
+    },
+    "text": "LUIZA WOLF COLABORAÇÃO PARA A sãopaulo  Para que tudo seja perfeito do início ao fim no grande dia, empresas especializadas oferecem diferentes opções de automóveis. De carros antigos a motos modernas, passando por modelos temáticos, tudo para garantir que os noivos tenham chegada e saída triunfais, qualquer que seja o estilo do casamento.  Confira sugestões de lojas de aluguel de automóveis que a sãopaulo preparou.    -  CARRO DE CENA A empresa oferece 20 carros para aluguel de casamentos. Opções como o Cadillac 1941, que custa a partir de R$ 2.000, e o Fusca Rosa Conversível que custa a partir de R$ 1.500, pelo mesmo período de tempo, são as opções mais procuradas. Há ainda outros carros temáticos como a Kombi Hippie e o Yellow Cab, típico taxi nova-iorquino. A reserva deve ser feita com seis meses de antecedência.  carrodecena.com.br. Al. Terracota, 185, cj. 15/16, Cerâmica, São Caetano do Sul, tel. 99987-0081. Ter. a sex.: 9h às 19h. Sáb.: 9h às 16h. CC: V, M, E, D. Estac. a partir de R$ 7. Atendimento somente com hora marcada.  *  DANTE FORESTIERI Atua há 30 anos no ramo e possui automóveis antigos, clássicos, esportivos, modernos, limousines e até moto, como Vespa e Lambreta. O aluguel para casamentos varia de R$ 400 a R$ 1.400, com uma média de quatro horas de festa. Se o pagamento for à vista, os noivos ganham uma placa personalizada, com os nomes e a data da cerimônia, para enfeitar o veículo. Para pagamentos parcelados, o item é cobrado e sai por R$ 70. Atende também por WhatsApp (99984-6303).  danteforestieri.com.br. R. Magalhães de Araújo, 38, Jardim Guedala, região oeste, tel. 99780-3007. Sáb.: 10h às 14h.  *  PARIS VEGAS Antiga Pontual Classic, a empresa mudou recentemente de nome, mas continua atuando no ramo de transportes para eventos e traslados especiais. A frota tem veículos que são queridinhos dos noivos, como a limousine Hummer, que comporta 16 passageiros e tem três televisores, e a limousine Land Rover Discovery, que acomoda 15 pessoas e tem bar. Os preços variam de R$ 2.000 a R$ 10 mil, por quatro horas.  parisvegas.com.br. R. Canário, 674, Moema, região sul, tel. 4306-3076. Seg. a sáb.: 9h às 18h. CC: V, M, AE, E, D.  *  RAFAEL SIBIONI A companhia é especializada em aluguel de carros especiais para eventos e conta com modelos antigos e raros e outros modernos. No portfólio, os preferidos entre as noivas são os vintages Chevrolet Fleetmaster 1947 e o Ford 1929 e o modeno Chrysler 300c, de 2014. Os preços saem na faixa de R$ 600 a R$ 1.800. O valor pode variar conforme o local da festa.  rafaelsibioni.com.br. R. Sílvio de Sousa, 434, Vila Santa Clara, região leste, tel. 2768-6407. Seg. a qua. e sex.: 8h às 18h. Sáb. e dom.: 8h às 17h. CC: todos. Estac. (grátis). Atendimento somente com hora marcada.  *  RICHCARS Oferece carros para aluguel. Os 18 modelos de frota própria passeiam por marcas antigas, modernas e blindadas. O automóvel mais pedido entre os antigos é o Packard, que sai por R$ 1.450. Já entre os modernos, a Mercedes e o Jaguar, que custam a partir de 1.000, são bastante solicitados pelas noivas. Oferece quatro diferentes opções de serviços que variam de R$ 800 a R$ 2.500: normal, completo e super completo (que inclui transfer de aeroporto). Pede cinco meses de antecedência para reserva.  richcars.com.br. R. Mte. Alegre, 428, Perdizes, região oeste, tel. 3865-4426. Seg. a sex.: 10h às 19h. Sáb.: 10h às 16h. CC: todos. Valet a partir de R$ 5. Atendimento somente com hora marcada.  -  Variação cambial - Veja os preços de aluguéis de modelos modernos, vintages e limusines, para chegar na cerimônia com estilo  infográfico  infográfico",
+    "title": "5 empresas de aluguel de carros oferecem modelos variados de transporte",
+    "category": "o-melhor-de-sao-paulo",
+    "data": "2017-03-18",
+    "link": "http://www1.folha.uol.com.br/o-melhor-de-sao-paulo/noivas-e-casamentos/2017/03/1866774-5-empresas-de-aluguel-de-carros-oferecem-modelos-variados-de-transporte.shtml"
+}

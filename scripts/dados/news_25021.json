@@ -1,0 +1,189 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 2859,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.274184,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "Falta de persistência",
+                "sentiment": {
+                    "score": -0.461403,
+                    "label": "negative"
+                },
+                "relevance": 0.669037,
+                "count": 2
+            },
+            {
+                "text": "profunda escassez de habilidades",
+                "sentiment": {
+                    "score": -0.833711,
+                    "label": "negative"
+                },
+                "relevance": 0.646551,
+                "count": 1
+            },
+            {
+                "text": "ensino superior",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.577386,
+                "count": 2
+            }
+        ],
+        "entities": [
+            {
+                "type": "Organization",
+                "text": "CAF",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.951255,
+                "count": 3,
+                "confidence": 1.0
+            },
+            {
+                "type": "Location",
+                "text": "latino-americanos",
+                "sentiment": {
+                    "score": -0.668182,
+                    "label": "negative"
+                },
+                "relevance": 0.728824,
+                "count": 3,
+                "confidence": 0.251243
+            },
+            {
+                "type": "Organization",
+                "text": "Banco de Desenvolvimento da América Latina",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.553794,
+                "count": 1,
+                "confidence": 0.443701
+            },
+            {
+                "type": "Location",
+                "text": "São Paulo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.492163,
+                "count": 1,
+                "confidence": 0.82056
+            },
+            {
+                "type": "Percent",
+                "text": "40%",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.464042,
+                "count": 1,
+                "confidence": 0.8
+            },
+            {
+                "type": "Percent",
+                "text": "53%",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.430962,
+                "count": 1,
+                "confidence": 0.8
+            },
+            {
+                "type": "JobTitle",
+                "text": "economista",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.375739,
+                "count": 1,
+                "confidence": 0.926022
+            },
+            {
+                "type": "Person",
+                "text": "Dolores de la Mata",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.372765,
+                "count": 1,
+                "confidence": 0.34296
+            },
+            {
+                "type": "JobTitle",
+                "text": "coordenadores",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.367694,
+                "count": 1,
+                "confidence": 0.92647
+            },
+            {
+                "type": "Facility",
+                "text": "Insper-",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.350653,
+                "count": 1,
+                "confidence": 0.800728
+            }
+        ],
+        "concepts": [
+            {
+                "text": "São Paulo",
+                "relevance": 0.992271,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Ensino superior",
+                "relevance": 0.984395,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Ensino_superior"
+            },
+            {
+                "text": "América Latina",
+                "relevance": 0.946318,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/América_Latina"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.998616,
+                "label": "/education/homework and study tips"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.62941
+    },
+    "text": "Os brasileiros e os vizinhos latino-americanos sofrem de profunda escassez de habilidades valorizadas no mercado de trabalho, como a capacidade de fazer contas e de persistir em tarefas.  É o que mostra estudo do CAF (Banco de Desenvolvimento da América Latina) que mensurou o grau de desenvolvimento das características que contribuem para o sucesso individual e o crescimento econômico entre os trabalhadores da região.  Falta de persistência explica queda de desempenho durante realização do Pisa - Respostas corretas, em % do total  A pesquisa, feita em dez cidades, incluindo São Paulo, revela que, mesmo entre aqueles com ensino superior, a capacidade de fazer contas simples -que tem grande efeito sobre salários- é limitada.  Só 40% dos paulistanos com curso superior conseguem calcular quanto um artigo que custa 2/3 de seu preço original valia inicialmente. Na média da região, o nível de acerto foi de 53% entre indivíduos com ensino superior.  Um artigo que hoje custa 2/3 do preço inicial valia quanto originalmente  \"Esses resultados mostram que o problema de acumulação de habilidades é generalizado, embora seja mais sério para indivíduos com menor nível socioeconômico\", diz a economista Dolores de la Mata, uma das coordenadores do estudo do CAF.  A pesquisa -que será apresentada nesta segunda (20) no Insper- busca avaliar três conjuntos de habilidades. Um deles -no qual a capacidade de fazer contas está incluída- abrange as habilidades cognitivas, associadas ao conceito de inteligência.  O outro cobre as chamadas competências socioemocionais, que são características pessoais como perseverança, empatia e a capacidade de se recuperar de problemas.  Um terceiro grupo inclui o desenvolvimento físico, que está muito ligado à saúde.  Se uma enfermidade afetou 10% da população, quantos em cada 100 ficaram doentes  Pesquisas realizadas para países desenvolvidos têm medido o impacto dessas habilidades na vida das pessoas.  O estudo do CAF tenta mensurar esses efeitos para a América Latina como um todo. Análises já feitas na região normalmente se restringiam a casos individuais de países. Os resultados mostram que algumas habilidades têm grande impacto na renda dos latino-americanos.  Profissionais com habilidades numéricas um \"degrau\" (ou desvio padrão) acima da média têm salários 8,4% maiores. O cálculo desconta os efeitos de outros fatores como gênero, escolaridade e nível socioeconômico.  Cálculo de um desconto de preço de 50%  Em segundo na lista das habilidades com impacto sobre a renda vem a tolerância ao risco (7,5% a mais para cada \"degrau\" acima da média) e, depois, as habilidades físicas (5,9%). Em quarto, a persistência (5,4%), característica também escassa entre brasileiros e latino-americanos.  Falta de persistência explica queda de desempenho durante realização do Pisa - Respostas corretas, em % do total",
+    "title": "Dificuldade em persistir em tarefas e fazer contas limita salário no Brasil",
+    "category": "mercado",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/mercado/2017/03/1867789-dificuldade-em-persistir-em-tarefas-e-fazer-contas-limita-salario-no-brasil.shtml"
+}

@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 1997,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.714957,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "pedicure 12h Esfoliação",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.767271,
+                "count": 1
+            },
+            {
+                "text": "salão Marcos Proença",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.647456,
+                "count": 1
+            },
+            {
+                "text": "HORA DA PRODUÇÃO Salões",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.643229,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Person",
+                "text": "Nadia Tabasco",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.949402,
+                "count": 1,
+                "confidence": 0.851986
+            },
+            {
+                "type": "Facility",
+                "text": "salão Marcos Proença",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.940528,
+                "count": 1,
+                "confidence": 0.652163
+            },
+            {
+                "type": "Person",
+                "text": "Alex Cardoso",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.871742,
+                "count": 1,
+                "confidence": 0.998246
+            },
+            {
+                "type": "Facility",
+                "text": "Atelier de Beauté",
+                "sentiment": {
+                    "score": 0.69158,
+                    "label": "positive"
+                },
+                "relevance": 0.805959,
+                "count": 1,
+                "confidence": 0.643924
+            },
+            {
+                "type": "JobTitle",
+                "text": "maquiadora",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.685575,
+                "count": 1,
+                "confidence": 0.892776
+            },
+            {
+                "type": "Date",
+                "text": "UMA SEMANA",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.596305,
+                "count": 1,
+                "confidence": 0.464694
+            },
+            {
+                "type": "Time",
+                "text": "13h Almoço 14h",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.515712,
+                "count": 1,
+                "confidence": 0.388956
+            },
+            {
+                "type": "Time",
+                "text": "15h Massagem 16h",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.491787,
+                "count": 1,
+                "confidence": 0.394792
+            },
+            {
+                "type": "Person",
+                "text": "Camila",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.381207,
+                "count": 1,
+                "confidence": 0.999175
+            },
+            {
+                "type": "Time",
+                "text": "17h",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.24501,
+                "count": 1,
+                "confidence": 0.53244
+            }
+        ],
+        "concepts": [
+            {
+                "text": "São Paulo",
+                "relevance": 0.976516,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Barba",
+                "relevance": 0.900522,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Barba"
+            },
+            {
+                "text": "Cabelo",
+                "relevance": 0.863984,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Cabelo"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.980657,
+                "label": "/style and fashion/beauty/hair care"
+            },
+            {
+                "score": 0.95379,
+                "label": "/style and fashion/beauty/cosmetics/eyeshadow"
+            },
+            {
+                "score": 0.770547,
+                "label": "/society/social institution"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.708024
+    },
+    "text": "HELOISA NEGRÃO DE SÃO PAULO  Maquiagem de noiva é mais qualidade do que modismos (afinal, ninguém quer ver um look datado no álbum de casamento). Por isso, o olho esfumado com tons de marrom, a pele perfeita e o batom suave são tidos como clássicos das noivas.  Os iluminadores têm aparecido cada vez mais. Para a maquiadora Nadia Tabasco, do salão Marcos Proença a pele iluminada é uma das principais característica das noivas, pois \"consegue transmitir a felicidade interior, a luminosidade!\", diz.    Para Alex Cardoso, os cílios postiços e os fixadores completam o kit básico para noivas.  Essas regras também podem ser quebradas, segundo Camila, do Atelier de Beauté. \"O casamento é o dia que a cliente tem que se achar mais bonita, e temos de seguir o que ela gosta. Isso parece meio óbvio, mas durante muito tempo existiu um modelo de maquiagem e penteado de noiva, que todo mundo tinha que fazer igual. Hoje isso é mais livre\", afirma.  -  HORA DA PRODUÇÃO Salões e barbearias oferecem cuidados para as noivas e noivos. Confira agenda de preparação para o grande dia:  NOIVO UMA SEMANA ANTES Limpeza de pele e corte de cabelo  DIA DA FESTA 11h Manicure e pedicure 12h Esfoliação e hidratação corporal (seguido de ducha) 13h Almoço 14h Limpeza dos pelos faciais 15h Massagem 16h Barba com toalha quente e reflexologia nos pés 17h Penteado  DICA Os noivos também podem levar amigos e padrinhos. Barbearias oferecem cerveja  *  NOIVA 15 DIAS ANTES A noiva vai ao salão para fazer as provas de penteado e make. Também limpeza de pele e depilação da sobrancelha  DIA DA FESTA 11h Chegada da noiva ao salão 11h30 Massagem no corpo e máscara de hidratação 13h Almoço no salão 14h Banho de banheira 14h30 Preparação de penteado + manicure e pedicure 15h30 Maquiagem 16h30 Finalização do penteado 17h30 Profissional acompanha a hora de colocar o vestido 18h Deixa o salão e segue para o casamento  DICA Elas podem levar a mãe e as madrinhas para se arrumarem juntas (salões aceitam até dez pessoas)",
+    "title": "Maquiadores indicam produtos que não podem faltar no make de casamento",
+    "category": "o-melhor-de-sao-paulo",
+    "data": "2017-03-18",
+    "link": "http://www1.folha.uol.com.br/o-melhor-de-sao-paulo/noivas-e-casamentos/2017/03/1867208-maquiadores-indicam-produtos-que-nao-podem-faltar-no-make-de-casamento.shtml"
+}

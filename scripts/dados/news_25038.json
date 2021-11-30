@@ -1,0 +1,215 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 2993,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.619594,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "grandes volumes existente",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.621563,
+                "count": 1
+            },
+            {
+                "text": "revenda de artigos de luxo",
+                "sentiment": {
+                    "score": 0.653889,
+                    "label": "positive"
+                },
+                "relevance": 0.605791,
+                "count": 1
+            },
+            {
+                "text": "mercado de massa",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.59079,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Organization",
+                "text": "LVMH",
+                "sentiment": {
+                    "score": 0.586643,
+                    "label": "positive"
+                },
+                "relevance": 0.950395,
+                "disambiguation": {
+                    "subtype": [
+                        "Company"
+                    ],
+                    "name": "LVMH",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/LVMH"
+                },
+                "count": 1,
+                "confidence": 0.957908
+            },
+            {
+                "type": "Person",
+                "text": "Kering",
+                "sentiment": {
+                    "score": 0.586643,
+                    "label": "positive"
+                },
+                "relevance": 0.948294,
+                "count": 1,
+                "confidence": 0.784221
+            },
+            {
+                "type": "Facility",
+                "text": "clínicas de estética",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.806399,
+                "count": 1,
+                "confidence": 0.223644
+            },
+            {
+                "type": "JobTitle",
+                "text": "empreendedor",
+                "sentiment": {
+                    "score": 0.586643,
+                    "label": "positive"
+                },
+                "relevance": 0.666347,
+                "count": 1,
+                "confidence": 0.814333
+            },
+            {
+                "type": "Location",
+                "text": "França",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.396972,
+                "disambiguation": {
+                    "subtype": [
+                        "Region",
+                        "AdministrativeDivision",
+                        "Country",
+                        "GovernmentalJurisdiction",
+                        "FilmDirector"
+                    ],
+                    "name": "França",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/França"
+                },
+                "count": 1,
+                "confidence": 0.971911
+            },
+            {
+                "type": "Duration",
+                "text": "cem anos",
+                "sentiment": {
+                    "score": -0.436476,
+                    "label": "negative"
+                },
+                "relevance": 0.346866,
+                "count": 1,
+                "confidence": 0.683782
+            },
+            {
+                "type": "Ordinal",
+                "text": "segunda",
+                "sentiment": {
+                    "score": 0.653889,
+                    "label": "positive"
+                },
+                "relevance": 0.307864,
+                "count": 1,
+                "confidence": 0.9572
+            },
+            {
+                "type": "JobTitle",
+                "text": "criador",
+                "sentiment": {
+                    "score": 0.595782,
+                    "label": "positive"
+                },
+                "relevance": 0.301907,
+                "count": 1,
+                "confidence": 0.973785
+            },
+            {
+                "type": "Number",
+                "text": "um",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.098192,
+                "count": 1,
+                "confidence": 0.8
+            },
+            {
+                "type": "Date",
+                "text": "hoje",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.061838,
+                "count": 1,
+                "confidence": 0.834988
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Estratégia",
+                "relevance": 0.953141,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Estratégia"
+            },
+            {
+                "text": "Marketing",
+                "relevance": 0.946814,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Marketing"
+            },
+            {
+                "text": "Preço",
+                "relevance": 0.926706,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Preço"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.903806,
+                "label": "/style and fashion/luxury goods"
+            },
+            {
+                "score": 0.84008,
+                "label": "/business and industrial/advertising and marketing/brand management"
+            },
+            {
+                "score": 0.786718,
+                "label": "/automotive and vehicles/vehicle brands"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Esquerda",
+        "confidence": 0.514742
+    },
+    "text": "Grandes grupos empresariais do setor de luxo, como LVMH ou Kering, nasceram a partir das boas ideias de um empreendedor somadas a sua habilidade.  As categorias mais tradicionais dentro do segmento são, em ordem de faturamento: roupas e sapatos; artigos feitos de couro; perfumes e produtos de beleza; joias e relógios; bebidas alcoólicas e acessórios. Um novo talento com criatividade pode operar nessas áreas, por exemplo, com uma cachaça especial. Existem muitas possibilidades, como revenda de artigos de luxo de segunda mão e serviços de hotelaria e restaurantes.  As atividades relacionados ao bem-estar estão em ascensão: clínicas de estética, serviços de beleza, alimentação e academias —esqueça as salas de musculação apinhadas de gente. Há uma tendência do luxo ser cada vez menos ostentação e mais sensação.  Esse setor favorece as pequenas e médias empresas por uma série de fatores. A estrutura administrativa pode ser enxuta: uma empresa de perfumes de luxo da França possui apenas um funcionário registrado. A demanda em grandes volumes existente no mercado de massa não é desejável no segmento de luxo: quanto mais caro e exclusivo for o produto, menor será a quantidade ofertada e vendida. Não há o interesse de expandir a oferta indefinidamente.  Sempre há um nicho a ser explorado que não poderá ser atendido na filosofia de marketing de uma grande companhia —que tende a estabelecer patamares de crescimento como meta, atender a esta demanda e perder a personalização do contato com seu cliente. O desenvolvimento do produto é baseado no gênio do criador, mas não basta ter uma boa ideia, é preciso saber gerenciá-la.  Luxo, moda e premium não são sinônimos, pois refletem, na verdade, estratégias diferentes. Embora muitos usem a palavra luxo apenas como um adjetivo ou argumento de venda, existe um conceito a ser respeitado. Se as regras da estratégia de luxo não forem seguidas, há risco de diluição da marca e migração para um nível de prestígio diferente no decorrer do tempo.  Se o seu intuito é estar no luxo, não vulgarize sua marca e planeje a escassez do seu produto. Esse mercado é dinâmico: o que era luxo há cem anos não necessariamente é hoje. Em outras palavras, a categoria se modifica com o passar do tempo.  Ter um conjunto de jantar completo de porcelana já foi um luxo. Hoje o status está na marca das peças.  Valorize o conhecimento embutido no consumo do produto. Não é o preço que faz o bom vinho, mas, sim, saber escolher a matéria prima e produzir.  Por fim, o luxo não é para todos. Existe um componente de diferenciação e singularidade do produto.  Se o consumidor estiver estabelecendo uma relação de custo-benefício, é um sinal de que a marca está na estratégia premium, e não de luxo. O luxo tende a ser atemporal, um sonho. Dentro dele existem níveis diferentes percebidos pelo consumidor. Qualquer lugar dentro deste \"continuum\" é um ótimo lugar para montar um negócio.  SUZANE STREHLAU é doutora em marketing e especialista em luxo da ESPM",
+    "title": "Tendência é luxo ser menos ostentação e mais sensação",
+    "category": "mercado",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/mercado/2017/03/1867456-tendencia-e-luxo-ser-menos-ostentacao-e-mais-sensacao.shtml"
+}

@@ -1,0 +1,208 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 3088,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.31341,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "governo de turno",
+                "sentiment": {
+                    "score": 0.745097,
+                    "label": "positive"
+                },
+                "relevance": 0.600992,
+                "count": 2
+            },
+            {
+                "text": "Pesquisa do ano passado",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.592312,
+                "count": 1
+            },
+            {
+                "text": "Moral da história",
+                "sentiment": {
+                    "score": -0.594952,
+                    "label": "negative"
+                },
+                "relevance": 0.588235,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Location",
+                "text": "holandeses",
+                "sentiment": {
+                    "score": 0.912122,
+                    "label": "positive"
+                },
+                "relevance": 0.949613,
+                "count": 2,
+                "confidence": 0.861466
+            },
+            {
+                "type": "Location",
+                "text": "Holanda",
+                "sentiment": {
+                    "score": -0.290258,
+                    "label": "negative"
+                },
+                "relevance": 0.753442,
+                "disambiguation": {
+                    "subtype": [
+                        "HumanLanguage",
+                        "AdministrativeDivision",
+                        "Country",
+                        "GovernmentalJurisdiction",
+                        "Kingdom"
+                    ],
+                    "name": "Países_Baixos",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/Países_Baixos"
+                },
+                "count": 3,
+                "confidence": 0.999991
+            },
+            {
+                "type": "Organization",
+                "text": "jornal digital \"Dutch News",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.728856,
+                "count": 1,
+                "confidence": 0.289846
+            },
+            {
+                "type": "Organization",
+                "text": "KLM",
+                "sentiment": {
+                    "score": -0.392955,
+                    "label": "negative"
+                },
+                "relevance": 0.704099,
+                "count": 1,
+                "confidence": 0.980562
+            },
+            {
+                "type": "Duration",
+                "text": "por semana",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.642809,
+                "count": 1,
+                "confidence": 0.311212
+            },
+            {
+                "type": "Date",
+                "text": "ano passado",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.619061,
+                "count": 1,
+                "confidence": 0.830755
+            },
+            {
+                "type": "Organization",
+                "text": "governo",
+                "sentiment": {
+                    "score": 0.745097,
+                    "label": "positive"
+                },
+                "relevance": 0.606514,
+                "count": 3,
+                "confidence": 0.999573
+            },
+            {
+                "type": "Person",
+                "text": "Mark Rutte",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.524604,
+                "count": 1,
+                "confidence": 0.923587
+            },
+            {
+                "type": "Location",
+                "text": "Amsterdã",
+                "sentiment": {
+                    "score": -0.392955,
+                    "label": "negative"
+                },
+                "relevance": 0.482558,
+                "count": 1,
+                "confidence": 0.992254
+            },
+            {
+                "type": "Date",
+                "text": "pleito anterior (2012",
+                "sentiment": {
+                    "score": 0.912122,
+                    "label": "positive"
+                },
+                "relevance": 0.469694,
+                "count": 1,
+                "confidence": 0.184293
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Eleição",
+                "relevance": 0.991729,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Eleição"
+            },
+            {
+                "text": "Nicolas Sarkozy",
+                "relevance": 0.983065,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Nicolas_Sarkozy"
+            },
+            {
+                "text": "Democracia",
+                "relevance": 0.935497,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Democracia"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.919483,
+                "label": "/law, govt and politics"
+            },
+            {
+                "score": 0.918386,
+                "label": "/society/work/unemployment"
+            },
+            {
+                "score": 0.777867,
+                "label": "/law, govt and politics/politics/political parties"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 2.3266423124999998
+    },
+    "text": "No dia da eleição na Holanda (quarta, 15), o jornal digital \"Dutch News\" publicou o texto \"12 motivos para gostar da Holanda\".  Eu, que já gostava antes, quase liguei imediatamente para a KLM para reservar uma passagem para Amsterdã.  Em resumo, a economia vai muito bem, o desemprego é quase residual, mesmo entre os jovens (que, no resto da Europa, sofrem com falta de oportunidades), cada vez mais mulheres estão na força de trabalho, a criminalidade, já reduzida, caiu mais (só dois assassinatos por semana em 2016).  Consequência inexorável: \"Os holandeses estão entre os povos mais felizes do mundo. Pesquisa do ano passado mostrou que 9 de cada 10 adolescentes [tribo inclinada às dúvidas existenciais] estão satisfeitos com a vida. E os adultos também têm sentimentos muito positivos\".  Nesse paraíso, é óbvio que o governo de turno —que geralmente é crucificado ou beatificado conforme as coisas vão mal ou vão bem no país— deveria ter dado um passeio nas urnas, certo?  Errado. É verdade que o principal partido da coligação governista, o do primeiro-ministro Mark Rutte, conquistou o primeiro lugar nas eleições, brecando a temida ascensão da extrema direita.  Mas, entre esse partido e seu sócio de governo, o Trabalhista, a perda foi brutal: 37 das 79 cadeiras do Parlamento que haviam conseguido no pleito anterior (2012).  Parece um sinal evidente de que os holandeses não estão tão felizes com o governo de turno, por mais que tenham motivos para estar felizes com o país em que vivem.  Não é um fenômeno apenas holandês, mas um problema generalizado, do qual também não escapa o Brasil. Prova-o a avassaladora impopularidade do presidente atual e de sua antecessora.  Na França, por falar nisso, é a mesma coisa: o presidente de turno, François Hollande, e seu antecessor, Nicolas Sarkozy, nem sequer conseguiram se candidatar para o pleito do mês de abril.  Sarkozy nem foi ao segundo turno nas primárias da direita francesa. Hollande desistiu de concorrer porque percebeu que seria massacrado se tentasse a reeleição.  Moral da história: há uma nítida crise global do sistema partidário. Não da democracia em si, que, conforme todas as pesquisas conhecidas, continua sendo o que dela dizia Winston Churchill: o pior dos regimes, fora todos os outros.  A crise é da maneira como a democracia está funcionando. Parece evidente que os representados (o eleitorado) não se sentem atendidos pelos representantes (parlamentares, governadores, presidentes, primeiros-ministros, o que for).  É essa sensação de orfandade que permitiu, no exemplo mais gritante, a eleição de Donald Trump.  É urgente que os democratas do mundo todo, de quaisquer matizes, façam uma análise profunda do que está ocorrendo, sob pena de a democracia viver de susto em susto, como aconteceu na Holanda agora e pode se repetir na França.  Se eu pudesse palpitar, diria o que escreveu Béatrice Delvaux, editorialista-chefe do belga \"Le Soir\": \"Se se quer lutar contra os partidos que alimentam o ódio, é preciso partidos que alimentem o imaginário e os sonhos\".  Vale para a Europa, vale para o Brasil.",
+    "title": "A democracia precisa de um divã",
+    "category": "colunas",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/colunas/clovisrossi/2017/03/1867813-a-democracia-precisa-de-um-diva.shtml"
+}

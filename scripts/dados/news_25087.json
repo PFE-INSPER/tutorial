@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 2252,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0,
+                "label": "neutral"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "delação de Alexandrino Alencar",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.740586,
+                "count": 1
+            },
+            {
+                "text": "advogado de Lula",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.623209,
+                "count": 2
+            },
+            {
+                "text": "José Ferreira da Silva",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.620629,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Organization",
+                "text": "Odebrecht",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.9531,
+                "count": 5,
+                "confidence": 0.999999
+            },
+            {
+                "type": "JobTitle",
+                "text": "presidente",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.492931,
+                "count": 6,
+                "confidence": 0.999978
+            },
+            {
+                "type": "Person",
+                "text": "Frei Chico",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.487991,
+                "count": 3,
+                "confidence": 0.999622
+            },
+            {
+                "type": "Person",
+                "text": "Lula",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.366911,
+                "count": 6,
+                "confidence": 1
+            },
+            {
+                "type": "Money",
+                "text": "R$ 5.000",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.36201,
+                "count": 1,
+                "confidence": 0.997626
+            },
+            {
+                "type": "Person",
+                "text": "Luiz Inácio Lula da Silva",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.355471,
+                "count": 1,
+                "confidence": 0.741859
+            },
+            {
+                "type": "Duration",
+                "text": "dez anos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.351216,
+                "count": 1,
+                "confidence": 0.61672
+            },
+            {
+                "type": "Date",
+                "text": "desta semana",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.341209,
+                "count": 1,
+                "confidence": 0.489059
+            },
+            {
+                "type": "Person",
+                "text": "Alencar",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.338485,
+                "count": 3,
+                "confidence": 1
+            },
+            {
+                "type": "Person",
+                "text": "Alexandrino Alencar",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.333107,
+                "count": 1,
+                "confidence": 0.997194
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Luiz Inácio Lula da Silva",
+                "relevance": 0.992444,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Luiz_Inácio_Lula_da_Silva"
+            },
+            {
+                "text": "Veja",
+                "relevance": 0.959076,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Veja"
+            },
+            {
+                "text": "Marisa Letícia Lula da Silva",
+                "relevance": 0.910711,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Marisa_Letícia_Lula_da_Silva"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.679666,
+                "label": "/law, govt and politics"
+            },
+            {
+                "score": 0.602269,
+                "label": "/law, govt and politics/government/government contracting and procurement"
+            },
+            {
+                "score": 0.596798,
+                "label": "/society/crime/personal offense"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.6767669999999999
+    },
+    "text": "A Odebrecht pagou mesada de R$ 5.000 a um irmão do ex-presidente Luiz Inácio Lula da Silva por mais de dez anos a pedido do petista, segundo reportagem da revista \"Veja\" desta semana.  A informação constaria da delação de Alexandrino Alencar, ex-diretor de relações institucionais da Odebrecht.  Segundo Alencar, a empreiteira repassou o dinheiro a José Ferreira da Silva, conhecido como Frei Chico, ao longo dos dois governos do petista (2003 a 2010). A mesada teria sido interrompida quando executivos da empreiteira foram presos.  A reportagem não especifica as datas.  José Roberto Batochio, advogado de Lula, afirmou que \"o ex-presidente jamais solicitou nem sequer teve conhecimento de qualquer espécie de favorecimento a pessoas de seu círculo familiar, social ou partidário\".  O episódio, se confirmado, se soma a outras acusações de envolvimento da família de Lula com esquemas na Odebrecht. O ex-presidente é réu em cinco ações por denúncias de corrupção e participação em organização criminosa, entre outras.  O petista nega as acusações e aponta perseguição política nos processos judiciais.  Uma das ações penais envolve o sobrinho de uma ex-mulher de Lula, Taiguara Rodrigues. Ele teria recebido R$ 30 milhões da Odebrecht em troca da atuação do ex-presidente em favor da empreiteira em Angola.  Parte desse montante teria sido destinada a gastos pessoais de Frei Chico. Alencar, porém, afirmou que a soma era maior, conforme a \"Veja\" –a mesada ao irmão do ex-presidente não estava incluída nessa conta, de acordo com a colaboração premiada.  Também a mulher do ex-presidente, Marisa Letícia, que morreu em fevereiro, foi envolvida em acusações. Alencar afirmou que ela pediu dinheiro da Odebrecht para reformar um sítio em Atibaia (SP) frequentado pela família.  A obra também teria tido atuação da OAS. Lula nega que seja dono do sítio.  OUTRO LADO  O advogado de Lula afirmou que a suposta mesada a Frei Chico é uma \"deslavada falácia, como tantas outras lançadas por pessoas presas ou encalacradas na Justiça e que querem trocar mentiras por favores e benefícios penais em juízo\".  \"É a era da pós-verdade, das 'fake news'\", disse Batochio. A assessoria de Lula afirmou que ele \"agiu dentro da lei antes, durante e depois\" do governo.",
+    "title": "Odebrecht pagou mesada a irmão de Lula, diz revista",
+    "category": "poder",
+    "data": "2017-03-18",
+    "link": "http://www1.folha.uol.com.br/poder/2017/03/1867784-odebrecht-pagou-mesada-a-irmao-de-lula-diz-revista.shtml"
+}

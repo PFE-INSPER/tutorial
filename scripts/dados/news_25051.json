@@ -1,0 +1,199 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 1961,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.316757,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "caixa de botox",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.77089,
+                "count": 1
+            },
+            {
+                "text": "lista do Janot",
+                "sentiment": {
+                    "score": -0.666644,
+                    "label": "negative"
+                },
+                "relevance": 0.730443,
+                "count": 3
+            },
+            {
+                "text": "Pato da Fiesp",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.643983,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Person",
+                "text": "Janot",
+                "sentiment": {
+                    "score": 0.352132,
+                    "mixed": "1",
+                    "label": "positive"
+                },
+                "relevance": 0.951916,
+                "count": 5,
+                "confidence": 0.9889
+            },
+            {
+                "type": "Organization",
+                "text": "Lava Jato",
+                "sentiment": {
+                    "score": -0.832606,
+                    "label": "negative"
+                },
+                "relevance": 0.419579,
+                "count": 2,
+                "confidence": 0.895552
+            },
+            {
+                "type": "Person",
+                "text": "Macaco Simão Urgente",
+                "sentiment": {
+                    "score": -0.863969,
+                    "label": "negative"
+                },
+                "relevance": 0.323607,
+                "count": 1,
+                "confidence": 0.379183
+            },
+            {
+                "type": "Date",
+                "text": "Bafão da Semana",
+                "sentiment": {
+                    "score": 0.566238,
+                    "label": "positive"
+                },
+                "relevance": 0.315161,
+                "count": 1,
+                "confidence": 0.286974
+            },
+            {
+                "type": "Person",
+                "text": "Skaf",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.301304,
+                "count": 2,
+                "confidence": 0.949299
+            },
+            {
+                "type": "Person",
+                "text": "Lula",
+                "sentiment": {
+                    "score": -0.666644,
+                    "label": "negative"
+                },
+                "relevance": 0.253921,
+                "count": 2,
+                "confidence": 0.999991
+            },
+            {
+                "type": "Person",
+                "text": "Dilma",
+                "sentiment": {
+                    "score": -0.253263,
+                    "mixed": "1",
+                    "label": "negative"
+                },
+                "relevance": 0.221242,
+                "count": 2,
+                "confidence": 0.999975
+            },
+            {
+                "type": "Person",
+                "text": "Marta Martox",
+                "sentiment": {
+                    "score": -0.862589,
+                    "label": "negative"
+                },
+                "relevance": 0.205067,
+                "count": 1,
+                "confidence": 0.962964
+            },
+            {
+                "type": "Person",
+                "text": "Louis Vuitton",
+                "sentiment": {
+                    "score": -0.625562,
+                    "label": "negative"
+                },
+                "relevance": 0.190446,
+                "count": 1,
+                "confidence": 0.332774
+            },
+            {
+                "type": "JobTitle",
+                "text": "ministros",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.19002,
+                "count": 1,
+                "confidence": 0.840209
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Ministro",
+                "relevance": 0.951497,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Ministro"
+            },
+            {
+                "text": "Sport Club Corinthians Paulista",
+                "relevance": 0.846444,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Sport_Club_Corinthians_Paulista"
+            },
+            {
+                "text": "Arena Corinthians",
+                "relevance": 0.815515,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Arena_Corinthians"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.608472,
+                "label": "/law, govt and politics/government"
+            },
+            {
+                "score": 0.603427,
+                "label": "/law, govt and politics/government/heads of state"
+            },
+            {
+                "score": 0.546106,
+                "label": "/society/unrest and war"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Esquerda",
+        "confidence": 0.5408810000000001
+    },
+    "text": "Buemba! Buemba! Macaco Simão Urgente! O esculhambador-geral da República!  Bafão da Semana! A lista do Janot. A lista do Janot não é uma lista, é excesso de bagagem: \"Seis ministros, deputados, senadores, Lula e Dilma\". A lista dos honestos!  Rarará!  Se fiofó piscando gerasse energia, hoje Brasília seria autossustentável.  Desativa Itaipu! Itaicu piscando! O do Temer tá piscando mais que luzinha de Natal!  Lista do Janot! Lula e Dilma não valem, figurinhas repetidas, carimbadas demais. Já tenho!  Rarará!  O Renan é hors concours, está em todas as listas. O nome já é incluído automaticamente!  O Aécio já foi comido umas vintes vezes! Já em relação estável com a Lava Jato.  A Lava Jato virou Lava Rabo, o que tem de político todo cagado!  Rarará!  E agora a lista aumentou! Marta Martox. Aí não é caixa dois, é caixa de botox. \"Caixa dois não cabe na minha bolsa Louis Vuitton.\"  Lindbergh Farias: ex-cara pintada, atual cara de pau pintada!  Andrés Sanchez! O Janot vai mexer com corintiano? Tem certeza? O Itaquerão virou Propinão, Arena Lava Jato!  Skaf. Quando o Pato da Fiesp soube que o Skaf estava na Lista de Janot se matou de desgosto. Se suicidou. DESINFLOU!  Rarará!  E o Frankstemer escolhe ministro por currículo ou folha corrida? Folha corrida! Escolhe por QI! Quantos Inquéritos? Dez! Tá nomeado!  Rarará!  E em Brasllia é assim: \"Troco três Viagras por um Vallium\". Fila de Rivotril! E diz que o Jucá agora só anda de Suruber. Ele tem o aplicativo Suruber!  Rarará!  E FGTS do povo do Congresso é Fundo de Garantia por Tempo de Safadeza! E o Serra e o Aloysio fazendo cara de honestos?  Rarará!  Eles conseguem!  E a charge do Torres com uns idosos na mesa branca: \"Seu Astrodo, o senhor está entre nós? Já saiu a sua aposentadoria, seu Astrodo\". Volta, seu Astrodo! Pra pegar a aposentadoria póstuma! Essa é a novidade da reforma: aposentadoria póstuma!  Rarará!  Nóis sofre, mas nóis goza!  Que eu vou pingar o meu colírio alucinógeno!",
+    "title": "Janot! A lista dos 93 honestos!",
+    "category": "colunas",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/colunas/josesimao/2017/03/1867781-janot-a-lista-dos-93-honestos.shtml"
+}

@@ -1,0 +1,208 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 3650,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.440873,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "autoridades europeias",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.677599,
+                "count": 1
+            },
+            {
+                "text": "pedido de esclarecimentos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.661642,
+                "count": 2
+            },
+            {
+                "text": "meio da rede social",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.63607,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Person",
+                "text": "Cravinhos",
+                "sentiment": {
+                    "score": -0.654013,
+                    "label": "negative"
+                },
+                "relevance": 0.9531,
+                "count": 5,
+                "confidence": 1
+            },
+            {
+                "type": "Organization",
+                "text": "União Europeia",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.902946,
+                "count": 4,
+                "confidence": 0.981255
+            },
+            {
+                "type": "Organization",
+                "text": "governo brasileiro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.641987,
+                "count": 2,
+                "confidence": 0.753884
+            },
+            {
+                "type": "Location",
+                "text": "Brasil",
+                "sentiment": {
+                    "score": -0.701154,
+                    "label": "negative"
+                },
+                "relevance": 0.579242,
+                "count": 7,
+                "confidence": 1
+            },
+            {
+                "type": "Organization",
+                "text": "Operação Carne Fraca",
+                "sentiment": {
+                    "score": -0.383011,
+                    "label": "negative"
+                },
+                "relevance": 0.508006,
+                "count": 2,
+                "confidence": 0.83044
+            },
+            {
+                "type": "JobTitle",
+                "text": "embaixador",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.427671,
+                "count": 3,
+                "confidence": 0.999992
+            },
+            {
+                "type": "Date",
+                "text": "segunda-feira (20",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.427469,
+                "count": 1,
+                "confidence": 0.381448
+            },
+            {
+                "type": "Person",
+                "text": "João Cravinho",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.389132,
+                "count": 1,
+                "confidence": 0.910652
+            },
+            {
+                "type": "Location",
+                "text": "União Europeia",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.364517,
+                "disambiguation": {
+                    "subtype": [
+                        "Organization",
+                        "Country",
+                        "GovernmentalJurisdiction",
+                        "MembershipOrganization",
+                        "AwardWinner"
+                    ],
+                    "name": "União_Europeia",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/União_Europeia"
+                },
+                "count": 1,
+                "confidence": 0.469413
+            },
+            {
+                "type": "Organization",
+                "text": "Polícia Federal",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.303464,
+                "count": 1,
+                "confidence": 0.779219
+            }
+        ],
+        "concepts": [
+            {
+                "text": "União Europeia",
+                "relevance": 0.992709,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/União_Europeia"
+            },
+            {
+                "text": "Agência Nacional de Vigilância Sanitária",
+                "relevance": 0.960707,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Agência_Nacional_de_Vigilância_Sanitária"
+            },
+            {
+                "text": "Vigilância Sanitária",
+                "relevance": 0.942015,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Vigilância_Sanitária"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.879355,
+                "label": "/law, govt and politics"
+            },
+            {
+                "score": 0.796564,
+                "label": "/law, govt and politics/government/government contracting and procurement"
+            },
+            {
+                "score": 0.683422,
+                "label": "/society/unrest and war"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.6466286666666667
+    },
+    "text": "A União Europeia pede que o governo brasileiro responda com urgência o pedido de esclarecimentos sobre a Operação Carne Fraca, que investiga um esquema de corrupção na fiscalização de frigoríficos no Brasil.  Na segunda-feira (20), autoridades europeias devem debater a eventual necessidade de restringir a importação de carne do Brasil. Hoje, a UE compra carne bovina e de frango do país (a entrada de carne suína é bloqueada).  \"Há urgência e a necessidade absoluta de um esclarecimento cabal\", afirmou à Folha o embaixador da União Europeia no Brasil, o português João Cravinho.  \"Se os esclarecimentos forem insuficientes, a pressão da opinião pública e nossas obrigações em relação à proteção ao consumidor podem, nesse caso, levar a medidas que tenham efeito sobre o comércio entre União Europeia e Brasil\", disse.  Os europeus querem saber se estão diante de um problema pontual ou sistêmico. Segundo Cravinhos, a depender do diagnóstico, pode haver a aplicação de medidas cautelares.  \"Uma menos drástica passaria por um controle pormenorizado de todas as importações que vêm do Brasil. Outra mais drástica seria a suspensão das importações caso a conclusão seja que não podemos confiar no sistema de certificação brasileiro\", afirmou.  Cravinhos afirmou que recebeu com surpresa as notícias sobre os achados da Polícia Federal. Os europeus fazem inspeções ocasionais e, segundo o embaixador, consideravam o sistema de fiscalização brasileiro adequado.  \"Naturalmente, aquilo que se passa nesse momento não é bom para a reputação do Brasil. Mas está inteiramente nas mãos das autoridades brasileiras fornecer todas as informações e dar a transparência necessária para que haja credibilidade no sistema\", disse.  O pedido de esclarecimentos ao governo brasileiro foi feito em nome da Direção Geral de Saúde e Proteção do Consumidor da União Europeia.  Não houve ainda pedidos diretos de membros do bloco. Cravinhos disse que imagina, contudo, que estejam todos preocupados. O Ministério da Agricultura sinalizou que irá responder à consulta ainda neste fim de semana.  ACORDO COMERCIAL  De acordo com Cravinhos, é um erro dizer que o escândalo da carne afetará as negociações entre Mercosul e União Europeia para a criação de uma área de livre comércio.  \"São duas questões inteiramente diferentes. Claro que o ambiente não fica melhor. Mas estamos negociando um acordo comercial que é de longo prazo, em que se estabelecem tarifas, cotas de importação. Um tema tem a ver com enquadramento comercial e outro com integridade do sistema de certificação\", afirmou.  \"Se as negociações funcionarem bem, mas não houver credibilidade no sistema, continuaremos na mesma. Ou seja, não pode haver importação de carne brasileira na Europa se não há confiança, independentemente de quantas cotas ou toneladas forem negociadas [no acordo]\", afirmou.  VISITA Está prevista uma visita ao Brasil na próxima semana de autoridades da Comissão Europeia da Saúde.  Cravinhos disse que a viagem já estava agendada há vários meses, mas que agora o tema da Operação Carne Fraca entrará nas discussões.  Os europeus irão se reunir com os ministros Blairo Maggi (Agricultura), Ricardo Barros (Saúde), e com representantes da Anvisa (Agência Nacional de Vigilância Sanitária).  REDE SOCIAL  No início da manhã de sábado, Cravinho já havia publicado em sua conta do Twitter que a União Europeia está \"profundamente preocupada\" sobre a possibilidade de ter sido exportada para a Europa carne estragada.  Ainda por meio da rede social, o embaixador pediu \"esclarecimentos completos e urgentes\" ao Ministério de Agricultura para que o bloco pudesse \"calibrar\" sua posição.",
+    "title": "União Europeia pede ao Brasil resposta urgente sobre operação da PF",
+    "category": "mercado",
+    "data": "2017-03-18",
+    "link": "http://www1.folha.uol.com.br/mercado/2017/03/1867815-uniao-europeia-pede-ao-brasil-resposta-urgente-sobre-operacao-da-pf.shtml"
+}

@@ -1,0 +1,193 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 2487,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.410602,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "Cálculo de um desconto de preço",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.667197,
+                "count": 1
+            },
+            {
+                "text": "habilidades cognitivas",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.608706,
+                "count": 2
+            },
+            {
+                "text": "São Paulo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.576941,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Location",
+                "text": "América Latina",
+                "sentiment": {
+                    "score": -0.463166,
+                    "label": "negative"
+                },
+                "relevance": 0.95147,
+                "count": 3,
+                "confidence": 0.998863
+            },
+            {
+                "type": "Organization",
+                "text": "CAF",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.818686,
+                "count": 3,
+                "confidence": 1.0
+            },
+            {
+                "type": "JobTitle",
+                "text": "economista",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.609593,
+                "count": 2,
+                "confidence": 0.997573
+            },
+            {
+                "type": "JobTitle",
+                "text": "auxiliar de escritório, trabalhadores de chão de fábrica e profissionais da área de limpeza",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.415872,
+                "count": 1,
+                "confidence": 0.061177
+            },
+            {
+                "type": "Percent",
+                "text": "18%",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.38117,
+                "count": 1,
+                "confidence": 0.8
+            },
+            {
+                "type": "Percent",
+                "text": "50%",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.369047,
+                "count": 1,
+                "confidence": 0.8
+            },
+            {
+                "type": "Person",
+                "text": "Naercio Menezes Filho",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.362764,
+                "count": 1,
+                "confidence": 0.956108
+            },
+            {
+                "type": "Organization",
+                "text": "Insper",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.359432,
+                "count": 1,
+                "confidence": 0.348194
+            },
+            {
+                "type": "JobTitle",
+                "text": "empreendedores",
+                "sentiment": {
+                    "score": 0.982742,
+                    "label": "positive"
+                },
+                "relevance": 0.333398,
+                "count": 1,
+                "confidence": 0.924436
+            },
+            {
+                "type": "Person",
+                "text": "Dolores de la Mata",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.29708,
+                "count": 1,
+                "confidence": 0.353559
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Educação",
+                "relevance": 0.986801,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Educação"
+            },
+            {
+                "text": "São Paulo",
+                "relevance": 0.985629,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "América Latina",
+                "relevance": 0.962123,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/América_Latina"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.991061,
+                "label": "/education/homework and study tips"
+            },
+            {
+                "score": 0.854888,
+                "label": "/society/work/unemployment"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.5979410000000001
+    },
+    "text": "A baixa qualificação dos profissionais ajuda a explicar a falta de trabalhos sofisticados na América Latina.  Estudo realizado pelo CAF, banco de desenvolvimento da região, mostra que 4 em cada 10 trabalhos em grandes cidades latino-americanas exigem baixos níveis tanto de habilidades cognitivas quanto de socioemocionais.  Estão incluídas nessa lista ocupações como auxiliar de escritório, trabalhadores de chão de fábrica e profissionais da área de limpeza.  Na outra ponta, os empregos que demandam muitas habilidades cognitivas e socioemocionais –como médicos, engenheiros e diretores- representam apenas 18% do total na América Latina.  Cálculo de um desconto de preço de 50%  Segundo o economista Naercio Menezes Filho, do Insper, a escassez de talentos entre a população ajuda a explicar essa situação.  \"Se tivéssemos jovens com melhor formação, teríamos mais empreendedores, mais inovação e, com isso, melhores empregos\", afirma.  \"Por isso, a preocupação com a educação tanto no Brasil quanto na América Latina é tão urgente\", diz.  Para a economista Dolores de la Mata, uma das responsáveis pelo estudo do CAF, o baixo nível de habilidades na população é, de fato, uma barreira à criação de empregos mais qualificados.  Mas, segundo ela, a leitura invertida da situação também é verdadeira:  \"Empregos pouco qualificados não contribuem para a acumulação de habilidades ou até deterioram as habilidades dos trabalhadores\".  Se uma enfermidade afetou 10% da população, quantos em cada 100 ficaram doentes  PRIMEIRO EMPREGO  O estudo do CAF indica que a qualidade do primeiro emprego de um jovem tem impacto sobre as habilidades que ele desenvolverá para o mercado de trabalho.  \"Indivíduos que entram no mercado pelo setor informal são menos propensos a conseguir, mais tarde, empregos que oferecem treinamento\", afirma de la Mata.  A pesquisa mostra que, além do mercado de trabalho, a escola e as famílias são cruciais para o desenvolvimento de crianças e jovens.  De acordo com Marco Gregori, dono dos colégios Anhembi-Morumbi (São Paulo) e Anchieta (São Bernardo do Campo, no ABC paulista) -que buscam desenvolver habilidades como empreendedorismo e capacidade de cooperação-, há muita resistência entre pais e, principalmente, entre professores à adoção de métodos de ensino mais inovadores.  \"Se isso continuar, a educação formal vai acabar perdendo totalmente o valor para o mercado de trabalho.\"  Um artigo que hoje custa 2/3 do preço inicial valia quanto originalmente",
+    "title": "Escassez de talentos reduz trabalho qualificado na América Latina",
+    "category": "mercado",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/mercado/2017/03/1867793-escassez-de-talentos-reduz-trabalho-qualificado.shtml"
+}

@@ -1,0 +1,208 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 4741,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.757144,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "presidente Donald Trump",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.669824,
+                "count": 1
+            },
+            {
+                "text": "presidente Michel",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.643655,
+                "count": 1
+            },
+            {
+                "text": "secretário de Estado americano",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.639455,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Person",
+                "text": "Trump",
+                "sentiment": {
+                    "score": -0.672819,
+                    "label": "negative"
+                },
+                "relevance": 0.953605,
+                "count": 13,
+                "confidence": 1
+            },
+            {
+                "type": "Facility",
+                "text": "Casa Branca",
+                "sentiment": {
+                    "score": -0.593369,
+                    "label": "negative"
+                },
+                "relevance": 0.463272,
+                "count": 4,
+                "confidence": 0.996979
+            },
+            {
+                "type": "JobTitle",
+                "text": "presidentes",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.355714,
+                "count": 4,
+                "confidence": 0.999999
+            },
+            {
+                "type": "Person",
+                "text": "Temer",
+                "sentiment": {
+                    "score": -0.593369,
+                    "label": "negative"
+                },
+                "relevance": 0.336888,
+                "count": 6,
+                "confidence": 1
+            },
+            {
+                "type": "Organization",
+                "text": "governo americano",
+                "sentiment": {
+                    "score": -0.593369,
+                    "label": "negative"
+                },
+                "relevance": 0.275547,
+                "count": 2,
+                "confidence": 0.774201
+            },
+            {
+                "type": "JobTitle",
+                "text": "presidente",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.259772,
+                "count": 4,
+                "confidence": 1.0
+            },
+            {
+                "type": "Organization",
+                "text": "Planalto",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.248965,
+                "count": 3,
+                "confidence": 0.945798
+            },
+            {
+                "type": "Location",
+                "text": "EUA",
+                "sentiment": {
+                    "score": -0.778654,
+                    "label": "negative"
+                },
+                "relevance": 0.244798,
+                "disambiguation": {
+                    "subtype": [
+                        "Region",
+                        "AdministrativeDivision",
+                        "Country",
+                        "GovernmentalJurisdiction",
+                        "FilmEditor"
+                    ],
+                    "name": "Estados_Unidos",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/Estados_Unidos"
+                },
+                "count": 6,
+                "confidence": 0.999983
+            },
+            {
+                "type": "Person",
+                "text": "José Serra",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.217211,
+                "count": 2,
+                "confidence": 0.961351
+            },
+            {
+                "type": "JobTitle",
+                "text": "chanceler",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.216546,
+                "count": 2,
+                "confidence": 0.975683
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Estados Unidos",
+                "relevance": 0.992099,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Estados_Unidos"
+            },
+            {
+                "text": "Venezuela",
+                "relevance": 0.977799,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Venezuela"
+            },
+            {
+                "text": "América Latina",
+                "relevance": 0.970772,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/América_Latina"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.679307,
+                "label": "/law, govt and politics/government"
+            },
+            {
+                "score": 0.670542,
+                "label": "/law, govt and politics/politics/foreign policy"
+            },
+            {
+                "score": 0.63581,
+                "label": "/law, govt and politics/government/heads of state"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.62494625
+    },
+    "text": "Na primeira conversa com o presidente Michel Temer desde que tomou posse nos Estados Unidos, o presidente Donald Trump disse, em telefonema na tarde deste sábado (18), que tem interesse em receber uma visita do brasileiro em Washington.  Os dois presidentes conversaram sobre a importância de \"se incentivar o respeito pelos direitos democráticos e humanitários na Venezuela\", segundo a Casa Branca. Em nota, o Planalto afirmou que a discussão sobre a crise venezuelana foi iniciativa de Trump.  Em fevereiro, o secretário de Estado americano, Rex Tillerson, havia pedido ao então chanceler José Serra, num encontro na Alemanha, que o Brasil coordenasse os esforços de nações sul-americanas para tentar achar uma saída para a crise na Venezuela.  O governo americano disse que os dois presidentes concordaram em \"trabalhar juntos para promover o crescimento econômico\" no Brasil e nos EUA e que o telefonema foi \"longo e muito frutífero\".  \"O presidente Trump enfatizou a importaria da relação bilateral com o Brasil, um dos nossos parceiros chave no Hemisfério Ocidental\", disse a assessoria da Casa Branca.  Temer teria falado ao republicano sobre a importância da expansão do comércio e do investimento para aprofundar uma agenda bilateral para o crescimento. Ele ressaltou a Trump que, na próxima semana, terá encontros com a Câmara de Comércio Brasil-EUA e com o Conselho das Américas.  Segundo o Planalto, os dois presidentes \"trocaram impressões sobre as reformas em curso no Brasil e nos EUA\", e Trump teria cumprimentado Temer \"pelos importantes resultados já alcançados\".  Ficou acertado que os dois governos vão manter contato \"regular\" e abertos os canais diretos de diálogo. \"[Ficou] estabelecido que voltariam a falar-se a qualquer momento em que se apresente questão de interesse mútuo\", diz a nota do Planalto.  Desde que assumiu, em 20 de janeiro, Trump já havia falado com os presidentes Mauricio Macri, da Argentina, e Juan Manuel Santos, da Colômbia. Em fevereiro, ele recebeu o presidente peruano Pedro Pablo Kuczynski na Casa Branca.  O governo americano havia afirmado que Trump só não havia conversado com Temer por questão de \"agenda\". Depois da posse, o interlocutor do brasileiro tinha sido o vice-presidente, Mike Pence.  Temer e Trump, no entanto, tinham se falado por telefone após a eleição do republicano, em 13 de dezembro. Naquela ocasião, acertaram que as equipes econômicas se reuniriam depois que o republicano assumisse para elaborar uma \"agenda Brasil-EUA para o crescimento\".  O governo brasileiro rechaça a ideia de que Temer tenha sido preterido entre os líderes sul-americanos após a posse, uma vez que houve uma primeira conversa quando Trump já era o presidente eleito.  Para o governo Temer, se o Brasil não estava no radar do republicano nas primeiras semanas, é porque não representa um \"problema\" para Washington. Na visão de Brasília, como o país não tem nenhum imbróglio político com os EUA, e, no comércio bilateral, o superavit é americano, o país não é uma ameaça para o protecionista Trump.  Além disso, o governo brasileiro afirma, nos bastidores, estar em compasso de espera para ver quem serão os interlocutores da administração Trump para a América Latina antes de avançar nas conversas.  No Departamento de Estado, por exemplo, ainda não há indicação de quem ocupará o posto de secretário de estado assistente para Assuntos do Hemisfério Ocidental. Desde a posse, o cargo é ocupado interinamente pelo diplomata Paco Palmieri. No Conselho de Segurança Nacional, na Casa Branca, o posto de diretor para a região está vago há um mês, desde que Craig Deare foi demitido após criticar Trump em um evento fechado do Woodrow Wilson Center, em Washington.  No último mês, houve ainda a saída de José Serra, que havia, como chanceler, conversado com Tillerson durante reunião de ministros de Relações Exteriores do G20 em Bonn (Alemanha) em fevereiro.  Na época, além de Venezuela, Serra e Tillerson falaram ainda sobre possíveis investimentos americanos em infraestrutura no Brasil, sem entrar em detalhes, e de reduzir barreiras fitossanitárias que impedem negócios entre os países.  Esse último ponto, no entanto, pode ser afetado diante do escândalo do esquema de corrupção na fiscalização de carnes no Brasil, revelado na última sexta-feira (17). O país começou a exportar no ano passado carne bovina in natura para os EUA -num total que chegou a 846 toneladas em 2016. As exportações de carne bovina processada ultrapassaram 31,6 mil toneladas.  Logo após assumir, o novo chanceler brasileiro, Aloysio Nunes Ferreira, criticou à Folha a política de Trump. \"A quantidade de trabalhadores mexicanos [nos EUA] é enorme. [Trump] vai brigar com esse povo todo? Espero que essa bola baixe.\"",
+    "title": "Em telefonema, Trump diz a Temer que quer recebê-lo na Casa Branca",
+    "category": "mundo",
+    "data": "2017-03-18",
+    "link": "http://www1.folha.uol.com.br/mundo/2017/03/1867822-em-telefonema-trump-diz-a-temer-que-quer-recebe-lo-na-casa-branca.shtml"
+}

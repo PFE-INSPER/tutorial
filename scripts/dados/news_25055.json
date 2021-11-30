@@ -1,0 +1,189 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 2787,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.678482,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "canteiro de obras da avenida",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.634167,
+                "count": 1
+            },
+            {
+                "text": "estreita praça da via",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.607246,
+                "count": 1
+            },
+            {
+                "text": "córrego do Sapateiro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.598144,
+                "count": 2
+            }
+        ],
+        "entities": [
+            {
+                "type": "GeographicFeature",
+                "text": "rio Pinheiros",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.94938,
+                "count": 2,
+                "confidence": 0.987004
+            },
+            {
+                "type": "GeographicFeature",
+                "text": "córrego do Sapateiro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.913358,
+                "count": 2,
+                "confidence": 0.88698
+            },
+            {
+                "type": "Facility",
+                "text": "parque Ibirapuera",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.784275,
+                "count": 2,
+                "confidence": 0.940377
+            },
+            {
+                "type": "Facility",
+                "text": "avenida Juscelino Kubitschek",
+                "sentiment": {
+                    "score": -0.683313,
+                    "label": "negative"
+                },
+                "relevance": 0.625941,
+                "count": 1,
+                "confidence": 0.948009
+            },
+            {
+                "type": "Location",
+                "text": "Vila Mariana",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.61222,
+                "count": 1,
+                "confidence": 0.397224
+            },
+            {
+                "type": "Facility",
+                "text": "avenida do Sapateiro",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.574626,
+                "count": 1,
+                "confidence": 0.64186
+            },
+            {
+                "type": "Date",
+                "text": "1976",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.565979,
+                "count": 1,
+                "confidence": 0.910307
+            },
+            {
+                "type": "Person",
+                "text": "Juscelino Kubitschek",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.553393,
+                "count": 1,
+                "confidence": 0.885491
+            },
+            {
+                "type": "Date",
+                "text": "mesmo ano",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.548424,
+                "count": 1,
+                "confidence": 0.556757
+            },
+            {
+                "type": "Measure",
+                "text": "dois quilômetros",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.54226,
+                "count": 1,
+                "confidence": 0.9848
+            }
+        ],
+        "concepts": [
+            {
+                "text": "São Paulo",
+                "relevance": 0.992389,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Vila Olímpia",
+                "relevance": 0.990149,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Vila_Olímpia"
+            },
+            {
+                "text": "Marginal Pinheiros",
+                "relevance": 0.989458,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Marginal_Pinheiros"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.763422,
+                "label": "/business and industrial/construction"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.6336435
+    },
+    "text": "PERI PANE COLABORAÇÃO PARA A FOLHA  Por baixo da avenida Juscelino Kubitschek passa um rio. É o córrego do Sapateiro, que nasce na Vila Mariana, alimenta os lagos do parque Ibirapuera e deságua no rio Pinheiros. O nome faz referência aos curtumes que ficavam à sua margem.  Durante a construção, a via chegou a ser chamada de avenida do Sapateiro. Pouco antes da inauguração, em 1976, o nome foi trocado para homenagear o ex-presidente Juscelino Kubitschek, morto no mesmo ano.  Com de cerca de dois quilômetros de extensão, a Juscelino Kubitschek liga a avenida São Gabriel à marginal Pinheiros e faz divisa com os bairros Itaim Bibi e Vila Olímpia, que, no início do século passado, ainda eram chácaras com grandes áreas de alagamento do rio Pinheiros.  A inauguração da avenida, no final dos anos 1970, coincide com o processo de verticalização da região.  \"Em 1970, [o bairro] continuava com muitas áreas vazias, e os preços dos terrenos ainda eram bons\", afirma trecho do livro \"Itaim Bibi\", de Helena de Queirós Ferreira Lopes e Vera Lúcia Vilhena de Toledo.  Além do córrego do Sapateiro, outras histórias rolam no subterrâneo da avenida. Uma delas é a da chamada favela JK, que nasceu no canteiro de obras da avenida e nos anos 1980 ocupou uma área de 3.050 metros quadrados, com 250 barracos e cerca de 1.200 famílias, na altura da rua Atílio Innocenti.    Na gestão do prefeito Jânio Quadros, de 1986 a 1989, os moradores da favela foram obrigados a sair de lá quando foi iniciada a obra do Bulevar JK, um projeto complexo que envolvia um túnel para ligar o Ibirapuera ao Morumbi e um calçadão arborizado ao longo da avenida.  A obra foi paralisada na gestão da prefeita Luiza Erundina e não saiu do papel.  Outra história soterrada é a da primeira ciclovia da cidade de São Paulo, que hoje poderia ligar o parque Ibirapuera ao parque do Povo, e que também desapareceu nas obras do bulevar.  Hoje a avenida é uma das principais artérias do centro financeiro de São Paulo. Suas construções espelhadas exibem um reflexo distorcido do céu e dos helicópteros.  A única e estreita praça da via recebeu o nome do rei árabe Abdul Aziz Al Saud e foi inaugurada com a presença de seu filho, o príncipe Nawaf Bin, que passeou de Rolls-Royce ao lado do então prefeito Celso Pitta.  Há dois anos, outro \"rei\" deixou sua marca. O edifício Horizonte é o primeiro empreendimento na cidade da incorporadora Emoções, do cantor Roberto Carlos. Com 39 andares, é o prédio mais alto da avenida, com direito a uma luxuosa piscina de borda infinita no terraço.  Na outra ponta da via, a fachada do Café Photo exibe seu slogan: \"Quem conhece, sabe a diferença\". E a passarela para pedestres Marcelo Fromer, homenagem ao guitarrista da banda de rock Titãs, parece responder: \"Riquezas são diferentes\".",
+    "title": "\n\t\tAvenida Juscelino Kubitschek reflete verticalização das zonas sul e oeste\n\t\t",
+    "category": "sobretudo",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/sobretudo/morar/2017/03/1867558-avenida-juscelino-kubitschek-reflete-verticalizacao-das-zonas-sul-e-oeste.shtml"
+}

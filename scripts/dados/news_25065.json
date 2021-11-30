@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 2,
+            "text_characters": 10206,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.782664,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "março Volume",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.787019,
+                "count": 2
+            },
+            {
+                "text": "abril Volume",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.636912,
+                "count": 5
+            },
+            {
+                "text": "cantora Sarah Vaughan",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.597155,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "JobTitle",
+                "text": "pianista",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.949269,
+                "count": 8,
+                "confidence": 1.0
+            },
+            {
+                "type": "Date",
+                "text": "próximo domingo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.535063,
+                "count": 2,
+                "confidence": 0.649581
+            },
+            {
+                "type": "Organization",
+                "text": "Coleção Folha Lendas do Jazz",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.503025,
+                "count": 2,
+                "confidence": 0.644309
+            },
+            {
+                "type": "JobTitle",
+                "text": "saxofonista",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.488978,
+                "count": 7,
+                "confidence": 1.0
+            },
+            {
+                "type": "JobTitle",
+                "text": "músicos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.475058,
+                "count": 5,
+                "confidence": 0.999997
+            },
+            {
+                "type": "JobTitle",
+                "text": "artistas",
+                "sentiment": {
+                    "score": 0.666624,
+                    "label": "positive"
+                },
+                "relevance": 0.466465,
+                "count": 4,
+                "confidence": 1.0
+            },
+            {
+                "type": "Person",
+                "text": "Sarah Vaughan",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.464608,
+                "count": 2,
+                "confidence": 0.999159
+            },
+            {
+                "type": "Person",
+                "text": "Duke Ellington",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.457934,
+                "count": 2,
+                "confidence": 0.999473
+            },
+            {
+                "type": "JobTitle",
+                "text": "cantora",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.442359,
+                "count": 6,
+                "confidence": 1
+            },
+            {
+                "type": "Person",
+                "text": "Ella Fitzgerald",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.439774,
+                "count": 2,
+                "confidence": 0.999544
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Miles Davis",
+                "relevance": 0.974536,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Miles_Davis"
+            },
+            {
+                "text": "John Coltrane",
+                "relevance": 0.973973,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/John_Coltrane"
+            },
+            {
+                "text": "Dizzy Gillespie",
+                "relevance": 0.970552,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Dizzy_Gillespie"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.969974,
+                "label": "/art and entertainment/music/music reference"
+            },
+            {
+                "score": 0.968484,
+                "label": "/art and entertainment/music/music genres/world music"
+            },
+            {
+                "score": 0.908328,
+                "label": "/art and entertainment/shows and events/classical concert"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.712299857142857
+    },
+    "text": "Neste ano, as primeiras gravações de jazz comemoram seu centenário. Música que valoriza o improviso, o instante único de comunhão entre seus artistas e seu público, nas apresentações ao vivo, o jazz é tão diverso e ao mesmo tempo tão universal que merece o maior número possível de seguidores.  A Coleção Folha Lendas do Jazz, que chega às bancas no próximo domingo, dia 26, vai reunir em 30 volumes os grandes nomes que construíram esse século musical.  Carlos Calado, crítico musical e colaborador da Folha que organizou a coleção e escreveu os textos com colaboração do jornalista e crítico Helton Ribeiro, explica que a seleção de astros para a série contempla representatividade e popularidade.  \"O desafio foi equilibrar nomes que são representativos dos principais estilos, músicos mais conceituados, com artistas mais populares. Um exemplo é o Glenn Miller, sempre um nome controverso para a crítica\", destaca.  \"Tem gente que nem o considerava um jazzista, mas ele fazia música para agradar, com um pé no jazz. Ele foi muito popular, um grande vendedor de discos, tem uma participação fundamental no gênero\", explica Calado.  No próximo domingo serão lançado os dois primeiros volumes, que apresentam em livro e CD a cantora Sarah Vaughan e o pianista e bandleader Duke Ellington.  Cada um é boa amostra de dois tipos de artistas enfocadas no coleção: cantores, que têm uma conexão mais fácil com o público que ainda não conhece tanto o jazz, e os músicos e compositores revolucionários, que romperam com a música que se fazia para levar o jazz à frente.  Para Calado, a coleção não deixa de ser uma iniciação. \"Já vi muita gente começar a se interessar por jazz ouvindo as cantoras, é uma maneira mais palatável e agradável de penetrar no universo do jazz. Sarah, Ella Fitzgerald, as outras que estão na coleção, todas têm um pé na canção popular. Pegam sucesso e dão sua interpretação, com procedimentos do jazz.\"  Ele ressalta que isso ainda está distante do improviso dos solistas, de uma gravação mais radical de bebop, o estilo que rompeu com formato tradicional do jazz.  \"E, com o bebop, estamos falando ainda dos anos 1940\", adverte Calado, reforçando que nas décadas seguintes houve idas e vindas no jazz, numa alternância de momentos de ruptura com retomadas de estilos próximos de um som mais tradicional.  Entre cantores envolventes, como Billie Holiday, Nina Simone e Louis Armstrong, e instrumentistas que recriaram os parâmetros da música, como Thelonious Monk, Miles Davis, John Coltrane e Bill Evans, a Coleção Folha Lendas do Jazz oferece CDs encartados nos 30 volumes com compilações de sucessos ou um álbum completo de cada artista.  Muitas gravações selecionadas são originais de gravadoras míticas especializadas em jazz, como Blue Note e Verve. Os volumes, ilustrados com fotos históricas, narram a trajetória de cada nome e listam livros, discos, DVDs ou filmes que ajudam o leitor a conhecer mais dos artistas.  Os livros, com capas feitas especialmente pela ilustradora Maria Eugenia, chegam às bancas a cada domingo. Veja nessa página todo o cronograma de lançamentos e também as orientações para a compra de toda a coleção.  *  26 de março Volume 1: Sarah Vaughan (1924-1990), cantora De Newark, Nova Jersey, uma das grandes vozes do século 20, com tom grave e muito domínio da técnica. Além do jazz, notadamente o bebop e o cool, passeou pela música pop.  26 de março Volume 2: Duke Ellington (1899-1974), pianista Nascido em Washington, suas composições influenciaram gerações, com longa produção entre as décadas de 1920 e 1960. Foi bandleader que tirava o melhor de seus músicos.  2 de abril Volume 3: Ella Fitzgerald (1917-1996), cantora Americana de Newport News, Virgínia, era considerada \"a primeira dama da canção\". Começou sua carreira no auge do swing. Foi premiada 14 vezes com a estatueta do Grammy.  9 de abril Volume 4: Chet Baker (1929-1988), trompetista Nascido em Yale, Oklahoma, o \"James Dean do jazz\" criou um estilo único no instrumento e fez carreira aclamada como cantor, principalmente por seus álbuns da década de 1950.  16 de abril Volume 5: Nina Simone (1933-2003), cantora Nascida em Tryon, Carolina do Norte, era pianista, compositora e arranjadora, trabalhando com jazz, blues, R&B, folk, gospel e pop, além de intenso ativismo pelos direitos civis.  23 de abril Volume 6: Billie Holiday (1915-1959), cantora Americana da Filadélfia, Pensilvânia, teve uma carreira impressionante de apenas três décadas. Foi tempo suficiente para influenciar cantoras de jazz e também de música pop.  30 de abril Volume 7: Glenn Miller (1904-1944), trombonista Nascido em Clarinda, Iowa, tornou-se um dos maiores bandleaders do swing. Teve sucessos mundiais como \"Moonlight Serenade\" e \"Chattanooga Choo-Choo\".  7 de maio Volume 8: Count Basie (1904-1984), pianista Americano de Red Bank, Nova Jersey, é um dos mais populares bandleaders do jazz e pianista brilhante. Formou sua orquestra em 1935, na era do swing, e esteve à frente dela por 50 anos.  14 de maio Volume 9: Charlie Parker (1920-1955), saxofonista Nascido em Kansas City, Kansas, foi uma figura fundamental no desenvolvimento do bebop e suas harmonias intrincadas. \"Bird\", como era chamado, era ídolo dos escritores beatniks.  21 de maio Volume 10: Louis Armstrong (1924-1990), cantor e trompetista Nascido em Nova Orleans, Louisiana, é um ícone do jazz, numa carreira que atravessou décadas e vários estilos. Teve seu maior hit como cantor com \"What a Wonderful World\".  28 de maio Volume 11: Dizzy Gillespie (1917-1993), trompetista Americano de Cheraw, Carolina do Sul, impressionava a todos com a grande dilatação das bochechas quando soprava o trompete. Teve seu auge de popularidade nos anos 1970.  4 de junho Volume 12: Thelonious Monk (1917-1982), pianista Natural de Rocky Mount, Carolina do Norte, desenvolveu um estilo de improvisação ímpar e escreveu clássicos incontestáveis, como \"Round Midnight\" e \"Ruby, My Dear\".  11 de junho Volume 13: Art Blakey (1919-1990), baterista Nascido em Pittsburgh, na Pensilvânia, o único baterista da coleção fez fama nas big bands, se destacou no bebop e depois lançou futuros astros em seu grupo The Jazz Messengers.  18 de junho Volume 14: Charles Mingus (1922-1979), baixista Americano nascido na base militar de Nogales, no Arizona, foi um grande bandleader e um músico excepcional, com uma mistura que incluía hard bop, free jazz e música gospel.  25 de junho Volume 15: Miles Davis (1926-1991), trompetista Nascido em Alton, Illinois, é para muitos o maior nome do jazz. Lançou quase todos os grandes músicos famosos nos anos 1960 e 1970. Seu álbum clássico é \"Kind of Blue\".  2 de julho Volume 16: John Coltrane (1926-1967), saxofonista Nascido em Hamlet, Carolina do Norte, mostrou virtuosismo no bebop e no hard bop, para depois explodir como grande estrela do free jazz. \"A Love Supreme\" é um álbum magistral.  9 de julho Volume 17: Anita O'Day (1919-2006), cantora Americana de Kansas City, Missouri, surgiu nos anos 1930 para se rebelar contra a figura bem comportada das cantoras das big bands. Ousada no visual e na incrível técnica vocal.  16 de julho Volume 18: Nat King Cole (1919-1965), cantor e pianista Americano de Montgomery, Alabama, passou de ótimo pianista de jazz para um dos cantores que mais vendeu discos nos anos 1950. Teve também um programa de TV.  23 de julho Volume 19: Stan Getz (1927-1991), saxofonista Nascido na Filadélfia, na Pensilvânia, era um discípulo de Lester Young. Indo das big bands ao cool jazz, foi grande divulgador da bossa nova nos EUA, gravando com João Gilberto.  30 de julho Volume 20: Bill Evans (1929-1980), pianista Americano de Plainfield, Nova Jersey, transformou-se em uma das maiores influências para pianistas de jazz na segunda metade do século 20, recriando o repertório tradicional do gênero.  6 de agosto Volume 21: Benny Goodman (1909-1986), clarinetista Nascido em Chicago, Illinois, chamado de \"Rei do Swing\" no final dos anos 1930. Foi o primeiro musico a criar uma banda com negros e brancos para tocar no Carnegie Hall.  13 de agosto Volume 22: Sonny Rollins (1930, 86 anos), saxofonista Nascido em Nova York, ainda era um adolescente quando começou a tocar com Thelonious Monk. Gravou com John Coltrane e Miles Davis. É o único músico vivo que está na coleção.  20 de agosto Volume 23: Oscar Peterson (1925-2007), pianista Canadense de Montreal, Québec, teve uma carreira de quase seis décadas, montando trios que reuniram nomes destacados do jazz, como o guitarrista Joe Pass e o contrabaixista Ray Brown.  27 de agosto Volume 24: Lester Young (1909-1959), saxofonista Americano de Woodville, Mississippi, influenciou muitos saxofonistas desde os anos 1930, quando era um dos grandes nomes do swing. Tocou na orquestra de Count Basie.  3 de setembro Volume 25: Jimmy Smith (1925-2005), organista Americano de Norristown, na Pensilvânia. Ele ganhou notoriedade ao utilizar o órgão Hammond no jazz. Fez carreira com o instrumento pelos clubes de Nova York nos anos 1950.  10 de setembro Volume 26: Dexter Gordon (1923-1990), saxofonista De Los Angeles, Califórnia, era considerado um virtuose e pioneiro do bebop. Ficaram famosos seus \"duelos\" de sax com Wardell Gray, nos discos que gravaram entre 1947 e 1952.  17 de setembro Volume 27: Wes Montgomery (1923-1968), guitarrista Nascido em Indianapolis, Indiana, tocava usando o polegar no lugar da palheta. Tornou famosa a formação de guitarra, órgão Hammond e bateria, com o Wes Montgomery Trio.  24 de setembro Volume 28: Horace Silver (1928-2014), pianista Americano de Norwalk, em Connecticut, inseriu em seu jazz influências da música de Cabo Verde, terra de seu pai. Começou no jazz tocando sax, antes de se decidir pelo piano.  1º de outubro Volume 29: Coleman Hawkins (1904-1969), saxofonista Nascido em Saint Joseph, Missouri, ainda adolescente tocou na orquestra de Fletcher Henderson. Criou técnicas de saxofone que transformaram o instrumento em atração no jazz.  8 de outubro Volume 30: Django Reinhardt (1924-1990), guitarrista Francês de origem belga, nascido em Liberchies, foi considerado um dos pais do jazz na Europa e um dos primeiros músicos brancos a se destacar no gênero. Criou o \"gypsy jazz\".",
+    "title": "No centenário do jazz, Folha lança coleção com grandes nomes do gênero",
+    "category": "ilustrada",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/ilustrada/2017/03/1867775-no-centenario-do-jazz-folha-lanca-colecao-com-grandes-nomes-do-genero.shtml"
+}

@@ -1,0 +1,198 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 1020,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.419248,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "R. Diogo Jácome",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.693926,
+                "count": 1
+            },
+            {
+                "text": "bioquímica Marcela Buchaim",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.684225,
+                "count": 1
+            },
+            {
+                "text": "Spa do Cabelo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.623869,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Person",
+                "text": "Marcela Buchaim",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.95056,
+                "count": 1,
+                "confidence": 0.920032
+            },
+            {
+                "type": "Facility",
+                "text": "Studio Tez",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.877468,
+                "count": 1,
+                "confidence": 0.942985
+            },
+            {
+                "type": "JobTitle",
+                "text": "bioquímica",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.673102,
+                "count": 1,
+                "confidence": 0.22528
+            },
+            {
+                "type": "Duration",
+                "text": "seis meses",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.62827,
+                "count": 1,
+                "confidence": 0.746439
+            },
+            {
+                "type": "Duration",
+                "text": "um mês e meio",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.483834,
+                "count": 1,
+                "confidence": 0.506715
+            },
+            {
+                "type": "Facility",
+                "text": "Complexo D",
+                "sentiment": {
+                    "score": 0.31714,
+                    "mixed": "1",
+                    "label": "positive"
+                },
+                "relevance": 0.320112,
+                "count": 1,
+                "confidence": 0.764423
+            },
+            {
+                "type": "Person",
+                "text": "Diogo Jácome",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.161774,
+                "count": 1,
+                "confidence": 0.416264
+            },
+            {
+                "type": "Number",
+                "text": "337",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.14964,
+                "count": 1,
+                "confidence": 0.8
+            },
+            {
+                "type": "Location",
+                "text": "Vila Nova Conceição",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.132861,
+                "count": 1,
+                "confidence": 0.709847
+            },
+            {
+                "type": "JobTitle",
+                "text": "nutricionista",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.123372,
+                "count": 1,
+                "confidence": 0.897974
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Vila Nova Conceição",
+                "relevance": 0.850415,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Vila_Nova_Conceição"
+            },
+            {
+                "text": "Nutriente",
+                "relevance": 0.802741,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Nutriente"
+            },
+            {
+                "text": "Empregado doméstico",
+                "relevance": 0.747525,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Empregado_doméstico"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.780453,
+                "label": "/health and fitness"
+            },
+            {
+                "score": 0.68088,
+                "label": "/health and fitness/nutrition"
+            },
+            {
+                "score": 0.677888,
+                "label": "/society/social institution"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.755211
+    },
+    "text": "LUIZA WOLF COLABORAÇÃO PARA A sãopaulo  A bioquímica Marcela Buchaim fala sobre o \"Spa do Cabelo\", um tratamento para noivas criado por ela e realizado no Studio Tez.  Por que criar um tratamento para noivas?  Percebi que o estresse aumenta muito neste período. Com isso, o cabelo piora, porque muda textura, fica mais oleoso. Montei um protocolo para a noiva estar com o cabelo que sempre sonhou no casamento.  Quanto tempo dura o tratamento?  O ideal são seis meses, porque são várias etapas. Trabalhamos com detox, reposição de nutrientes, renovação celular... Há também opção de tratamento express, com um mês e meio, e menos etapas.  Você também dá dicas de alimentação. Por quê?  As noivas fazem dieta para caberem no vestido e se esquecem, por exemplo do Complexo D e aminoácidos. O cabelo sente isso. Então, no protocolo, há o acompanhamento de uma nutricionista  studiotez.com.br. R. Diogo Jácome, 337, Vila Nova Conceição, região sul, tel. 3849-7786. Ter. a sáb.: 9h às 20h. CC: V, M, E, D, H. Estac. (grátis).",
+    "title": "Spa do Cabelo oferece seis meses de cuidados especiais para noivas",
+    "category": "o-melhor-de-sao-paulo",
+    "data": "2017-03-18",
+    "link": "http://www1.folha.uol.com.br/o-melhor-de-sao-paulo/noivas-e-casamentos/2017/03/1867106-spa-do-cabelo-oferece-seis-meses-de-cuidados-especiais-para-noivas.shtml"
+}

@@ -1,0 +1,193 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 1104,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.634368,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "principal tempo do ano",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.75164,
+                "count": 1
+            },
+            {
+                "text": "Troféu Maria Lenk",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.746799,
+                "count": 2
+            },
+            {
+                "text": "Cesar Cielo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.722203,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Date",
+                "text": "dia 20 de abril de 2016",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.949185,
+                "count": 1,
+                "confidence": 0.648512
+            },
+            {
+                "type": "Person",
+                "text": "Benjamin Proud",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.938633,
+                "count": 2,
+                "confidence": 0.984597
+            },
+            {
+                "type": "Organization",
+                "text": "Troféu Maria Lenk",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.923432,
+                "count": 1,
+                "confidence": 0.629723
+            },
+            {
+                "type": "Person",
+                "text": "Cesar Cielo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.89586,
+                "count": 1,
+                "confidence": 0.986276
+            },
+            {
+                "type": "Date",
+                "text": "sábado (18",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.863314,
+                "count": 1,
+                "confidence": 0.456738
+            },
+            {
+                "type": "Organization",
+                "text": "Federação Aquática Paulista no clube Pinheiros",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.821251,
+                "count": 1,
+                "confidence": 0.277842
+            },
+            {
+                "type": "Measure",
+                "text": "50 m",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.754527,
+                "count": 1,
+                "confidence": 0.665245
+            },
+            {
+                "type": "Ordinal",
+                "text": "17ª",
+                "sentiment": {
+                    "score": 0.657992,
+                    "label": "positive"
+                },
+                "relevance": 0.728923,
+                "count": 1,
+                "confidence": 0.390261
+            },
+            {
+                "type": "Person",
+                "text": "Pedro Pajari",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.618597,
+                "count": 1,
+                "confidence": 0.979871
+            },
+            {
+                "type": "Organization",
+                "text": "Olimpíada",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.613525,
+                "count": 1,
+                "confidence": 0.618293
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Rio de Janeiro",
+                "relevance": 0.959151,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Rio_de_Janeiro"
+            },
+            {
+                "text": "Maria Lenk",
+                "relevance": 0.958872,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Maria_Lenk"
+            },
+            {
+                "text": "Jogos Olímpicos",
+                "relevance": 0.92938,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Jogos_Olímpicos"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.982808,
+                "label": "/sports/swimming"
+            },
+            {
+                "score": 0.946435,
+                "label": "/sports/olympics"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.845575
+    },
+    "text": "Sem nadar desde o dia 20 de abril de 2016, quando disputou o Troféu Maria Lenk e ficou fora da Olimpíada, Cesar Cielo voltou a competir oficialmente neste sábado (18) durante um torneio regional da Federação Aquática Paulista no clube Pinheiros.  Em um torneio sem final, Cielo fez o melhor tempo da disputa dos 50 m livre, com 22s44. A marca é a 17ª melhor da atual temporada. O principal tempo do ano pertence a Benjamin Proud, com 21s74.  Segundo colocado na disputa deste sábado, Pedro Pajari fez somente 23s09. No ano passado, Anthony Irving ganhou a medalha de ouro nos Jogos Olímpicos do Rio de Janeiro com o tempo de 21s40.  Ainda durante a competição, ele nadou os 50m borboleta e também ficou com a vitória, com a marca de 23s75. Benjamin Proud tem o melhor tempo do ano: 23s34.  O retorno às competições acontece em uma piscina que é simbólica para o nadador. Foi lá que em 2009 que ele quebrou o recorde mundial que dura até hoje.  O foco de Cielo está no Troféu Maria Lenk, que acontece em abril, e servirá como classificatório para o Campeonato Mundial de Budapeste, entre 14 e 30 de julho.",
+    "title": "Cielo volta às piscinas após 11 meses com 17º tempo do ano nos 50m livre",
+    "category": "esporte",
+    "data": "2017-03-18",
+    "link": "http://www1.folha.uol.com.br/esporte/2017/03/1867780-cielo-volta-as-piscinas-apos-11-meses-com-17-tempo-do-ano-nos-50m-livre.shtml"
+}

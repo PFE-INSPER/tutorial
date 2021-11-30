@@ -1,0 +1,198 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 1865,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.406555,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "MÚSICO  Keith Richards",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.764137,
+                "count": 1
+            },
+            {
+                "text": "BRIAN WILSON",
+                "sentiment": {
+                    "score": 0.784255,
+                    "label": "positive"
+                },
+                "relevance": 0.631647,
+                "count": 1
+            },
+            {
+                "text": "BRUNO MAZZEO",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.629479,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Person",
+                "text": "Chuck Berry",
+                "sentiment": {
+                    "score": 0.301335,
+                    "mixed": "1",
+                    "label": "positive"
+                },
+                "relevance": 0.95442,
+                "count": 8,
+                "confidence": 1
+            },
+            {
+                "type": "Person",
+                "text": "Beatle Ringo Starr",
+                "sentiment": {
+                    "score": 0.674912,
+                    "label": "positive"
+                },
+                "relevance": 0.208035,
+                "count": 1,
+                "confidence": 0.755337
+            },
+            {
+                "type": "Person",
+                "text": "Stephen King",
+                "sentiment": {
+                    "score": 0.737392,
+                    "label": "positive"
+                },
+                "relevance": 0.198028,
+                "count": 1,
+                "confidence": 0.987873
+            },
+            {
+                "type": "Person",
+                "text": "RICHARDS",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.182353,
+                "count": 1,
+                "confidence": 0.822923
+            },
+            {
+                "type": "Person",
+                "text": "MÚSICO  Keith Richards",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.180366,
+                "count": 1,
+                "confidence": 0.839028
+            },
+            {
+                "type": "Person",
+                "text": "MÚSICO  Bruce Springsteen",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.169859,
+                "count": 1,
+                "confidence": 0.934899
+            },
+            {
+                "type": "Person",
+                "text": "MÚSICO  Brian Wilson",
+                "sentiment": {
+                    "score": 0.784255,
+                    "label": "positive"
+                },
+                "relevance": 0.152246,
+                "count": 1,
+                "confidence": 0.701869
+            },
+            {
+                "type": "JobTitle",
+                "text": "artístico",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.139457,
+                "count": 1,
+                "confidence": 0.63992
+            },
+            {
+                "type": "JobTitle",
+                "text": "escritores",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.136909,
+                "count": 1,
+                "confidence": 0.983902
+            },
+            {
+                "type": "JobTitle",
+                "text": "músicos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.132604,
+                "count": 1,
+                "confidence": 0.937286
+            }
+        ],
+        "concepts": [
+            {
+                "text": "The Beatles",
+                "relevance": 0.996237,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/The_Beatles"
+            },
+            {
+                "text": "Chuck Berry",
+                "relevance": 0.993572,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Chuck_Berry"
+            },
+            {
+                "text": "The Rolling Stones",
+                "relevance": 0.992788,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/The_Rolling_Stones"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.924035,
+                "label": "/art and entertainment/music/music genres/rock music"
+            },
+            {
+                "score": 0.802233,
+                "label": "/art and entertainment/music/music genres/world music"
+            },
+            {
+                "score": 0.788035,
+                "label": "/art and entertainment/music/music reference"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.608309
+    },
+    "text": "A notícia da morte de Chuck Berry circulou rápido entre o meio artístico, com músicos e escritores prestando homenagem a ele. \"Paz e amor para Chuck Berry\", escreveu o ex-Beatle Ringo Starr em seu perfil no Twitter.  Quem também engrossou o coro foi o escritor Stephen King. \"A notícia parte meu coração. Chuck Berry não era nada mau no rock and roll\", postou. Veja abaixo a repercussão:  *  KEITH RICHARDS, MÚSICO  Keith Richards  \"Uma das minhas maiores luzes se apagou\"  *  BRUCE SPRINGSTEEN, MÚSICO  Bruce Springsteen  \"Chuck Berry foi o maior praticante de rock, guitarrista, e o mais puro compositor de rock que já viveu.\"  *  BRIAN WILSON, MÚSICO  Brian Wilson  \"Eu estou tão triste com a morte de Chuck Berry —uma grande inspiração! Todos que amam rock n' roll vão sentir sua falta. Amor & compaixão  *  SLASH, MÚSICO  Slash  \"De coração partido com a morte de Chuck Berry. Ele foi indiscutivelmente o rei.\"  *  STEPHEN KING, ESCRITOR  Stephen King  \"Chuck Berry morreu. Isso me deixa de coração partido, mas 90 anos de idade não é nada mal para rock n' roll. Johnny B. Goode para sempre.\"  *  RINGO STARR, MÚSICO  Ringo  \"R.I.P. e paz e amor Chuck Berry Mr. rock n' roll\"  *  LOBÃO, MÚSICO  Lobão  *  ROGÉRIO FLAUSINO, DA BANDA JOTA QUEST  Rogério Flausino  *  BRUNO MAZZEO, HUMORISTA  Bruno Mazzeo  *  DANIEL GANJAMAN, PRODUTOR MUSICAL  Daniel  *  Veja os artistas que foram influenciados por Chuck Berry:  Elvis Presley  Além de ter gravado diversas canções de Berry, Elvis foi acusado de ter se apropriado da música de artistas negros, tornando-a palatável para um público branco  The Beatles  Além de ter gravado \"Roll Over Beethoven\", a música \"Back in the U.S.S.R.\" é uma referência a \"Back in the USA\"  The Rolling Stones  Em sua conta no Twitter, a banda apontou Berry como uma influência. O grupo gravou covers de \"Come On\" e \"Carol\", entre outras",
+    "title": "Artistas lamentam a morte de Chuck Berry; veja repercussão",
+    "category": "ilustrada",
+    "data": "2017-03-18",
+    "link": "http://www1.folha.uol.com.br/ilustrada/2017/03/1867818-artistas-lamentam-a-morte-de-chuck-berry-veja-repercussao.shtml"
+}

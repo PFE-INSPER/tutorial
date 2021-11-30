@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 2256,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.483525,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "última versão da história",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.658667,
+                "count": 1
+            },
+            {
+                "text": "livro da editora Zahar",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.645499,
+                "count": 1
+            },
+            {
+                "text": "Bruno Molinero",
+                "sentiment": {
+                    "score": 0.830305,
+                    "label": "positive"
+                },
+                "relevance": 0.606306,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Person",
+                "text": "Zahar",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.949425,
+                "count": 2,
+                "confidence": 0.997227
+            },
+            {
+                "type": "Duration",
+                "text": "Todas as semanas",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.740635,
+                "count": 1,
+                "confidence": 0.325825
+            },
+            {
+                "type": "Date",
+                "text": "desta semana",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.701134,
+                "count": 1,
+                "confidence": 0.540213
+            },
+            {
+                "type": "Person",
+                "text": "Bruno Molinero",
+                "sentiment": {
+                    "score": 0.830305,
+                    "label": "positive"
+                },
+                "relevance": 0.696115,
+                "count": 1,
+                "confidence": 0.927238
+            },
+            {
+                "type": "Organization",
+                "text": "Bela e a Fera\"  Indicação",
+                "sentiment": {
+                    "score": 0.830305,
+                    "label": "positive"
+                },
+                "relevance": 0.67894,
+                "count": 1,
+                "confidence": 0.195135
+            },
+            {
+                "type": "Duration",
+                "text": "9 anos",
+                "sentiment": {
+                    "score": 0.830305,
+                    "label": "positive"
+                },
+                "relevance": 0.67182,
+                "count": 1,
+                "confidence": 0.570053
+            },
+            {
+                "type": "Date",
+                "text": "última quinta (16",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.633441,
+                "count": 1,
+                "confidence": 0.263963
+            },
+            {
+                "type": "Person",
+                "text": "Emma Watson",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.627611,
+                "count": 1,
+                "confidence": 0.923477
+            },
+            {
+                "type": "Person",
+                "text": "Hermione de \"Harry Potter",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.621477,
+                "count": 1,
+                "confidence": 0.346119
+            },
+            {
+                "type": "Date",
+                "text": "século 18",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.56208,
+                "count": 1,
+                "confidence": 0.781588
+            }
+        ],
+        "concepts": [
+            {
+                "text": "São Paulo",
+                "relevance": 0.981986,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Literatura de cordel",
+                "relevance": 0.971755,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Literatura_de_cordel"
+            },
+            {
+                "text": "Desenho",
+                "relevance": 0.942027,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Desenho"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.716141,
+                "label": "/family and parenting/children"
+            },
+            {
+                "score": 0.707796,
+                "label": "/style and fashion"
+            },
+            {
+                "score": 0.67518,
+                "label": "/art and entertainment"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.7894665000000001
+    },
+    "text": "DE SÃO PAULO  Todas as semanas, os convidados da sãopaulo indicam, na coluna \"Folhinha\", passeios, peças e livros para curtir com as crianças. Veja abaixo as sugestões desta semana.  *  Bruno Molinero, do blog \"Era Outra Vez\", indica o livro \"A Bela e a Fera\"  Indicação: acima de 9 anos  O clássico \"A Bela e a Fera\" já virou filme, desenho animado e até musical. A última versão da história estreou nos cinemas na última quinta (16), com Emma Watson (a Hermione de \"Harry Potter\") no papel da mocinha. Mas será que o longa é mesmo parecido com a versão original? Dá para conferir em um livro da editora Zahar, que publica as duas versões do conto de fadas –lançadas no século 18, elas são cheias de surpresas: uma traz o passado da Fera, por exemplo.  Autoras: Madame de Beaumont e Madame de Villeneuve. Tradutor: André Telles. Editora: Zahar (2016, 240 págs., R$ 29,90)  *  Mônica Rodrigues da Costa, jornalista especializada em infância, sugere a peça \"Cordel Fabuloso\"  Indicação: acima de 8 anos  Uma trupe reconta com rimas da literatura de cordel fábulas recolhidas entre populares pelo escravo Esopo na Grécia antiga. O elenco tira do baú uma narrativa que traz um lenhador que precisa consertar seu machado e acaba destruindo tudo ao redor. Outro relato exemplar retrata um menino mentiroso que um dia enfrentou de verdade uma onça. Colorem o enredo a maquiagem das festas de ruas e o estilo caipira do palhaço no interior do Brasil.  Espaço Parlapatões - teatro. Pça. Franklin Roosevelt, 158, Consolação, tel. 3258-4449. 96 lugares. Sáb.: 17h. Até 29/4. 50 min. Livre. Ingresso: R$ 30.  *  Gabriela Romeu, jornalista especializada em infância, destaca a exposição \"Frida e Eu\"  indicação: acima de 5 anos  Na exposição \"Frida e Eu\", as crianças podem interagir com diversos jogos de montar e desmontar para descobrir aspectos da vida e da obra da pintora mexicana, ícone da força feminina. Dá para conhecer o jardim da artista, brincar com sua árvore genealógica e experimentar desenhar de um jeito inusitado, tal qual a pintora fazia.  Unibes Cultural. R. Oscar Freire, 2.500, Pinheiros, tel. 3065-4333. Seg. a sáb.: 10h30 às 19h30. Até 30/6. 4 anos. Estac. a partir de R$ 15 (nº 2.617). Ingresso: R$ 24 a R$ 30. Seg. (reserva p/ site): grátis.",
+    "title": "Livro mostra as diferentes versões de 'A Bela e a Fera' para as crianças",
+    "category": "saopaulo",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/saopaulo/2017/03/1867022-livro-mostra-as-diferentes-versoes-de-a-bela-e-a-fera-para-as-criancas.shtml"
+}

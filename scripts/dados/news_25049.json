@@ -1,0 +1,209 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 3974,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.559588,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "OBSTÁCULOS PRÁTICOS",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.649887,
+                "count": 2
+            },
+            {
+                "text": "mãos das Forças Armadas",
+                "sentiment": {
+                    "score": 0.453557,
+                    "label": "positive"
+                },
+                "relevance": 0.609798,
+                "count": 2
+            },
+            {
+                "text": "preciso autorização",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.572464,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Organization",
+                "text": "Forças Armadas",
+                "sentiment": {
+                    "score": 0.453557,
+                    "label": "positive"
+                },
+                "relevance": 0.951255,
+                "count": 5,
+                "confidence": 0.996694
+            },
+            {
+                "type": "Facility",
+                "text": "Estação de Hidroaviões",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.582806,
+                "count": 1,
+                "confidence": 0.874039
+            },
+            {
+                "type": "Facility",
+                "text": "Museu de Arte do Rio",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.562485,
+                "disambiguation": {
+                    "name": "Museu_de_Arte_do_Rio",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/Museu_de_Arte_do_Rio"
+                },
+                "count": 1,
+                "confidence": 0.588901
+            },
+            {
+                "type": "Facility",
+                "text": "Museu do Amanhã",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.559496,
+                "disambiguation": {
+                    "name": "Museu_do_Amanhã",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/Museu_do_Amanhã"
+                },
+                "count": 1,
+                "confidence": 0.88224
+            },
+            {
+                "type": "Facility",
+                "text": "Ponte Rio-Niterói",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.555215,
+                "disambiguation": {
+                    "name": "Ponte_Rio–Niterói",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/Ponte_Rio–Niterói"
+                },
+                "count": 1,
+                "confidence": 0.784704
+            },
+            {
+                "type": "GeographicFeature",
+                "text": "Baía de Guanabara",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.552517,
+                "count": 1,
+                "confidence": 0.611447
+            },
+            {
+                "type": "Organization",
+                "text": "Instituto do Patrimônio Histórico e Artístico Nacional",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.54297,
+                "count": 1,
+                "confidence": 0.389584
+            },
+            {
+                "type": "Person",
+                "text": "Rodrigo Melo Franco",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.538203,
+                "count": 1,
+                "confidence": 0.956261
+            },
+            {
+                "type": "Facility",
+                "text": "Instituto Cultural e Histórico da Aeronáutica",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.498561,
+                "count": 1,
+                "confidence": 0.493784
+            },
+            {
+                "type": "Date",
+                "text": "dezembro passado",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.441659,
+                "count": 1,
+                "confidence": 0.913677
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Turismo",
+                "relevance": 0.986996,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Turismo"
+            },
+            {
+                "text": "Baía de Guanabara",
+                "relevance": 0.972602,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Baía_de_Guanabara"
+            },
+            {
+                "text": "Forte de Copacabana",
+                "relevance": 0.937916,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Forte_de_Copacabana"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.803513,
+                "label": "/law, govt and politics"
+            },
+            {
+                "score": 0.767202,
+                "label": "/society/unrest and war"
+            },
+            {
+                "score": 0.624498,
+                "label": "/law, govt and politics/armed forces/navy"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.6590783333333333
+    },
+    "text": "A antiga Estação de Hidroaviões tinha tudo para ser uma parada obrigatória no roteiro turístico do Rio. Fica na recém-revitalizada zona portuária, a minutos de distância do MAR (Museu de Arte do Rio) e do Museu do Amanhã. Tem vista para a Ponte Rio-Niterói e a Baía de Guanabara.  Quando foi tombada, o então diretor do Instituto do Patrimônio Histórico e Artístico Nacional, Rodrigo Melo Franco, a descreveu como \"um dos marcos fundamentais da arquitetura moderna brasileira\", por sua estrutura de concreto armado, painéis de vidro com vista para os hidroaviões do embarcadouro, pilotis e marquises.  No entanto, receber visitantes não é sua principal função. O prédio sedia o Instituto Cultural e Histórico da Aeronáutica. A fachada não faz referência ao seu antigo papel, o site não traz informações sobre visitação.  Assim como esta, há em todo o Brasil edificações tombadas e de valor histórico que ficam pouco acessíveis nas mãos das Forças Armadas. Por um lado, militares ajudam a preservar esse patrimônio, por outro, ele acaba ficando distante da população.    Leitores talvez se lembrem de uma disputa que aconteceu em dezembro passado entre a Prefeitura do Rio e a Marinha. Militares restringiram com grades o acesso da população à Orla Conde, passeio público a beira-mar que é um importante atrativo turístico do centro do Rio. Após acordo com a Prefeitura, acabaram recuando, mas colocaram grades à beira do mar para proteger os pedestres.  A situação descrita aqui é diferente. Os bens tombados de posse das Forças Armadas não são fechados à população, mas são subaproveitados para o turismo e de difícil acesso para civis.  No total, as Forças ocupam 20 edificações tombadas no Estado. A maior parte delas não tem função cultural. Há exceções, como o Museu Histórico do Exército, no Forte de Copacabana, o Monumento Aos Pracinhas, no Aterro do Flamengo, e a Ilha Fiscal, onde aconteceu a derradeira festa da monarquia antes da Proclamação da República.  Há casos em que a divulgação fica em segundo plano, como na Fortaleza da Conceição. No coração da zona portuária, tem vista para toda a Baía. Foi erguida em 1713 como parte do equipamento de defesa da cidade após a devastação causada pela invasão francesa. Lá estão as masmorras onde ficaram presos os líderes da Inconfidência Mineira.    No entanto é usada principalmente para guardar documentos cartográficos e filmes aerofotográficos do país. Recebe visitas e tem um museu, mas é preciso autorização para visitá-lo.  Outro exemplo é o Sanatório Naval de Nova Friburgo, na região serrana do Rio. O chalé de 1890 em estilo normando foi comprado pela União e transformado em sanatório em 1910. Durante a Primeira Guerra, recebeu tripulantes de navios alemães, aprisionados pelo governo brasileiro em diversos portos.  'OBSTÁCULOS PRÁTICOS'  Militares citam obstáculos práticos para explicar por que as edificações não são convidativas. Seria preciso verba e pessoal treinado para divulgar as atividades, receber o público em horários diferentes e prover informações e visitas guiadas.  O Instituto do Patrimônio Histórico e Artístico Nacional acha bom que as edificações fiquem nas mãos das Forças Armadas pois elas ajudam a preservar o patrimônio, mas não opina sobre o uso.  O professor de turismo na UFF (Universidade Federal Fluminense) Marcello Tomé, reconhece que Forças Armadas tiveram papel importante na preservação de edifícios, mas questiona se apenas militares devem ter acesso a eles.  \"Esse é o dilema hoje. É também o caso de praias às quais só eles têm acesso. É um resquício de um pensamento segregador\", avalia.  No entanto, diz acreditar que Forças Armadas hoje estão mais dispostas a abrir suas instalações. Cita como exemplo um simpósio sobre turismo militar que ocorrerá no Forte do Leme, no Rio. \"Há algumas décadas, era impensável que algumas dessas edificações fossem abertas.\"  Lugares 'escondidos' - Exército, Marinha e Força Aérea controlam edificações de importância histórica",
+    "title": "Militares travam acesso de civis a prédios tombados e de valor histórico",
+    "category": "cotidiano",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/cotidiano/2017/03/1867837-militares-travam-acesso-de-civis-a-predios-tombados-e-de-valor-historico.shtml"
+}

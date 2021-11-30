@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 7717,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.587121,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "plano republicano",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.667002,
+                "count": 1
+            },
+            {
+                "text": "líderes republicanos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.665697,
+                "count": 1
+            },
+            {
+                "text": "problemas de saúde",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.608112,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Organization",
+                "text": "Obamacare",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.949461,
+                "count": 4,
+                "confidence": 0.998375
+            },
+            {
+                "type": "Person",
+                "text": "Paulson",
+                "sentiment": {
+                    "score": -0.867565,
+                    "label": "negative"
+                },
+                "relevance": 0.729081,
+                "count": 2,
+                "confidence": 0.999979
+            },
+            {
+                "type": "Person",
+                "text": "Irene Solesky",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.685907,
+                "count": 2,
+                "confidence": 0.999563
+            },
+            {
+                "type": "Organization",
+                "text": "CBO",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.674223,
+                "count": 2,
+                "confidence": 0.998889
+            },
+            {
+                "type": "Person",
+                "text": "LaRonda Hunter",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.640713,
+                "count": 2,
+                "confidence": 0.998853
+            },
+            {
+                "type": "Person",
+                "text": "Paul Ryan",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.558462,
+                "count": 2,
+                "confidence": 0.999981
+            },
+            {
+                "type": "Date",
+                "text": "2026",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.555897,
+                "count": 2,
+                "confidence": 0.993521
+            },
+            {
+                "type": "JobTitle",
+                "text": "corretora",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.536429,
+                "count": 2,
+                "confidence": 0.9407
+            },
+            {
+                "type": "Organization",
+                "text": "Lei de Saúde Americana",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.534249,
+                "count": 2,
+                "confidence": 0.741915
+            },
+            {
+                "type": "JobTitle",
+                "text": "líderes republicanos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.448528,
+                "count": 1,
+                "confidence": 0.286628
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Plano de saúde",
+                "relevance": 0.956114,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Plano_de_saúde"
+            },
+            {
+                "text": "Donald Trump",
+                "relevance": 0.877325,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Donald_Trump"
+            },
+            {
+                "text": "Pobreza",
+                "relevance": 0.844516,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Pobreza"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.576187,
+                "label": "/law, govt and politics/government"
+            },
+            {
+                "score": 0.557167,
+                "label": "/health and fitness/drugs"
+            },
+            {
+                "score": 0.531002,
+                "label": "/family and parenting/eldercare"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.5745783333333333
+    },
+    "text": "Enquanto líderes republicanos e o presidente Donald Trump correm para ganhar apoio no Congresso a fim de aprovar a proposta para substituir o Obamacare, americanos como Katie Paulson, Irene Solesky e LaRonda Hunter aguardam apreensivos as mudanças que a Lei de Saúde Americana pode trazer para suas famílias e negócios.  Na casa de Paulson, 38, em Hanover, Minnesota, a possibilidade de o filho Von, 4, perder ou ter limitada a cobertura do Medicaid (sistema público voltado aos mais pobres) tem tirado o sono.  O menino, que tem insuficiência adrenal e má-formação do cérebro, entre outros problemas de saúde, precisa de cuidado 24 horas e de medicamentos e equipamentos que só são custeados pelo Medicaid, como sondas para alimentação e fraldas.  O plano republicano prevê a eliminação, até 2020, dos fundos federais que servem para Estados ampliarem o atendimento pelo Medicaid.  Segundo um relatório do Congressional Budget Office (CBO), agência não partidária, a proposta pode fazer 24 milhões de americanos perderem a cobertura até 2026, dos quais 14 milhões são hoje assistidos pelo programa.  A previsão não pegou bem, inclusive entre republicanos, e o presidente da Câmara, Paul Ryan, disse não descartar mudanças no texto.  \"O Medicaid é uma questão de vida ou morte para o meu filho. Não poderíamos pagar a fórmula [para a sonda] sem ele\", diz Paulson, que largou o trabalho numa universidade para cuidar do filho em tempo integral.  Ela calcula que, sem o Medicaid, teria que voltar a trabalhar e contratar um enfermeiro para o filho, o que custaria cerca de US$ 3.000. \"Só isso consumiria grande parte do nosso orçamento, mais de 50%. Se contarmos os medicamentos, seria mais do que ganhamos.\"  A pesquisa mais recente sobre o projeto republicano, realizada pela Fox News, mostrou que só 34% aprovam a proposta para substituir o atual programa de saúde, enquanto 54% se mostram contrários a ela —40% se opondo \"fortemente\" ao texto.  A sondagem foi feita com 1.008 pessoas entre os dias 12 e 14 de março, período em que foi divulgado o relatório do CBO. Dos ouvidos, 51% têm o plano hoje pago pelo empregador, 27% são beneficiados por programas como o Medicaid e 15% arcam com os custos do próprio seguro.  No entanto, é esse último grupo que mais tem expectativas sobre uma possível substituição do Obamacare. A proposta republicana prevê o fim da obrigatoriedade de contratação de um plano básico por todos os americanos acima da linha da pobreza (US$ 20.420 por ano para uma família de três pessoas).  A corretora Irene Solesky, 55, moradora de Towson, em Maryland, não aguentou esperar e se desfez do seu plano de saúde em novembro, preferindo pagar a multa prevista de US$ 695.  O seguro que ela, o marido e os dois filhos pagavam subiria de US$ 862 para US$ 1.351 neste ano, um aumento de 57% e valor que é o dobro da parcela do financiamento da casa. A franquia —paga antes de o plano começar a atuar— ficaria em US$ 13.100.  \"Se você tem que pagar esse absurdo do seu bolso antes de ser coberta pelo plano, isso, para mim, não é estar assegurada\", explica Solesky, que diz que a família só usou o plano —do modelo \"bronze\", mais básico— em 2016 para um exame de mamografia. Agora, eles criaram uma conta para guardar dinheiro para uma eventual emergência médica.  Uma estimativa do governo Obama divulgada em outubro mostrava que os planos \"silver\", uma categoria acima, ficariam em média 25% mais caros em 2017.  \"Eu espero que eles tirem mesmo essa obrigatoriedade, e que, com isso, os preços caiam\", afirma a corretora.  A cabeleireira LaRonda Hunter, dona de três salões de beleza em Fort Worth, no Texas, quer ver concretizada a suspensão da cláusula do Obamacare que obriga empresários com mais de 50 funcionários a pagar plano de saúde para 95% da equipe.  Hunter foi uma das pequenas empresárias que manteve o quadro abaixo desse limite para evitar o gasto. \"Queria expandir o meu negócio há três anos, mas por causa dessa obrigação, não contratei mais. O que eu gastaria com planos de saúde seria mais do que efetivamente ganho com os salões.\"  Ela diz esperar que, se os republicanos voltarem atrás e mantiverem a obrigação, durante a tramitação do texto no Congresso, ao menos o cálculo do pagamento seja repensado. \"Eles deveriam levar em conta não o número de empregados, mas o valor de cada negócio\", diz.  OPOSIÇÃO  Se o projeto de lei apresentado pelo republicano Paul Ryan para substituir o Obamacare já havia enfrentado a resistência dos parlamentares da ala mais conservadora do partido, após a previsão de que 24 milhões de americanos podem ficar sem cobertura até 2026, o texto também perdeu apoio entre os republicanos mais ao centro.  Em parte representados pelo chamado \"Grupo da Terça\", que tem cerca de 50 associados, os deputados republicanos moderados querem, por exemplo, mudanças nos critérios estabelecidos pelo novo projeto para a concessão de créditos fiscais, para que ofereçam apoio também aos mais pobres. No Obamacare, eles já são distribuídos conforme renda e idade. No projeto republicano, a idade é o critério principal.  Republicanos de centro também temem o impacto negativo, em seu eleitorado, da suspensão de verbas federais para que os Estados expandam a cobertura do Medicaid.  \"Nosso sistema de saúde está quebrado, precisa ser consertado, mas temos que ajudar aquelas pessoas que foram prejudicadas pelo Obamacare sem prejudicar quem foi ajudado por ele\", disse o deputado republicano Daniel Donovan, membro do \"Grupo da Terça\", que é liderado por Charlie Dent.  Há ainda 23 parlamentares conservadores na casa que são de distritos onde a democrata Hillary Clinton venceu em novembro.  Para estes, a preocupação está no impacto do novo projeto nas eleições para o Congresso em 2018.  Para passar no plenário da Câmara, numa votação esperada para a quinta (23), a Lei de Saúde Americana vai precisar de 216 votos dos 237 republicanos da casa —apenas 21 deputados do partido podem se opor ao texto.  Um levantamento da CNN contabiliza 12 votos republicanos declaradamente contra o projeto e outros 11 que poderiam rechaçar a proposta de Ryan, numa soma de 23.  Na sexta (17), o líder do ultraconservador Caucus da Liberdade, na Câmara, Mark Meadows, disse haver ao menos 40 deputados republicanos que se opõem ao texto, além de 20 indecisos.  Caso passe pela Câmara, o projeto deve encontrar no Senado situação ainda mais complicada, já que apenas dois republicanos podem se opor ao texto para que ele seja aprovado.  -  OBAMACARE x TRUMPCARE O que muda na saúde com a proposta republicana  Obrigação individual  Como é: Todos os americanos acima da linha da pobreza são obrigados a contratar um plano básico de saúde, sob pena de multa (US$ 695)  Como fica: A multa é suspensa. Com isso, fica mais fácil que pessoas abandonem os planos, o que poderá aumentar o número de desprotegidos  Obrigação empresarial  Como é: Empresas com mais de 50 empregados em tempo integral são obrigadas a arcar com planos de saúde para ao menos 95% de seus trabalhadores  Como fica: A obrigatoriedade é suspensa  Subsídios e impostos  Como é: O governo dá créditos fiscais aos cidadãos por critérios como renda e idade. O plano também promoveu aumentos de impostos localizados para levantar mais fundos para a saúde  Como fica: O governo continuará a conceder créditos fiscais, mas usará a idade como critério principal. Aumentos de impostos para financiar a saúde serão revogados  Estados  Como é: Governo passou a prover mais fundos para Estados ampliarem atendimento pelo Medicaid, sistema público voltado aos mais pobres  Como fica: Os recursos serão reduzidos e totalmente eliminados a partir de 2020. Medida de reduzir oferta de tratamentos em alguns dos Estados",
+    "title": "Mudança no sistema de saúde gera apreensão em famílias dos EUA",
+    "category": "mundo",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/mundo/2017/03/1867801-mudanca-no-sistema-de-saude-gera-apreensao-em-familias-dos-eua.shtml"
+}

@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 2627,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.735736,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "diversos gastos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.657323,
+                "count": 2
+            },
+            {
+                "text": "fim da década passada",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.60752,
+                "count": 1
+            },
+            {
+                "text": "tempos de reforma",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.588954,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Percent",
+                "text": "92%",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.94932,
+                "count": 1,
+                "confidence": 0.8
+            },
+            {
+                "type": "Percent",
+                "text": "8%",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.920908,
+                "count": 1,
+                "confidence": 0.8
+            },
+            {
+                "type": "Money",
+                "text": "R$ 90 bilhões",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.881056,
+                "count": 1,
+                "confidence": 0.97154
+            },
+            {
+                "type": "Date",
+                "text": "este ano",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.863743,
+                "count": 1,
+                "confidence": 0.849754
+            },
+            {
+                "type": "Organization",
+                "text": "Previdência",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.847716,
+                "count": 1,
+                "confidence": 0.802604
+            },
+            {
+                "type": "Organization",
+                "text": "Tesouro",
+                "sentiment": {
+                    "score": 0.69581,
+                    "label": "positive"
+                },
+                "relevance": 0.714672,
+                "count": 4,
+                "confidence": 0.999856
+            },
+            {
+                "type": "JobTitle",
+                "text": "auditores",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.701574,
+                "count": 1,
+                "confidence": 0.876751
+            },
+            {
+                "type": "Organization",
+                "text": "governo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.690916,
+                "count": 2,
+                "confidence": 0.997827
+            },
+            {
+                "type": "Organization",
+                "text": "FGTS",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.673289,
+                "count": 1,
+                "confidence": 0.98478
+            },
+            {
+                "type": "Organization",
+                "text": "governo federal",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.633881,
+                "count": 1,
+                "confidence": 0.673408
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Transparência",
+                "relevance": 0.916838,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Transparência"
+            },
+            {
+                "text": "Orçamento público",
+                "relevance": 0.886446,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Orçamento_público"
+            },
+            {
+                "text": "Democracia",
+                "relevance": 0.874763,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Democracia"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.992893,
+                "label": "/finance/investing/funds"
+            },
+            {
+                "score": 0.910705,
+                "label": "/society/work"
+            },
+            {
+                "score": 0.902322,
+                "label": "/society/work/unemployment"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.5089615000000001
+    },
+    "text": "Nestes tempos de reforma, faria bem à democracia rever as regras sobre diversos gastos financiados com recursos compulsoriamente arrecadados da sociedade.  Atualmente, cerca de 92% do orçamento federal é determinado por normas legais.  Caso o governo resolvesse nada gastar dos 8% restantes, incluindo as despesas mais corriqueiras que permitem o funcionamento da máquina pública, a economia seria de cerca de R$ 90 bilhões, pouco mais da metade do deficit previsto para este ano, a maior parte decorrente das despesas com Previdência, que irão aumentar com o envelhecimento da população nas regras atuais para aposentadoria.  Além disso, existem muitos programas realizados com recursos arrecadados da sociedade que nem mesmo são incluídos no Orçamento.  Os exemplos são muitos. Existem recursos arrecadados compulsoriamente destinados a entidades privadas, como no caso dos sindicatos e federações, de trabalhadores e de empresas, cujos balanços ao menos deveriam ser avaliados por auditores independentes.  Existem também recursos destinados a fundos, como o FAT e o FGTS, geridos por conselhos com representantes do governo e do setor privado. Os exemplos se multiplicam no governo federal e nos Estados.  Além disso, desde o fim da década passada, foram criados diversos mecanismos que permitiram a expansão do gasto público sem a devida transparência sobre os seus custos e benefícios.  Um exemplo é o Fies. O desembolso não afeta o gasto primário, mas a inadimplência é paga pelo Tesouro posteriormente, ainda que não prevista pelo Orçamento.  Outro exemplo é o Programa de Sustentação do Investimento, criado em 2009. O BNDES passou a conceder novas modalidades de crédito subsidiado, financiadas com recursos do Tesouro, que, porém, apenas reconhece a sua dívida com o banco dois anos depois da concessão. Primeiro o gasto, depois a sua inclusão no Orçamento. Em 2015 esse prazo foi reduzido para seis meses.  O Tesouro concedeu aval para dívidas dos governos estaduais, que ofereciam garantias para o caso de inadimplência. Recentemente, porém, o STF deu liminar suspendendo as garantias do Rio de Janeiro, comprometendo os recursos da União. Melhor que o Tesouro não conceda aval, e que os Estados obtenham empréstimos apenas pelos seus próprios méritos.  Dessa forma, diversos gastos são financiados com recursos compulsoriamente arrecadados da sociedade sem a análise transparente dos seus impactos e decididos por normas legais ou pela tecnocracia, frequentemente concedendo benefícios a grupos de interesse. A retomada da competência do Congresso em deliberar sobre o orçamento público beneficiaria a democracia.",
+    "title": "Vamos falar sobre o Orçamento?",
+    "category": "colunas",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/colunas/marcos-lisboa/2017/03/1867729-vamos-falar-sobre-o-orcamento.shtml"
+}

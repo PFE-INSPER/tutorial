@@ -1,0 +1,202 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 2,
+            "text_characters": 12187,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.361901,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "novo golpe",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.564792,
+                "count": 1
+            },
+            {
+                "text": "primeira faculdade da recém",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.557107,
+                "count": 1
+            },
+            {
+                "text": "atual reitoria",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.534209,
+                "count": 2
+            }
+        ],
+        "entities": [
+            {
+                "type": "Location",
+                "text": "Hungria",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.949301,
+                "count": 6,
+                "confidence": 1.0
+            },
+            {
+                "type": "JobTitle",
+                "text": "professores",
+                "sentiment": {
+                    "score": 0,
+                    "mixed": "1",
+                    "label": "neutral"
+                },
+                "relevance": 0.781561,
+                "count": 19,
+                "confidence": 1
+            },
+            {
+                "type": "Organization",
+                "text": "Unifieo",
+                "sentiment": {
+                    "score": 0.617611,
+                    "label": "positive"
+                },
+                "relevance": 0.589271,
+                "count": 5,
+                "confidence": 0.999425
+            },
+            {
+                "type": "Person",
+                "text": "Silva",
+                "sentiment": {
+                    "score": 0.688814,
+                    "label": "positive"
+                },
+                "relevance": 0.581152,
+                "count": 9,
+                "confidence": 1
+            },
+            {
+                "type": "JobTitle",
+                "text": "docentes",
+                "sentiment": {
+                    "score": 0.617611,
+                    "label": "positive"
+                },
+                "relevance": 0.459848,
+                "count": 2,
+                "confidence": 0.983375
+            },
+            {
+                "type": "Person",
+                "text": "Maria Regina",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.448436,
+                "disambiguation": {
+                    "name": "Maria_Regina_Marcondes_Pinto",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/Maria_Regina_Marcondes_Pinto"
+                },
+                "count": 2,
+                "confidence": 0.999998
+            },
+            {
+                "type": "Person",
+                "text": "Costa",
+                "sentiment": {
+                    "score": 0.688814,
+                    "label": "positive"
+                },
+                "relevance": 0.44095,
+                "count": 7,
+                "confidence": 1
+            },
+            {
+                "type": "Duration",
+                "text": "muitos anos",
+                "sentiment": {
+                    "score": 0.617611,
+                    "label": "positive"
+                },
+                "relevance": 0.378961,
+                "count": 2,
+                "confidence": 0.801188
+            },
+            {
+                "type": "Date",
+                "text": "1967",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.325079,
+                "count": 2,
+                "confidence": 0.990809
+            },
+            {
+                "type": "Number",
+                "text": "14 mil",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.311055,
+                "count": 2,
+                "confidence": 0.96
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Aula",
+                "relevance": 0.983369,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Aula"
+            },
+            {
+                "text": "Tribunal Regional do Trabalho",
+                "relevance": 0.947559,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Tribunal_Regional_do_Trabalho"
+            },
+            {
+                "text": "Ministério Público",
+                "relevance": 0.944246,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Ministério_Público"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.732286,
+                "label": "/education/school"
+            },
+            {
+                "score": 0.685905,
+                "label": "/education/teaching and classroom resources"
+            },
+            {
+                "score": 0.640605,
+                "label": "/education/teaching and classroom resources/school supplies"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.6024691111111111
+    },
+    "text": "Tudo parecia ter dado certo para os cinco amigos que em 1967 resolveram abrir a primeira faculdade da recém-criada cidade de Osasco (SP).  De uma única sala com 118 alunos, chegaram a 14 mil em três campi em 2006. O Unifieo (Centro Universitário Fieo) tinha então 40 cursos aprovados e os docentes mais bem pagos da região.  Tudo hoje parece ter dado errado para os colegas e para a empreitada, que completa 50 anos em outubro.  Dos 5 fundadores, 2 morreram e um terceiro processa os 2 restantes -dos quais um renunciou em janeiro.  Endividada, a escola demitiu 180 professores em sete meses, mais de 100 por justa causa —em julgamento no Tribunal Regional do Trabalho.  No Ministério Público correm dois pedidos de intervenção.  Dos cerca de 6.000 matriculados em 2016, só um terço continuava a frequentar as aulas neste semestre.  Oito cursos foram fechados; só 11 têm ingressantes.  SUCESSO FATAL  Para entender como em apenas uma década a instituição passou do céu ao inferno, a Folha entrevistou fundadores ou seus representantes, professores, ex-alunos, entidades de classe patronais e sindicais e a atual reitoria.  São partes com interesses diferentes, até divergentes, mas uma avaliação é comum: o vírus que abateu a escola foi inoculado pelos próprios amigos já na inauguração.  Os fundadores combinaram um revezamento nos principais cargos, para que todos se envolvessem e assumissem responsabilidades, diz Luiz Fernando da Costa e Silva, 84, único ainda na ativa.  Era um arranjo que funcionava numa escola pequena, erguida com o apoio de Amador Aguiar, que instalava ali ao lado a sede do Bradesco.  O banqueiro ajudou os sócios no primeiro prédio e na biblioteca, deu aval ao projeto no MEC, sugeriu um curso de administração e incentivou a inscrição de funcionários e seus filhos.  Sem concorrentes, com ajuda de peso e fundadores respeitados na área do direito, a escola cresceu rápido. E foi aí que começou a ruir.  Entrou muito dinheiro, veio prestígio, e o que era revezamento se transformou em disputa, relata Maria Regina, filha de Luís Carlos de Azevedo, morto em 2011.  De batalha, virou guerra na Justiça. José Maria de Mello Freire tentou afastar Costa e Silva e José Cassio Soares Hungria, acusando-os de gestão temerária e nepotismo.  O caso ainda tramita, mas o acusador foi condenado a indenizar Hungria e afastado da instituição. A Folha procurou Mello Freire e seu advogado, mas não conseguiu entrevistá-los.  A essa altura, Descio Mendes Pereira, o único dos cinco que não estudara direito na USP, já havia morrido (seu filho, Carlos Alberto, ainda representa o pai, mas não respondeu ao pedido de entrevista).  Azevedo se afastara por dez anos para assumir como juiz. \"Quando voltou, os outros se consideravam mais donos que ele\", diz a filha.  Maria Regina participou da direção do centro universitário até 2014 e diz ter sido boicotada por Costa e Silva e Hungria.  \"Ele não tinham uma boa relação. Quando um assumia, trocava toda a equipe.\"  Foi o caso, por exemplo, da professora Sandra Regina Petroncare: em 2013 virou coordenadora a convite de Hungria. Em 2014, Costa Silva a depôs do cargo. Em 2015, reassumiu.  Enquanto os sócios brigavam, grandes grupos internacionais do ensino superior passaram a disputar -e abocanhar- a freguesia.  SALÁRIOS DE R$ 75 MIL  Em novo golpe, o Unifieo teve seu status de entidade filantrópica questionado. Embora ofereça serviços de saúde e educação gratuitos, além de bolsas de estudo, perdeu a isenção tributária sob suspeita de que os instituidores tinham lucro.  Inquérito civil atribui a Costa e Silva e a Hungria salários de R$ 74.958,87. Ao menos seis filhos e sobrinhos dos fundadores também são relacionados com salários de dois dígitos.  \"O salário nunca chegou a R$ 75 mil. Recebíamos porque éramos professores e diretores. O INSS agiu de má-fé. Trabalhar de graça não dá\", diz Costa e Silva.  Trabalhar de graça, porém, foi o que começou a agastar os docentes.  Durante muitos anos, o Unifieo se orgulhara de ter bons e bem pagos professores, que recebiam até R$ 150/hora (valor semelhante ao que se ganha hoje em instituições de ponta como o Insper ou a FGV).  Mas, no final de 2015, os salários começaram a atrasar.  Raio-x financeiro - Contas fecharam no vermelho em 2016  Em julho do ano passado, 60 professores —a maioria com muitos anos de casa e salários mais altos– foram dispensados sem pagamento das verbas rescisórias. Ainda hoje, tentam recebê-las na Justiça.  Em agosto o Unifieo parou totalmente de pagar os professores. Parte deles, incluindo Sandra Petroncare, entrou em greve em novembro.  Em fevereiro, mais de 100 foram demitidos por justa causa, logo após a renúncia de Hungria, cuja carta alfineta o ex-colega: \"Sinto-me de mãos atadas. Ceifaram a minha autonomia para atuar.\"  \"O dr. Hungria ficou muito cansado. Não está disposto a enfrentar o trabalho duro\", afirmou Costa e Silva.  Hungria não respondeu a pedido de entrevista. Mariana, filha do fundador, disse que ele discordava dos rumos tomados pela administração e que, aos 84 anos e doente, não se viu mais em condições de atuar.  CAVALO DE BATALHA  Foi a nova reitoria, formada por professores e empossada em dezembro, que levou a cabo a demissão por justa causa.  Franco Cocuzza, pró-reitor de Relações Comunitárias, diz que a causa foi o não fechamento das notas, que prejudicava os alunos. \"Tenho obrigação com meu consumidor. Não dispensamos grevistas, mas profissionais que abandonaram o trabalho.\"  Seis professores demitidos ouvidos pela Folha elogiaram o centro universitário, mas se consideram desrespeitados por declarações duras de Cocuzza.  5 AMIGOS, 50 ANOS E UMA ENCRUZILHADA - Ascensão e queda de uma faculdade paulista A situação piorou quando o vice-reitor, questionado por um canal local de TV sobre o fato de professores demitidos estarem passando por dificuldades, afirmou: \"O Unifieo não tem dedicação exclusiva. Se o docente quer trabalhar só lá, é problema dele\".  Professores que haviam investido na carreira na escola se consideraram ofendidos.  \"Ministrava seis disciplinas, fiz mestrado, fui promovido a coordenador de estágios, era valorizado e, de um dia para o outro, a escola diz que o erro é meu se me dediquei apenas a ela\", afirma Ernesto Araújo, 54.  Professor do curso de comércio exterior, o ex-gerente de grandes redes de varejo foi também consultor, mas deixou as atividades para assumir a docência.  \"Adorava dar aula, queria ficar mais 15 ou 20 anos no Unifieo. O problema é a atual reitoria, que não tem sensibilidade.\"  Como Araújo, o professor de marketing Fábio Cássio, 43, também perdeu a única fonte de renda.  Casado e pai de um filho de 12 anos, ele deixou o trabalho em grandes empresas para se dedicar exclusivamente ao Unifieo desde 2013 —antes disso, trabalhava no mercado de dia e dava aulas à noite.  Fez mestrado e está concluindo o doutorado. \"Fui estudar, evoluir, para compartilhar o conhecimento com os alunos\", diz ele, que gastou em janeiro os últimos recursos da venda de seu carro.  Sandra Petroncare, que dá aulas também na FGV-Online e na Escola de Seguros, está entre os demitidos que organiza um novo fundo de greve para ajudar os que passam por maiores dificuldades.  \"Uns estavam adotando crianças e perderam o processo, alguns faziam tratamento para gravidez e precisaram interromper, professores com depressão, acamados, precisaram ser socorridos às pressas porque pensavam em se suicidar\", afirma Cássio.  Além da perda financeira, ficaram sem convênio médico e sem perspectivas. \"O fato de termos sido injustamente demitidos por justa causa praticamente nos impossibilita de arrumar outra vaga.\"  Desde que a questão foi parar na Justiça do Trabalho, houve duas audiências de conciliação, sem acordo. Na última quarta (15), o procurador regional do Trabalho William Bedone juntou ao processo parecer dando razão aos demitidos.  Ele também criticou a atitude da nova reitoria, que abriu concurso para contratar substitutos para os demitidos. Segundo o procurador, se o Unifieo argumenta não ter recursos para honrar as obrigações trabalhistas, não poderia selecionar novos profissionais.  \"Os novos professores também não vão receber, mas estão felizes em ser contratados\", afirmou Cocuzza em entrevista.  Costa e Silva afirma ser \"um abalo muito grande\" deixar de pagar os professores, mas critica \"um grupo de grevistas que quer tomar a instituição, assumir em cima dos escombros, como salvadores da pátria\".  Já os professores acreditam que a nova gestão endureceu nas negociações para ganhar tempo, enquanto aguarda o efeito de decisão do STF sobre instituições filantrópicas que, na hipótese mais positiva, poderia desbloquear recursos da instituição.  o garrote das dívidas - Escola espera desbloqueio de imóveis para equilibrar situação  ABUTRES  O aparente beco sem saída atraiu propostas de compra, consideradas aviltantes por Costa e Silva. Segundo ele, os investidores se interessam apenas pela carteira de estudantes —\"no mercado, fala-se um um valor de R$ 6.000 por cabeça\"— e não se importam com qualidade de ensino.  \"Não vamos vender nossos alunos como se vende gado.\"  O problema é que a disputa tributária com a Receita e o INSS deixou bloqueados os imóveis da instituição, que não puderam mais ser oferecidos como garantia. Sem garantia, o crédito bancário secou, agravando as finanças.  A nova reitoria conseguiu negociar com o Bradesco um alongamento de vencimento, para 2023, de um empréstimo no valor de R$ 11 milhões, mas novos recursos não estão disponíveis.  Costa e Silva afirma que a recessão e o desemprego foram causas importantes para as atuais dificuldades. Para o diretor-executivo da Associação Brasileira de Mantenedoras de Ensino Superior, Sólon Caldas, porém, a situação do Unifieo é \"um caso isolado\".  Avaliação semelhante tem o sindicato dos professores (Sinpro-Osasco): \"Algumas faculdades foram compradas e se reestruturaram, mas em crise como o Unifieo só ele está\".  O futuro da instituição, que formou mais de 55 mil bacharéis, é incerto.  No começo deste ano, instituições rivais chegaram a distribuir na porta do Unifieo folhetos convidando os alunos da escola a se transferirem. A mais explícita foi a UMC, que está sendo processada.  A reitoria fez campanhas para tentar reconquistar estudantes e na quarta (15), registrava 2.463 matrículas.  Em comunicado divulgado ao tomar posse, o novo reitor, Edmo Alves Menini, propôs modernizar a faculdade e fazê-la \"renascer fortalecida, revigorada\".  \"Vamos redesenhar, ficar pequenos, mas crescer novamente\", prevê Cocuzza.  \"Espero que, no futuro, estejamos formando os bisnetos e tataranetos de nossos primeiros alunos. Os filhos e netos, nós já formamos\", diz Costa Neto.  5 AMIGOS, 50 ANOS, UMA ENCRUZILHADA Ascensão e queda de uma faculdade paulista  * 1967 - fundação da faculdade de direito * 1972 - abertura da segunda faculdade, de administração * 1978 - construção do primeiro prédio * 1983 - morre Descio Mendes Pereira * 1985 - compra de faculdade no Brás, ampliação para 7 cursos * 1988 - construção do segundo prédio * 1992 - começa a construção do maior campus * 1998 - transformação em centro universitário * - mudança na isenção tributária de entidades beneficentes * 2000 - 40 cursos aprovados * - chegada de outras faculdades à região * 2004 - atinge o pico de 14 mil alunos * 2005 - José Maria de Mello Freire começa disputa jurídica com outros instituidores da fundação * 2007 - grandes grupos globais de ensino superior se instalam no Brasil * 2009 - crise global * 2010 - ampliação do Fies * 2011 - morre Luiz Carlos de Azevedo * 2015 - começam atrasos de salário * 2016 -julho - demissão de 60 professores * -agosto - paralisação nos pagamentos dos professores * -novembro - greve dos professores * -dezembro - posse na nova reitoria * 2017 -janeiro - renúncia de José Cassio Soares Hungria * -fevereiro - demissão de cerca de 120 professores por justa causa * -março - 8 cursos suspensos, 26 cursos mantidos (23 deles, noturnos), 11 cursos com turmas ingressantes - no dia 31, o TRT julgou a greve não abusiva e ordenou que o Unifieo recontrate os professores demitidos * -julho - Ministério Público pediu intervenção no Unifieo",
+    "title": "Discórdia e gestão errada minam sonho de cinco amigos após 50 anos",
+    "category": "educacao",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/educacao/2017/03/1867842-discordia-e-gestao-errada-minam-sonho-de-cinco-amigos-apos-50-anos.shtml"
+}

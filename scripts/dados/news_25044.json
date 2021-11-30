@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 3085,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.325444,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "longas posteriores",
+                "sentiment": {
+                    "score": 0.657455,
+                    "label": "positive"
+                },
+                "relevance": 0.66185,
+                "count": 1
+            },
+            {
+                "text": "M. Night Shyamalan",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.597625,
+                "count": 1
+            },
+            {
+                "text": "filme original",
+                "sentiment": {
+                    "score": 0.657455,
+                    "label": "positive"
+                },
+                "relevance": 0.59476,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "JobTitle",
+                "text": "diretor",
+                "sentiment": {
+                    "score": -0.61471,
+                    "label": "negative"
+                },
+                "relevance": 0.952007,
+                "count": 5,
+                "confidence": 1
+            },
+            {
+                "type": "Person",
+                "text": "Shyamalan",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.891622,
+                "count": 2,
+                "confidence": 0.999986
+            },
+            {
+                "type": "JobTitle",
+                "text": "Cineastas",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.784144,
+                "count": 1,
+                "confidence": 0.899017
+            },
+            {
+                "type": "Person",
+                "text": "Night Shyamalan",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.769331,
+                "count": 1,
+                "confidence": 0.537967
+            },
+            {
+                "type": "JobTitle",
+                "text": "cineasta",
+                "sentiment": {
+                    "score": 0.508445,
+                    "label": "positive"
+                },
+                "relevance": 0.7423,
+                "count": 2,
+                "confidence": 0.999433
+            },
+            {
+                "type": "JobTitle",
+                "text": "executivos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.720155,
+                "count": 1,
+                "confidence": 0.896638
+            },
+            {
+                "type": "Money",
+                "text": "US$ 9 milhões",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.627621,
+                "count": 1,
+                "confidence": 0.955221
+            },
+            {
+                "type": "Money",
+                "text": "US$ 250 milhões",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.612762,
+                "count": 1,
+                "confidence": 0.982315
+            },
+            {
+                "type": "JobTitle",
+                "text": "roteirista",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.533539,
+                "count": 2,
+                "confidence": 0.999694
+            },
+            {
+                "type": "Person",
+                "text": "Spielberg",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.526992,
+                "count": 1,
+                "confidence": 0.998776
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Filme",
+                "relevance": 0.972077,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Filme"
+            },
+            {
+                "text": "O Sexto Sentido",
+                "relevance": 0.969398,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/O_Sexto_Sentido"
+            },
+            {
+                "text": "Personalidade",
+                "relevance": 0.940024,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Personalidade"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.777671,
+                "label": "/art and entertainment/movies and tv/movies"
+            },
+            {
+                "score": 0.742902,
+                "label": "/art and entertainment/movies and tv/movies/reviews"
+            },
+            {
+                "score": 0.694114,
+                "label": "/art and entertainment/movies and tv/action"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 2.1287593125
+    },
+    "text": "Cineastas com ideias originais são vistos como inimigos em Hollywood. M. Night Shyamalan, 46, sentiu isso quando emplacou uma série de sucessos no início da carreira.  Após ser comparado com Spielberg por \"O Sexto Sentido\" (1999) e de seguir gerando grandes bilheterias com \"Sinais\" e \"A Vila\", o diretor e roteirista viu executivos comemorarem o fracasso de \"A Dama na Água\" (2006) e de seus três longas posteriores.  \"Um filme original precisa ter um nível máximo de excelência, senão ele desaparecerá. Longas como '50 Tons de Cinza' podem ser bons ou ruins, porque as pessoas irão ver de qualquer jeito\", diz Shyamalan à Folha, dias antes da estreia americana de \"Fragmentado\"  O lançamento marca a volta do diretor ao primeiro time: o projeto foi feito por US$ 9 milhões (pouco na escala hollywoodiana) e já rendeu cerca de US$ 250 milhões.  É o segundo projeto seguido do cineasta sem grandes investimentos e com altos lucros –o anterior foi \"A Visita\" (2015). \"Estou gostando de filmar longas mais contidos e de baixo orçamento\", afirma o diretor.  \"Não preciso comprometer minhas ideias, posso seguir meus instintos mais loucos e posso contratar quem eu quiser sem a interferência do estúdio. Fazer isso com orçamento de US$ 100 milhões? Impossível.\"  \"Fragmentado\" é a história de um homem (James McAvoy) que possui 23 personalidades diferentes e sequestra garotas para sacrificá-las em nome de um monstro. \"Deixe o sobrenatural e o fantástico de lado e você verá que é um drama sobre abuso. O que acontece quando alguém que foi abusado vira o vilão e encontra outra vítima?\", pergunta ele.  Mas o filme vai além do horror psicológico. É o segundo de uma trilogia temática iniciada com \"Corpo Fechado\" (2000), que por sua vez teria originado um super-herói imbatível (Bruce Willis).  \"Boa parte das cenas de 'Fragmentado' foi escrita há 15 anos. Sempre vi esse universo como uma trilogia, mas apenas no tema. Cada longa tem vida própria\", conta Shyamalan, que já está escrevendo o terceiro capítulo e cita a \"Trilogia das Cores\", de Kieślowski, como inspiração. \"Hoje, só acho diversidade no cinema em filmes antigos ou nos estrangeiros.\"  SARCASMO  A ascensão da Marvel também ajudou o diretor a lançar \"Fragmentado\", que é um estudo de um vilão. \"Temos o humor sarcástico que o público passou a apreciar quando Robert Downey Jr. fez o primeiro 'Homem de Ferro'. Já a Warner ainda não entendeu essa tendência e está fazendo filmes mais sisudos\", provoca o cineasta.  \"Com os fracassos, me perguntei o que o público queria e passei a me concentrar na minha originalidade. Não quero ver Wes Anderson ou Woody Allen fazendo filmes de estúdio\", diz.  Nascido na Índia e morador da Filadélfia desde criança, o diretor nunca quis se transferir para Los Angeles. \"Como roteirista, sinto que preciso estar em um lugar especial e com significado. Como ninguém faz cinema na Filadélfia, ela ainda é mágica para mim. Sou impressionável e tenho uma personalidade muito fraca. Se alguém fala que não deveria fazer tal filme, tendo a acreditar. \"  O jornalista viajou a convite da Universal",
+    "title": "Cineasta de 'O Sexto Sentido' volta à elite de Hollywood com 'Fragmentado'",
+    "category": "ilustrada",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/ilustrada/2017/03/1867778-cineasta-de-o-sexto-sentido-volta-a-elite-de-hollywood.shtml"
+}

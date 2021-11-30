@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 2139,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.608017,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "presidente Michel Temer",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.8148,
+                "count": 1
+            },
+            {
+                "text": "presidentes da Abiec",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.640569,
+                "count": 1
+            },
+            {
+                "text": "produção de proteína animal",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.613865,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "JobTitle",
+                "text": "presidente",
+                "sentiment": {
+                    "score": -0.81671,
+                    "label": "negative"
+                },
+                "relevance": 0.951685,
+                "count": 4,
+                "confidence": 1.0
+            },
+            {
+                "type": "Person",
+                "text": "Michel Temer",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.885807,
+                "count": 1,
+                "confidence": 0.991971
+            },
+            {
+                "type": "JobTitle",
+                "text": "ministro da Agricultura",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.876697,
+                "count": 1,
+                "confidence": 0.479567
+            },
+            {
+                "type": "Person",
+                "text": "Blairo Maggi",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.870641,
+                "count": 1,
+                "confidence": 0.982269
+            },
+            {
+                "type": "Facility",
+                "text": "Palácio do Planalto",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.85892,
+                "count": 1,
+                "confidence": 0.858466
+            },
+            {
+                "type": "Organization",
+                "text": "Operação Carne Fraca",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.834373,
+                "count": 1,
+                "confidence": 0.628223
+            },
+            {
+                "type": "Organization",
+                "text": "Abiec (Associação Brasileira das Indústrias Exportadoras de Carne",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.719249,
+                "count": 1,
+                "confidence": 0.285509
+            },
+            {
+                "type": "Person",
+                "text": "Antonio Camardelli",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.703692,
+                "count": 1,
+                "confidence": 0.927779
+            },
+            {
+                "type": "Person",
+                "text": "Temer",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.703068,
+                "count": 2,
+                "confidence": 1.0
+            },
+            {
+                "type": "Organization",
+                "text": "ABPA",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.698055,
+                "count": 1,
+                "confidence": 0.918982
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Carne",
+                "relevance": 0.991826,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Carne"
+            },
+            {
+                "text": "União Europeia",
+                "relevance": 0.953563,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/União_Europeia"
+            },
+            {
+                "text": "Michel Temer",
+                "relevance": 0.936009,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Michel_Temer"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.699368,
+                "label": "/food and drink/food"
+            },
+            {
+                "score": 0.674194,
+                "label": "/business and industrial/agriculture and forestry/agriculture"
+            },
+            {
+                "score": 0.628786,
+                "label": "/law, govt and politics"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.777238
+    },
+    "text": "O presidente Michel Temer convocou o ministro da Agricultura, Blairo Maggi, para uma reunião no Palácio do Planalto neste domingo (19), às 14h, para discutir os impactos da Operação Carne Fraca, que desbaratou um esquema de corrupção envolvendo frigoríficos e agentes de fiscalização sanitária do governo. Na sequência, Temer deve receber associações de exportadores.  Também participam representantes do setor do agronegócio, especialmente da produção de proteína animal, como os presidentes da Abiec (Associação Brasileira das Indústrias Exportadoras de Carne), Antonio Camardelli, da ABPA (Associação Brasileira da Proteína Animal), Francisco Turra, além do presidente da CNA (Confederação Nacional da Agricultura), João Martins.  O Brasil é o maior exportador de carnes do mundo, e o presidente está preocupado com o impacto dessa operação. Por isso, já está marcada uma reunião com embaixadores que representam os países que mais importam proteína animal do Brasil.  Temer quer esclarecer todos os pontos da operação e mostrar que o país cumpre os mais elevados padrões de controle fitossanitário.  A operação da PF mostrou um esquema de corrupção liderado por servidores do Ministério da Agricultura responsáveis pelo controle sanitário de frigoríficos.  Em um fabricante de menor porte, no Paraná, os policiais descobriram até mesmo o uso de produtos proibidos para \"recuperar\" carnes estragadas. Houve casos de uso de carne de cabeça de porco em salsichas e de substâncias cancerígenas.  O presidente não quer que esses casos, considerados pontuais por sua equipe, causem estragos aos acordos que o país levou anos para fechar com os EUA e a UE (União Europeia). Já há sinais de que esses países querem fechar portas para as carnes vendidas pelo Brasil.  Em julho passado, o país fechou acordo com os EUA para a venda de carne bovina, uma negociação que se estendia desde 1999. Nesta sexta (17), o Serviço de Segurança e Inspeção de Alimentos dos EUA acionou o Ministério da Agricultura.  Em 2000, o Brasil teve problemas parecidos quando foram descobertos casos de febre aftosa. As exportações chegaram a ser suspensas parra a UE.",
+    "title": "Temer convoca reunião para discutir impactos da crise da carne",
+    "category": "mercado",
+    "data": "2017-03-18",
+    "link": "http://www1.folha.uol.com.br/mercado/2017/03/1867776-temer-convoca-reuniao-para-discutir-impactos-da-crise-da-carne.shtml"
+}
