@@ -1,4 +1,4 @@
-# Tutorial pra criação de um chatbot com análise exploratória utilizando ferramentas da IBM 
+# Tutorial para criação de um chatbot com análise exploratória utilizando ferramentas da IBM 
 
 <!-- ## Exploração de dados textuais abertos usando IBM Watson -->
 
