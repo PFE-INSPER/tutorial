@@ -1,0 +1,2893 @@
+{
+    "intents": [
+        {
+            "intent": "General_About_You",
+            "examples": [
+                {
+                    "text": "Como você se descreve?"
+                },
+                {
+                    "text": "Este agente foi construído usando processamento de linguagem natural?"
+                },
+                {
+                    "text": "Estou procurando uma solução para melhorar o meu engajamento com o cliente usando este agente virtual."
+                },
+                {
+                    "text": "Eu preciso da informação sobre o preço do Watson."
+                },
+                {
+                    "text": "Há quanto tempo você tem desempenhado essa função?"
+                },
+                {
+                    "text": "Me diga três coisas sobre você."
+                },
+                {
+                    "text": "Quais são os seus apelidos?"
+                },
+                {
+                    "text": "Qual a sua idade?"
+                },
+                {
+                    "text": "Quero configurar saudações aqui."
+                },
+                {
+                    "text": "Quero entender como você trabalha."
+                },
+                {
+                    "text": "Quero o documento de requisitos do sistema para esse agente."
+                },
+                {
+                    "text": "Você fala Francês?"
+                },
+                {
+                    "text": "Você sabe quem você é?"
+                },
+                {
+                    "text": "Você tem um nome?"
+                }
+            ],
+            "description": "Solicite atributos pessoais genéricos."
+        },
+        {
+            "intent": "General_Ending",
+            "examples": [
+                {
+                    "text": "Ainda não terminou?"
+                },
+                {
+                    "text": "Com licença, tenho que ir agora"
+                },
+                {
+                    "text": "Desculpe ter ocupado tanto do seu tempo. Eu sei que estamos os dois ocupados e acho que tenho que dizer tchau por ora.."
+                },
+                {
+                    "text": "Estou cansado de digitar agora. Obrigado e adeus"
+                },
+                {
+                    "text": "Estou indo embora."
+                },
+                {
+                    "text": "Eu estou indo agora. Tenha um bom dia. Tchau"
+                },
+                {
+                    "text": "Eu preciso correr porque acabei de notar que estou atrasado para o meu próximo compromisso"
+                },
+                {
+                    "text": "Falo contigo depois. Tchau"
+                },
+                {
+                    "text": "Me tire daqui."
+                },
+                {
+                    "text": "Muito obrigado pelo seu tempo. Me desculpe, mas eu tenho que ir. Até logo!"
+                },
+                {
+                    "text": "Obrigada, tchau!"
+                },
+                {
+                    "text": "Obrigado pela sua ajuda, mas ainda estou confuso…tchau"
+                },
+                {
+                    "text": "Obrigado por responder todas as minhas perguntas. Tchau"
+                },
+                {
+                    "text": "Ok, isso é tudo que eu preciso para agora."
+                },
+                {
+                    "text": "pare esta sessão agora..Tchau"
+                },
+                {
+                    "text": "Quero encerrar a conversa, obrigado."
+                },
+                {
+                    "text": "Te desejo o melhor de sorte..Tchau"
+                },
+                {
+                    "text": "Tudo bem, eu tenho tudo o que eu precisava"
+                },
+                {
+                    "text": "Vamos dar uma pausa e tentar novamente mais tarde..Tchau"
+                },
+                {
+                    "text": "Vejo você mais tarde."
+                },
+                {
+                    "text": "Você foi de pouca ajuda, por isso não quero falar com você mais, tchau"
+                },
+                {
+                    "text": "Volto mais tarde."
+                },
+                {
+                    "text": "Vou sair agora. Tchau"
+                }
+            ],
+            "description": "Termine a conversa."
+        },
+        {
+            "intent": "General_Greetings",
+            "examples": [
+                {
+                    "text": "Boa tarde , você está ai?"
+                },
+                {
+                    "text": "Bom dia, como você está?"
+                },
+                {
+                    "text": "Como estão as coisas aí?"
+                },
+                {
+                    "text": "Ei, você está aí?"
+                },
+                {
+                    "text": "Eu gostaria de conversar com o Watson."
+                },
+                {
+                    "text": "Eu não pedi para falar com um agente. Eu estava falando olá/oi para você"
+                },
+                {
+                    "text": "Eu tenho algumas perguntas, por favor, deixe-me falar primeiro"
+                },
+                {
+                    "text": "Meu querido amigo que prazer é falar com você se você pudesse imaginar"
+                },
+                {
+                    "text": "Obrigado só pensei de dar um oi como seu nome apareceu"
+                },
+                {
+                    "text": "Olá, pode me ajudar?"
+                }
+            ],
+            "description": "Cumprimente o robô."
+        },
+        {
+            "intent": "General_Human_or_Bot",
+            "examples": [
+                {
+                    "text": "Como eu posso conversar com o Watson?"
+                },
+                {
+                    "text": "Como você pode provar que é humano?"
+                },
+                {
+                    "text": "Com quem estou falando?"
+                },
+                {
+                    "text": "Diga-me, você é humano ou não?"
+                },
+                {
+                    "text": "Estou conversando com uma pessoa ou com uma IA?"
+                },
+                {
+                    "text": "Estou conversando com um humano?"
+                },
+                {
+                    "text": "Estou conversando com um robô?"
+                },
+                {
+                    "text": "Eu estou conversando com o Watson?"
+                },
+                {
+                    "text": "Isso é um computador?"
+                },
+                {
+                    "text": "Quem é você?"
+                },
+                {
+                    "text": "Quem é você, realmente?"
+                },
+                {
+                    "text": "Você é humano?"
+                },
+                {
+                    "text": "Você é real?"
+                },
+                {
+                    "text": "Você é real, pelo menos?"
+                },
+                {
+                    "text": "Você é uma pessoa real ou um robô?"
+                },
+                {
+                    "text": "Você é um homem ou uma mulher?"
+                },
+                {
+                    "text": "Você é um humano ou um robô?"
+                },
+                {
+                    "text": "Você pode ser honesto comigo?"
+                }
+            ],
+            "description": "Pergunte se está falando com um humano ou um robô."
+        },
+        {
+            "intent": "General_Negative_Feedback",
+            "examples": [
+                {
+                    "text": "Por que você é retardado?"
+                },
+                {
+                    "text": "Porra, como posso falar com uma pessoa real?"
+                },
+                {
+                    "text": "Seja bom uma vez na vida."
+                },
+                {
+                    "text": "Sua mãe."
+                },
+                {
+                    "text": "Tchau, vagabunda."
+                },
+                {
+                    "text": "Todo mundo te odeia."
+                },
+                {
+                    "text": "Uma experiência horrível, com certeza!"
+                },
+                {
+                    "text": "Vá para a puta que pariu!"
+                },
+                {
+                    "text": "Vá para o inferno!"
+                },
+                {
+                    "text": "Vá se foder!"
+                },
+                {
+                    "text": "Você é burro."
+                },
+                {
+                    "text": "Você é chato?"
+                },
+                {
+                    "text": "Você é espertinho?"
+                },
+                {
+                    "text": "Você é ruim mesmo?"
+                },
+                {
+                    "text": "Você está fora de si?"
+                },
+                {
+                    "text": "Você está me entediando."
+                },
+                {
+                    "text": "Você é uma piada?"
+                },
+                {
+                    "text": "Você não vale nada."
+                }
+            ],
+            "description": "Expresse feedback desfavorável."
+        },
+        {
+            "intent": "General_Positive_Feedback",
+            "examples": [
+                {
+                    "text": "É muito louco o que um robô pode fazer."
+                },
+                {
+                    "text": "Espero trabalhar com você novamente."
+                },
+                {
+                    "text": "Estou impressionado com você."
+                },
+                {
+                    "text": "Estou pegando a manha disso."
+                },
+                {
+                    "text": "Eu gostei do que você fez aí."
+                },
+                {
+                    "text": "Genial! Isso é exatamente o que eu pensei."
+                },
+                {
+                    "text": "Gostei muito do seu trabalho."
+                },
+                {
+                    "text": "Incrível como você é bom!"
+                },
+                {
+                    "text": "Isso é divertido."
+                },
+                {
+                    "text": "Isso é muito legal."
+                },
+                {
+                    "text": "Muito bom, obrigado."
+                },
+                {
+                    "text": "Muito inteligente."
+                },
+                {
+                    "text": "Muito obrigado."
+                },
+                {
+                    "text": "Ótimo!"
+                },
+                {
+                    "text": "Você detonou."
+                },
+                {
+                    "text": "Você é adorável."
+                },
+                {
+                    "text": "Você é demais."
+                },
+                {
+                    "text": "Você é inteligente."
+                },
+                {
+                    "text": "Você é legal."
+                },
+                {
+                    "text": "Você é o cara."
+                },
+                {
+                    "text": "Você me deu exatamente o que eu precisava."
+                }
+            ],
+            "description": "Exprima sentimento positivo ou gratidão."
+        },
+        {
+            "intent": "PerguntasLivres",
+            "examples": [
+                {
+                    "text": "A ibovespa está em alta?"
+                },
+                {
+                    "text": "Brasil foi bem nas olimpiadas?"
+                },
+                {
+                    "text": "Me diz sobre o mercado automobilístico?"
+                },
+                {
+                    "text": "Onde comer pizza?"
+                },
+                {
+                    "text": "Onde encontro hamburguer?"
+                },
+                {
+                    "text": "Onde posso comer pizza?"
+                },
+                {
+                    "text": "Quem é o presidente do Brasil?"
+                }
+            ],
+            "description": ""
+        },
+        {
+            "intent": "search_entities",
+            "examples": [
+                {
+                    "text": "entidades relacionadas"
+                },
+                {
+                    "text": "pessoas parecidas com"
+                }
+            ],
+            "description": "procura entidades relacionadas ao assunto"
+        },
+        {
+            "intent": "search_noticia",
+            "examples": [
+                {
+                    "text": "Estou interessado em informações disso"
+                },
+                {
+                    "text": "Gostaria de notícias desse lugar"
+                },
+                {
+                    "text": "Gostaria de receber reportagens a respeito "
+                },
+                {
+                    "text": "Gostaria de uma noticia sobre lava jato"
+                },
+                {
+                    "text": "Gostaria de uma reportagem com o tema "
+                },
+                {
+                    "text": "Manda informações desse assunto"
+                },
+                {
+                    "text": "Me envia noticias?"
+                },
+                {
+                    "text": "Me fala mais sobre"
+                },
+                {
+                    "text": "Me fala sobre isso ao longo do tempo"
+                },
+                {
+                    "text": "Me informe sobre essa coisa"
+                },
+                {
+                    "text": "Me manda uma noticia sobre"
+                },
+                {
+                    "text": "Me manda uma noticia sobre "
+                },
+                {
+                    "text": "Noticias sobre"
+                },
+                {
+                    "text": "O que você pode me dizer sobre isso?"
+                },
+                {
+                    "text": "O que você sabe sobre"
+                },
+                {
+                    "text": "Quais a novidades sobre ?"
+                },
+                {
+                    "text": "Quero me informar sobre"
+                },
+                {
+                    "text": "Quero saber mais a respeito de"
+                }
+            ],
+            "description": "Perguntas sobre algum tema específico"
+        },
+        {
+            "intent": "search_politics",
+            "examples": [
+                {
+                    "text": "centro"
+                },
+                {
+                    "text": "direita"
+                },
+                {
+                    "text": "esquerda"
+                },
+                {
+                    "text": "liberal"
+                },
+                {
+                    "text": "socialista"
+                }
+            ],
+            "description": "Procura noticias com espectro politico"
+        },
+        {
+            "intent": "search_resumo",
+            "examples": [
+                {
+                    "text": "Faz um resumão sobre"
+                },
+                {
+                    "text": "Gostaria enxergar essas informações de maneira resumida"
+                },
+                {
+                    "text": "Me diz em poucas palavras o que isso quer dizer"
+                },
+                {
+                    "text": "Me explica o que aconteceu nessa reportagem"
+                },
+                {
+                    "text": "Me fala sobre esse tema  em poucas palavras"
+                },
+                {
+                    "text": "Me fala um pouco sobre"
+                },
+                {
+                    "text": "Me manda as partes mais importantes de noticias sobre"
+                },
+                {
+                    "text": "Me manda um resumo sbre"
+                },
+                {
+                    "text": "Me manda um trecho sobre ?"
+                },
+                {
+                    "text": "O que é importante saber a respeito de "
+                },
+                {
+                    "text": "O que isso tudo quer dizer?"
+                },
+                {
+                    "text": "Quais os pontos principais dessa notócia?"
+                },
+                {
+                    "text": "Quais os tópicos que chamam mais atenção a respeito de "
+                },
+                {
+                    "text": "Resume isso pra mim"
+                },
+                {
+                    "text": "Resumo sbre"
+                },
+                {
+                    "text": "Voce tem um pedaço de reportagen relacionadas?"
+                }
+            ],
+            "description": ""
+        },
+        {
+            "intent": "search_sentimentos",
+            "examples": [
+                {
+                    "text": "As noticias falam mais bem ou mal sobre"
+                },
+                {
+                    "text": "As notícias sobre esse assunto são depreciativas?"
+                },
+                {
+                    "text": "As reportagem estao contra ou a favor de"
+                },
+                {
+                    "text": "As reportagem estao positivas ou negativas sobre?"
+                },
+                {
+                    "text": "Como as noticias julgam "
+                },
+                {
+                    "text": "Como as reportagens caracterizam"
+                },
+                {
+                    "text": "Essas reportagens remetem a tristeza?"
+                },
+                {
+                    "text": " estao bem ou mal falados"
+                },
+                {
+                    "text": "O que acham sobre"
+                },
+                {
+                    "text": "O que as noticia acham"
+                },
+                {
+                    "text": "O que as pessoas pensam sobre"
+                },
+                {
+                    "text": "O que pensam a respeito"
+                },
+                {
+                    "text": "Procurar sentimentos sobre"
+                },
+                {
+                    "text": "Qual a relação com sentimentos depressivos"
+                },
+                {
+                    "text": "Qual opniao sobre"
+                },
+                {
+                    "text": "Qual o ponto de vista das nticias a respeito"
+                },
+                {
+                    "text": "sentimento sobre"
+                }
+            ],
+            "description": ""
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Pronome",
+            "values": [
+                {
+                    "type": "synonyms",
+                    "value": "esse",
+                    "synonyms": [
+                        "essa",
+                        "essas",
+                        "esses"
+                    ]
+                },
+                {
+                    "type": "synonyms",
+                    "value": "este",
+                    "synonyms": [
+                        "esta",
+                        "estas",
+                        "estes"
+                    ]
+                },
+                {
+                    "type": "synonyms",
+                    "value": "isso",
+                    "synonyms": [
+                        "desse",
+                        "disso",
+                        "isto"
+                    ]
+                }
+            ],
+            "fuzzy_match": true
+        },
+        {
+            "entity": "SaudacaoFormal",
+            "values": [
+                {
+                    "type": "synonyms",
+                    "value": "Boa noite",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Boa Tarde",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Bom dia",
+                    "synonyms": [
+                        "Belo dia",
+                        "Bom diaa"
+                    ]
+                }
+            ],
+            "fuzzy_match": true
+        },
+        {
+            "entity": "Organization",
+            "values": [
+                {
+                    "type": "synonyms",
+                    "value": "Odebrecht",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Supremo Tribunal Federal",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Verão do Amor",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "The Voice of Scott McKenzie",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Palmeiras",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Lava Jato",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "governo",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Congresso",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Euromonitor",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Ecovacs",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Abeifa",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "IPI",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Forma Itaim",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Huma Desenvolvimento Imobiliário",
+                    "synonyms": []
+                }
+            ],
+            "fuzzy_match": true
+        },
+        {
+            "entity": "Money",
+            "values": [
+                {
+                    "type": "synonyms",
+                    "value": "R$ 30 mil",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "R$ 90,25",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "R$ 40,81",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "R$ 714,63",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "R$ 1.860",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "R$ 499",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "R$ 30",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "R$ 1.799",
+                    "synonyms": []
+                }
+            ],
+            "fuzzy_match": true
+        },
+        {
+            "entity": "Number",
+            "values": [
+                {
+                    "type": "synonyms",
+                    "value": "19",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "58",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "800",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "231",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "140 mil",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "90 mil",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "416",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "4",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "47",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "27",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "55",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "setenta e dois",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "quatro",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "68",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "100 mil",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "43 mil",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "1",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "256",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "5.100",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "13,2 mil",
+                    "synonyms": []
+                }
+            ],
+            "fuzzy_match": true
+        },
+        {
+            "entity": "Date",
+            "values": [
+                {
+                    "type": "synonyms",
+                    "value": "domingo (19",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "sábado (18",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "1917-67",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "fevereiro de 2016",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "2029",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "1872-1950",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "último domingo",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "1956",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "1959",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "anos 1960 e 1970",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "século 21",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "2007",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "dia seguinte",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "nessa época",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "janeiro deste ano",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "1882-1941",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "1975",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "última semana",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "março de 2015",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "daquele ano",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "1967",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "março de 1967",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "2017",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "anos 1950/60",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "maio de 1957 e novembro de 1959",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "1958",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "novembro de 1959",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "2019",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "1478-1535",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "ano passado",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "anos 20",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "1923 e 1926",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "2018",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "1990",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "setembro daquele ano",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "próximos meses",
+                    "synonyms": []
+                }
+            ],
+            "fuzzy_match": true
+        },
+        {
+            "entity": "Ordinal",
+            "values": [
+                {
+                    "type": "synonyms",
+                    "value": "primeiro",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "nona",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "terceira",
+                    "synonyms": []
+                }
+            ],
+            "fuzzy_match": true
+        },
+        {
+            "entity": "Person",
+            "values": [
+                {
+                    "type": "synonyms",
+                    "value": "Trump",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Joao Doria",
+                    "synonyms": ["Doria"]
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Vladimir Putin",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Chuck Berry",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Bolsonaro",
+                    "synonyms": ["Jair Bolsonaro"]
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Lula",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Elvis Presley",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Keith Richards",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Bill Haley",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Patricia Anastassiadis",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Gaveteiro Quintal",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Mesa Layza Azul",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Stok",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Grillo",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Ioan Grillo",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Maria Antonia Goulart",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Dalloway",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Jan Swafford",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Leopold",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Andrade Gutierrez",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Aécio",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Aécio Neves",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Rabih Mroué",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Michel Temer",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Temer",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Dilma",
+                    "synonyms": ["Dilma Rousseff"]
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Bill Kreutzmann",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Walter Pires",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Délio Jardim de Mattos",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Emílio Odebrecht",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Antonio Carlos",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Délio",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Fabio Giambiagi",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Thomas More",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Henrique 8⁰",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Márcio Meirelles Gouvêa Júnior",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Nicola de Garo",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Antonio Agenor Briquet de Lemos",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Jorge Luis Borges",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Elton Morimitsu",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Chery",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Land Rover",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Suzuki",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Fermín Vázquez",
+                    "synonyms": []
+                }
+            ],
+            "fuzzy_match": true
+        },
+        {
+            "entity": "GeographicFeature",
+            "values": [
+                {
+                    "type": "synonyms",
+                    "value": "rio São Francisco",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "rio Tigre",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Ilha do Doutor Moreau",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "ilha dos utopienses",
+                    "synonyms": []
+                }
+            ],
+            "fuzzy_match": true
+        },
+        {
+            "entity": "Duration",
+            "values": [
+                {
+                    "type": "synonyms",
+                    "value": "20 anos",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "65 anos",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "45 anos",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "50 anos",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "500 anos",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "cinco anos",
+                    "synonyms": []
+                }
+            ],
+            "fuzzy_match": true
+        },
+        {
+            "entity": "Location",
+            "values": [
+                {
+                    "type": "synonyms",
+                    "value": "São Paulo",
+                    "synonyms": ["sp"]
+                },
+                {
+                    "type": "synonyms",
+                    "value": "rio de janeiro",
+                    "synonyms": ["rj"]
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Furnas",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Bahia",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Beirute",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Líbano",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Oriente Médio",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "libaneses",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "San Francisco",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "cidade californiana",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Briquet",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Nicola de Garo",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Roomba",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "iRobot",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Mercosul",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Brasil",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Brasilia",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Cyrela",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Vila Olímpia",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Itaim",
+                    "synonyms": []
+                }
+            ],
+            "fuzzy_match": true
+        },
+        {
+            "entity": "Facility",
+            "values": [
+                {
+                    "type": "synonyms",
+                    "value": "Palácio do Planalto",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "hospitais de Arandu e Avaré",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "CTI da Casa de Saúde São José",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "mesquita de Nuri",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "aeroporto de Orly",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "igreja evangélica",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "igreja Hillsong",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "rua Funchal",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "igreja de Vila Olímpia",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Salão Oval",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Muro de Berlim",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Igreja da Cientologia",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Igreja Romana",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "MS-13",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "El Salvador",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "hospital Beneficência Portuguesa",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Royal Opera House de Londres",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "VivaReal-Geoimovel",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "construtora São José",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "hidrelétrica Santo Antônio",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Livraria de Arte",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "Itaim Bibi",
+                    "synonyms": []
+                }
+            ],
+            "fuzzy_match": true
+        },
+        {
+            "entity": "JobTitle",
+            "values": [
+                {
+                    "type": "synonyms",
+                    "value": "executivos",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "políticos",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "ministro do Exército",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "ministro da Aeronáutica",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "economista",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "humanista",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "navegador português",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "pintor italiano",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "bibliotecário",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "aspirador robótico",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "arquitetos",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "arquiteto espanhol",
+                    "synonyms": []
+                }
+            ],
+            "fuzzy_match": true
+        },
+        {
+            "entity": "Measure",
+            "values": [
+                {
+                    "type": "synonyms",
+                    "value": "100 m",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "360º",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "135 km",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "300 quilos",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "milhares de quilômetros",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "200 km",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "93 km",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "350 km",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "18 mil toneladas",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "100 quilos",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "53 cm",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "3 cm",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "25 metros",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "25 quilômetros",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "km 74",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "sete quilômetros",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "120 km",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "30 centímetros",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "33,8 mil hectares",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "12 km",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "24 metros",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "30 metros",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "17 toneladas",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "45 metros",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "182 km",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "metro quadrado",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "51 e 60 kg",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "1,50 m",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "61 e 70 kg",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "30 km",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "306 km",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "53 m²",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "96 m²",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "seis centímetros",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "três centímetros",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "200 mil km",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "230 m²",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "1 m",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "90 m²",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "um quilo",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "350 kg",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "15 kg",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "336 págs",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "1,20 m",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "20 kg",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "36 mil m²",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "56 graus",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "20 km",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "500 g",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "sete litros",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "329 km",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "28º DP",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "23 km",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "78°",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "370 metros",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "425 km",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "poucos metros",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "muitos metros",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "238 km",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "159 km",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "15 mil litros",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "2.500 m2",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "101 km",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "mais quilômetros",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "105 km",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "128 GB",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "4,7 polegadas",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "32 GB",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "30 mil barris por dia",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "16 centímetros",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "1,1ºC",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "0,06ºC",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "8.000 quilômetros quadrados",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "331 mil toneladas",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "164 mil toneladas",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "84 km",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "3 km",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "14º DP",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "50 cm X 33 cm",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "500 metros",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "sete metros",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "1,8 kg por dia",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "151 km",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "222 milhões de toneladas",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "148º",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "293 km",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "dois milímetros",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "16ºC",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "25 ml",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "243 quilômetros",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "109º",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "1.031 metros quadrados",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "554 metros quadrados",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "200 metros quadrados",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "7,32 m",
+                    "synonyms": []
+                }
+            ],
+            "fuzzy_match": true
+        },
+        {
+            "entity": "Percent",
+            "values": [
+                {
+                    "type": "synonyms",
+                    "value": "50%",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "40%",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "0,5%",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "20%",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "4,3%",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "7%",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "25%",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "100%",
+                    "synonyms": []
+                }
+            ],
+            "fuzzy_match": true
+        },
+        {
+            "entity": "Time",
+            "values": [
+                {
+                    "type": "synonyms",
+                    "value": "madrugada deste domingo",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "1h da manhã",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "início da tarde",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "10h às 19h",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "hoje à noite",
+                    "synonyms": []
+                }
+            ],
+            "fuzzy_match": true
+        },
+        {
+            "entity": "URL",
+            "values": [
+                {
+                    "type": "synonyms",
+                    "value": "www.franciscodaudt.com.br",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "www.marchforscience.com",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "youtube.com/folha",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "www.cidadeadministrativamg.com.br",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "youtube.com/cintiadisse",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "youtube.com/bbclearningenglish",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "www.tuorganizas.com",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "facebook.com/carloscapslock",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "facebook.com/goptun",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "facebook.com/ODD-756280497816696",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "www.RetailRoadshow.com",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "facebook.com/BrunchWeekend",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "www.saatchigallery.com",
+                    "synonyms": []
+                }
+            ],
+            "fuzzy_match": true
+        },
+        {
+            "entity": "Hashtag",
+            "values": [
+                {
+                    "type": "synonyms",
+                    "value": "#sdresp",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "#DoeUmaEscolha",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "#forçaarlindocruz",
+                    "synonyms": []
+                }
+            ],
+            "fuzzy_match": true
+        },
+        {
+            "entity": "EmailAddress",
+            "values": [
+                {
+                    "type": "synonyms",
+                    "value": "saude@grupofolha.com.br",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "treina@grupofolha.com.br",
+                    "synonyms": []
+                }
+            ],
+            "fuzzy_match": true
+        },
+        {
+            "entity": "TwitterHandle",
+            "values": [
+                {
+                    "type": "synonyms",
+                    "value": "@realdonaldtrump",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "@bolosdeoutroplaneta",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "@mermeleia",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "@CIDH",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "@FuerzaAereaCol",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "@katyperry",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "@meirelles",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "@lucianohuck",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "@s",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "@little_meg_siu_meg",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "@22Barcelona",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "@minicozinhatm",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "@waitbutwhy",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "@icloud",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "@me",
+                    "synonyms": []
+                }
+            ],
+            "fuzzy_match": true
+        },
+        {
+            "entity": "PhoneNumber",
+            "values": [
+                {
+                    "type": "synonyms",
+                    "value": "190",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "(21) 3005-3432",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "11 3082-9513",
+                    "synonyms": []
+                },
+                {
+                    "type": "synonyms",
+                    "value": "(11) 3037-7349",
+                    "synonyms": []
+                }
+            ],
+            "fuzzy_match": true
+        }
+    ],
+    "metadata": {
+        "skill": {
+            "counts": {
+                "intents": 12,
+                "entities": 14,
+                "dialog_nodes": 23
+            }
+        },
+        "api_version": {
+            "major_version": "v2",
+            "minor_version": "2018-11-08"
+        },
+        "from-sample": true
+    },
+    "webhooks": [
+        {
+            "url": "https://pfe-server.mybluemix.net/pfe/news",
+            "name": "main_webhook",
+            "headers": []
+        }
+    ],
+    "dialog_nodes": [
+        {
+            "type": "standard",
+            "title": "Bem-vindo",
+            "output": {
+                "generic": [
+                    {
+                        "values": [
+                            {
+                                "text": "Olá. Você quer saber sobre o quê?"
+                            }
+                        ],
+                        "response_type": "text",
+                        "selection_policy": "sequential"
+                    }
+                ]
+            },
+            "conditions": "welcome",
+            "dialog_node": "Bem-vindo"
+        },
+        {
+            "type": "standard",
+            "title": "Em outros casos",
+            "output": {
+                "generic": [
+                    {
+                        "values": [
+                            {
+                                "text": "Eu não entendi. Você pode tentar reformular a frase."
+                            },
+                            {
+                                "text": "Você pode reformular sua afirmação? Eu não estou entendendo."
+                            },
+                            {
+                                "text": "Eu não entendi o sentido."
+                            }
+                        ],
+                        "response_type": "text",
+                        "selection_policy": "sequential"
+                    }
+                ]
+            },
+            "conditions": "anything_else",
+            "dialog_node": "Em outros casos",
+            "previous_sibling": "node_6_1630631598913",
+            "disambiguation_opt_out": true
+        },
+        {
+            "type": "standard",
+            "title": "Procura_noticia - copy 1",
+            "output": {},
+            "actions": [
+                {
+                    "name": "main_webhook",
+                    "type": "webhook",
+                    "parameters": {
+                        "text": "<? input.text ?>",
+                        "action": "noticia",
+                        "all_entities": "<? entities ?>"
+                    },
+                    "result_variable": "webhook_result_4"
+                }
+            ],
+            "metadata": {
+                "_customization": {
+                    "mcr": true
+                }
+            },
+            "conditions": "#search_noticia",
+            "dialog_node": "node_1_1633012865085",
+            "previous_sibling": "node_4_1632489677854"
+        },
+        {
+            "type": "standard",
+            "title": "Procura Politica (Espectro politico)",
+            "conditions": "#search_politics",
+            "dialog_node": "node_1_1636685445393",
+            "previous_sibling": "node_1_1633012865085"
+        },
+        {
+            "type": "standard",
+            "title": "if texto completo",
+            "parent": "node_1_1633012865085",
+            "dialog_node": "node_3_1636723901230"
+        },
+        {
+            "type": "standard",
+            "title": "Procura_noticia",
+            "actions": [
+                {
+                    "name": "main_webhook",
+                    "type": "webhook",
+                    "parameters": {
+                        "text": "$text",
+                        "action": "noticia"
+                    },
+                    "result_variable": "webhook_result_4"
+                }
+            ],
+            "metadata": {
+                "_customization": {
+                    "mcr": true
+                }
+            },
+            "conditions": "#search_noticia && @Pronome",
+            "digress_in": "does_not_return",
+            "dialog_node": "node_4_1632489677854",
+            "previous_sibling": "node_6_1631829265874"
+        },
+        {
+            "type": "standard",
+            "title": "Procura_resumo",
+            "output": {},
+            "actions": [
+                {
+                    "name": "main_webhook",
+                    "type": "webhook",
+                    "parameters": {
+                        "text": "<? input.text ?>",
+                        "action": "entidades",
+                        "all_entities": "<? entities ?>"
+                    },
+                    "result_variable": "webhook_result_5"
+                }
+            ],
+            "metadata": {
+                "_customization": {
+                    "mcr": true
+                }
+            },
+            "conditions": "#search_resumo",
+            "dialog_node": "node_4_1632971162585",
+            "previous_sibling": "node_1_1636685445393"
+        },
+        {
+            "type": "standard",
+            "title": "Procura_sentimento - copy 1",
+            "output": {},
+            "actions": [
+                {
+                    "name": "main_webhook",
+                    "type": "webhook",
+                    "parameters": {
+                        "text": "$text",
+                        "local": "@Local",
+                        "action": "sentimento"
+                    },
+                    "result_variable": "webhook_result_1"
+                }
+            ],
+            "metadata": {
+                "_customization": {
+                    "mcr": true
+                }
+            },
+            "conditions": "#search_sentimentos && @Pronome",
+            "dialog_node": "node_4_1633013192556",
+            "previous_sibling": "Bem-vindo"
+        },
+        {
+            "type": "standard",
+            "title": "Greetings",
+            "metadata": {
+                "_customization": {
+                    "mcr": true
+                }
+            },
+            "conditions": "@SaudacaoFormal",
+            "dialog_node": "node_6_1630631598913",
+            "previous_sibling": "node_4_1632971162585"
+        },
+        {
+            "type": "standard",
+            "title": "Procura_sentimento",
+            "actions": [
+                {
+                    "name": "main_webhook",
+                    "type": "webhook",
+                    "parameters": {
+                        "text": "<? input.text ?>",
+                        "action": "sentimento",
+                        "all_entities": "<? entities ?>"
+                    },
+                    "result_variable": "webhook_result_1"
+                }
+            ],
+            "metadata": {
+                "_customization": {
+                    "mcr": true
+                }
+            },
+            "conditions": "#search_sentimentos",
+            "digress_in": "does_not_return",
+            "dialog_node": "node_6_1631829265874",
+            "previous_sibling": "node_4_1633013192556"
+        },
+        {
+            "type": "standard",
+            "title": "if informações avaçadas",
+            "parent": "node_1_1633012865085",
+            "dialog_node": "node_8_1636724061592",
+            "previous_sibling": "node_3_1636723901230"
+        },
+        {
+            "type": "response_condition",
+            "output": {
+                "generic": [
+                    {
+                        "title": "Analise de Sentimento das noticias no tempo",
+                        "source": "$webhook_result_1.sentimentoImg",
+                        "response_type": "image"
+                    },
+                    {
+                        "values": [
+                            {
+                                "text": "Média do sentimento no periodo: $webhook_result_1.sentimento"
+                            }
+                        ],
+                        "response_type": "text",
+                        "selection_policy": "sequential"
+                    }
+                ]
+            },
+            "parent": "node_6_1631829265874",
+            "context": {
+                "tema": "@Tema",
+                "text": "<? input.text ?>"
+            },
+            "conditions": "$webhook_result_1",
+            "dialog_node": "response_10_1632968385162"
+        },
+        {
+            "type": "response_condition",
+            "output": {
+                "generic": [
+                    {
+                        "values": [
+                            {
+                                "text": "$webhook_result_4.text"
+                            }
+                        ],
+                        "response_type": "text",
+                        "selection_policy": "sequential"
+                    }
+                ]
+            },
+            "parent": "node_4_1632489677854",
+            "context": {
+                "tema": "@Tema"
+            },
+            "conditions": "$webhook_result_4",
+            "dialog_node": "response_1_1632490410971"
+        },
+        {
+            "type": "response_condition",
+            "output": {
+                "generic": [
+                    {
+                        "values": [
+                            {
+                                "text": "Olá, como posso te ajudar?"
+                            }
+                        ],
+                        "response_type": "text",
+                        "selection_policy": "sequential"
+                    }
+                ]
+            },
+            "parent": "node_6_1630631598913",
+            "conditions": "anything_else",
+            "dialog_node": "response_2_1630632266006",
+            "previous_sibling": "response_8_1630632175655"
+        },
+        {
+            "type": "response_condition",
+            "output": {
+                "generic": [
+                    {
+                        "values": [
+                            {
+                                "text": "Titulo: $webhook_result_4.item_0.title \n\nNoticia: $webhook_result_4.item_0.text_mini\n\nLink: $webhook_result_4.item_0.link\n\nClassificação espectro politico: $webhook_result_4.item_0.classification.class_name\n\n--------------------------------------------------------------------------\n\nTitulo: $webhook_result_4.item_1.title \n\nNoticia: $webhook_result_4.item_1.text_mini\n\nLink: $webhook_result_4.item_1.link\n\nClassificação espectro politico: $webhook_result_4.item_1.classification.class_name\n\n"
+                            }
+                        ],
+                        "response_type": "text",
+                        "selection_policy": "sequential"
+                    },
+                    {
+                        "values": [
+                            {
+                                "text": "Titulo: $webhook_result_4.item_1.title \n\nNoticia: $webhook_result_4.item_1.text_mini\n\nLink: $webhook_result_4.item_1.link\n\nClassificação espectro politico: $webhook_result_4.item_1.classification.class_name\n"
+                            }
+                        ],
+                        "response_type": "text",
+                        "selection_policy": "sequential"
+                    },
+                    {
+                        "values": [
+                            {
+                                "text": "Titulo: $webhook_result_4.item_2.title \n\nNoticia: $webhook_result_4.item_2.text_mini\n\nLink: $webhook_result_4.item_2.link\n\nClassificação espectro politico: $webhook_result_4.item_2.classification.class_name\n"
+                            }
+                        ],
+                        "response_type": "text",
+                        "selection_policy": "sequential"
+                    }
+                ]
+            },
+            "parent": "node_1_1633012865085",
+            "context": {
+                "tema": "@Tema",
+                "text": "<? input.text ?>"
+            },
+            "conditions": "$webhook_result_4",
+            "dialog_node": "response_2_1633012865086",
+            "previous_sibling": "node_8_1636724061592"
+        },
+        {
+            "type": "response_condition",
+            "output": {
+                "text": {
+                    "values": [],
+                    "selection_policy": "sequential"
+                }
+            },
+            "parent": "node_1_1633012865085",
+            "conditions": "anything_else",
+            "dialog_node": "response_3_1633012865086",
+            "previous_sibling": "response_2_1633012865086"
+        },
+        {
+            "type": "response_condition",
+            "output": {
+                "generic": [
+                    {
+                        "values": [],
+                        "response_type": "text",
+                        "selection_policy": "sequential"
+                    }
+                ]
+            },
+            "parent": "node_4_1632971162585",
+            "dialog_node": "response_4_1636671436654",
+            "previous_sibling": "response_5_1632971162586"
+        },
+        {
+            "type": "response_condition",
+            "output": {
+                "text": {
+                    "values": [
+                        ""
+                    ],
+                    "selection_policy": "sequential"
+                }
+            },
+            "parent": "node_6_1631829265874",
+            "conditions": "anything_else",
+            "dialog_node": "response_5_1632382959540",
+            "previous_sibling": "response_10_1632968385162"
+        },
+        {
+            "type": "response_condition",
+            "parent": "node_4_1632489677854",
+            "conditions": "anything_else",
+            "dialog_node": "response_5_1632970076883",
+            "previous_sibling": "response_1_1632490410971"
+        },
+        {
+            "type": "response_condition",
+            "output": {
+                "generic": [
+                    {
+                        "title": "asasasdasda",
+                        "source": "$webhook_result_5.wordcloud_url",
+                        "response_type": "image"
+                    }
+                ]
+            },
+            "parent": "node_4_1632971162585",
+            "context": {
+                "tema": ""
+            },
+            "conditions": "$webhook_result_5",
+            "dialog_node": "response_5_1632971162586"
+        },
+        {
+            "type": "response_condition",
+            "output": {
+                "generic": [
+                    {
+                        "title": "$webhook_result_1.sentimento",
+                        "source": "$webhook_result_1.sentimentoImg",
+                        "response_type": "image"
+                    }
+                ]
+            },
+            "parent": "node_4_1633013192556",
+            "conditions": "$webhook_result_1",
+            "dialog_node": "response_5_1633013192557"
+        },
+        {
+            "type": "response_condition",
+            "output": {
+                "text": {
+                    "values": [
+                        ""
+                    ],
+                    "selection_policy": "sequential"
+                }
+            },
+            "parent": "node_4_1633013192556",
+            "conditions": "anything_else",
+            "dialog_node": "response_6_1633013192557",
+            "previous_sibling": "response_5_1633013192557"
+        },
+        {
+            "type": "response_condition",
+            "output": {
+                "text": {
+                    "values": [
+                        "@SaudacaoFormal"
+                    ],
+                    "selection_policy": "sequential"
+                }
+            },
+            "parent": "node_6_1630631598913",
+            "conditions": "@SaudacaoFormal",
+            "dialog_node": "response_8_1630632175655"
+        }
+    ],
+    "counterexamples": [],
+    "system_settings": {
+        "disambiguation": {
+            "prompt": "Você quis dizer:",
+            "enabled": true,
+            "randomize": true,
+            "max_suggestions": 5,
+            "suggestion_text_policy": "title",
+            "none_of_the_above_prompt": "Nenhuma das anteriores"
+        },
+        "human_agent_assist": {
+            "prompt": "Você quis dizer:"
+        }
+    },
+    "learning_opt_out": false,
+    "name": "Classisficação de Tema",
+    "language": "pt-br",
+    "description": "quase ultima"
+}
