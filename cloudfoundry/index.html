@@ -413,15 +413,21 @@
 <li><a href="https://git-scm.com/downloads">git</a></li>
 <li><a href="https://nodejs.org/en/">node</a> </li>
 </ul>
-<p>Passo 1: Clonar repositório (você já deve ter feito isso lá no inícios do tutorial)</p>
+<p>Passo 1: Clonar <a href="https://github.com/PFE-INSPER/pfe-server.git">repositório</a> </p>
 <p><code>$ git clone https://github.com/PFE-INSPER/pfe-server.git</code></p>
 <p>Passo 2: Alterar credenciais do Cloudant</p>
-<p>No arquivo <em>pfe-controller.js</em> altere as credenciais para as suas como mostra a figura abaixo</p>
+<p>No arquivo <a href="https://github.com/PFE-INSPER/pfe-server/blob/main/server/controllers/pfe-controller.js">pfe-controller.js</a> altere as credenciais para as suas como mostra a figura abaixo</p>
 <p><img alt="" src="../imagens/CloudFoundry-03.png" /></p>
-<p>Passo 3: Deploy do App</p>
+<p>Passo 3: Fazer o deploy da aplicação</p>
 <p><code>$ ibmcloud login</code></p>
 <p><code>$ ibmcloud target --cf</code></p>
 <p><code>$ ibmcloud cf push</code></p>
+<p>Passo 4: Link para aplicação</p>
+<ul>
+<li>Clique em <code>Visit App URL</code> na página do <em>dashboard</em> seu servidor</li>
+</ul>
+<p><img alt="" src="../imagens/CloudFoundry-04.png" /></p>
+<p>Salve o link da aplicação para utilizá-lo na confiruação do Webhook do Watson Assistant no próximo passo.</p>
                 
               
               
