@@ -10,7 +10,7 @@
       
       
       <link rel="icon" href="../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.2.3, mkdocs-material-7.3.6">
+      <meta name="generator" content="mkdocs-1.2.3, mkdocs-material-7.3.4">
     
     
       
@@ -18,7 +18,7 @@
       
     
     
-      <link rel="stylesheet" href="../assets/stylesheets/main.a57b2b03.min.css">
+      <link rel="stylesheet" href="../assets/stylesheets/main.db9e7362.min.css">
       
         
         <link rel="stylesheet" href="../assets/stylesheets/palette.3f5d1f46.min.css">
@@ -244,8 +244,6 @@
       </a>
       
         
-
-
 <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
   
   
@@ -381,8 +379,6 @@
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
                     
-
-
 <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
   
   
@@ -454,16 +450,16 @@
                 <h1 id="enriquecimento-dos-dados-via-nlu">Enriquecimento dos dados via NLU</h1>
 <p>Chegou a hora de rodar os dados do <a href="https://www.kaggle.com/marlesson/news-of-the-site-folhauol">dataset escolhido</a> para aplicar o processo de enriquecimento via NLU agregado ao modelo criado anteriormente. A primeira etapa é o treinamento do modelo.</p>
 <h2 id="treinamento-do-modelo-de-polaridade-politica">Treinamento do Modelo de Polaridade Política</h2>
-<p>A primeira parte deste tutorial consiste no treinamento de um modelo que analisa o quanto uma notícia tem polaridade política de Esquerda ou de Direita. 
-O modelo foi criado utilizando o ferramenta NLU e os dados utilizados para o treinamento foram notícias de jornais políticamente opostos.<br />
-A <a href="https://cartacapital.com.br">Carta Capital</a> se institula como tendo um viés progressista, sendo alinhada à esquerda política.<br />
-Já a <a href="https://jovempan.com.br">Jovem Pan</a> foi considerada como sendo alinhada à direita política. </p>
+<p>A primeira parte deste tutorial consiste no treinamento de um modelo que analisa o quanto uma notícia tem polaridade política. 
+O modelo foi criado utilizando o ferramenta NLU e os dados utilizados para o treinamento foram notícias de jornais políticamente opostos.  </p>
+<p>A <a href="https://cartacapital.com.br">Carta Capital</a> se institula como tendo um viés progressista, sendo caracterizada por ter medidas exageradas ao atacar a direita, deixando transparecer antipatia pela elite conservadora e neoliberal e mais alinhada ao pensamento de esquerda.   </p>
+<p>Já a <a href="https://jovempan.com.br">Jovem Pan</a> é considerada como uma mídia de direita, sendo caracterizada pelo <a href="https://theintercept.com/2021/11/13/jovem-pan-puxadinho-demitidos-cnn/">The Intercept</a> como “a TV oficial do bolsonarismo” e “aquela que mais divulga e apoia ideias do neofacismo bolsonarista”. </p>
 <h2 id="coleta-de-dados">Coleta de dados</h2>
-<p>As notícias utilizadas foram coletadas por meio do script <a href="https://github.com/Insper/pfe_ibm_2021_2/blob/main/scripts/Treinamento.ipynb">Treinamento.ipynb</a>. A biblioteca <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">Beautiful Soup</a> da linguagem Python foi utilizada para fazer um <em>web crawl</em> do <em>website</em> de cada um dos jornais escolhidos.
-Esse script cria o arquivo <a href="https://github.com/Insper/pfe_ibm_2021_2/blob/main/scripts/training_data.json">training_data.json</a> que contém os dados de treinamento e será utilizado para a criação do modelo.</p>
+<p>As notícias utilizadas foram coletadas por meio do script <a href="https://github.com/PFE-INSPER/tutorial/blob/main/scripts/Treinamento.ipynb">Treinamento.ipynb</a>. A biblioteca <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">Beautiful Soup</a> da linguagem Python foi utilizada para fazer um <em>web crawl</em> do <em>website</em> de cada um dos jornais escolhidos.
+Esse script cria o arquivo <a href="https://github.com/PFE-INSPER/tutorial/blob/main/scripts/training_data.json">training_data.json</a> que contém os dados de treinamento e será utilizado para a criação do modelo.</p>
 <div class="admonition nota">
 <p class="admonition-title">Nota</p>
-<p>Os passos seguintes podem ser encontrados no arquivo <a href="https://github.com/Insper/pfe_ibm_2021_2/blob/main/scripts/Enriquecimento%20dos%20Dados.ipynb">Enriquecimento dos Dados.ipynb</a> e devem ser replicados</p>
+<p>Os passos seguintes podem ser encontrados no arquivo <a href="https://github.com/PFE-INSPER/tutorial/blob/main/scripts/Enriquecimento%20dos%20Dados.ipynb">Enriquecimento dos Dados.ipynb</a> e devem ser replicados</p>
 </div>
 <h2 id="1-filtragem-do-dataset">1. Filtragem do dataset</h2>
 <p>O dataset é filtrado para remover dados desnecessários e textos muito curtos</p>
@@ -551,10 +547,10 @@ Esse script cria o arquivo <a href="https://github.com/Insper/pfe_ibm_2021_2/blo
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>
     </div>
-    <script id="__config" type="application/json">{"base": "..", "features": [], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../assets/javascripts/workers/search.fcfe8b6d.min.js", "version": null}</script>
+    <script id="__config" type="application/json">{"base": "..", "features": [], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../assets/javascripts/workers/search.8397ff9e.min.js", "version": null}</script>
     
     
-      <script src="../assets/javascripts/bundle.b1047164.min.js"></script>
+      <script src="../assets/javascripts/bundle.1e84347e.min.js"></script>
       
     
   </body>
