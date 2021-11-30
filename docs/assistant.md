@@ -33,7 +33,7 @@ Este toturial irá abordar construção de um chatbot transacional, ou seja, ele
 ![](imagens/assistant_dialog.png)
 
 * Clique na aba `Upload skill`
-* Adicione o arquivo [skill-Assistant](https://github.com/Insper/pfe_ibm_2021_2/blob/main/scripts/skill-Assitant.json)
+* Adicione o arquivo [skill-Assistant](https://github.com/PFE-INSPER/tutorial/blob/main/scripts/skill-Assitant.json)
 * Clique em `Upload`
 
 ![](imagens/assistant_dialog1.png)
@@ -45,7 +45,7 @@ Para a construção do chatbot, é necessário definir intents, entidades e dial
 * Manualmente pelo dashboard do Watson Assistant
 * Por meio de um aquivo em formato JSON que contém as intents, entities e dialogs. 
  
-Para este tutorial, as intent, entities e dialogs já foram disponibilizadas pelo arquivo [skill-Assitant](https://github.com/Insper/pfe_ibm_2021_2/blob/main/scripts/skill-Assitant.json).
+Para este tutorial, as intent, entities e dialogs já foram disponibilizadas pelo arquivo [skill-Assitant](https://github.com/PFE-INSPER/tutorial/blob/main/scripts/skill-Assitant.json).
 
 É imoprtante entender o que cada uma das partes representa:  
 
@@ -87,7 +87,7 @@ N   este tutorial foi optado por utilizar a versão Embed.
 Webhook é um mecanismo que permite realizar uma chamada externa, aqui será feito uma conexão com o servidor criado. 
 
 !!! Note
-    Após criar o servidor, é necessário colocar a URL para configurar o Webhook.
+    Após criar o servidor, é necessário colocar a sua URL para configurar o Webhook.
 
 ![alt text](imagens/assistant_webhooks.png)
 

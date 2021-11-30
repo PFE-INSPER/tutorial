@@ -31,7 +31,7 @@ No arquivo [Cloudant.ipynb](https://github.com/PFE-INSPER/tutorial/blob/main/scr
 O script irá criar na pasta [dados](https://github.com/PFE-INSPER/tutorial/tree/main/dados) um arquivo JSON para cada notícia analisada.
 
 !!! Note
-    Disponibilizamos 20 arquivos na pasta [dados](https://github.com/PFE-INSPER/tutorial/tree/main/dados) para você verificar o seu modelo.
+    Disponibilizamos 100 arquivos na pasta [dados](https://github.com/PFE-INSPER/tutorial/tree/main/dados) para você verificar o seu modelo.
 
 
 !!! Importante
