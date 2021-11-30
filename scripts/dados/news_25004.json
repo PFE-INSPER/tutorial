@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 2192,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.623498,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "lente do selfie",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.690862,
+                "count": 1
+            },
+            {
+                "text": "estudante Elissa Ferraz",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.656096,
+                "count": 1
+            },
+            {
+                "text": "pau de selfie",
+                "sentiment": {
+                    "score": -0.590187,
+                    "label": "negative"
+                },
+                "relevance": 0.644376,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "JobTitle",
+                "text": "autorretrato",
+                "sentiment": {
+                    "score": 0.942434,
+                    "label": "positive"
+                },
+                "relevance": 0.94932,
+                "count": 1,
+                "confidence": 0.743077
+            },
+            {
+                "type": "Money",
+                "text": "R$ 10",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.844681,
+                "count": 1,
+                "confidence": 0.970753
+            },
+            {
+                "type": "Money",
+                "text": "R$ 30",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.841947,
+                "count": 1,
+                "confidence": 0.872881
+            },
+            {
+                "type": "Money",
+                "text": "R$ 6.000",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.743933,
+                "count": 1,
+                "confidence": 0.997116
+            },
+            {
+                "type": "Person",
+                "text": "Elissa Ferraz",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.73453,
+                "count": 1,
+                "confidence": 0.997733
+            },
+            {
+                "type": "Person",
+                "text": "Fiorella Burga",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.691114,
+                "count": 1,
+                "confidence": 0.991317
+            },
+            {
+                "type": "JobTitle",
+                "text": "comerciantes",
+                "sentiment": {
+                    "score": 0.695502,
+                    "label": "positive"
+                },
+                "relevance": 0.608466,
+                "count": 1,
+                "confidence": 0.850323
+            },
+            {
+                "type": "Facility",
+                "text": "Santa Ifigênia",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.596651,
+                "count": 1,
+                "confidence": 0.464825
+            },
+            {
+                "type": "Facility",
+                "text": "avenida Paulista (região central",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.585145,
+                "count": 1,
+                "confidence": 0.420911
+            },
+            {
+                "type": "JobTitle",
+                "text": "fotógrafos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.546822,
+                "count": 1,
+                "confidence": 0.972835
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Lente",
+                "relevance": 0.985269,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Lente"
+            },
+            {
+                "text": "Visão",
+                "relevance": 0.977825,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Visão"
+            },
+            {
+                "text": "Comércio",
+                "relevance": 0.975494,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Comércio"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.713283,
+                "label": "/technology and computing/internet technology/social network"
+            },
+            {
+                "score": 0.675541,
+                "label": "/business and industrial/business operations/business plans"
+            },
+            {
+                "score": 0.646024,
+                "label": "/art and entertainment/shows and events"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.7048125000000001
+    },
+    "text": "Os fãs de selfie, o autorretrato, sabem que para uma foto ficar boa precisa caber todo mundo. Para conseguir isso em um clique só, sem usar o brega \"pau de selfie\", esses fãs têm contado com uma lente \"olho de peixe\" própria para celular. Organizando direitinho, registra o rosto de todo mundo e faz sucesso.  A \"lente do selfie\" custa entre R$ 10 e R$ 30 no comércio ambulante, é pregada por um clipe sobre a lente do celular e funciona como uma \"falsa\" grande angular, lentes usadas por fotógrafos para aumentar o volume de quem está ao redor ou juntar mais \"informação\" em uma foto. Para câmeras profissionais, custam até R$ 6.000.  A estudante Elissa Ferraz, 19, usa a lente para tirar fotos com amigos, dando a eles \"um enquadramento maior\".  Já a vendedora Fiorella Burga, 20, sentiu o \"poder\" da lente ao registrar uma imagem em um local apertado. \"Fui tirar uma foto dentro de uma lanchonete e a imagem conseguiu pegar todos\", diz.  Essa moda tem feito a alegria de comerciantes na capital. Na Santa Ifigênia, na avenida Paulista (região central) ou nos trens, a olho de peixe é um produto campeão de vendas. A comerciante Paula Querino, 28, diz vender \"umas 30\" por semana na Paulista.  A hoteleira Flavia Acea, 30, levou uma nesta semana. \"Uma amiga comprou em um site chinês e eu gostei do efeito da foto, é divertido. E, se perder a lente, tudo bem, porque é baratinha\", afirma.  Além do kit comum, que vem com a lente grande angular, uma macro (para fotografar de muito perto) e uma panorâmica (boa para paisagens), há também outros conjuntos mais caros. Por R$ 80, é possível levar uma pequena lente telescópica, que aproxima o objeto em dez vezes, mais outra em que há flash com lâmpadas de led, além das convencionais.  As lentes para celular são uma maneira econômica de fazer fotos em reuniões com amigos, segundo o professor de fotojornalismo do Mackenzie Manoel Nascimento. \"É uma falsa grande angular. Não é feita de cristal puro, mas também não traz problema para o celular\", afirma.  Segundo o professor, a lente junta mais pessoas na mesma foto porque tem um ângulo maior que o da visão humana, de 45º. \"A grande angular chega a 270º, igual a um olho mágico de porta.\"",
+    "title": "Lente para celular que enquadra mais gente vira nova aliada de selfies",
+    "category": "cotidiano",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/cotidiano/2017/03/1867839-lente-para-celular-que-enquadra-mais-gente-vira-nova-aliada-de-selfies.shtml"
+}

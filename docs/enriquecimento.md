@@ -12,11 +12,11 @@ Já a [Jovem Pan](https://jovempan.com.br) é considerada como uma mídia de dir
 
 
 ## Coleta de dados
-As notícias utilizadas foram coletadas por meio do script [Treinamento.ipynb](https://github.com/Insper/pfe_ibm_2021_2/blob/main/scripts/Treinamento.ipynb). A biblioteca [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) da linguagem Python foi utilizada para fazer um *web crawl* do *website* de cada um dos jornais escolhidos.
-Esse script cria o arquivo [training_data.json](https://github.com/Insper/pfe_ibm_2021_2/blob/main/scripts/training_data.json) que contém os dados de treinamento e será utilizado para a criação do modelo.
+As notícias utilizadas foram coletadas por meio do script [Treinamento.ipynb](https://github.com/PFE-INSPER/tutorial/blob/main/scripts/Treinamento.ipynb). A biblioteca [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) da linguagem Python foi utilizada para fazer um *web crawl* do *website* de cada um dos jornais escolhidos.
+Esse script cria o arquivo [training_data.json](https://github.com/PFE-INSPER/tutorial/blob/main/scripts/training_data.json) que contém os dados de treinamento e será utilizado para a criação do modelo.
 
 !!! Nota
-    Os passos seguintes podem ser encontrados no arquivo [Enriquecimento dos Dados.ipynb](https://github.com/Insper/pfe_ibm_2021_2/blob/main/scripts/Enriquecimento%20dos%20Dados.ipynb) e devem ser replicados
+    Os passos seguintes podem ser encontrados no arquivo [Enriquecimento dos Dados.ipynb](https://github.com/PFE-INSPER/tutorial/blob/main/scripts/Enriquecimento%20dos%20Dados.ipynb) e devem ser replicados
 
 ## 1. Filtragem do dataset
 O dataset é filtrado para remover dados desnecessários e textos muito curtos

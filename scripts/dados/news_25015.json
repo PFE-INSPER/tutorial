@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 2937,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0,
+                "label": "neutral"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "governo Michel Temer",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.788251,
+                "count": 1
+            },
+            {
+                "text": "presidente da Cnen",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.664392,
+                "count": 1
+            },
+            {
+                "text": "comando da Nuclep",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.662622,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Organization",
+                "text": "Cnen",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.951158,
+                "count": 6,
+                "confidence": 0.999977
+            },
+            {
+                "type": "Organization",
+                "text": "Nuclep",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.93102,
+                "count": 5,
+                "confidence": 0.999878
+            },
+            {
+                "type": "Organization",
+                "text": "Ministério da Ciência e Tecnologia",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.401374,
+                "count": 2,
+                "confidence": 0.768933
+            },
+            {
+                "type": "Organization",
+                "text": "governo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.315149,
+                "count": 5,
+                "confidence": 0.999999
+            },
+            {
+                "type": "Person",
+                "text": "Michel Temer",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.314601,
+                "count": 1,
+                "confidence": 0.995594
+            },
+            {
+                "type": "Date",
+                "text": "sexta (17",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.312337,
+                "count": 1,
+                "confidence": 0.393165
+            },
+            {
+                "type": "Organization",
+                "text": "Comissão Nacional de Energia Nuclear",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.307846,
+                "count": 1,
+                "confidence": 0.504342
+            },
+            {
+                "type": "Person",
+                "text": "Renato Machado Cotta",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.304844,
+                "count": 1,
+                "confidence": 0.810247
+            },
+            {
+                "type": "Organization",
+                "text": "Nuclebrás Equipamentos Pesados",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.293748,
+                "count": 1,
+                "confidence": 0.516391
+            },
+            {
+                "type": "Location",
+                "text": "Itaguaí",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.286474,
+                "count": 2,
+                "confidence": 0.994434
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Comissão Nacional de Energia Nuclear",
+                "relevance": 0.986959,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Comissão_Nacional_de_Energia_Nuclear"
+            },
+            {
+                "text": "Submarino nuclear",
+                "relevance": 0.982413,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Submarino_nuclear"
+            },
+            {
+                "text": "Michel Temer",
+                "relevance": 0.956747,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Michel_Temer"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.86749,
+                "label": "/law, govt and politics"
+            },
+            {
+                "score": 0.813102,
+                "label": "/law, govt and politics/armed forces/navy"
+            },
+            {
+                "score": 0.770807,
+                "label": "/law, govt and politics/government"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.747305
+    },
+    "text": "O governo Michel Temer exonerou na sexta (17) o presidente da Cnen (Comissão Nacional de Energia Nuclear), Renato Machado Cotta.  A demissão ocorre após tentativa frustrada de aprovar nomes para o comando da Nuclep (Nuclebrás Equipamentos Pesados), empresa controlada pela Cnen e vinculada ao Ministério da Ciência e Tecnologia.  Conforme a Folha revelou na última quinta (16), o governo tentava usar cargos na diretoria da empresa como moeda de troca por apoio à reforma da Previdência no Congresso.  A Nuclep fabrica equipamentos para a construção do submarino nuclear da Marinha e também da usina de Angra 3, em sua fábrica em Itaguaí (RJ).  O governo indicou à diretoria pessoas ligadas aos deputados federais Celso Pansera (PMDB-RJ), Aureo (SD-RJ) e Alexandre Valle (PR-RJ). Os dois últimos são integrantes de uma frente parlamentar que se opõe à reforma.  Inicialmente rejeitadas por uma comissão técnica da Nuclep, as indicações teriam de passar pelo crivo do Conselho de Administração da empresa, em reunião na última quarta-feira (15). O conselho tem cinco cadeiras, ocupadas pelos presidentes da Cnen e da Nuclep, um representante da Marinha, um do Ministério da Ciência e Tecnologia e outro do Planejamento.  Na condição de controladora da Nuclep, a Cnen tem o voto de desempate no conselho. O presidente Renato Cotta era justamente um dos que havia manifestado oposição às indicações.  Temendo derrota, o governo não apresentou os indicados para votação e exonerou Cotta, engenheiro da Coppe/UFRJ e membro da Academia Brasileira de Ciências.  A exoneração foi publicada no \"Diário Oficial\" da União na sexta. No lugar dele assume o major brigadeiro da Aeronáutica Roberto Pertusi, que já ocupava vaga no Conselho da Nuclep, como representante do Ministério da Ciência e Tecnologia.  A Folha apurou que o brigadeiro é indicação do ministro da pasta, Gilberto Kassab (PSD). Em geral, os indicados da Cnen ou são civis ou oficiais da Marinha, órgão responsável pelo desenvolvimento do programa nuclear brasileiro. A Cnen foi criada em 1956 e atua na fiscalização da produção e do uso de energia nuclear no país.  A Folha apurou ainda que a entrada de Pertusi é uma forma de conseguir passar no Conselho da Nuclep os indicados do governo.  Temer quer lotear estatal da área nuclear  INDICAÇÕES  Os nomes encontraram resistência por descumprirem a nova lei das estatais, sancionada pelo próprio presidente Temer em julho passado. Além de não terem notório saber na área nuclear, eles tiveram relação com a política nos últimos três anos, o que é vedado na legislação.  O indicado à presidência, por exemplo, foi candidato a vice-prefeito de Itaguaí na chapa derrotada de Alexandre Valle, em 2016. O cotado para diretor comercial tentou se eleger em 2014 deputado estadual pelo Rio, com doação do padrinho Aureo. A indicada à diretoria administrativa foi cabo eleitoral de Celso Pansera em 2014.  Procurado, o governo não comentou.",
+    "title": "Temer exonera servidor contrário a indicação que loteia órgão nuclear",
+    "category": "poder",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/poder/2017/03/1867760-temer-exonera-servidor-contrario-a-indicacao-que-loteia-orgao-nuclear.shtml"
+}

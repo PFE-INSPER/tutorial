@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 2848,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.568045,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "preparadores físicos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.675273,
+                "count": 1
+            },
+            {
+                "text": "novos edifícios",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.621109,
+                "count": 2
+            },
+            {
+                "text": "Jorge Willer",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.614952,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Location",
+                "text": "Vila Cordeiro",
+                "sentiment": {
+                    "score": 0.636041,
+                    "label": "positive"
+                },
+                "relevance": 0.95379,
+                "count": 7,
+                "confidence": 0.989042
+            },
+            {
+                "type": "Facility",
+                "text": "Brooklin Novo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.582838,
+                "count": 2,
+                "confidence": 0.740158
+            },
+            {
+                "type": "Location",
+                "text": "Brooklin",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.392933,
+                "count": 2,
+                "confidence": 0.833043
+            },
+            {
+                "type": "Facility",
+                "text": "avenidas Morumbi e Jornalista Roberto Marinho",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.329258,
+                "count": 1,
+                "confidence": 0.569457
+            },
+            {
+                "type": "Person",
+                "text": "Sergio Hoffmann",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.312554,
+                "count": 1,
+                "confidence": 0.975165
+            },
+            {
+                "type": "JobTitle",
+                "text": "diretor-executivo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.310523,
+                "count": 1,
+                "confidence": 0.367077
+            },
+            {
+                "type": "Organization",
+                "text": "Único Imóveis",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.307016,
+                "count": 1,
+                "confidence": 0.303205
+            },
+            {
+                "type": "Measure",
+                "text": "200 m²",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.274644,
+                "count": 1,
+                "confidence": 0.73862
+            },
+            {
+                "type": "Measure",
+                "text": "300 m²",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.273716,
+                "count": 1,
+                "confidence": 0.868237
+            },
+            {
+                "type": "Measure",
+                "text": "40 m² a 80 m²",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.268775,
+                "count": 1,
+                "confidence": 0.706075
+            }
+        ],
+        "concepts": [
+            {
+                "text": "São Paulo",
+                "relevance": 0.983427,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Edifício",
+                "relevance": 0.93989,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Edifício"
+            },
+            {
+                "text": "Casa",
+                "relevance": 0.899215,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Casa"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.718061,
+                "label": "/real estate"
+            },
+            {
+                "score": 0.654877,
+                "label": "/real estate/apartments"
+            },
+            {
+                "score": 0.625486,
+                "label": "/real estate/buying and selling homes"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.5852575
+    },
+    "text": "LEONARDO DESIDERI COLABORAÇÃO PARA A FOLHA  Com a disponibilidade de terrenos no Brooklin Novo quase saturada, as construtoras têm explorado outra área do bairro: a Vila Cordeiro, que fica entre as avenidas Morumbi e Jornalista Roberto Marinho (zona sul).  A proximidade de empresas multinacionais e a facilidade de conexão com outros pontos da capital ajudam.  Sergio Hoffmann, diretor-executivo da imobiliária Único Imóveis, diz que a região está na rota natural de expansão do bairro. Segundo ele, os novos edifícios têm padrão semelhante ao dos prédios do Brooklin Novo, com arquitetura moderna e áreas comuns. A diferença está no tamanho dos imóveis.    \"Há muitos apartamentos no Brooklin de 200 m², 300 m². O padrão na Vila Cordeiro é de 40 m² a 80 m².\"  A infraestrutura das áreas comuns, no entanto, é parecida. Quase todos os prédios têm academia, bicicletário, brinquedoteca, piscina e churrasqueira. O Casaviva, da BKO, tem uma área especial para animais de estimação, e o Splendor Brooklin, da Eztec, tem uma sala de pilates.  Alexandre Lafer, executivo-chefe da incorporadora Vitacon, diz que a decisão de construir apartamentos menores tem a ver com o estilo de vida do público-alvo —em sua maioria, executivos que trabalham nas empresas próximas da Vila Cordeiro.  \"São pessoas que buscam uma solução prática para a vida urbana. Querem estar próximas do local de trabalho e viver em uma unidade dotada de serviços.\"  Na mesma linha, Iolanda Oliveira, gerente de marketing da incorporadora You,Inc, diz que os moradores desses novos edifícios querem \"ter toda a infraestrutura necessária por perto a fim de ganhar tempo.\"  Os preparadores físicos Jorge Willer e Kelly Cataldo moram em um dos novos condomínios da Vila Cordeiro e encontraram na região um filão para sua atividade. O casal veio do Rio e se fixou há três meses no Brooklin.  Kelly diz que espaços como a academia e a área gourmet foram importantes ao decidir morar na Vila Cordeiro, já que são úteis para seu trabalho. Para Willer, a proximidade de grandes prédios comerciais também foi determinante. \"Faço muitas parcerias com empresas\", diz.  RESTRIÇÕES A possibilidade de verticalização da Vila Cordeiro é coibida por regras municipais. O Plano Diretor Estratégico de São Paulo prevê que a construção de edifícios se limite às adjacências das avenidas Jornalista Roberto Marinho, Morumbi, Santo Amaro e das Nações Unidas. O objetivo é preservar um miolo composto só por casas.  Marcos Metana, presidente da associação de moradores da Vila Cordeiro, diz que a regra agrada antigos e novos moradores. \"Quem mora nos prédios quer manter a vista que as casas proporcionam\", afirma.  Na opinião dele, os novos empreendimentos pioraram o trânsito do lugar. Por outro lado, aumentaram a sensação de segurança nas ruas do bairro graças à presença dos vigilantes dos prédios.",
+    "title": "\n\t\tNovo Brooklin chega à Vila Cordeiro, próxima a multinacionais\n\t\t",
+    "category": "sobretudo",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/sobretudo/morar/2017/03/1867563-novo-brooklin-chega-a-vila-cordeiro.shtml"
+}

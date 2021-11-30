@@ -1,0 +1,120 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 328,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0,
+                "label": "neutral"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "SÃO PAULO  Enquanto",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.96224,
+                "count": 1
+            },
+            {
+                "text": "vida noturna",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.702232,
+                "count": 1
+            },
+            {
+                "text": "regiões vizinhas",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.649448,
+                "count": 2
+            }
+        ],
+        "entities": [
+            {
+                "type": "Location",
+                "text": "Brooklin",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.958279,
+                "count": 1,
+                "confidence": 0.542483
+            },
+            {
+                "type": "Person",
+                "text": "Itaim",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.761967,
+                "count": 1,
+                "confidence": 0.405952
+            },
+            {
+                "type": "Person",
+                "text": "Itam Bibi",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.117935,
+                "count": 1,
+                "confidence": 0.718829
+            }
+        ],
+        "concepts": [
+            {
+                "text": "São Paulo",
+                "relevance": 0.977937,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Apartamento",
+                "relevance": 0.760324,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Apartamento"
+            },
+            {
+                "text": "Região",
+                "relevance": 0.621753,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Região"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.678099,
+                "label": "/real estate/apartments"
+            },
+            {
+                "score": 0.610596,
+                "label": "/education/school/private school"
+            },
+            {
+                "score": 0.573427,
+                "label": "/education/studying business"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.550828
+    },
+    "text": "DE SÃO PAULO  Enquanto o Itaim tem vida noturna agitada, o Brooklin é um bairro mais familiar, com apartamentos maiores e mais escolas. Compare as duas regiões vizinhas e escolha a sua preferida.  Batalha dos bairros  Batalha de bairros - Compare as duas regiões vizinhas e escolha a sua preferida  Itam Bibi x Broolin - Escolas",
+    "title": "\n\t\tConheça o Brooklin e o Itaim Bibi e escolha o seu favorito\n\t\t",
+    "category": "sobretudo",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/sobretudo/morar/2017/03/1867708-conheca-o-brooklin-e-o-itaim-bibi-e-escolha-o-seu-favorito.shtml"
+}

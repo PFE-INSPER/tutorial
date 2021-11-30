@@ -1,0 +1,201 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 2911,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.379633,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "administradora Anna Lugli",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.668989,
+                "count": 1
+            },
+            {
+                "text": "locação de itens de luxo",
+                "sentiment": {
+                    "score": 0.856013,
+                    "label": "positive"
+                },
+                "relevance": 0.623262,
+                "count": 1
+            },
+            {
+                "text": "empresários do meio",
+                "sentiment": {
+                    "score": 0.856013,
+                    "label": "positive"
+                },
+                "relevance": 0.61604,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Date",
+                "text": "neste ano",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.949157,
+                "count": 2,
+                "confidence": 0.87521
+            },
+            {
+                "type": "Person",
+                "text": "Anna Lugli",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.834922,
+                "count": 1,
+                "confidence": 0.915376
+            },
+            {
+                "type": "Organization",
+                "text": "I Bag You",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.8068,
+                "count": 1,
+                "confidence": 0.404739
+            },
+            {
+                "type": "Duration",
+                "text": "duas semanas",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.795462,
+                "count": 1,
+                "confidence": 0.689867
+            },
+            {
+                "type": "Money",
+                "text": "R$ 15 mil",
+                "sentiment": {
+                    "score": 0.583214,
+                    "label": "positive"
+                },
+                "relevance": 0.769317,
+                "count": 1,
+                "confidence": 0.947718
+            },
+            {
+                "type": "Duration",
+                "text": "dois dias",
+                "sentiment": {
+                    "score": 0.583214,
+                    "label": "positive"
+                },
+                "relevance": 0.762926,
+                "count": 1,
+                "confidence": 0.772771
+            },
+            {
+                "type": "Money",
+                "text": "R$ 400",
+                "sentiment": {
+                    "score": -0.814086,
+                    "label": "negative"
+                },
+                "relevance": 0.760233,
+                "count": 1,
+                "confidence": 0.989726
+            },
+            {
+                "type": "Date",
+                "text": "fim de semana",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.713885,
+                "count": 1,
+                "confidence": 0.424629
+            },
+            {
+                "type": "Organization",
+                "text": "Bo Bag",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.700139,
+                "count": 1,
+                "confidence": 0.708338
+            },
+            {
+                "type": "Person",
+                "text": "Isabel Teixeira",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.690583,
+                "disambiguation": {
+                    "name": "Isabel_Teixeira",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/Isabel_Teixeira"
+                },
+                "count": 1,
+                "confidence": 0.953904
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Plano de negócios",
+                "relevance": 0.996302,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Plano_de_negócios"
+            },
+            {
+                "text": "Chevrolet Camaro",
+                "relevance": 0.994883,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Chevrolet_Camaro"
+            },
+            {
+                "text": "Dodge Challenger",
+                "relevance": 0.990543,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Dodge_Challenger"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.886533,
+                "label": "/real estate/buying and selling homes"
+            },
+            {
+                "score": 0.747938,
+                "label": "/finance/investing"
+            },
+            {
+                "score": 0.747938,
+                "label": "/finance/investing/beginning investing"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.6008575
+    },
+    "text": "Bolsa, roupa, lancha, carro. Se não dá para comprar, dá para alugar. A locação de itens de luxo permite ao consumidor viver \"dia de bacana\" sem esbanjar, o que empresários do meio chamam de \"ostentação consciente\".  Pequenos e médios desse setor planejam investimentos em produtos, logística e tecnologia neste ano.  A administradora Anna Lugli, 25, fez um plano de negócios, contratou uma plataforma de e-commerce e buscou consultoria para abrir a I Bag You, de aluguel de bolsas de luxo, há duas semanas. São 30 peças, entre itens que eram dela e outros novos. Um modelo Chanel, que vale mais de R$ 15 mil, é alugado por dois dias a R$ 400.  \"As pessoas não querem ter, querem viver uma experiência. Vamos fazer três lançamentos no site por semana e chegar a 70 bolsas até junho. A previsão é alugar 25 por fim de semana\", prevê.  Entre seus concorrentes está a Bo Bag, inaugurada em 2010 por Isabel Teixeira, 35. Com R$ 50 mil, a profissional de marketing começou a empresa ao colocar dez acessórios de seu próprio closet para locação, sete anos atrás. Deu certo. Na comparação entre 2016 e 2015, a receita cresceu 134%. O próximo aporte previsto, de R$ 300 mil a R$ 500 mil, ampliará o estoque com mais 170 bolsas.  \"É preciso ter paciência e resiliência. O negócio não vai para frente sem investimento em tecnologia.\"  As empresárias Bárbara Diniz Almeida, 31, e Mariana Penazzo, 30, donas da Dress & Go, faturaram R$ 8 milhões, no ano passado. O crescimento foi de 200% na comparação de 2016 com 2015.  A loja, de aluguel de vestidos de festa assinados, funciona por e-commerce e tem um espaço físico na capital. A caminhada, desde 2013, incluiu uma \"evangelização\" das clientes. \"É um mercado arriscado e com fortes barreiras de entrada, por conta da logística complexa. Mudamos muita coisa, aprendemos. As pessoas, antes, viam o aluguel como um tabu. Hoje, veem como um closet inteligente\", afirma Bárbara.  \"A cliente que gastava entre R$ 2.000 e R$ 7.000 para comprar um vestido e usá-lo uma vez, agora aluga por R$ 200 ou R$ 500. É uma tendência mundial\", diz Mariana.  O empresário Thiago Alvarez, 30, entrou no mercado de carros de luxo em 2011. Começou alugando para eventos, festas, casamentos e comerciais. São seis carros: Ford Mustang, Chevrolet Camaro SS, Dodge Challenger SRT, Porsche Boxster S, Ferrrai 430 e Corvette C6.  Ele notou uma demanda de locação diária, e hoje realiza o sonho de quem quer estar a bordo de uma Ferrari ou de outro superesportivo.  Segundo Alvarez, neste ano a procura aumentou para o final de semana. \"Quero investir mais R$ 2 milhões e comprar dez carros esportivos no segundo semestre.\"  Para Marcus Quintella, coordenador do MBA executivo em administração da FGV, esse movimento na locação de luxo é uma tendência da manutenção do status sem investimento. \"A crise faz bem de alertar as pessoas em relação ao consumo. Até a classe A está está preocupada\", diz.",
+    "title": "Setor de aluguel de artigos de luxo planeja investimentos",
+    "category": "mercado",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/mercado/2017/03/1867462-setor-de-aluguel-de-artigos-de-luxo-planeja-investimentos.shtml"
+}

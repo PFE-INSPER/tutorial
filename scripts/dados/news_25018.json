@@ -1,0 +1,193 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 3183,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.256862,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "MARCELA PAES COLABORAÇÃO",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.615448,
+                "count": 1
+            },
+            {
+                "text": "Frederico Reder",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.606069,
+                "count": 1
+            },
+            {
+                "text": "Theatro Net SP",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.586446,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Location",
+                "text": "Vila Olímpia",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.949981,
+                "count": 3,
+                "confidence": 0.890199
+            },
+            {
+                "type": "Location",
+                "text": "Itaim",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.56407,
+                "count": 2,
+                "confidence": 0.921591
+            },
+            {
+                "type": "Facility",
+                "text": "praça Roosevelt e do Bexiga",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.505951,
+                "count": 1,
+                "confidence": 0.552493
+            },
+            {
+                "type": "Location",
+                "text": "São Paulo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.500766,
+                "count": 1,
+                "confidence": 0.602651
+            },
+            {
+                "type": "Person",
+                "text": "Ana Clara Salles",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.49659,
+                "count": 1,
+                "confidence": 0.490931
+            },
+            {
+                "type": "Location",
+                "text": "zona sul",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.4792,
+                "count": 1,
+                "confidence": 0.174731
+            },
+            {
+                "type": "Facility",
+                "text": "Theatro Net SP",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.453969,
+                "count": 1,
+                "confidence": 0.443559
+            },
+            {
+                "type": "Facility",
+                "text": "shopping Vila Olímpia",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.449789,
+                "count": 1,
+                "confidence": 0.85922
+            },
+            {
+                "type": "Person",
+                "text": "Reder",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.422953,
+                "count": 2,
+                "confidence": 0.998196
+            },
+            {
+                "type": "Person",
+                "text": "Analy Alvarez",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.420385,
+                "count": 1,
+                "confidence": 0.995618
+            }
+        ],
+        "concepts": [
+            {
+                "text": "São Paulo",
+                "relevance": 0.991619,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Espetáculo",
+                "relevance": 0.983178,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Espetáculo"
+            },
+            {
+                "text": "Juscelino Kubitschek",
+                "relevance": 0.942302,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Juscelino_Kubitschek"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.970737,
+                "label": "/art and entertainment/theatre"
+            },
+            {
+                "score": 0.633185,
+                "label": "/art and entertainment/shows and events"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.55278
+    },
+    "text": "MARCELA PAES COLABORAÇÃO PARA A FOLHA  Antiga frequentadora da praça Roosevelt e do Bexiga (região central de São Paulo), a publicitária Ana Clara Salles, 30, mudou o itinerário para assistir a novos espetáculos. Em busca de praticidade e de segurança, a moradora da zona sul tem ido a teatros no Itaim e na Vila Olímpia.  \"Não deixei de ir ao centro, mas vi que tenho opções perto de casa\", disse, depois de assistir à peça \"Terça Insana\", no Theatro Net SP, dentro do shopping Vila Olímpia.  Com duas grandes casas dentro de shoppings, três teatros de médio porte e uma escola de atuação, a região do Itaim e da Vila Olímpia desponta como um novo polo teatral da cidade.  Para Analy Alvarez, presidente da Apetesp (Associação dos Produtores de Espetáculos Teatrais do Estado de São Paulo), a falta de espaço é um dos motivos que levaram os teatros para esses bairros.  \"No Bexiga os teatros são, em sua maioria, pequenos e independentes. Por falta de espaço é mais difícil construir um grande teatro, desses que atraem megaproduções\", afirma. Ela também elenca fatores como a \"degradação do centro\" para a mudança. \"As calçadas estão esburacadas, e a mendicância, altíssima\", reclama Alvarez.  A lei que obriga todo novo shopping com mais de 30 mil metros quadrados a ter um teatro e um cinema com mais de 250 lugares também impulsionou o surgimento de novas casas de espetáculo.  FACILIDADE Localizados a cerca de 850 metros de distância um do outro, o Teatro Santander, no JK Iguatemi, e o Theatro Net são alguns exemplos.  Frederico Reder, proprietário do Theatro Net SP, afirma ser um entusiasta do teatro de rua, mas diz que o shopping é um \"facilitador\" para o público. \"Não só pela segurança e pelo estacionamento. Percebi que as pessoas gostam de fazer tudo no mesmo lugar\", afirma.  Reder diz ainda que a Vila Olímpia é uma região vocacionada para o entretenimento. \"Tem muitas coisas acontecendo aqui\", diz.  Apesar da alta renda per capita dos moradores da região, os ingressos têm preços similares aos dos teatros de outros bairros e variam conforme o porte do espetáculo.  Para Reder, a abertura de novos espaços artísticos não significa a perda de público em outros lugares. \"O teatro não é como o cinema. Se a pessoa quer ver a Bibi Ferreira, ela vai até a Bibi Ferreira. Seja onde for.\"  SANTANDER Em cartaz \"Carrossel, O Musical\" e \"Danos Morais\" Capacidade 2.085 pessoas Endereço av. Pres. Juscelino Kubitschek, 2.041 Contato (11)4003-1022; teatrosantander.com.br  THEATRO NET SP Em cartaz\"A Casa dos Budas Ditosos\" e \"Terça Insana\" Capacidade 799 pessoas Endereço r. Olimpíadas, 360 Contato (11) 4003-1212; theatronetsaopaulo.com.br  DÉCIO DE ALMEIDA PRADO Em cartaz Mostra da Cia. O Que de Que, com \"Rua Orindiuva, Antigo 87\" e \"Memórias Tecidas\" Capacidade 186 pessoas Endereço r. Cojuba, 45 Contato (11) 3079-3438  ESPAÇO BANCO HONDA HALL Em cartaz \"Desbocada\" e \"Afrobege\", entre outros Capacidade 250 pessoas Endereço rua Júlio Diniz, 176 Contato (11)3045-4146; bancohondahall.com.br  TEATRO EXTRA ITAIM Em cartaz \"Uma Aventura Congelante\" e \"Miraculosos, Uma Aventura em Paris\" Capacidade 345 pessoas Endereço rua João Cachoeira, 899 Contato (11) 4328-3842",
+    "title": "\n\t\tItaim e Vila Olímpia despontam como novo polo teatral da cidade\n\t\t",
+    "category": "sobretudo",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/sobretudo/morar/2017/03/1867603-itaim-e-vila-olimpia-despontam-como-novo-polo-teatral-da-cidade.shtml"
+}

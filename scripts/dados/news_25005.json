@@ -1,0 +1,204 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 4801,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.437543,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "jogadora amadora de vôlei",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.625576,
+                "count": 1
+            },
+            {
+                "text": "Neuri Barbieri",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.623142,
+                "count": 1
+            },
+            {
+                "text": "Isabelle Neris",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.590796,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Organization",
+                "text": "CBV",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.949948,
+                "disambiguation": {
+                    "name": "Confederação_Brasileira_de_Voleibol",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/Confederação_Brasileira_de_Voleibol"
+                },
+                "count": 3,
+                "confidence": 0.999999
+            },
+            {
+                "type": "Organization",
+                "text": "FPV",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.893001,
+                "disambiguation": {
+                    "subtype": [
+                        "SportsAssociation"
+                    ],
+                    "name": "Federação_Portuguesa_de_Voleibol",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/Federação_Portuguesa_de_Voleibol"
+                },
+                "count": 3,
+                "confidence": 0.999919
+            },
+            {
+                "type": "JobTitle",
+                "text": "jogadoras",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.681513,
+                "count": 4,
+                "confidence": 0.999711
+            },
+            {
+                "type": "JobTitle",
+                "text": "vice-presidente",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.679778,
+                "count": 2,
+                "confidence": 0.998684
+            },
+            {
+                "type": "Person",
+                "text": "Isabelle",
+                "sentiment": {
+                    "score": -0.850035,
+                    "label": "negative"
+                },
+                "relevance": 0.661838,
+                "count": 7,
+                "confidence": 1
+            },
+            {
+                "type": "Organization",
+                "text": "Taça Curitiba",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.608362,
+                "count": 2,
+                "confidence": 0.93215
+            },
+            {
+                "type": "Person",
+                "text": "Vicentin",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.538124,
+                "count": 2,
+                "confidence": 0.999736
+            },
+            {
+                "type": "JobTitle",
+                "text": "atletas",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.494836,
+                "count": 3,
+                "confidence": 0.991907
+            },
+            {
+                "type": "JobTitle",
+                "text": "transexual curitibana",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.48765,
+                "count": 1,
+                "confidence": 0.220782
+            },
+            {
+                "type": "Person",
+                "text": "Isabelle Neris",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.486045,
+                "count": 1,
+                "confidence": 0.999302
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Time",
+                "relevance": 0.982002,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Time"
+            },
+            {
+                "text": "Voleibol",
+                "relevance": 0.950822,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Voleibol"
+            },
+            {
+                "text": "Transexualidade",
+                "relevance": 0.924878,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Transexualidade"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.925403,
+                "label": "/sports/volleyball"
+            },
+            {
+                "score": 0.714316,
+                "label": "/society/sex"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.6127560000000001
+    },
+    "text": "Nascida em corpo de homem, mas identificada como mulher, a transexual curitibana Isabelle Neris é jogadora amadora de vôlei e, mesmo longe dos holofotes das equipes profissionais, acaba de deixar sua marca na história da modalidade: aos 25 anos, será a primeira transexual no país a jogar uma partida oficial entre equipes femininas no Brasil.  Ela trabalha como cabeleireira e joga de central no time Voleiras. No início deste mês, recebeu a aprovação para competir nos eventos promovidos pela Federação Paranaense de Voleibol (FPV). A estreia será na Taça Curitiba, torneio organizado pela federação estadual que começa em 20 de março.    Segundo Neuri Barbieri, vice-presidente da CBV (Confederação Brasileira de Vôlei), não há conhecimento de outro caso semelhante no país.  A decisão de permitir a participação de Isabelle é válida apenas para competições realizadas no Paraná. No entanto, refletiu no alto escalão do vôlei nacional.  Após o caso, a CBV criou uma comissão médica para estabelecer critérios para a aceitação de atletas que mudaram de sexo. A tarefa passa por questionar o que define uma mulher. Apenas o aspecto físico? Ou vale a identificação de gênero?  A confederação informou que não há previsão para a divulgação dos parâmetros que serão adotados. Até agora, a única documentação que era exigida das jogadoras era um documento oficial que indicasse no item \"sexo\" a inscrição \"feminino\".  Os pontos de vista envolvidos na questão são tantos que o próprio superintendente da FPV, Jandrey Vicentin, viu-se em dúvida ao fazer as consultas e estudos para avaliar o pedido da curitibana.  \"A trans pode, sim, favorecer resultados em equipes femininas, considerando a questão física. Ao mesmo tempo, nossa dificuldade foi encontrar estudos em esportes que, como o vôlei, a altura seja fator decisivo. A maior parte é sobre o atletismo, em que a força é mais relevante\", disse Vicentin.  Barbieri, que além de vice-presidente da CBV é presidente da federação paranaense, afirmou que a solução para o impasse sobre a participação de Isabelle se baseou na decisão da Justiça brasileira.  \"Decidimos que se a Justiça já reconhece a Isabelle como mulher, com documentos oficiais de mulher e tudo, como poderíamos não aceitar?\"  Enquanto não forem apresentados estudos que comprovem uma vantagem para as equipes com atletas transexuais, os pedidos de outras atletas que mudaram de sexo para se inscreverem em campeonatos da FPV serão aceitos, diz Vicentin.  #SOMOSTODOSISABELLE  Na reunião com os dois dirigentes para saber o resultado de seu pedido, o nervosismo de Isabelle era grande.  \"Tinha muito medo da resposta, de ser excomungada do vôlei. É um caso novo. Mas deu certo. O resultado está repercutindo muito mais do que podia imaginar\", disse.  \"Estou bem feliz, porque, de alguma forma, sirvo de exemplo, para incentivar outras mulheres trans a participar do esporte e ocupar outros espaços\", completou.  Como preparação para a Taça Curitiba, a central disputou o torneio não oficial Copa do Dia Internacional da Mulher. Foi a sua primeira participação em um campeonato disputado só por equipes femininas.  No entanto, alguns times que disputariam a competição não compareceram porque ela estaria em quadra. Em contrapartida, outras jogadoras fizeram uma ação de resposta ao preconceito: vestiram um uniforme com a inscrição #SomosTodosIsabelle.  A situação não encontra consenso. Cristiano Alberto dos Santos, técnico do Colombo Mambembes, um dos times amadores femininos que disputaram a competição, diz que o caso de Isabelle abriu bastante os parâmetros de gênero. No entanto, diz ficar \"em cima do muro\" sobre o tema.  \"Acho interessante a inclusão, mas sei que os corpos não têm o mesmo padrão. A gente sabe que quando se nasce no [sexo] masculino, se tem mais força. E quando aparecer jogadoras trans com mais força que as jogadoras [nascidas mulheres]?\"  Ele lembra de uma atleta travesti que participava de um time masculino que treinou. \"Sua força se destacava nos torneios masculinos. Se ela fosse jogar entre as mulheres, iria destruir\".  INÍCIO  Isabelle teve as primeiras aulas de vôlei como menino, aos oito anos, em um projeto coordenado por Bernardinho, ex-técnico da seleção.  Iniciou a transição de sexo aos 17 anos, com as primeiras cirurgias plásticas e tratamento hormonal. No ano passado, recebeu os novos documentos, com nome e gênero femininos. A atleta não pensa em se profissionalizar.  Apesar do pioneirismo, Isabelle não é a primeira brasileira transexual \"regularizada\" no mundo do vôlei.  Tiffany Abreu, 32 anos, estreou em fevereiro, na Série A2 (segunda divisão) da liga feminina italiana e serviu de inspiração para Isabelle. Nascida como Rodrigo, a goiana já havia jogado a Superliga B masculina no Brasil antes de fazer a transição de gênero.",
+    "title": "Jogadora transexual de vôlei ganha aval para disputar torneio no Paraná",
+    "category": "esporte",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/esporte/2017/03/1867803-jogadora-transexual-de-volei-ganha-aval-para-disputar-torneio-no-parana.shtml"
+}

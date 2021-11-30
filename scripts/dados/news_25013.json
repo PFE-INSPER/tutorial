@@ -1,0 +1,189 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 3228,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.478352,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "vitória de qualquer grande seleção",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.612351,
+                "count": 1
+            },
+            {
+                "text": "comportamento de capitão",
+                "sentiment": {
+                    "score": -0.698366,
+                    "label": "negative"
+                },
+                "relevance": 0.588017,
+                "count": 1
+            },
+            {
+                "text": "meias atacantes agressivos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.581435,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Person",
+                "text": "Gabriel Jesus",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.949981,
+                "count": 3,
+                "confidence": 1
+            },
+            {
+                "type": "Person",
+                "text": "Philippe Coutinho",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.791267,
+                "count": 3,
+                "confidence": 1
+            },
+            {
+                "type": "Person",
+                "text": "Douglas Costa",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.579486,
+                "count": 2,
+                "confidence": 0.999848
+            },
+            {
+                "type": "Person",
+                "text": "Firmino",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.543015,
+                "count": 2,
+                "confidence": 0.999999
+            },
+            {
+                "type": "Date",
+                "text": "Nesta semana",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.484576,
+                "count": 1,
+                "confidence": 0.693024
+            },
+            {
+                "type": "Organization",
+                "text": "Copa do Mundo da Rússia",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.477781,
+                "count": 1,
+                "confidence": 0.652639
+            },
+            {
+                "type": "Person",
+                "text": "Buffon",
+                "sentiment": {
+                    "score": 0.783452,
+                    "label": "positive"
+                },
+                "relevance": 0.397348,
+                "count": 1,
+                "confidence": 0.998677
+            },
+            {
+                "type": "Person",
+                "text": "Courtois",
+                "sentiment": {
+                    "score": 0.783452,
+                    "label": "positive"
+                },
+                "relevance": 0.396132,
+                "count": 1,
+                "confidence": 0.998836
+            },
+            {
+                "type": "Person",
+                "text": "Kroos",
+                "sentiment": {
+                    "score": 0.783452,
+                    "label": "positive"
+                },
+                "relevance": 0.383027,
+                "count": 1,
+                "confidence": 0.955725
+            },
+            {
+                "type": "Person",
+                "text": "Thiago Alcântara",
+                "sentiment": {
+                    "score": 0.783452,
+                    "label": "positive"
+                },
+                "relevance": 0.380364,
+                "count": 1,
+                "confidence": 0.948398
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Futebol",
+                "relevance": 0.954314,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Futebol"
+            },
+            {
+                "text": "Neymar",
+                "relevance": 0.92747,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Neymar"
+            },
+            {
+                "text": "Copa do Mundo FIFA de 2014",
+                "relevance": 0.923296,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Copa_do_Mundo_FIFA_de_2014"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.913265,
+                "label": "/sports/soccer"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.6962100000000001
+    },
+    "text": "Nesta semana, recomeçam as eliminatórias para a Copa do Mundo da Rússia. O Brasil terá uma partida difícil, fora de casa, contra o Uruguai, mesmo sem Suárez, e outra, que não é fácil, no Itaquerão. O Paraguai é, individualmente, modesto, mas costuma dificultar a vitória de qualquer grande seleção.  Provavelmente, Firmino entrará no lugar de Gabriel Jesus. Firmino é um centroavante que gosta de recuar para receber a bola, de driblar e de trocar passes, enquanto Gabriel Jesus se destaca mais pela velocidade com que parte para receber a bola na frente e pela rapidez de raciocínio. Chega sempre primeiro.  Repito, faltam ao Brasil um goleiro excepcional, como Neuer, Buffon, Courtois, De Gea e outros, e um craque no meio-campo, que jogue de uma área à outra, como Modric, Kroos, Vidal, Thiago Alcântara, Pogba e outros.  Em compensação, nenhuma seleção tem um lateral-esquerdo como Marcelo nem tantos meias atacantes agressivos, dribladores, velozes e ótimos no confronto individual, como Neymar, Philippe Coutinho, Willian e Douglas Costa, cortado por contusão. Por isso e por ter, agora, um bom conjunto, o Brasil voltou a ser um dos candidatos ao título mundial.  Uma opção, que pode ser necessária mais à frente, seria atuar com dois volantes (Casemiro e Renato Augusto), uma linha de três meias (Neymar e mais dois) e um centroavante. Outra seria adaptar Philippe Coutinho ou Willian na função de Paulinho. Uma terceira, enquanto Gabriel Jesus estiver fora, seria escalar Douglas Costa ou Philippe Coutinho pela esquerda e Neymar mais centralizado e mais perto do gol.    Os zagueiros e laterais brasileiros estão entre os melhores do mundo. Após o 6 a 1 do Barcelona sobre o PSG, voltaram as críticas a Thiago Silva, não por sua atuação, pois atuou bem e não cometeu nenhum erro, mas por seu comportamento de capitão. Queriam que ele evitasse a postura medrosa do time francês. Essa capacidade de um capitão, de mudar a história de um jogo, é, com raríssimas exceções, uma ilusão, uma lenda, transmitida por gerações.  O capitão é o representante do técnico no gramado e dos jogadores fora de campo. Alguns são ótimos para reivindicar prêmios mais altos por vitórias e títulos. Outra função muito importante é escolher o lado de campo para começar o jogo. Durante a partida, todos os jogadores podem e devem opinar. A liderança não é só do capitão. Muitos líderes técnicos em campo não eram capitães, como Gerson, na Copa de 1970.  O futebol está repleto de clichês, lendas, rituais e superstições, que se tornam muito mais importantes do que são. Um exemplo foi a entrada em campo dos jogadores de mão dadas, durante a Copa de 1994, que, para muitos, foi tão decisiva quanto Romário. Isso tem a mesma importância que dezenas de outros rituais, como o dos discursos emotivos, os gritos e os abraços dos jogadores, no vestiário, antes de o jogo começar.  No futebol, existe uma grande preocupação em procurar uma única causa para tudo. Tragédias, como o 7 a 1 da Copa de 2014 e do recente 6 a 1 na Liga dos Campeões, ocorrem por acertos, erros dos jogadores, das equipes, dos árbitros e também por uma rápida sequência de detalhes inespecíficos, que se somam e se potencializam. A vida é um caos organizado e reprimido.",
+    "title": "O futebol está repleto de rituais, clichês, lendas e superstições",
+    "category": "colunas",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/colunas/tostao/2017/03/1867791-o-futebol-esta-repleto-de-rituais-cliches-lendas-e-supersticoes.shtml"
+}

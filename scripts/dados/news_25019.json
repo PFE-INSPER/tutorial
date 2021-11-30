@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 1495,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0,
+                "label": "neutral"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "SÃO PAULO  Depois",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.723192,
+                "count": 1
+            },
+            {
+                "text": "Alcino Leite Neto",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.641959,
+                "count": 1
+            },
+            {
+                "text": "marinadas Avaliação",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.634276,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "JobTitle",
+                "text": "chef boliviano",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.949613,
+                "count": 1,
+                "confidence": 0.254206
+            },
+            {
+                "type": "Person",
+                "text": "Checho Gonzales",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.942046,
+                "count": 1,
+                "confidence": 0.972052
+            },
+            {
+                "type": "Facility",
+                "text": "Mercado de Pinheiros",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.890925,
+                "count": 1,
+                "confidence": 0.876335
+            },
+            {
+                "type": "Organization",
+                "text": "Comedoria Gonzales",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.879188,
+                "count": 1,
+                "confidence": 0.410303
+            },
+            {
+                "type": "Date",
+                "text": "dia a dia",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.821884,
+                "count": 1,
+                "confidence": 0.239605
+            },
+            {
+                "type": "Location",
+                "text": "Checho",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.787521,
+                "count": 1,
+                "confidence": 0.6729
+            },
+            {
+                "type": "Date",
+                "text": "nesta semana",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.768761,
+                "count": 1,
+                "confidence": 0.651396
+            },
+            {
+                "type": "Person",
+                "text": "Alcino Leite Neto",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.73928,
+                "count": 1,
+                "confidence": 0.621003
+            },
+            {
+                "type": "Person",
+                "text": "Luiza Fecarotta",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.630024,
+                "count": 1,
+                "confidence": 0.742615
+            },
+            {
+                "type": "Person",
+                "text": "Checho",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.603017,
+                "count": 1,
+                "confidence": 0.758315
+            }
+        ],
+        "concepts": [
+            {
+                "text": "São Paulo",
+                "relevance": 0.976871,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "SI",
+                "relevance": 0.858809,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/SI"
+            },
+            {
+                "text": "Chef",
+                "relevance": 0.840387,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Chef"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.829722,
+                "label": "/food and drink/desserts and baking"
+            },
+            {
+                "score": 0.826921,
+                "label": "/food and drink/food"
+            },
+            {
+                "score": 0.779354,
+                "label": "/food and drink/cuisines"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.581731
+    },
+    "text": "DE SÃO PAULO  Depois de fazer sucesso em feirinhas gastronômicas pela cidade, o chef boliviano Checho Gonzales criou um ponto fixo na cidade para servir seus ceviches. Surgiu, então, em 2014, no Mercado de Pinheiros, a Comedoria Gonzales.  O chef garimpa pelo próprio mercado municipal os ingredientes para suas receitas, que variam dia a dia –mas sempre estão por ali os ceviches que deram fama a Checho.  A casa foi a avaliada nesta semana pelos convidados da sãopaulo.  *  -  Alcino Leite Neto - editor da Três Estrelas Um espaço informal para experimentar rapidamente ceviches, a especialidade da casa, oferecidos em diferentes marinadas Avaliação: regular  *  Luiza Fecarotta - crítica da Folha Um golaço de Checho: comida de primeira, preços contidos, proposta informal, que estimula a civilidade e serve de convite para aproveitar o melhor de SP Avaliação: muito bom  *  Manuel da Costa Pinto - colunista da sãopaulo Bons ceviches e assados bem condimentados em balcão sem grande conforto, mas com a vibração do mercado de Pinheiros Avaliação: regular  *  Marcelo Katsuki - blogueiro da Folha A reinvenção do restaurante: informal, interativo, com menu temático mas variado, locação inspirada e preços acessíveis Avaliação: bom  *  Crítico secreto - convidado da sãopaulo Vale pelo conceito, vale pela comida, com tanta personalidade quanto o tatuado que criou tudo isso. Faça um bem a si mesmo e coma sobremesa Avaliação: bom  As visitas foram realizadas entre fevereiro e março de 2017.",
+    "title": "Marco do Mercado de Pinheiros, Comedoria Gonzales serve bons ceviches em clima informal",
+    "category": "saopaulo",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/saopaulo/2017/03/1867020-marco-do-mercado-de-pinheiros-comedoria-gonzales-serve-bons-ceviches-em-clima-informal.shtml"
+}

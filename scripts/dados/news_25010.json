@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 2370,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.840412,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "Morador de Sertânia",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.668783,
+                "count": 1
+            },
+            {
+                "text": "barragens da transposição",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.639186,
+                "count": 1
+            },
+            {
+                "text": "Ministério da Integração Nacional",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.611838,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Location",
+                "text": "Sertânia",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.94975,
+                "count": 2,
+                "confidence": 0.854826
+            },
+            {
+                "type": "Person",
+                "text": "Udemário Azevedo da Silva",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.906638,
+                "count": 1,
+                "confidence": 0.853453
+            },
+            {
+                "type": "Duration",
+                "text": "há anos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.894485,
+                "count": 1,
+                "confidence": 0.517676
+            },
+            {
+                "type": "Money",
+                "text": "R$ 15",
+                "sentiment": {
+                    "score": -0.799311,
+                    "label": "negative"
+                },
+                "relevance": 0.884514,
+                "count": 1,
+                "confidence": 0.899184
+            },
+            {
+                "type": "Measure",
+                "text": "mil litros",
+                "sentiment": {
+                    "score": -0.799311,
+                    "label": "negative"
+                },
+                "relevance": 0.880934,
+                "count": 1,
+                "confidence": 0.649974
+            },
+            {
+                "type": "GeographicFeature",
+                "text": "sertão pernambucano",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.829373,
+                "count": 1,
+                "confidence": 0.19339
+            },
+            {
+                "type": "Person",
+                "text": "Alexsandro Alexandre da Silva",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.750958,
+                "count": 1,
+                "confidence": 0.833916
+            },
+            {
+                "type": "Person",
+                "text": "Zuleide Francisca da Silva",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.734625,
+                "count": 1,
+                "confidence": 0.877725
+            },
+            {
+                "type": "Duration",
+                "text": "três semanas",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.681941,
+                "count": 1,
+                "confidence": 0.678877
+            },
+            {
+                "type": "JobTitle",
+                "text": "pintor",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.647516,
+                "count": 2,
+                "confidence": 0.996525
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Pernambuco",
+                "relevance": 0.992233,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Pernambuco"
+            },
+            {
+                "text": "Rio Moxotó",
+                "relevance": 0.981367,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Rio_Moxotó"
+            },
+            {
+                "text": "Barragem",
+                "relevance": 0.980962,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Barragem"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.670072,
+                "label": "/food and drink"
+            },
+            {
+                "score": 0.667948,
+                "label": "/law, govt and politics"
+            },
+            {
+                "score": 0.654709,
+                "label": "/society/unrest and war"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.7611270000000001
+    },
+    "text": "Udemário Azevedo da Silva, 40, pintor desempregado, há anos só toma banho de cuia. Paga R$ 15 por mil litros de uma água de caminhão-pipa que vem sempre salobra. \"Se eu vir um chuveiro agora, até estranho, vou achar que é chuva\", brinca.  Morador de Sertânia, cidade no sertão pernambucano em que começaram a ser cheias quatro barragens da transposição, ele estava no sábado retrasado em uma delas, a de Campos, com uma caixa de cerveja e refrigerante para vender.  Pegava carona na sombra de um toldo meio roto do primo Alexsandro Alexandre da Silva, 30, e da mulher dele, Zuleide Francisca da Silva, 30, ambos igualmente desempregados e que também levaram bebidas para vender à beira da barragem, tornada lazer desde a chegada das águas, há três semanas.  Numa região em que água é festa, as piscinas das barragens da transposição viraram praias. Nos primeiros domingos com água, entre o fim de fevereiro e o início de março, receberam centenas de moradores –as imagens dos piscinões sertanejos correram o país via redes sociais. Entre eufóricos e embevecidos, os moradores ignoram as placas que proíbem o banho e alertam para o risco de afogamento.  \"Pode vir polícia como for, não tem como impedir a alegria. Os cabras estão tudo besta\", afirma Alexsandro.  No sábado retrasado, quatro amigos jovens entre 18 e 21 anos foram em duas motos à barragem. Joan, Douglas, Felipe e Taciano levaram pão com mortadela e um refrigerante de laranja.  Comeram e nadaram. A última vez em que mergulharam em águas naturais foi há mais de cinco anos, no rio Moxotó, hoje seco.    MORTES  Pelo menos duas pessoas já morreram em canais da transposição –um rapaz em Floresta e um homem em Custódia, ambos no Estado de Pernambuco.  O Ministério da Integração Nacional diz que canais e barragens são sinalizados com a proibição a banho, afirma que lamenta as mortes e que está prestando todo o apoio possível às famílias das vítimas, com equipes de assistência social.  Apesar de a água ter chegado a canais e reservatórios de Sertânia e Monteiro, moradores das duas cidades ainda enfrentam racionamento. Na cidade paraibana, algumas ruas foram abastecidas na última quinta (16).  Contatado nesta sexta (17) por telefone, Udemário, o pintor desempregado de Sertânia que faz bico de barraqueiro na barragem de Campos, contou que continua dependendo de carro-pipa e tomando banho de cuia.",
+    "title": "Barragem com água da transposição do São Francisco vira praia sertaneja",
+    "category": "poder",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/poder/2017/03/1867772-barragem-com-agua-da-transposicao-do-sao-francisco-vira-praia-sertaneja.shtml"
+}

@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 3146,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.322383,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "escutas dos operadores",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.605924,
+                "count": 1
+            },
+            {
+                "text": "parte do território",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.604221,
+                "count": 1
+            },
+            {
+                "text": "grandes propriedades",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.592748,
+                "count": 2
+            }
+        ],
+        "entities": [
+            {
+                "type": "Organization",
+                "text": "Carne Fraca da Polícia Federal",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.948961,
+                "count": 1,
+                "confidence": 0.504441
+            },
+            {
+                "type": "Location",
+                "text": "Tis",
+                "sentiment": {
+                    "score": -0.400403,
+                    "label": "negative"
+                },
+                "relevance": 0.941419,
+                "count": 2,
+                "confidence": 0.771414
+            },
+            {
+                "type": "Date",
+                "text": "sexta-feira (17",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.940706,
+                "count": 1,
+                "confidence": 0.388227
+            },
+            {
+                "type": "JobTitle",
+                "text": "operadores",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.914739,
+                "count": 1,
+                "confidence": 0.724261
+            },
+            {
+                "type": "JobTitle",
+                "text": "ministro da Justiça",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.882982,
+                "count": 1,
+                "confidence": 0.460974
+            },
+            {
+                "type": "Person",
+                "text": "Michel Temer",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.875939,
+                "count": 1,
+                "confidence": 0.998659
+            },
+            {
+                "type": "Person",
+                "text": "Osmar Serraglio",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.872347,
+                "count": 1,
+                "confidence": 0.993558
+            },
+            {
+                "type": "Person",
+                "text": "Serraglio",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.868861,
+                "count": 1,
+                "confidence": 0.991785
+            },
+            {
+                "type": "JobTitle",
+                "text": "presidente da República",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.854122,
+                "count": 1,
+                "confidence": 0.508364
+            },
+            {
+                "type": "Organization",
+                "text": "Funai",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.79917,
+                "count": 1,
+                "confidence": 0.328717
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Terras indígenas",
+                "relevance": 0.955063,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Terras_indígenas"
+            },
+            {
+                "text": "Natureza",
+                "relevance": 0.918814,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Natureza"
+            },
+            {
+                "text": "Agricultura",
+                "relevance": 0.892229,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Agricultura"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.754109,
+                "label": "/business and industrial/agriculture and forestry/agriculture"
+            },
+            {
+                "score": 0.710452,
+                "label": "/society/unrest and war"
+            },
+            {
+                "score": 0.706625,
+                "label": "/law, govt and politics"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 2.3831870625000002
+    },
+    "text": "A operação Carne Fraca da Polícia Federal, realizada na sexta-feira (17), abriu uma fresta para o Brasil espiar como funciona a cadeia da pecuária brasileira. Nas escutas dos operadores e barões desse império do atraso –que o BNDES quis transformar em campeões mundiais despejando nele bilhões– apareceu até o ministro da Justiça escolhido por Michel Temer, Osmar Serraglio.  Serraglio, do mesmo PMDB que lota a base parlamentar do presidente da República com latifundiários, andou dizendo que índios não precisam de mais terras indígenas (Tis). Na sua visão interessada de ruralista, \"terra não enche barriga\".  Entenda-se da fala do ministro, que tem sob sua alçada a Funai: vamos parar com a demarcação de Tis. Aí vai sobrar mais terra para a gente.  Não é de hoje que o pessoal do agronegócio propagandeia que o Brasil tem um excesso de áreas protegidas, conceito que reúne unidades de conservação às Tis para designar aquela parte do território em que prevalece a preservação de vegetação nativa. O suposto exagero estaria impedindo a agricultura de se expandir.  Na realidade, são as grandes propriedades que predominam, como mostra o Atlas da Agropecuária Brasileira (www.imaflora.org/atlasagropecuario ) que será lançado nesta segunda-feira (20). A façanha informática realizada pela ONG Imaflora em parceria com a Esalq-USP aglutina informações de 20 bases de dados separadas para traçar em detalhe a malha das terras públicas e propriedades rurais do país.  De acordo com o novo Atlas, as áreas protegidas cobrem 27% do território nacional, ou 2,32 milhões de quilômetros quadrados (km2). É um número portentoso, sem dúvida, que aliás deveria orgulhar os brasileiros pelo tamanho da contribuição para salvar a natureza do planeta, mas não sustenta a tese de que índios e mato ocupam tanta terra que estariam impedindo o avanço dos \"heróis do agropop\".  As terras privadas, afinal, abarcam 53% do solo brasileiro. São 4,53 milhões de km2 (isso sem incluir os assentamentos rurais do Incra, outros 400 mil km2). E, desses 4,53 milhões de km2, 2,34 milhões de km2 são grandes propriedades, ou 28% do total, um ponto percentual acima da parcela de áreas protegidas.  É verdade que parte dessas propriedades particulares não pode ser desmatada, pois a lei estipula que devem ter uma reserva legal de vegetação natural (20% a 80% do total, dependendo da região) e áreas de preservação permanente, como uma faixa de mata ao longo de rios e riachos. Mas isso se faz em benefício também dos próprios produtores rurais: são as áreas florestadas que lhes garantem a água para plantações e gado.  O Atlas do Imaflora e da Esalq está em franca contradição com o famigerado relatório \"Alcance Territorial da Legislação Ambiental e Indigenista\". O trabalho coordenado em 2009 por Evaristo Eduardo de Miranda, da Embrapa Monitoramento por Satélite, dizia que só 29% do território nacional estavam disponíveis para a agropecuária, o restante ocupado por unidades de conservação, terras indígenas, quilombos etc.  Parece que agora a parte mais atrasada do agronegócio, pecuaristas à frente, tem mais coisas para explicar que essa discrepância de números.",
+    "title": "Atlas revela que latifúndio supera as áreas protegidas",
+    "category": "colunas",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/colunas/marceloleite/2017/03/1867657-atlas-revela-que-latifundio-supera-as-areas-protegidas.shtml"
+}

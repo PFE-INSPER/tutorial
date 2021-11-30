@@ -58,8 +58,7 @@ As principais ferramentas utilizadas neste tutorial estão listadas abaixo:
 
 ## Fluxo do Projeto
 * [Criação instância NLU](nlu.md)
-* [Treinamento do modelo](modelo.md)
-* [Enriquecimento dos dados](enriquecimento.md)
+* [Treinamento do modelo e enriquecimento dos dados](enriquecimento.md)
 * [Subir arquivos para o Cloudant ](cloudant.md)
 * [Criação e configuração do Assistant](assistant.md)
 * [Configurar o servidor](cloudfoundry.md)

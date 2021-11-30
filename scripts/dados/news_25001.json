@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 769,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0,
+                "label": "neutral"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "versão XRS",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.664608,
+                "count": 1
+            },
+            {
+                "text": "início dos anos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.621787,
+                "count": 1
+            },
+            {
+                "text": "grande mudança",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.613123,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Organization",
+                "text": "Toyota Corolla",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.950395,
+                "count": 1,
+                "confidence": 0.797064
+            },
+            {
+                "type": "Money",
+                "text": "R$ 69,6 mil",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.884901,
+                "count": 1,
+                "confidence": 0.994971
+            },
+            {
+                "type": "Money",
+                "text": "R$ 114,9 mil",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.853166,
+                "count": 1,
+                "confidence": 0.993887
+            },
+            {
+                "type": "Number",
+                "text": "2.0",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.837769,
+                "count": 1,
+                "confidence": 0.8
+            },
+            {
+                "type": "Date",
+                "text": "início dos anos 1990",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.743172,
+                "count": 1,
+                "confidence": 0.271449
+            },
+            {
+                "type": "Date",
+                "text": "2018",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.659728,
+                "count": 1,
+                "confidence": 0.88772
+            },
+            {
+                "type": "Number",
+                "text": "seis",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.451628,
+                "count": 1,
+                "confidence": 0.8
+            },
+            {
+                "type": "Number",
+                "text": "sete",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.304004,
+                "count": 1,
+                "confidence": 0.8
+            },
+            {
+                "type": "Ordinal",
+                "text": "primeira",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.303447,
+                "count": 1,
+                "confidence": 0.995046
+            },
+            {
+                "type": "Organization",
+                "text": "XRS",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.301915,
+                "count": 1,
+                "confidence": 0.970255
+            }
+        ],
+        "concepts": [
+            {
+                "text": "São Paulo",
+                "relevance": 0.977464,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Toyota Corolla",
+                "relevance": 0.935798,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Toyota_Corolla"
+            },
+            {
+                "text": "Transmissão continuamente variável",
+                "relevance": 0.773852,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Transmissão_continuamente_variável"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.999892,
+                "label": "/automotive and vehicles/cars/sedan"
+            },
+            {
+                "score": 0.992869,
+                "label": "/automotive and vehicles/cars/hatchback"
+            },
+            {
+                "score": 0.986107,
+                "label": "/automotive and vehicles/cars/wagon"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.773447
+    },
+    "text": "DE SÃO PAULO  O Toyota Corolla 2018 já está à venda, em seis versões. Os preços vão de R$ 69,6 mil (XLi 1.8, manual) a R$ 114,9 mil (Altis 2.0, automático do tipo CVT).  Pela primeira vez desde que foi lançado no país, no início dos anos 1990, o sedã vem equipado com um pacote de segurança que inclui controles de estabilidade e de tração. Os sete airbags agora são item de série em todos os modelos.  Por fora, a grande mudança se deu na parte dianteira. Os faróis e a grade estão mais finos, \"look\" inspirado no olhar de atletas antes de uma competição, segundo a marca. A versão XRS está de volta: por R$ 108,9 mil, leva-se para a garagem um Corolla com traje esporte.  Há também uma novidade na paleta de cores: o marrom urban foi escolhido como tom de lançamento.",
+    "title": "\n\t\tToyota Corolla muda estilo e recebe controles de tração e de estabilidade\n\t\t",
+    "category": "sobretudo",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/sobretudo/vida-pratica/2017/03/1867620-toyota-corolla-muda-estilo-e-recebe-controles-de-tracao-e-de-estabilidade.shtml"
+}

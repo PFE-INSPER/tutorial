@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 5552,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.450081,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "primeiro canal da transposição",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.638333,
+                "count": 1
+            },
+            {
+                "text": "Moradores de Petrolândia",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.616907,
+                "count": 1
+            },
+            {
+                "text": "águas do rio",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.581143,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Person",
+                "text": "Ana Paula",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.948865,
+                "count": 2,
+                "confidence": 0.999985
+            },
+            {
+                "type": "GeographicFeature",
+                "text": "rio São Francisco",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.874241,
+                "count": 2,
+                "confidence": 0.981846
+            },
+            {
+                "type": "Duration",
+                "text": "três anos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.791488,
+                "count": 2,
+                "confidence": 0.932029
+            },
+            {
+                "type": "Person",
+                "text": "José Aílton da Silva",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.746014,
+                "count": 1,
+                "confidence": 0.850522
+            },
+            {
+                "type": "Duration",
+                "text": "15 dias",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.742799,
+                "count": 1,
+                "confidence": 0.559001
+            },
+            {
+                "type": "Person",
+                "text": "Ana Paula da Silva",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.739894,
+                "count": 1,
+                "confidence": 0.888483
+            },
+            {
+                "type": "Person",
+                "text": "Uálison Caio",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.736611,
+                "count": 1,
+                "confidence": 0.997838
+            },
+            {
+                "type": "Duration",
+                "text": "2 anos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.735126,
+                "count": 1,
+                "confidence": 0.492127
+            },
+            {
+                "type": "Location",
+                "text": "Petrolândia (PE",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.732417,
+                "count": 1,
+                "confidence": 0.231353
+            },
+            {
+                "type": "Location",
+                "text": "Água Branca",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.72142,
+                "count": 1,
+                "confidence": 0.506928
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Pernambuco",
+                "relevance": 0.971986,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Pernambuco"
+            },
+            {
+                "text": "Transposição do rio São Francisco",
+                "relevance": 0.968059,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Transposição_do_rio_São_Francisco"
+            },
+            {
+                "text": "Agricultura",
+                "relevance": 0.959313,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Agricultura"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.589131,
+                "label": "/law, govt and politics"
+            },
+            {
+                "score": 0.582297,
+                "label": "/business and industrial/construction"
+            },
+            {
+                "score": 0.581986,
+                "label": "/society/unrest and war"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.7864979999999999
+    },
+    "text": "Onde o rio São Francisco deságua no primeiro canal da transposição, o pescador José Aílton da Silva, 22, acampou há 15 dias com a mulher, Ana Paula da Silva, 31, e o filho Uálison Caio, de 2 anos. Moradores de Petrolândia (PE), foram em busca de comida, pescada das águas em uma entrada do rio antes conhecida como Água Branca.  Com a chegada da transposição, o lugar, ponto de partida do eixo leste do projeto, passou a ser chamado pelos locais de Paredão. A três quilômetros dali está a Estação de Bombeamento de Floresta (PE), que lança as águas do rio até Monteiro (PB), um percurso de 217 quilômetros cuja conclusão foi inaugurada com festa pelo presidente Michel Temer no último dia 10.  A obra monumental já custou R$ 9,6 bilhões à União e tem sua paternidade reivindicada pelo ex-presidente Luiz Inácio Lula da Silva, que em 2007 tirou do papel uma ideia que circulava no país havia anos.  Em paralelo à disputa política que marca a chegada das águas do rio aos canais e barragens da transposição, desenrola-se outra menos visível, entre as populações ao longo do trajeto da obra, atingidas pela seca mais severa em pelo menos 50 anos no Nordeste, que dura pelo menos cinco anos.  Na ponta que começa a receber a água, o que se encontra são euforia e esperança. À medida que se desce no mapa em direção à bacia do São Francisco, a maior parte dos moradores relata apreensão ou oposição ao projeto.  Neste segundo grupo está o casal Silva. \"A transposição está prejudicando o rio. A bomba está ligada o tempo todo puxando água, o nível é baixo e já está baixando mais\", disse José Aílton. \"Entendo a alegria deles [moradores beneficiados], porque viviam de caminhão-pipa, mas tem de ver o sofrimento que agora está causando aqui\", emendou Ana Paula. Ao verem o rio baixo, ambos relatam receio de que a água passará a custar mais caro e faltará para a agricultura na região, outro sustento do casal.  \"Eles\" a quem se refere Ana Paula são principalmente sertanejos de Paraíba e Pernambuco. Gente como o pedreiro Sebastião Gomes Cazuza, 58, que trabalhou por três anos na obra da transposição (ganhava R$ 6,64 por hora, conseguindo, com horas extras, tirar R$ 2.460 por mês) e no último dia 11, um sábado, apreciava a água do canal encher a barragem de Campos, em Sertânia (PE).  Morador de uma rua sem abastecimento, acostumado a comprar água de caminhão-pipa –3.000 litros por R$ 45–, Cazuza estava duplamente feliz, pelo saldo de seu trabalho e por vislumbrar uma vida menos seca. \"É suave e gostoso [ver a água jorrar na barragem], é bom, é bonito, me sinto aliviado. Vai ser uma riqueza para cá\", afirmou.  Na paraibana Monteiro, o clima é semelhante. \"A festa é grande. Quem critica [a transposição] não conhece a situação de quem vive sem água\", observou o agricultor Fernando Gomes dos Santos, 26.  Transposição do rio São Francisco  CINZA E OCRE  Ver a água doce singrar o sertão é, para os que vivem no semiárido, um alento amplificado pela circunstância. Dados compilados pelo Cptec/Inpe (Centro de Previsão de Tempo e Estudos Climáticos do Instituto Nacional de Pesquisas Espaciais) a pedido da Folha mostram que a atual seca na região, ininterrupta desde 2012, não tem precedente desde pelo menos 1961. Os três anos com menor volume acumulado de chuva desde então foram 2015, 2012 e 2016.  Considerando só a estação de pluviometria de Quixeramobim (CE), que tem dados desde 1896, é o período mais seco em mais de um século.  Segundo a ANA (Agência Nacional de Águas), os reservatórios do Nordeste estão com 13,8% de sua capacidade, índice mais baixo desde 2012. De acordo com o Ministério da Integração Nacional, 835 municípios da região estão em estado de emergência.  Nestes dias, a paisagem dominante do sertão nordestino é a dos cinzas e ocres da seca, dos xique-xiques, mandacarus e algarobeiras entre dezenas de leitos de rios esturricados, conforme visto pela reportagem em 1.900 quilômetros percorridos de carro por quatro Estados (Paraíba, Pernambuco, Ceará e Bahia, os três primeiros na rota da transposição) em uma semana.  Quase no fim do período chuvoso no sertão (de novembro a abril), havia aqui e ali tons de verde, graças a alguma água que caiu na semana retrasada, responsável também por um mar de borboletas nas estradas no dia seguinte ao aguaceiro.  Em Floresta (PE), onde começa o eixo leste da transposição, não há problemas de abastecimento como na ponta que recebe a água. Mas ali, a poucos quilômetros do rio São Francisco e dos canais do projeto, o riacho do Navio e o rio Pajeú –imortalizados na canção de Luiz Gonzaga e Zé Dantas– estão secos.  A feirante Jocelice Alice da Conceição, 34, conta que já há escassez na lavoura. \"O alface vem de outras cidades, porque a água não é suficiente. Aqui estamos com medo de que, com essa água indo para fora, falte para a gente.\"  Também há apreensão em Cabrobó (PE), à beira do São Francisco e ponto de partida do eixo norte –inconcluso à espera do resultado de licitação desde que a empreiteira responsável, a Mendes Junior, envolvida na Lava Jato, foi inabilitada.  Moradora da cidade, a advogada Larissa Lopes, 25, reclama: \"Tinham que primeiro ter cuidado do rio para depois fazer a obra. Do jeito que foi feito, pode beneficiar algumas pessoas, mas daqui a pouco quem vai precisar seremos nós. Acho que é um projeto para desviar dinheiro\".  Especialistas e produtores defendem que obras mais baratas poderiam ser tão ou mais eficazes que a transposição e apontam problemas no projeto que corroboram a preocupação dos moradores mais próximos da bacia do rio.",
+    "title": "Em meio a maior seca, transposição do rio São Francisco divide nordestinos",
+    "category": "poder",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/poder/2017/03/1867771-em-meio-a-maior-seca-transposicao-do-rio-sao-francisco-divide-nordestinos.shtml"
+}

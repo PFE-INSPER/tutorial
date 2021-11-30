@@ -1,0 +1,201 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 3212,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.258768,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "busca de oportunidades de estágio",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.611633,
+                "count": 1
+            },
+            {
+                "text": "semana de moda paulistana",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.609184,
+                "count": 1
+            },
+            {
+                "text": "milhares de vezes",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.57375,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "JobTitle",
+                "text": "estudante de estilismo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.948979,
+                "count": 1,
+                "confidence": 0.12988
+            },
+            {
+                "type": "Person",
+                "text": "Emília Lund",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.94518,
+                "count": 1,
+                "confidence": 0.989659
+            },
+            {
+                "type": "Duration",
+                "text": "cinco dias",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.91962,
+                "count": 1,
+                "confidence": 0.804564
+            },
+            {
+                "type": "Location",
+                "text": "São Paulo Fashion Week",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.902012,
+                "count": 1,
+                "confidence": 0.477232
+            },
+            {
+                "type": "Date",
+                "text": "sexta (17",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.893348,
+                "count": 1,
+                "confidence": 0.300795
+            },
+            {
+                "type": "Date",
+                "text": "nessa semana",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.84545,
+                "count": 1,
+                "confidence": 0.522086
+            },
+            {
+                "type": "Duration",
+                "text": "ao longo do ano",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.735095,
+                "count": 1,
+                "confidence": 0.139139
+            },
+            {
+                "type": "Person",
+                "text": "Lilian Pacce",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.662367,
+                "disambiguation": {
+                    "name": "Lilian_Pacce",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/Lilian_Pacce"
+                },
+                "count": 1,
+                "confidence": 0.998528
+            },
+            {
+                "type": "Organization",
+                "text": "GNT Fashion\" à Folha",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.649209,
+                "count": 1,
+                "confidence": 0.254087
+            },
+            {
+                "type": "Date",
+                "text": "1993 e 1996",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.585558,
+                "count": 1,
+                "confidence": 0.364479
+            }
+        ],
+        "concepts": [
+            {
+                "text": "São Paulo Fashion Week",
+                "relevance": 0.992214,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo_Fashion_Week"
+            },
+            {
+                "text": "GNT Fashion",
+                "relevance": 0.990004,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/GNT_Fashion"
+            },
+            {
+                "text": "São Paulo",
+                "relevance": 0.982326,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.93129,
+                "label": "/style and fashion"
+            },
+            {
+                "score": 0.925294,
+                "label": "/style and fashion/men's fashion"
+            },
+            {
+                "score": 0.785174,
+                "label": "/business and industrial/fashion industry"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.6395753333333333
+    },
+    "text": "CHICO FELITTI COLABORAÇÃO PARA A FOLHA  A estudante de estilismo Emília Lund, 20, queria tanto conhecer a semana de moda paulistana por dentro que se dispôs a trabalhar de graça por cinco dias. \"Vi um anúncio e mandei currículo.\"  Dias antes do começo da São Paulo Fashion Week, que chegou ao fim na sexta (17), um site recrutou estudantes de moda, jornalismo e rádio e TV. Os requisitos eram: \"estar a fim\", \"saber escrever\", \"ter uma mínima noção de Photoshop\" e, \"acima de tudo ter total disponibilidade nessa semana\". O anúncio informava: \"Não temos verba, mas temos um bom coração\". Não havia pagamento.  O texto, publicado no Facebook do editor do site lilianpacce.com.br, foi compartilhado milhares de vezes e recebeu críticas por buscar \"voluntários\" para atividade que visava o lucro. Mas também recebeu ao menos 37 currículos de jovens dispostos a aceitar tal acordo, não permitido por leis brasileiras.  \"Recebemos dezenas de pedidos de estudantes ao longo do ano e principalmente antes das semanas de moda, em busca de oportunidades de estágio.  Nossa intenção era dar uma oportunidade para esses estudantes iniciarem nesse mercado, de forma correta e respeitosa, diante de uma ajuda de custo para os dias em questão\", escreveu Lilian Pacce, 57, apresentadora do programa \"GNT Fashion\" à Folha. Em suas redes sociais, a jornalista classificou o anúncio de \"infeliz\".  A relação trabalhista que causou polêmica não é novidade no mundo da moda. Desde a semana Phytoervas Fashion, balão de ensaio da SPFW entre 1993 e 1996, há voluntários na trupe de marcas, fotógrafos, agências de comunicação e veículos de mídia. \"A gente pagava para trabalhar lá\", diz o estilista Eduardo Inagaki, 38.  Ele diz que trabalhou de graça para o estilista Walter Rodrigues na década de 1990. \"Eu catava alfinete do chão, no começo, lavei escada. Valeu, abriu portas, e nunca me senti lesado.\" Rodrigues preferiu não comentar.  Ana, 32, que pede para não ter seu sobrenome publicado, discorda. Ela trabalhou de graça por um ano em duas marcas nacionais. \"As pessoas pensavam que, por fazer moda, eu fosse uma filhinha de papai. Não era. Não sou\", diz a designer de acessórios, que hoje se arrepende. \"Experiência não é exploração.\" Estágios gratuitos já são uma realidade quase incontornável para a entrada no mercado de trabalho em alguns países, como os EUA.  \"Aqui os estágios são como pedágios. O estudante se sujeita a ganhar nada e a fazer um trabalho muitas vezes primário para ter contato, para que pensem nele quando surgir vaga no futuro\", diz Ross Pearlman, autor do livro \"Intern Nation\" (nação de estagiários). Ele estima que 30% dos universitários americanos estagiem de graça.  No Brasil, a lei proíbe estágios gratuitos que não sejam obrigatórios no currículo acadêmico. Entram nessa categoria cursos de saúde ou de licenciatura, em que o aluno vai ter de observar um professor ensinando para aprender.  \"Geralmente a instituição abre uma clínica ou firma parceria com um hospital quando é o caso de estágio obrigatório\", afirma Mauro de Oliveira, diretor na Associação Brasileira de Estágios.  Estágios não obrigatórios devem ter supervisão da faculdade e benefícios como bolsa-auxílio ou vale-transporte.",
+    "title": "\n\t\tTrabalho sem remuneração ganha fôlego na moda\n\t\t",
+    "category": "sobretudo",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/sobretudo/carreiras/2017/03/1867594-trabalho-sem-remuneracao-ganha-folego-na-moda.shtml"
+}

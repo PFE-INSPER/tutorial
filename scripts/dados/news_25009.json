@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 7033,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.271615,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "tempo suficiente",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.701374,
+                "count": 2
+            },
+            {
+                "text": "cotidiano dos filhos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.623589,
+                "count": 1
+            },
+            {
+                "text": "autoras do estudo",
+                "sentiment": {
+                    "score": 0.981243,
+                    "label": "positive"
+                },
+                "relevance": 0.592177,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Duration",
+                "text": "3 a 11 anos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.949117,
+                "count": 2,
+                "confidence": 0.557828
+            },
+            {
+                "type": "Facility",
+                "text": "Universidade de Toronto",
+                "sentiment": {
+                    "score": 0.981243,
+                    "label": "positive"
+                },
+                "relevance": 0.925391,
+                "count": 2,
+                "confidence": 0.779043
+            },
+            {
+                "type": "Date",
+                "text": "1965",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.896759,
+                "count": 2,
+                "confidence": 0.975503
+            },
+            {
+                "type": "Facility",
+                "text": "Universidade da Califórnia",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.771627,
+                "count": 1,
+                "confidence": 0.654063
+            },
+            {
+                "type": "Location",
+                "text": "Irvine",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.769864,
+                "count": 1,
+                "confidence": 0.970204
+            },
+            {
+                "type": "Duration",
+                "text": "50 anos",
+                "sentiment": {
+                    "score": -0.577428,
+                    "label": "negative"
+                },
+                "relevance": 0.761593,
+                "count": 1,
+                "confidence": 0.601609
+            },
+            {
+                "type": "Person",
+                "text": "Melissa Milkie",
+                "sentiment": {
+                    "score": 0.981243,
+                    "label": "positive"
+                },
+                "relevance": 0.750427,
+                "count": 2,
+                "confidence": 0.999991
+            },
+            {
+                "type": "Person",
+                "text": "Luciana Périco",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.750322,
+                "count": 1,
+                "confidence": 0.993549
+            },
+            {
+                "type": "Duration",
+                "text": "muitas horas",
+                "sentiment": {
+                    "score": 0.886919,
+                    "label": "positive"
+                },
+                "relevance": 0.666575,
+                "count": 1,
+                "confidence": 0.626486
+            },
+            {
+                "type": "JobTitle",
+                "text": "autoras",
+                "sentiment": {
+                    "score": 0.981243,
+                    "label": "positive"
+                },
+                "relevance": 0.645054,
+                "count": 1,
+                "confidence": 0.785137
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Criança",
+                "relevance": 0.880505,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Criança"
+            },
+            {
+                "text": "América do Norte",
+                "relevance": 0.868237,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/América_do_Norte"
+            },
+            {
+                "text": "Estados Unidos",
+                "relevance": 0.81003,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Estados_Unidos"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.9836,
+                "label": "/family and parenting/children"
+            },
+            {
+                "score": 0.850618,
+                "label": "/education/homework and study tips"
+            },
+            {
+                "score": 0.595695,
+                "label": "/health and fitness"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.578743
+    },
+    "text": "Desde que entraram de cabeça no mercado de trabalho, mulheres que são mães vivem às voltas com um insistente sentimento de culpa. Elas –e também seus pares– avaliam que não estão presentes por tempo suficiente no cotidiano dos filhos.  Duas pesquisas recentes, no entanto, apontam para a direção contrária.  A primeira, da Universidade da Califórnia em Irvine (UCI), nos EUA, demonstra que mães e pais hoje passam mais tempo com os filhos que há 50 anos. E que, para chegar a isso, abriram mão de horas de sono e de lazer e de cuidados pessoais e da casa.  É o caso de Luciana Périco, 29, gerente financeira de uma multinacional e mãe de Enrico, 2. \"Tenho uma rotina bem louca de trabalho e abri mão de todo o resto para estar com meu filho quando posso.\"  Isso inclui menos horas de sono, menos cuidados com a casa e o abandono da academia. \"Também não vou mais tanto ao supermercado. Compro mais pela internet.\"  Ainda assim, diz ela, o sentimento de culpa persiste.  TEMPO DE QUALIDADE  A segunda pesquisa, canadense, não encontrou relação de causalidade entre quantidade de horas de convivência com os pais e benefícios na vida escolar e emocional de crianças de 3 a 11 anos.  A conclusão: qualidade vale mais que quantidade quando o assunto é a construção de vínculos e a influência no desenvolvimento dos filhos.  Isso quer dizer que interagir com as crianças e dedicar-lhes atenção exclusiva por algum período é mais interessante para o seu desenvolvimento do que passar muitas horas em sua presença, mas desempenhando outras atividades como trabalhar, assistir TV, usar o celular ou cuidar da casa, por exemplo.  Segundo Melissa Milkie, professora da Universidade de Toronto, no Canadá, e uma das autoras do estudo, ler para as crianças, passear e brincar com elas ou simplesmente conversar são exemplos de como atribuir qualidade ao tempo que se tem de convívio em oposição às rotinas de cuidado, como preparar refeições ou dar banho.  Os resultados de seu estudo, no entanto, não são consensuais. \"É o tipo de pesquisa que reforça a velha desculpa de pais que não encontram tempo para estar com os filhos\", diz José Martins Filho, presidente da Academia Brasileira de Pediatria.  \"A sociedade acha que a produtividade é tão mais importante que as crianças não precisam da presença dos pais. Mas, do nascimento até os dois anos, o afeto e o vínculo com os pais são essenciais para o desenvolvimento. Essas crianças precisam de qualidade e quantidade\", diz o professor de pediatria.  ACIMA DA MÉDIA  Milkie diz haver forte dissonância entre o tempo subjetivo dos pais e aquele que eles de fato gastavam com os filhos. \"Muitos sentem que o tempo dedicado não foi suficiente ainda que, objetivamente, ele tenha sido bem acima da média.\"  O estudo de Judith Treas, diretora do Centro de Demografia e Análise Social da UCI, mediu o tempo dedicado aos filhos por mães e pais desde 1965 em 11 países da Europa e América do Norte.  Tempo médio dedicado aos filhos por dia - Em minutos  Se nos anos 1960 mães dedicavam 54 minutos diários aos filhos, nos anos 2010 já eram 104 minutos diários. Já os pais foram de 16 minutos em 1965 para 59 minutos diários com os filhos. As médias atuais são mais altas entre pais com maior escolaridade.  \"A gente sempre acha que tem de ser um pouquinho mais\", admite o personal chef Ed Canholi, 47, pai de Duda, 4. Entre outras coisas, ele abandonou o futebol com os amigos e a carreira de analista de sistemas para se dedicar mais à paternidade. \"Antes, passava pouco tempo em casa. E, agora, não adianta passar 20 horas com a Duda se não consigo dar atenção. Busco estar disponível a ela.\"  Segundo Patrícia Camargo, sócia da Tempojuntos, projeto que promove o brincar como meio de construção do vínculo entre pais e filhos, é interessante desconstruir o \"senso comum de que antigamente as coisas eram melhores\". \"A verdade é que os adultos não dedicavam muito tempo aos filhos e as crianças tinham que se virar.\"  TUTELA PARENTAL  Estudo da Universidade de Toronto, no Canadá, não encontrou relação de causalidade entre a quantidade de tempo que pais dedicavam aos filhos e efeitos benéficos no comportamento ou desempenho escolar de crianças de 3 a 11 anos.  Quando o foco foram adolescentes de 12 a 18 anos, no entanto, a pesquisa identificou que, quanto mais tempo passado com os pais, menos os jovens apresentavam comportamentos delinquentes e mais demonstravam resultados positivos na escola.  Resultado parecido foi encontrado por um projeto de tutela parental desenvolvido pelo Centro Educacional e Assistencial (CEAP), ONG que atua como escola profissionalizante no distrito de Cidade Ademar, uma das regiões de maior vulnerabilidade juvenil da capital paulista.  O CEAP promove encontros de educadores com os pais de seus alunos, além de encontros individuais para a discussão de questões específicas da família.  \"O princípio é o de que uma formação humana e cidadã tem de ter, como eixo principal, a família\", explica Carlos Henrique Lima, diretor de Desenvolvimento Institucional.  A artesã Andrea Dragva, 41, logo percebeu o impacto do projeto na relação com os filhos Lucas, 15, e Felipe, 14. \"Os encontros fizeram a gente refletir sobre como estava agindo e sobre a importância da família como exemplo\", diz.  \"As notas na escola melhoraram consideravelmente. E, em casa, melhorou o diálogo entre os irmãos e deles com os pais.\"  *  MITO: Mães que trabalham não passam tempo suficiente com os filhos  Essa questão tem sido posta desde que as mulheres entraram em maior número no mercado de trabalho, nos anos 1970, devido à ideia de que, sem as mães em casa o tempo todo, as crianças sofreriam graves consequências –o que tende a gerar culpa entre aquelas que trabalham fora. Estudos, no entanto, apontam que essas mães hoje passam mais tempo com os filhos do que as que ficavam em casa. Especialistas dizem que as mães diminuem horas de sono, deixam de cuidar de si mesmas e dedicam quase todo o tempo livre aos filhos.  MITO: Quanto mais tempo passar com seus filhos, melhor  O estudo canadense de que a professora Melissa Milkie é coautora não encontrou relação entre a quantidade de tempo com os pais e o desempenho escolar, emocional ou comportamental das crianças. O que contava era a qualidade do tempo de cuidado. O estudo apontou uma relação positiva no caso de adolescentes, que tendiam a ter menos questões ligadas à delinquência e ao abuso de drogas quanto mais tempo passavam com seus pais.  MITO: Os melhores pais são os que mais se dedicam aos filhos  O estudo de Milkie aponta que pais estressados e culpados por não conseguirem passar tanto tempo com seus filhos prejudicam as crianças com essa tensão. O excesso de zelo, dizem especialistas, pode diminuir a habilidade das crianças de resolver problemas por elas mesmas. Muitos profissionais dizem que brincar livremente ajuda os pequenos a desenvolverem sua imaginação e suas habilidades sociais.  Fonte: \"Education Gradients in Parent's Child-Care Time Across Countries, 1965-2012\", Giulia Dotti e Judith Treas",
+    "title": "Pais abrem mão de sono, academia e lazer por mais tempo com os filhos",
+    "category": "cotidiano",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/cotidiano/2017/03/1867830-pais-abrem-mao-de-sono-academia-e-lazer-por-mais-tempo-com-os-filhos.shtml"
+}

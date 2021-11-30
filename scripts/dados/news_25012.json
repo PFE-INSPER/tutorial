@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 2370,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.686016,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "Vinck de Bragança",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.617188,
+                "count": 1
+            },
+            {
+                "text": "fusão nuclear",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.603997,
+                "count": 1
+            },
+            {
+                "text": "crescimento das empresas",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.565304,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Location",
+                "text": "Vila Olímpia",
+                "sentiment": {
+                    "score": 0.770305,
+                    "label": "positive"
+                },
+                "relevance": 0.950685,
+                "count": 3,
+                "confidence": 0.868649
+            },
+            {
+                "type": "Person",
+                "text": "Vila Olímpia",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.633239,
+                "count": 1,
+                "confidence": 0.456291
+            },
+            {
+                "type": "Location",
+                "text": "Vale do Silício paulistano",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.620565,
+                "count": 1,
+                "confidence": 0.362646
+            },
+            {
+                "type": "JobTitle",
+                "text": "empreendedores",
+                "sentiment": {
+                    "score": 0.770305,
+                    "label": "positive"
+                },
+                "relevance": 0.610045,
+                "count": 2,
+                "confidence": 0.994109
+            },
+            {
+                "type": "JobTitle",
+                "text": "empreendedores digitais",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.589594,
+                "count": 1,
+                "confidence": 0.377097
+            },
+            {
+                "type": "Person",
+                "text": "Frankel",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.484626,
+                "count": 1,
+                "confidence": 0.998398
+            },
+            {
+                "type": "Number",
+                "text": "878",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.481714,
+                "count": 1,
+                "confidence": 0.8
+            },
+            {
+                "type": "Date",
+                "text": "2014 e 2016",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.473917,
+                "count": 1,
+                "confidence": 0.382798
+            },
+            {
+                "type": "Percent",
+                "text": "35%",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.469267,
+                "count": 1,
+                "confidence": 0.8
+            },
+            {
+                "type": "Measure",
+                "text": "41 m² a 50 m²",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.457201,
+                "count": 1,
+                "confidence": 0.755561
+            }
+        ],
+        "concepts": [
+            {
+                "text": "São Paulo",
+                "relevance": 0.987445,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Vale do Silício",
+                "relevance": 0.968872,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Vale_do_Silício"
+            },
+            {
+                "text": "Vila Olímpia",
+                "relevance": 0.957671,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Vila_Olímpia"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.724764,
+                "label": "/technology and computing/internet technology"
+            },
+            {
+                "score": 0.681272,
+                "label": "/real estate/buying and selling homes"
+            },
+            {
+                "score": 0.670729,
+                "label": "/business and industrial/business operations"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.6495865000000001
+    },
+    "text": "ANAIS FERNANDES DE SÃO PAULO  A Vila Olímpia caminha para se tornar uma espécie de Vale do Silício paulistano.  A região abriga desde grandes empresas de tecnologia, como Google, Facebook e Twitter, até iniciativas de novos empreendedores digitais, como as start-ups sediadas no Cubo, incubadora do Itaú inaugurada em 2015.  A concentração de empresas de tecnologia reforçou o perfil de imóveis compactos da região, mas levou também a novas demandas para os construtores, como prédios com mais áreas compartilhadas e opções de serviços.  \"O morador da Vila Olímpia é um jovem que valoriza a simplicidade e o bem-estar. Ele não quer ter empregada, mas quer mais praticidade\", afirma Frankel.  Das 878 unidades lançadas entre 2014 e 2016 no bairro, 35% tinham um quarto, e a maioria possui de 41 m² a 50 m², de acordo com dados do VivaReal-Geoimovel.    COLEGAS  A Dreampass, um marketplace (site que vende produtos de várias empresas) de viagens de aventura, trocou a Vila Madalena, na zona oeste da capital, pela Vila Olímpia em 2009. \"Muitos dos nossos clientes já estavam por aqui, e o Cubo ajudou a atrair mais empreendedores. Você anda na rua e cruza com colegas\", afirma Fernando Barros, 38, fundador da start-up.  Essa proximidade é importante para a cooperação e crescimento das empresas, aponta Vinck de Bragança, gerente de marketing da ABStartups (Associação Brasileira de Start-ups), também sediada no Cubo. \"Os empreendedores têm maturidade para saber que não estão competindo entre si, mas sim se fortalecendo em busca de melhorias tecnológicas, econômicas e políticas para a sociedade\", diz.  Para Vinck, a concentração de empresas na Vila Olímpia e arredores foi natural. \"Muitas fugiram da aglomeração do centro e perceberam que aqui era possível ficar perto de áreas residenciais.\"  Isso porque o bairro já passava por transformações com a Operação Urbana Faria Lima, que atraiu escritórios corporativos e, em um segundo momento, edifícios residenciais com um dormitório, desenhados para executivos.  Na mesma época, vieram outras novidades, como a instituição de ensino superior Insper, a reabertura do parque do Povo e o shopping Vila Olímpia. \"Foi quase uma fusão nuclear que criou esse centro que mescla tecnologia, moradia, educação, lazer e serviços\", diz Alexandre Lafer Frankel, CEO da construtora Vitacon, que tem mais de 20 projetos no bairro.",
+    "title": "\n\t\tNa Vila Olímpia, 'Vale do Silício' paulistano, jovem quer praticidade\n\t\t",
+    "category": "sobretudo",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/sobretudo/morar/2017/03/1867599-na-vila-olimpia-vale-do-silicio-paulistano-jovem-quer-praticidade.shtml"
+}

@@ -1,0 +1,198 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 2679,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0,
+                "label": "neutral"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "Presidente do clube",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.654454,
+                "count": 1
+            },
+            {
+                "text": "cavalo Corisco",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.634387,
+                "count": 1
+            },
+            {
+                "text": "popularidade do turfe",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.58893,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Measure",
+                "text": "dez quilômetros",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.949171,
+                "count": 2,
+                "confidence": 0.999406
+            },
+            {
+                "type": "Location",
+                "text": "Jockey Club de São Paulo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.672401,
+                "count": 1,
+                "confidence": 0.409854
+            },
+            {
+                "type": "Date",
+                "text": "março de 1875",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.66564,
+                "count": 1,
+                "confidence": 0.949627
+            },
+            {
+                "type": "Organization",
+                "text": "Clube de Corridas Paulistano",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.658845,
+                "count": 1,
+                "confidence": 0.441476
+            },
+            {
+                "type": "Date",
+                "text": "um ano depois",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.645471,
+                "count": 1,
+                "confidence": 0.245827
+            },
+            {
+                "type": "Person",
+                "text": "Caetano B. Liberatore",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.603783,
+                "count": 1,
+                "confidence": 0.467445
+            },
+            {
+                "type": "Facility",
+                "text": "Hipódromo da Mooca",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.596016,
+                "count": 1,
+                "confidence": 0.876244
+            },
+            {
+                "type": "Person",
+                "text": "Rufino",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.579458,
+                "count": 1,
+                "confidence": 0.985567
+            },
+            {
+                "type": "Person",
+                "text": "Corisco",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.559659,
+                "disambiguation": {
+                    "subtype": [
+                        "Location",
+                        "GeographicFeature",
+                        "Island"
+                    ],
+                    "name": "Corisco",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/Corisco"
+                },
+                "count": 1,
+                "confidence": 0.582687
+            },
+            {
+                "type": "Person",
+                "text": "D. Maria de A.",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.553448,
+                "count": 1,
+                "confidence": 0.759411
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Jockey Club de São Paulo",
+                "relevance": 0.990173,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Jockey_Club_de_São_Paulo"
+            },
+            {
+                "text": "São Paulo",
+                "relevance": 0.987342,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Jóquei",
+                "relevance": 0.953999,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Jóquei"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.838977,
+                "label": "/sports/horse racing"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.8073505000000001
+    },
+    "text": "BRUNO LEE DE SÃO PAULO  Mais de dez quilômetros, em uma reta imaginária, separam a história do centenário Jockey Club de São Paulo.  Fundada em março de 1875 com o nome Clube de Corridas Paulistano, a entidade realizaria seu primeiro páreo um ano depois, em uma área da Mooca (zona leste da capital) \"considerada boa, de terra firme e apta a sediar as corridas\", segundo relato do livro \"Memórias do Jockey Club de São Paulo\", de Caetano B. Liberatore. Tratava-se do Hipódromo da Mooca.  O destaque da inauguração, com cinco corridas, foi o jóquei Rufino, vencedor de dois dos três páreos de que participou. Em um deles, guiou o cavalo Corisco, propriedade de D. Maria de A. e Castro, única mulher relacionada no programa do dia.  Em 1912, os cavalos abriram espaço para uma aeronave modelo Blériot de 50HP pilotada por Eduardo Pacheco Chaves (1887-1975). O aviador decolou do hipódromo com destino a Santos, no litoral paulista. Era o primeiro voo no país com um brasileiro no comando.  Se o solo conseguia aguentar cavalos e aviões, o hipódromo era considerado \"precário\". Assim, foi reformado na década de 1920 e ganhou nova arquibancada, com capacidade para 2.800 pessoas.  A popularidade do turfe, no entanto, tornou a ampliação obsoleta e, nos anos 1930, começou a discussão que levaria o Jockey à outra ponta da reta imaginária de dez quilômetros, dez anos depois.  Presidente do clube entre 1930 e 1934, Sílvio Alvares Penteado -irmão de Armando, conhecido pela fundação que leva seu nome, a Faap-, negociou com os governos estadual e municipal a possibilidade de transferir o hipódromo para o terreno que hoje abriga o Ginásio do Ibirapuera. As tratativas acabaram interrompidas pelas revoluções de 1930 e 1932.  Coube à gestão seguinte, de Fábio da Silva Prado, concretizar o plano, com a ajuda da Companhia Cidade Jardim, que doou um terreno de 600 mil metros quadrados no Jardim Everest, zona oeste da capital. Saía do papel o Hipódromo de Cidade Jardim, inaugurado em 1941.  \"Durante a década de 1940, o clube pagou as dívidas da construção. O auge veio nos anos 1960, 1970 e 1980\", diz Eduardo Ratto de Freitas Guimarães, 56, frequentador do hipódromo desde adolescente e diretor técnico da APFT (Associação Paulista de Fomento ao Turfe).  Hoje, o clube lida com dívidas que superam R$ 200 milhões, somando pendências tributárias e trabalhistas.  No período áureo, o hipódromo tinha corridas quatro vezes por semana (segunda e quinta à noite e sábado e domingo à tarde), contra duas hoje (sábado e domingo).  \"O dia mais cheio era segunda, quando as corridas aconteciam entre 19h e 23h. O público ia de empresários e banqueiros a cidadãos comuns\", afirma Guimarães.",
+    "title": "\n\t\tHistória do Jockey Club de São Paulo se divide entre as zonas leste e oeste\n\t\t",
+    "category": "sobretudo",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/sobretudo/morar/2017/03/1867556-fundado-na-mooca-jockey-club-quase-se-instalou-no-parque-ibirapuera.shtml"
+}

@@ -1,6 +1,6 @@
 # Cloud Foundry
 
-## O que é o [Cloud Foundry](https://www.ibm.com/br-pt/cloud/cloud-foundry)?
+## O que é o [Cloud Foundry](https://www.ibm.com/br-pt/cloud/cloud-foundry)
 
 O Cloud Foundry é o servidor do nosso projeto, ele possibilita uma interação rápida entre os produtos da IBM Watson além de gerenciar o acesso e a capacidade do usuário nos servidores. Nesse projeto, ele esta hospedando o servidor criado com Node que foi utilizado para fazer a conexão entre o nosso banco de dados no Cloudant e o Watson Assistant.
 
@@ -24,7 +24,7 @@ Para o proximo passo é necessario ter instalado as seguintes ferramentas:
 * [node](https://nodejs.org/en/) 
 
 
-Passo 1: Clonar repositório
+Passo 1: Clonar repositório (você já deve ter feito isso lá no inícios do tutorial)
 
 `$ git clone https://github.com/PFE-INSPER/pfe-server.git`
 

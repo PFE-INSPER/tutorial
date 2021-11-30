@@ -1,0 +1,205 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 2602,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": -0.569232,
+                "label": "negative"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "moradores da cidade russa",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.620301,
+                "count": 1
+            },
+            {
+                "text": "nota sombria",
+                "sentiment": {
+                    "score": -0.817466,
+                    "label": "negative"
+                },
+                "relevance": 0.61966,
+                "count": 1
+            },
+            {
+                "text": "Coreia do Norte",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.595796,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Location",
+                "text": "Vladivostok",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.950474,
+                "count": 2,
+                "confidence": 0.981549
+            },
+            {
+                "type": "Person",
+                "text": "Kim Jong",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.87132,
+                "count": 1,
+                "confidence": 0.666553
+            },
+            {
+                "type": "Location",
+                "text": "Coreia do Norte",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.866518,
+                "disambiguation": {
+                    "subtype": [
+                        "Country",
+                        "GovernmentalJurisdiction"
+                    ],
+                    "name": "Coreia_do_Norte",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/Coreia_do_Norte"
+                },
+                "count": 1,
+                "confidence": 0.571827
+            },
+            {
+                "type": "Facility",
+                "text": "Café Pyongyang",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.81066,
+                "count": 1,
+                "confidence": 0.436947
+            },
+            {
+                "type": "Date",
+                "text": "ano passado",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.773739,
+                "count": 1,
+                "confidence": 0.868912
+            },
+            {
+                "type": "Location",
+                "text": "Extremo Oriente russo",
+                "sentiment": {
+                    "score": -0.290977,
+                    "label": "negative"
+                },
+                "relevance": 0.760599,
+                "count": 1,
+                "confidence": 0.443159
+            },
+            {
+                "type": "JobTitle",
+                "text": "garçonetes",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.65781,
+                "count": 1,
+                "confidence": 0.861694
+            },
+            {
+                "type": "Location",
+                "text": "cidade russa",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.599979,
+                "count": 1,
+                "confidence": 0.211077
+            },
+            {
+                "type": "Person",
+                "text": "Beethoven",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.493438,
+                "count": 1,
+                "confidence": 0.469888
+            },
+            {
+                "type": "JobTitle",
+                "text": "militar",
+                "sentiment": {
+                    "score": -0.290977,
+                    "label": "negative"
+                },
+                "relevance": 0.415525,
+                "count": 1,
+                "confidence": 0.393918
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Coreia",
+                "relevance": 0.992178,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Coreia"
+            },
+            {
+                "text": "Coreia do Norte",
+                "relevance": 0.989385,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Coreia_do_Norte"
+            },
+            {
+                "text": "Restaurante",
+                "relevance": 0.985379,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Restaurante"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.896389,
+                "label": "/food and drink/cuisines/regional cuisine"
+            },
+            {
+                "score": 0.848319,
+                "label": "/food and drink/food"
+            },
+            {
+                "score": 0.712619,
+                "label": "/law, govt and politics/politics"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.7602325000000001
+    },
+    "text": "Não é só de retórica belicista, testes de mísseis e explosões nucleares que vive a propaganda da ditadura de Kim Jong-un. A Coreia do Norte também tem sua peculiar versão de \"soft power\", a projeção de poder e influência por meios que não a força bruta.  No caso, o regime comunista tenta te ganhar pelo estômago em uma das filiais do Café Pyongyang, rede de restaurantes típicos coreanos tocada pelo país, cujo nome homenageia a sua capital.  A Folha visitou, no fim do ano passado, a unidade de Vladivostok, no Extremo Oriente russo. É uma experiência algo decepcionante para quem espera ser atendido por pessoal em uniforme militar enquanto aprecia quadros dos \"queridos líderes\" com slogans comunistas.  Nada disso: o lugar tem decoração kitsch, com plantas de plástico simulando um ar tropical, luzes piscando, murais com paisagens idílicas e dragões em relevo.  As garçonetes envergam vestidos coloridos e brilhantes, são eficazes e proibidas de falar qualquer coisa além do essencial com clientes (em coreano, russo ou inglês).  Segundo moradores da cidade russa, elas são norte-coreanas que vivem em regime análogo ao da escravidão e são passíveis de punição se resolverem socializar.  Mas cantam. Há um karaokê ao lado do balcão e, mesmo quando a reportagem lá esteve sozinha, uma delas virou-se de costas e soltou a voz acompanhando um ritmo que poderia ser descrito como \"Beethoven encontra tecno e música tradicional coreana\".  Para adicionar estranhamento, um telão exibia \"Expresso Transiberiano\", um suspense de 2008 que começa com a investigação de uma morte ocorrida em um navio nas docas de Vladivostok, próximas ao restaurante.  No que interessa, o Pkhenian (seu nome em russo) não desaponta nem brilha. Pratos tradicionais, o bibimpab (mexido com arroz) e o kimchi (vegetais fermentados e temperados), estavam corretos.  Juntos, custavam 730 rublos (cerca de R$ 40), menos do que em outras das inúmeras casas coreanas de Vladivostok. A cerveja, por 350 rublos (R$ 19) o copo de 500 ml, vinha em opções russa, japonesa, alemã e sul-coreana.  A nota sombria era o sujeito de terno escuro que de tempos em tempos chegava ao balcão para aparentemente dar bronca nas garçonetes.  Segundo moradores, ele é do serviço secreto, responsável por gerenciar o lugar.  Existem cerca de 130 casas da rede, mais de 100 delas na China e em oito países. A tentativa de abrir filial em Amsterdã, em 2012, fracassou.  Além de \"soft power\", diz a imprensa sul-coreana, a rede lavaria dinheiro. Cada unidade renderia mais de US$ 100 mil mensais, repatriação de ativos no exterior para membros do regime.",
+    "title": "Com rede de restaurantes, Coreia do Norte tenta impulsionar 'soft power'",
+    "category": "mundo",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/mundo/2017/03/1867808-com-rede-de-restaurantes-coreia-do-norte-tenta-impulsionar-soft-power.shtml"
+}

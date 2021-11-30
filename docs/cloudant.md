@@ -24,23 +24,19 @@ IBM cloudant é um serviço de armazenamento de dados em formato JSON na nuvem q
 
 ## Adicionando documentos na base de dados
 O dataset escolhido para este tutorial é o [News of the Brazilian Newspaper](https://www.kaggle.com/marlesson/news-of-the-site-folhauol) que contém mais de 160 mil notícias da Folha de S. Paulo entre o período de Janeiro de 2015 até Setembro de 2017. 
-Faça o download e coloque o arquivo CSV na pasta [/scripts](https://github.com/Insper/pfe_ibm_2021_2/tree/main/scripts).
+Faça o download e coloque o arquivo CSV na pasta [scripts](https://github.com/PFE-INSPER/tutorial/tree/main/scripts).
 
-No arquivo [Cloudant.ipynb](https://github.com/Insper/pfe_ibm_2021_2/blob/main/scripts/Cloudant.ipynb) coloque as chaves da sua instância, o id do modelo salvo anteriormente e rode as celulas.
+No arquivo [Cloudant.ipynb](https://github.com/PFE-INSPER/tutorial/blob/main/scripts/Cloudant.ipynb) coloque as chaves da sua instância, o id do modelo salvo anteriormente e rode as celulas.
 
-O script irá criar na pasta /dados um arquivo JSON para cada notícia analisada.
-
+O script irá criar na pasta [dados](https://github.com/PFE-INSPER/tutorial/tree/main/dados) um arquivo JSON para cada notícia analisada.
 
 !!! Note
+    Disponibilizamos 20 arquivos na pasta [dados](https://github.com/PFE-INSPER/tutorial/tree/main/dados) para você verificar o seu modelo.
+
+
+!!! Importante
     Para utilizar o NLU Lite, você precisará recriar o modelo e subir os arquivos de maneira particionada, até atingir o limite e repetir o mesmo passo até finalizar. 
     Com um plano plus é possível realizar esta operação em apenas uma sessão.) 
-
-[//]: <> (This is also a comment.)
-[//]: <> (!!! Note(somente se possível subir)
-[//]: <> (Ou você pode usar os dados já processados pelo NLU que estão na pasta /dados..))
-  
-
-
 
 
 ## Criando uma Search Index

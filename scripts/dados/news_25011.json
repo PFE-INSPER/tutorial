@@ -1,0 +1,201 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 4811,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.409207,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "estudante Edina de Lira",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.714472,
+                "count": 1
+            },
+            {
+                "text": "alunos de medicina",
+                "sentiment": {
+                    "score": 0.854278,
+                    "label": "positive"
+                },
+                "relevance": 0.634895,
+                "count": 1
+            },
+            {
+                "text": "tipo de iniciativa",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.602908,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Person",
+                "text": "Edina",
+                "sentiment": {
+                    "score": -0.465446,
+                    "label": "negative"
+                },
+                "relevance": 0.949802,
+                "count": 3,
+                "confidence": 0.999996
+            },
+            {
+                "type": "Organization",
+                "text": "FGV",
+                "sentiment": {
+                    "score": -0.324205,
+                    "label": "negative"
+                },
+                "relevance": 0.749365,
+                "count": 4,
+                "confidence": 1.0
+            },
+            {
+                "type": "Organization",
+                "text": "Insper",
+                "sentiment": {
+                    "score": 0.261902,
+                    "label": "positive"
+                },
+                "relevance": 0.699148,
+                "count": 3,
+                "confidence": 0.995389
+            },
+            {
+                "type": "Location",
+                "text": "São Paulo",
+                "sentiment": {
+                    "score": -0.554763,
+                    "label": "negative"
+                },
+                "relevance": 0.646951,
+                "count": 2,
+                "confidence": 0.854424
+            },
+            {
+                "type": "Person",
+                "text": "Edina de Lira",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.512541,
+                "count": 1,
+                "confidence": 0.693476
+            },
+            {
+                "type": "Facility",
+                "text": "Jardim São Carlos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.495573,
+                "count": 1,
+                "confidence": 0.877232
+            },
+            {
+                "type": "Facility",
+                "text": "Faculdade Israelita de Ciências da Saúde",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.456957,
+                "count": 1,
+                "confidence": 0.757156
+            },
+            {
+                "type": "Facility",
+                "text": "hospital Albert Einstein",
+                "sentiment": {
+                    "score": 0.854278,
+                    "label": "positive"
+                },
+                "relevance": 0.453514,
+                "disambiguation": {
+                    "name": "Hospital_Israelita_Albert_Einstein",
+                    "dbpedia_resource": "http://pt.dbpedia.org/resource/Hospital_Israelita_Albert_Einstein"
+                },
+                "count": 1,
+                "confidence": 0.853168
+            },
+            {
+                "type": "Organization",
+                "text": "universidades públicas de São Paulo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.426657,
+                "count": 1,
+                "confidence": 0.113911
+            },
+            {
+                "type": "Duration",
+                "text": "poucos anos",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.409737,
+                "count": 1,
+                "confidence": 0.39807
+            }
+        ],
+        "concepts": [
+            {
+                "text": "São Paulo",
+                "relevance": 0.992398,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/São_Paulo"
+            },
+            {
+                "text": "Aula",
+                "relevance": 0.987616,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Aula"
+            },
+            {
+                "text": "Aluno",
+                "relevance": 0.976963,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Aluno"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.980014,
+                "label": "/education/special education"
+            },
+            {
+                "score": 0.803047,
+                "label": "/education/high school"
+            },
+            {
+                "score": 0.768365,
+                "label": "/education/studying business"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.57281625
+    },
+    "text": "A estudante Edina de Lira, 18, já tinha desistido de fazer cursinho pré-vestibular presencial. A combinação entre sua deficiência visual grave, a baixa renda da família e a distância de sua casa –no Jardim São Carlos, na zona leste– dos bairros centrais de São Paulo era uma barreira ao sonho de tentar uma vaga para psicologia.  \"Descobri a opção de um cursinho gratuito da psicologia da USP, mas era longe e eu não tinha como ir\", diz ela, que tem dificuldade para se locomover sem ajuda.  Edina já havia se conformado com a ideia de ter de estudar em casa sozinha, quando soube de um projeto novo ligado à Faculdade Israelita de Ciências da Saúde, do hospital Albert Einstein.  Os alunos de medicina e de enfermagem da instituição tinham decidido criar um cursinho gratuito para alunos de baixa renda. A faculdade colaborou com a infraestrutura, cedendo salas de aula.  Esse tipo de iniciativa, já tradicional entre estudantes das universidades públicas de São Paulo, começa a mobilizar estudantes de faculdades privadas de ponta, interessados em aumentar a diversidade no ambiente elitizado em que estudam.  Formado há poucos anos por empenho de um grupo de alunos da FGV, o cursinho gratuito para os vestibulares de administração pública, administração de empresas e direito da instituição abriu 180 vagas neste ano.  Estudantes do Insper também iniciaram um cursinho popular em 2014.  DOAR EDUCAÇÃO  \"O Einstein oferece bolsas a quem não pode pagar. Nós pensamos: se ganhamos educação, vamos dar educação de volta\", diz Amanda Ferrari, aluna do segundo semestre de medicina, que não é bolsista, mas foi uma das idealizadoras do projeto.  A primeira prova de seleção ocorreu em janeiro. Edina passou em primeiro lugar.  \"Sempre fui bem nos estudos, mas não tirava notas incríveis\", diz a jovem, que cursou os primeiros anos do ensino fundamental em escola pública e depois conseguiu bolsa em escola privada.  Para que Edina chegue ao Morumbi todos os dias, 160 alunos da graduação vão contribuir com R$ 8 por mês para pagar um motorista.  Há duas semanas, ela e outros 30 selecionados –de 132 que tentaram a prova– iniciaram as aulas noturnas.  CARGA INTEGRAL  Para os alunos do Einstein e da FGV, que encaram carga horária integral em seus próprios cursos, tem sido uma maratona: dão aulas e administram o cursinho.  A história se repete no Cursinho Insper (GAS), tocado por alunos de administração de empresas, economia e engenharia da instituição.  Eles administram o projeto durante a semana e dão aulas aos pré-vestibulandos de baixa renda aos sábados. No Insper, o foco das aulas é português e matemática.  \"Não colocamos restrições, mas acabamos atraindo mais alunos interessados no vestibular para cursos do Insper\", diz Fernanda Couto, atual líder do GAS, que faz o terceiro período de administração.  Já passaram pelo GAS 85 alunos, dos quais 21 foram aprovados em vestibulares –sendo 17 no próprio Insper.  Bruno Antunes, 21, é um deles. No ensino básico, chegou a conseguir bolsa do programa Ismart para estudar no Bandeirantes, um dos principais colégios privados de São Paulo. Mais tarde, porém, problemas familiares atrapalharam seu desempenho.  \"Fui reprovado e voltei para uma escola pública em Guaianases [no extremo leste da cidade]. Foi um choque.\"  Bruno foi morar sozinho ainda na adolescência, precisou arrumar um emprego e acabou abandonando a escola: \"Mais tarde, voltei, incentivado pelos colegas da padaria onde eu trabalhava\".  Após ser reprovado no vestibular do Insper, ele conheceu o cursinho popular. Fez seis meses e passou.  Uma das dificuldades destes cursinhos é a evasão, segundo Giovanna Queiroz, presidente do Arcadas Vestibulares, fundado por alunos da Faculdade de Direito da USP. \"Muitos têm dificuldade de pagar o transporte e precisam trabalhar. Temos o processo seletivo do meio do ano para preencher as vagas deixadas.\"  Para Gilberto Alvarez, diretor do Cursinho da Poli, veterano dos preparatórios populares fundado em 1987, uma saída é criar mais opções de cursos aos sábados.  O cursinho da FGV dá vales transporte e alimentação com patrocínio de empresas.  A instituição não atua diretamente no projeto, mas oferece bolsas não restituíveis por necessidade econômica nas graduações de administração e direito. Ainda falta criar um modelo de bolsas semelhante para a escola de economia da FGV.  \"Precisa da bolsa. Não adianta ter cursinho se o aluno, depois de aprovado, não puder pagar mensalidade de cerca de R$ 4.000\", diz Wellison Freire, 21, que veio de escola pública e hoje é voluntário do projeto.  Ele ressalva que, embora as histórias de superação como a dele sejam inspiradoras, ele sente que a vitória é incompleta. \"Alguns passam no vestibular. Chegamos aqui, mas tantos outros do ensino médio da periferia ficam sem acesso ao ensino superior.\"",
+    "title": "Alunos de faculdade privada criam cursinho para colega de baixa renda",
+    "category": "educacao",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/educacao/2017/03/1867835-alunos-de-faculdade-privada-criam-cursinho-para-colega-de-baixa-renda.shtml"
+}

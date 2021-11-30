@@ -1,0 +1,197 @@
+{
+    "enrichments": {
+        "usage": {
+            "text_units": 1,
+            "text_characters": 3353,
+            "features": 5
+        },
+        "sentiment": {
+            "document": {
+                "score": 0.573666,
+                "label": "positive"
+            }
+        },
+        "language": "pt",
+        "keywords": [
+            {
+                "text": "região do Morumbi",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.627831,
+                "count": 1
+            },
+            {
+                "text": "novos prédios",
+                "sentiment": {
+                    "score": 0.513126,
+                    "label": "positive"
+                },
+                "relevance": 0.615463,
+                "count": 1
+            },
+            {
+                "text": "Plano Diretor anterior",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.610022,
+                "count": 1
+            }
+        ],
+        "entities": [
+            {
+                "type": "Location",
+                "text": "Vila Progredior",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.949917,
+                "count": 3,
+                "confidence": 0.862576
+            },
+            {
+                "type": "Measure",
+                "text": "metro quadrado",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.784361,
+                "count": 4,
+                "confidence": 0.94912
+            },
+            {
+                "type": "Organization",
+                "text": "FOLHA  Vizinha",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.496366,
+                "count": 1,
+                "confidence": 0.478476
+            },
+            {
+                "type": "Location",
+                "text": "São Paulo",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.477206,
+                "count": 1,
+                "confidence": 0.773892
+            },
+            {
+                "type": "Facility",
+                "text": "Jardim Guedala",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.474138,
+                "count": 2,
+                "confidence": 0.990628
+            },
+            {
+                "type": "Date",
+                "text": "últimos 36 meses",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.466658,
+                "count": 1,
+                "confidence": 0.123414
+            },
+            {
+                "type": "Facility",
+                "text": "avenida Professor Francisco Morato",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.458549,
+                "count": 1,
+                "confidence": 0.873815
+            },
+            {
+                "type": "Number",
+                "text": "três",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.444145,
+                "count": 3,
+                "confidence": 0.992
+            },
+            {
+                "type": "Person",
+                "text": "Carlos Raya",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.4152,
+                "count": 1,
+                "confidence": 0.993139
+            },
+            {
+                "type": "Organization",
+                "text": "Leister & Fonseca Engenharia Ltda",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.410795,
+                "count": 1,
+                "confidence": 0.299816
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Apartamento",
+                "relevance": 0.994192,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Apartamento"
+            },
+            {
+                "text": "Edifício",
+                "relevance": 0.992963,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Edifício"
+            },
+            {
+                "text": "Casa",
+                "relevance": 0.991825,
+                "dbpedia_resource": "http://pt.dbpedia.org/resource/Casa"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.91103,
+                "label": "/business and industrial/construction"
+            },
+            {
+                "score": 0.822611,
+                "label": "/real estate/buying and selling homes"
+            },
+            {
+                "score": 0.792693,
+                "label": "/real estate/architects"
+            }
+        ]
+    },
+    "classification": {
+        "class_name": "Direita",
+        "confidence": 0.5509786666666667
+    },
+    "text": "IRIS RUSSO COLABORAÇÃO PARA A FOLHA  Vizinha a uma área com muito verde e casas de alto padrão e com uma boa infraestrutura de comércio e serviços, a Vila Progredior, na zona oeste de São Paulo, concentra três dos quatro empreendimentos residenciais lançados nos últimos 36 meses na região do Morumbi.  Nas bordas da avenida Professor Francisco Morato, o lugar se firmou como um centro comercial, com boa oferta de serviços, que atendem principalmente aos moradores do Jardim Guedala, bairro vizinho que é estritamente residencial.  \"A Vila Progredior era mais popular, com muitos sobradinhos, mas se consolidou como o centro de serviços para o entorno\", diz Carlos Raya, sócio da Leister & Fonseca Engenharia Ltda. e responsável pelo Guedala Garden.  O empreendimento de oito apartamentos dúplex, com plantas de 197 m² a 237 m² de área privativa, jardim ou terraços e três vagas na garagem, está sendo construído na rua Doutor Castilho Cabral, em um dos poucos terrenos vagos por lá.  Com apenas dois andares, o prédio deve ser entregue no fim de junho e tem três unidades a venda por R$ 10 mil o metro quadrado.  \"Houve uma elevação do valor do metro quadrado no local principalmente nos últimos cinco anos\", afirma o arquiteto Hugo Louro e Silva, CEO da Park Capital, que tem empreendimentos na região.  Os outros dois lançamentos também são de alto padrão e têm poucos andares. Isso acontece porque a lei de zoneamento não permite prédios mais altos na região.    RESTRIÇÕES  Apesar dos novos prédios, a construção no bairro está longe de virar tendência.  \"É uma região que não pode verticalizar. É uma zona residencial com restrição de 28 m de altura. Os lançamentos foram aprovados no Plano Diretor anterior, mas o novo zoneamento aplica outorga onerosa [pagamento para construir acima do permitido] que deixa novos empreendimentos inviáveis na prática\", diz Silva.  Para Nathalia Delatorre, gerente da Meta Incorporadora, a Vila Progredior está consolidada. \"Os valores dos imóveis subiram muito. Com o novo Plano Diretor, as dificuldades aumentaram ainda mais, uma vez que os miolos do bairro passaram a ter restrições maiores à construção\", diz. No momento, a empresa ergue o condomínio 688 na rua José Janarelli.  O edifício tem oito andares, com 12 apartamentos que variam de 135 m² a 420 m² e têm no mínimo quatro vagas de garagem. Oito unidades já foram vendidas a R$ 14 mil o metro quadrado.  Um dos compradores é o médico ginecologista José Bento de Souza, 59. \"Moro na região há 20 anos e comprei um apartamento para a minha filha que vai se casar. Eu gosto muito do bairro, porque tem todas as facilidades e o acesso é ótimo\", diz.  \"O bairro tem boas escolas, farmácias e hospitais. Além disso, não é inseguro nem tem um trânsito horroroso como outras regiões do Morumbi\", afirma Carlos Belfiore, diretor da Coplam Inteligência Imobiliária, que já entregou o Guedala Mix e lançou o Guedala Next, esse último na rua Doutor Clóvis de Oliveira. O prédio reúne imóveis com plantas de 94 m² a 514 m², vendidos por R$ 12,8 mil o metro quadrado.  Belfiore afirma que a região é muito procurada por pessoas que têm casa no Jardim Guedala, Cidade Jardim e Morumbi, mas que, após os filhos se mudarem, querem um imóvel menor com o mesmo padrão. \"Outro público é o que está casando agora ou vai ter mais filhos e quer um apartamento maior\", diz.",
+    "title": "\n\t\tVila Progredior, na zona oeste de SP, ganha status com prédios baixinhos\n\t\t",
+    "category": "sobretudo",
+    "data": "2017-03-19",
+    "link": "http://www1.folha.uol.com.br/sobretudo/morar/2017/03/1867614-vila-progredior-na-zona-oeste-de-sp-ganha-status-com-predios-baixinhos.shtml"
+}
